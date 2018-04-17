@@ -50,9 +50,9 @@ It seems uBlock can sometimes slow with updating the filter list by itself, so i
 
 - The blocking list is an unbloated and **slim list**, being light on system resources, yet still powerful against ads and trackers. 
 
-- ### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://github.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's Filter List)
+- ### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://github.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
 
-- ###### Subscribe with URL: `https://github.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt`
+- ###### Subscribe via URL: `https://github.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt`
 
 - ### [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
 
