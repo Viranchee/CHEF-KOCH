@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
 ! Checksum (SHA 1): 79A63D93F3CFDB82294F652D6ACEB8D541D11308
