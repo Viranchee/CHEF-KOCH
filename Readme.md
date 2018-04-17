@@ -26,7 +26,7 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
   - Copy and paste into the textbox:
   
   ```
-  https://github.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt
+  https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt
   ```
   
   - Now there should appear a yellow button called "Parse", click it
@@ -34,9 +34,9 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
   - This method works similar in order Browser Extensions too, like AdBlock Plus or AdGuard.
 
 
-- ### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://github.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
+- ### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
 
-- ###### Subscribe via URL: `https://github.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt`
+- ###### Subscribe via URL: `https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt`
 
 - ### [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
 
