@@ -32,23 +32,7 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
   - Now there should appear a yellow button called "Parse", click it
   - Lastly you need to go to the top and hit the yellow "Update now" button
   - This method works similar in order Browser Extensions too, like AdBlock Plus or AdGuard.
-  
-## Manually updating
-It seems uBlock can sometimes slow with updating the filter list by itself, so if you want to stay up to the latest version as fast as possible you need to manually update it:
-  - Go to uBlock Origins settings
-  - Navigate to 3rd-party filters page
-  - There should be an custom filter named: CHEF-KOCH's Filter List
-  - Click on the "purge cache" on the right of the name
-  - Now there should appear an yellow button at the upper left named: "Apply Changes", click it
-  - It should now show the correct amount of filter items
 
-- CHEF-KOCH's FilterList is an advertisement and tracker blocking filter list subscription. Used with an ad blocking web browser extension such as Adblock Plus, uBlock or AdGuard makes you have a **better** web browsing experience.
-
-- CHEF-KOCH's FilterList eliminates annoying and inappropriate advertisements, making websites look better and load **faster**.
-
-- The filter lists also makes your Internet browsing **safer** and more private by blocking tracking techniques that most websites use to learn about your online activity.
-
-- The blocking list is an unbloated and **slim list**, being light on system resources, yet still powerful against ads and trackers. 
 
 - ### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://github.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
 
