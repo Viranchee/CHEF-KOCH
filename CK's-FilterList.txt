@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA 1): 79A63D93F3CFDB82294F652D6ACEB8D541D11308
+! Checksum (SHA 1): 6EF606C7C40C821735919D1BCF52081A5CDCCF8B
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-04-18T01:21:57+00:00
-! Version: 0.0.0.01
+! TimeUpdated: 2018-04-19T01:54:23+00:00
+! Version: 0.0.0.02
 ! Please report any unblocked content or problems by email or via GitHUb issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -1156,3 +1156,10 @@ zergnet.com
 ||www.siom.ac.cn
 ||www21.counsellor.gov.cn
 ||www21.counsellor.gov.cn
+feross.org###spoofSite
+||ushareit.com
+||Nexage.com
+||Quantumgraph.com
+rsload.net##h1
+rsload.net##.speedbar
+imgmak.com##p:nth-of-type(2)
