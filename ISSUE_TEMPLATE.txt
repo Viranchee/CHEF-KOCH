@@ -1,0 +1,25 @@
+<!--
+Before opening an issue, you must read the [contribution guideline](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/CONTRIBUTING.md).
+-->
+
+### Test link:
+
+
+### Screenshot of the web page:
+
+
+### Screenshot of the developer console (if possible):
+
+
+### Reproduction steps:
+
+
+### Environment specifications:
+
+- Filter list version:
+- Operating System and Version:
+- Browser and Version:
+- Adblocker and Version:
+
+
+### Add any other additional helpful information:

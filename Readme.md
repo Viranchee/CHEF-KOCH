@@ -20,9 +20,9 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net)
 
 #### uBlock Origins
-  - Go to ublock Origins settings
+  - Go to uBlock Origins settings
   - Navigate to 3rd-party filters page
-  - On the bottom of the page, there should be an textbox where there are a bunch of example urls
+  - On the bottom of the page, there should be an textbox where there are a bunch of example URL's
   - Copy and paste into the textbox:
   
   ```
@@ -34,13 +34,13 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
   - This method works similar in order Browser Extensions too, like AdBlock Plus or AdGuard.
 
 
-- ### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
+### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
 
-- ###### Subscribe via URL: `https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt`
+### Subscribe via URL: `https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt`
 
-- ### [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
+## [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
 
-- ###### Like my list? Star it on GitHub! :star: (Desktop site) or consider making a [donation](https://github.com/CHEF-KOCH/Donations).
+## Like my list? Star it on GitHub! :star: (Desktop site) or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
 
 ## License
 

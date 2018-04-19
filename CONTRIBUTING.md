@@ -4,11 +4,15 @@
 
 :white_check_mark: The list is **not limited** by English websites only.
 
-:x: Porn websites. Maybe in the future with an separate list.
+:x: Porn websites. Maybe in the near future with an separate list.
 
 :x: P2P (BitTorrent, etc.) and other copyright infringing, media sharing/streaming websites.
+
+:white_check_mark: Anti-censorship pages.
  
 :white_check_mark: Websites containing or related to illegal activity/content.
+
+:arrow_right: Ensure you checked the [ToDo.md](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/ToDo.md) before you submit something.
 
 :arrow_right: **[Report issues, unblocked ads or trackers.](https://github.com/CHEF-KOCH/CKs-FilterList/issues)**
 

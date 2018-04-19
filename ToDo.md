@@ -8,3 +8,7 @@
 - [ ] The checksum is incorrect because I make my changes (generate the checksum and then I need to paste it into the list which obviously changes the checksum again ... This needs to be changed (is that even possible?) (low-prio)
 - [x] Readme.md improvements
 - [ ] Fix all reported issue (high-prio)
+- [ ] Maybe separate the list in his categories (low-prio)
+- [ ] Maybe add an description like !Facebook before each entry (related to ^^)
+- [ ] Create a uMatrix ruleset
+- [x] Add an ISSUE_TEMPLATE
