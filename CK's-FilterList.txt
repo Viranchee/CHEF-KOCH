@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA 1): FC0B226F2677B20FFC1310CF999ACA964BF0537E
+! Checksum (SHA 1): DC78DC029E6CD7C97D834B25C0183C79E4694918
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-04-19T05:15:12+00:00
+! TimeUpdated: 2018-04-19T06:22:45+00:00
 ! Version: 0.0.0.03
 ! Please report any unblocked content or problems by email or via GitHUb issue
 ! Email: CHEF-KOCH@protonmail.com
@@ -1884,3 +1884,700 @@ _facebookbadge.
 /social-core-$image
 topviccek.hu###ck
 videokedvenc.hu###cookie
+##a[href^="http://endoftheamericandream.com"]
+##a[href^="http://www.endoftheamericandream.com"]
+endoftheamericandream.com#@#a[href^="http://endoftheamericandream.com"]
+endoftheamericandream.com#@#a[href^="http://www.endoftheamericandream.com"]
+||endoftheamericandream.com^$popup,third-party
+! http://www.4thmedia.org/
+##a[href^="http://4thmedia.org"]
+##a[href^="http://www.4thmedia.org"]
+4thmedia.org#@#a[href^="http://4thmedia.org"]
+4thmedia.org#@#a[href^="http://www.4thmedia.org"]
+||4thmedia.org^$popup,third-party
+! http://www.abeldanger.net/
+##a[href^="http://abeldanger.net"]
+##a[href^="http://www.abeldanger.net"]
+abeldanger.net#@#a[href^="http://abeldanger.net"]
+abeldanger.net#@#a[href^="http://www.abeldanger.net"]
+||abeldanger.net^$popup,third-party
+! http://www.abovetopsecret.com/
+##a[href^="http://abovetopsecret.com"]
+##a[href^="http://www.abovetopsecret.com"]
+abovetopsecret.com#@#a[href^="http://abovetopsecret.com"]
+abovetopsecret.com#@#a[href^="http://www.abovetopsecret.com"]
+||abovetopsecret.com^$popup,third-party
+! http://www.actualidadpanamericana.com/
+##a[href^="http://actualidadpanamericana.com"]
+##a[href^="http://www.actualidadpanamericana.com"]
+actualidadpanamericana.com#@#a[href^="http://actualidadpanamericana.com"]
+actualidadpanamericana.com#@#a[href^="http://www.actualidadpanamericana.com"]
+||actualidadpanamericana.com^$popup,third-party
+! http://www.ae911truth.org/
+##a[href^="http://ae911truth.org"]
+##a[href^="http://www.ae911truth.org"]
+ae911truth.org#@#a[href^="http://ae911truth.org"]
+ae911truth.org#@#a[href^="http://www.ae911truth.org"]
+||ae911truth.org^$popup,third-party
+! http://www.americanpatriotdaily.com/
+##a[href^="http://americanpatriotdaily.com"]
+##a[href^="http://www.americanpatriotdaily.com"]
+americanpatriotdaily.com#@#a[href^="http://americanpatriotdaily.com"]
+americanpatriotdaily.com#@#a[href^="http://www.americanpatriotdaily.com"]
+||americanpatriotdaily.com^$popup,third-party
+! http://www.americanpoliticnews.com/
+##a[href^="http://americanpoliticnews.com"]
+##a[href^="http://www.americanpoliticnews.com"]
+americanpoliticnews.com#@#a[href^="http://americanpoliticnews.com"]
+americanpoliticnews.com#@#a[href^="http://www.americanpoliticnews.com"]
+||americanpoliticnews.com^$popup,third-party
+! http://www.americasfreedomfighters.com/
+##a[href^="http://americasfreedomfighters.com"]
+##a[href^="http://www.americasfreedomfighters.com"]
+americasfreedomfighters.com#@#a[href^="http://americasfreedomfighters.com"]
+americasfreedomfighters.com#@#a[href^="http://www.americasfreedomfighters.com"]
+||americasfreedomfighters.com^$popup,third-party
+! http://www.americatalks.com/
+##a[href^="http://americatalks.com"]
+##a[href^="http://www.americatalks.com"]
+americatalks.com#@#a[href^="http://americatalks.com"]
+americatalks.com@#A[href^="http://www.americatalks.com"]
+||americatalks.com^$popup,third-party
+! https://www.amren.com/
+##a[href^="http://amren.com"]
+##a[href^="http://www.amren.com"]
+##a[href^="https://www.amren.com"]
+amren.com#@#a[href^="http://amren.com"]
+amren.com@#A[href^="http://www.amren.com"]
+amren.com@#A[href^="https://www.amren.com"]
+||amren.com^$popup,third-party
+! http://aucklandnews.tk
+##a[href^="http://aucklandnews.tk"]
+##a[href^="http://www.aucklandnews.tk"]
+aucklandnews.tk#@#a[href^="http://aucklandnews.tk"]
+aucklandnews.tk#@#a[href^="http://www.aucklandnews.tk"]
+||aucklandnews.tk^$popup,third-party
+! http://christchurchnews.tk/
+##a[href^="http://christchurchnews.tk"]
+##a[href^="http://www.christchurchnews.tk"]
+christchurchnews.tk#@#a[href^="http://christchurchnews.tk"]
+christchurchnews.tk#@#a[href^="http://www.christchurchnews.tk"]
+||christchurchnews.tk^$popup,third-party
+! tauranganews.tk
+##a[href^="http://tauranganews.tk"]
+##a[href^="http://www.tauranganews.tk"]
+tauranganews.tk#@#a[href^="http://tauranganews.tk"]
+tauranganews.tk#@#a[href^="http://www.tauranganews.tk"]
+||tauranganews.tk^$popup,third-party
+! wellingtonnews.tk
+##a[href^="http://wellingtonnews.tk"]
+##a[href^="http://www.wellingtonnews.tk"]
+wellingtonnews.tk#@#a[href^="http://wellingtonnews.tk"]
+wellingtonnews.tk#@#a[href^="http://www.wellingtonnews.tk"]
+||wellingtonnews.tk^$popup,third-party
+! dunedinnews.tk
+##a[href^="http://dunedinnews.tk"]
+##a[href^="http://www.dunedinnews.tk"]
+dunedinnews.tk#@#a[href^="http://dunedinnews.tk"]
+dunedinnews.tk#@#a[href^="http://www.dunedinnews.tk"]
+||dunedinnews.tk^$popup,third-party
+! theamericantribune.org
+##a[href^="http://theamericantribune.org"]
+##a[href^="https://theamericantribune.org"]
+theamericantribune.org#@#a[href^="http://theamericantribune.org"]
+theamericantribune.org#@#a[href^="https://theamericantribune.org"]
+||theamericantribune.org^$popup,third-party
+! truthfrequencyradio.com
+##a[href^="http://truthfrequencyradio.com"]
+##a[href^="http://www.truthfrequencyradio.com"]
+truthfrequencyradio.com#@#a[href^="http://truthfrequencyradio.com"]
+truthfrequencyradio.com#@#a[href^="http://www.truthfrequencyradio.com"]
+||truthfrequencyradio.com^$popup,third-party
+! now8news.com
+##a[href^="http://now8news.com"]
+##a[href^="http://www.now8news.com"]
+now8news.com#@#a[href^="http://now8news.com"]
+now8news.com#@#a[href^="http://www.now8news.com"]
+||now8news.com^$popup,third-party
+! newsbreakshere.com
+##a[href^="http://newsbreakshere.com"]
+##a[href^="http://www.newsbreakshere.com"]
+##a[href^="https://newsbreakshere.com"]
+newsbreakshere.com#@#a[href^="http://newsbreakshere.com"]
+newsbreakshere.com#@#a[href^="http://www.newsbreakshere.com"]
+newsbreakshere.com#@#a[href^="https://newsbreakshere.com"]
+||newsbreakshere.com^$popup,third-party
+! fourwinds10.net
+##a[href^="http://fourwinds10.net"]
+##a[href^="http://www.fourwinds10.net"]
+fourwinds10.net#@#a[href^="http://fourwinds10.net"]
+fourwinds10.net#@#a[href^="http://www.fourwinds10.net"]
+||fourwinds10.net^$popup,third-party
+! foodbabe.com
+##a[href^="http://foodbabe.com"]
+##a[href^="http://www.foodbabe.com"]
+foodbabe.com#@#a[href^="http://foodbabe.com"]
+foodbabe.com#@#a[href^="http://www.foodbabe.com"]
+||foodbabe.com^$popup,third-party
+! fellowshipoftheminds.com
+##a[href^="http://fellowshipoftheminds.com"]
+##a[href^="https://fellowshipoftheminds.com"]
+fellowshipoftheminds.com#@#a[href^="http://fellowshipoftheminds.com"]
+fellowshipoftheminds.com#@#a[href^="https://fellowshipoftheminds.com"]
+||fellowshipoftheminds.com^$popup,third-party
+! familysecuritymatters.org
+##a[href^="http://familysecuritymatters.org"]
+##a[href^="http://www.familysecuritymatters.org"]
+familysecuritymatters.org#@#a[href^="http://familysecuritymatters.org"]
+familysecuritymatters.org#@#a[href^="http://www.familysecuritymatters.org"]
+||familysecuritymatters.org^$popup,third-party
+! eyeopening.info
+##a[href^="http://eyeopening.info"]
+##a[href^="http://www.eyeopening.info"]
+eyeopening.info#@#a[href^="http://eyeopening.info"]
+eyeopening.info#@#a[href^="http://www.eyeopening.info"]
+||eyeopening.info^$popup,third-party
+! extraclubmagazine.com
+##a[href^="http://extraclubmagazine.com"]
+##a[href^="http://www.extraclubmagazine.com"]
+extraclubmagazine.com#@#a[href^="http://extraclubmagazine.com"]
+extraclubmagazine.com#@#a[href^="http://www.extraclubmagazine.com"]
+||extraclubmagazine.com^$popup,third-party
+! expose1933.com
+##a[href^="http://expose1933.com"]
+##a[href^="http://www.expose1933.com"]
+expose1933.com#@#a[href^="http://expose1933.com"]
+expose1933.com#@#a[href^="http://www.expose1933.com"]
+||expose1933.com^$popup,third-party
+! experimentalvaccines.org
+##a[href^="http://experimentalvaccines.org"]
+##a[href^="http://www.experimentalvaccines.org"]
+experimentalvaccines.org#@#a[href^="http://experimentalvaccines.org"]
+experimentalvaccines.org#@#a[href^="http://www.experimentalvaccines.org"]
+||experimentalvaccines.org^$popup,third-party
+! eutimes.net
+##a[href^="http://eutimes.net"]
+##a[href^="http://www.eutimes.net"]
+eutimes.net#@#a[href^="http://eutimes.net"]
+eutimes.net#@#a[href^="http://www.eutimes.net"]
+||eutimes.net^$popup,third-party
+! educateinspirechange.org
+##a[href^="http://educateinspirechange.org"]
+##a[href^="http://www.educateinspirechange.org"]
+educateinspirechange.org#@#a[href^="http://educateinspirechange.org"]
+educateinspirechange.org#@#a[href^="http://www.educateinspirechange.org"]
+||educateinspirechange.org^$popup,third-party
+! educate-yourself.org
+##a[href^="http://educate-yourself.org"]
+##a[href^="http://www.educate-yourself.org"]
+educate-yourself.org#@#a[href^="http://educate-yourself.org"]
+educate-yourself.org#@#a[href^="http://www.educate-yourself.org"]
+||educate-yourself.org^$popup,third-party
+! drudgereport.com
+##a[href^="http://drudgereport.com"]
+##a[href^="http://www.drudgereport.com"]
+drudgereport.com#@#a[href^="http://drudgereport.com"]
+drudgereport.com#@#a[href^="http://www.drudgereport.com"]
+||drudgereport.com^$popup,third-party
+! dont-tread-on.me
+##a[href^="http://dont-tread-on.me"]
+##a[href^="http://www.dont-tread-on.me"]
+dont-tread-on.me#@#a[href^="http://dont-tread-on.me"]
+dont-tread-on.me#@#a[href^="https://www.dont-tread-on.me"]
+||dont-tread-on.me^$popup,third-party
+! davidduke.com
+##a[href^="http://davidduke.com"]
+##a[href^="http://www.davidduke.com"]
+davidduke.com#@#a[href^="http://davidduke.com"]
+davidduke.com#@#a[href^="http://www.davidduke.com"]
+||davidduke.com^$popup,third-party
+! davejanda.com
+##a[href^="http://davejanda.com"]
+##a[href^="http://www.davejanda.com"]
+davejanda.com#@#a[href^="http://davejanda.com"]
+davejanda.com#@#a[href^="http://www.davejanda.com"]
+||davejanda.com^$popup,third-party
+! viralliberty.com
+##a[href^="http://viralliberty.com"]
+##a[href^="http://www.viralliberty.com"]
+viralliberty.com#@#a[href^="http://viralliberty.com"]
+viralliberty.com#@#a[href^="http://www.viralliberty.com"]
+||viralliberty.com^$popup,third-party
+! whitepower.com
+##a[href^="http://whitepower.com"]
+##a[href^="http://www.whitepower.com"]
+whitepower.com#@#a[href^="http://whitepower.com"]
+whitepower.com#@#a[href^="http://www.whitepower.com"]
+||whitepower.com^$popup,third-party
+! willyloman.wordpress.com
+##a[href^="http://willyloman.wordpress.com"]
+##a[href^="https://willyloman.wordpress.com"]
+willyloman.wordpress.com#@#a[href^="http://willyloman.wordpress.com"]
+willyloman.wordpress.com#@#a[href^="https://willyloman.wordpress.com"]
+||willyloman.wordpress.com^$popup,third-party
+! worldnewspolitics.com
+##a[href^="http://worldnewspolitics.com"]
+##a[href^="http://www.worldnewspolitics.com"]
+worldnewspolitics.com#@#a[href^="http://worldnewspolitics.com"]
+worldnewspolitics.com#@#a[href^="http://www.worldnewspolitics.com"]
+||worldnewspolitics.com^$popup,third-party
+! worldwidehealthy.com
+##a[href^="http://worldwidehealthy.com"]
+##a[href^="http://www.worldwidehealthy.com"]
+worldwidehealthy.com#@#a[href^="http://worldwidehealthy.com"]
+worldwidehealthy.com#@#a[href^="http://www.worldwidehealthy.com"]
+||worldwidehealthy.com^$popup,third-party
+! zerohedge.com
+##a[href^="http://www.zerohedge.com"]
+##a[href^="http://zerohedge.com"]
+zerohedge.com#@#a[href^="http://www.zerohedge.com"]
+zerohedge.com#@#a[href^="http://zerohedge.com"]
+||zerohedge.com^$popup,third-party
+! corbettreport.com
+##a[href^="http://corbettreport.com"]
+##a[href^="http://www.corbettreport.com"]
+##a[href^="https://www.corbettreport.com"]
+corbettreport.com#@#a[href^="http://corbettreport.com"]
+corbettreport.com#@#a[href^="http://www.corbettreport.com"]
+corbettreport.com#@#a[href^="https://www.corbettreport.com"]
+||corbettreport.com^$popup,third-party
+! collectivelyconscious.net
+##a[href^="http://collectivelyconscious.net"]
+##a[href^="http://www.collectivelyconscious.net"]
+collectivelyconscious.net#@#a[href^="http://collectivelyconscious.net"]
+collectivelyconscious.net#@#a[href^="http://www.collectivelyconscious.net"]
+||collectivelyconscious.net^$popup,third-party
+! collective-evolution.com
+##a[href^="http://collective-evolution.com"]
+##a[href^="http://www.collective-evolution.com"]
+collective-evolution.com#@#a[href^="http://collective-evolution.com"]
+collective-evolution.com#@#a[href^="http://www.collective-evolution.com"]
+||collective-evolution.com^$popup,third-party
+! cnsnews.com
+##a[href^="http://cnsnews.com"]
+##a[href^="http://www.cnsnews.com"]
+cnsnews.com#@#a[href^="http://cnsnews.com"]
+cnsnews.com#@#a[href^="http://www.cnsnews.com"]
+||cnsnews.com^$popup,third-party
+! christianpost.com
+##a[href^="http://christianpost.com"]
+##a[href^="http://www.christianpost.com"]
+christianpost.com#@#a[href^="http://christianpost.com"]
+christianpost.com#@#a[href^="http://www.christianpost.com"]
+||christianpost.com^$popup,third-party
+! christianfightback.com
+##a[href^="http://christianfightback.com"]
+##a[href^="http://www.christianfightback.com"]
+christianfightback.com#@#a[href^="http://christianfightback.com"]
+christianfightback.com#@#a[href^="http://www.christianfightback.com"]
+||christianfightback.com^$popup,third-party
+! chicksontheright.com
+##a[href^="http://chicksontheright.com"]
+##a[href^="http://www.chicksontheright.com"]
+chicksontheright.com#@#a[href^="http://chicksontheright.com"]
+chicksontheright.com#@#a[href^="http://www.chicksontheright.com"]
+||chicksontheright.com^$popup,third-party
+! checkoutthehealthyworld.com
+##a[href^="http://checkoutthehealthyworld.com"]
+##a[href^="http://www.checkoutthehealthyworld.com"]
+checkoutthehealthyworld.com#@#a[href^="http://checkoutthehealthyworld.com"]
+checkoutthehealthyworld.com#@#a[href^="http://www.checkoutthehealthyworld.com"]
+||checkoutthehealthyworld.com^$popup,third-party
+! bvanews.com
+##a[href^="http://bvanews.com"]
+##a[href^="http://www.bvanews.com"]
+bvanews.com#@#a[href^="http://bvanews.com"]
+bvanews.com#@#a[href^="http://www.bvanews.com"]
+||bvanews.com^$popup,third-party
+! breaking911.com
+##a[href^="http://breaking911.com"]
+##a[href^="http://www.breaking911.com"]
+breaking911.com#@#a[href^="http://breaking911.com"]
+breaking911.com#@#a[href^="http://www.breaking911.com"]
+||breaking911.com^$popup,third-party
+! bluenationreview.com
+##a[href^="http://bluenationreview.com"]
+##a[href^="http://www.bluenationreview.com"]
+bluenationreview.com#@#a[href^="http://bluenationreview.com"]
+bluenationreview.com#@#a[href^="http://www.bluenationreview.com"]
+||bluenationreview.com^$popup,third-party
+! blacklistednews.com
+##a[href^="http://blacklistednews.com"]
+##a[href^="http://www.blacklistednews.com"]
+blacklistednews.com#@#a[href^="http://blacklistednews.com"]
+blacklistednews.com#@#a[href^="http://www.blacklistednews.com"]
+||blacklistednews.com^$popup,third-party
+! blackgenocide.org
+##a[href^="http://blackgenocide.org"]
+##a[href^="http://www.blackgenocide.org"]
+blackgenocide.org#@#a[href^="http://blackgenocide.org"]
+blackgenocide.org#@#a[href^="http://www.blackgenocide.org"]
+||blackgenocide.org^$popup,third-party
+! blackagendareport.com
+##a[href^="http://blackagendareport.com"]
+##a[href^="http://www.blackagendareport.com"]
+blackagendareport.com#@#a[href^="http://blackagendareport.com"]
+blackagendareport.com#@#a[href^="http://www.blackagendareport.com"]
+||blackagendareport.com^$popup,third-party
+! bipartisanreport.com
+##a[href^="http://bipartisanreport.com"]
+##a[href^="http://www.bipartisanreport.com"]
+bipartisanreport.com#@#a[href^="http://bipartisanreport.com"]
+bipartisanreport.com#@#a[href^="http://www.bipartisanreport.com"]
+||bipartisanreport.com^$popup,third-party
+! bigamericannews.com
+##a[href^="http://bigamericannews.com"]
+##a[href^="http://www.bigamericannews.com"]
+bigamericannews.com#@#a[href^="http://bigamericannews.com"]
+bigamericannews.com#@#a[href^="http://www.bigamericannews.com"]
+||bigamericannews.com^$popup,third-party
+! bients.com
+##a[href^="http://bients.com"]
+##a[href^="http://www.bients.com"]
+bients.com#@#a[href^="http://bients.com"]
+bients.com#@#a[href^="http://www.bients.com"]
+||bients.com^$popup,third-party
+! bb4sp.com
+##a[href^="http://bb4sp.com"]
+##a[href^="http://www.bb4sp.com"]
+bb4sp.com#@#a[href^="http://bb4sp.com"]
+bb4sp.com#@#a[href^="http://www.bb4sp.com"]
+||bb4sp.com^$popup,third-party
+! barenakedislam.com
+##a[href^="http://barenakedislam.com"]
+##a[href^="http://www.barenakedislam.com"]
+barenakedislam.com#@#a[href^="http://barenakedislam.com"]
+barenakedislam.com#@#a[href^="http://www.barenakedislam.com"]
+||barenakedislam.com^$popup,third-party
+! awdnews.com
+##a[href^="http://awdnews.com"]
+##a[href^="http://www.awdnews.com"]
+awdnews.com#@#a[href^="http://awdnews.com"]
+awdnews.com#@#a[href^="http://www.awdnews.com"]
+||awdnews.com^$popup,third-party
+! awarenessact.com
+##a[href^="http://awarenessact.com"]
+##a[href^="http://www.awarenessact.com"]
+awarenessact.com#@#a[href^="http://awarenessact.com"]
+awarenessact.com#@#a[href^="http://www.awarenessact.com"]
+||awarenessact.com^$popup,third-party
+! assassinationscience.com
+##a[href^="http://assassinationscience.com"]
+##a[href^="http://www.assassinationscience.com"]
+assassinationscience.com#@#a[href^="http://assassinationscience.com"]
+assassinationscience.com#@#a[href^="http://www.assassinationscience.com"]
+||assassinationscience.com^$popup,third-party
+! angrypatriotmovement.com
+##a[href^="http://angrypatriotmovement.com"]
+##a[href^="http://www.angrypatriotmovement.com"]
+angrypatriotmovement.com#@#a[href^="http://angrypatriotmovement.com"]
+angrypatriotmovement.com#@#a[href^="http://www.angrypatriotmovement.com"]
+||angrypatriotmovement.com^$popup,third-party
+! ancient-code.com
+##a[href^="http://ancient-code.com"]
+##a[href^="http://www.ancient-code.com"]
+ancient-code.com#@#a[href^="http://ancient-code.com"]
+ancient-code.com#@#a[href^="http://www.ancient-code.com"]
+||ancient-code.com^$popup,third-party
+! amusmentic.com
+##a[href^="http://amusmentic.com"]
+##a[href^="http://www.amusmentic.com"]
+amusmentic.com#@#a[href^="http://amusmentic.com"]
+amusmentic.com#@#a[href^="http://www.amusmentic.com"]
+||amusmentic.com^$popup,third-party
+! amren.com
+##a[href^="http://amren.com"]
+##a[href^="http://www.amren.com"]
+##a[href^="https://www.amren.com"]
+amren.com#@#a[href^="http://amren.com"]
+amren.com#@#a[href^="http://www.amren.com"]
+amren.com#@#a[href^="https://www.amren.com"]
+||amren.com^$popup,third-party
+! oathkeepers.org
+##a[href^="http://oathkeepers.org"]
+##a[href^="http://www.oathkeepers.org"]
+##a[href^="https://www.oathkeepers.org"]
+oathkeepers.org#@#a[href^="http://oathkeepers.org"]
+oathkeepers.org#@#a[href^="http://www.oathkeepers.org"]
+oathkeepers.org#@#a[href^="https://www.oathkeepers.org"]
+||oathkeepers.org^$popup,third-party
+! allnewspipeline.com
+##a[href^="http://allnewspipeline.com"]
+##a[href^="http://www.allnewspipeline.com"]
+allnewspipeline.com#@#a[href^="http://allnewspipeline.com"]
+allnewspipeline.com#@#a[href^="http://www.allnewspipeline.com"]
+||allnewspipeline.com^$popup,third-party
+! addictinginfo.org
+##a[href^="http://addictinginfo.org"]
+##a[href^="http://www.addictinginfo.org"]
+addictinginfo.org#@#a[href^="http://addictinginfo.org"]
+addictinginfo.org#@#a[href^="http://www.addictinginfo.org"]
+||addictinginfo.org^$popup,third-party
+! abcnews.com.co
+##a[href^="http://abcnews.com.co"]
+##a[href^="http://www.abcnews.com.co"]
+abcnews.com.co#@#a[href^="http://abcnews.com.co"]
+abcnews.com.co#@#a[href^="http://www.abcnews.com.co"]
+||abcnews.com.co^$popup,third-party
+! 82.221.129.208
+##a[href^="http://82.221.129.208"]
+82.221.129.208#@#a[href^="http://82.221.129.208"]
+||82.221.129.208^$popup,third-party
+! 4threvolutionarywar.wordpress.com
+##a[href^="http://4threvolutionarywar.wordpress.com"]
+##a[href^="https://4threvolutionarywar.wordpress.com"]
+4threvolutionarywar.wordpress.com#@#a[href^="http://4threvolutionarywar.wordpress.com"]
+4threvolutionarywar.wordpress.com#@#a[href^="https://4threvolutionarywar.wordpress.com"]
+||4threvolutionarywar.wordpress.com^$popup,third-party
+! 365usanews.com
+##a[href^="http://365usanews.com"]
+##a[href^="http://www.365usanews.com"]
+365usanews.com#@#a[href^="http://365usanews.com"]
+365usanews.com#@#a[href^="http://www.365usanews.com"]
+||365usanews.com^$popup,third-party
+! 100percentfedup.com
+##a[href^="http://100percentfedup.com"]
+##a[href^="http://www.100percentfedup.com"]
+100percentfedup.com#@#a[href^="http://100percentfedup.com"]
+100percentfedup.com#@#a[href^="http://www.100percentfedup.com"]
+||100percentfedup.com^$popup,third-party
+! prntly.com
+##a[href^="http://prntly.com"]
+##a[href^="http://www.prntly.com"]
+prntly.com#@#a[href^="http://prntly.com"]
+prntly.com#@#a[href^="http://www.prntly.com"]
+||prntly.com^$popup,third-party
+! politicalears.com
+##a[href^="http://politicalears.com"]
+##a[href^="http://www.politicalears.com"]
+politicalears.com#@#a[href^="http://politicalears.com"]
+politicalears.com#@#a[href^="http://www.politicalears.com"]
+||politicalears.com^$popup,third-party
+! libertywritersnews.com
+##a[href^="http://libertywritersnews.com"]
+##a[href^="http://www.libertywritersnews.com"]
+libertywritersnews.com#@#a[href^="http://libertywritersnews.com"]
+libertywritersnews.com#@#a[href^="http://www.libertywritersnews.com"]
+||libertywritersnews.com^$popup,third-party
+! 70news.wordpress.com
+##a[href^="http://70news.wordpress.com"]
+##a[href^="https://70news.wordpress.com"]
+70news.wordpress.com#@#a[href^="http://70news.wordpress.com"]
+70news.wordpress.com#@#a[href^="https://70news.wordpress.com"]
+||70news.wordpress.com^$popup,third-party
+! govtslaves.info
+##a[href^="http://govtslaves.info"]
+##a[href^="http://www.govtslaves.info"]
+govtslaves.info#@#a[href^="http://govtslaves.info"]
+govtslaves.info#@#a[href^="http://www.govtslaves.info"]
+||govtslaves.info^$popup,third-party
+! globalresearch.ca
+##a[href^="http://globalresearch.ca"]
+##a[href^="http://www.globalresearch.ca"]
+globalresearch.ca#@#a[href^="http://globalresearch.ca"]
+globalresearch.ca#@#a[href^="http://www.globalresearch.ca"]
+||globalresearch.ca^$popup,third-party
+! theuspatriot.com
+##a[href^="http://theuspatriot.com"]
+##a[href^="http://www.theuspatriot.com"]
+theuspatriot.com#@#a[href^="http://theuspatriot.com"]
+theuspatriot.com#@#a[href^="http://www.theuspatriot.com"]
+||theuspatriot.com^$popup,third-party
+! witscience.org
+##a[href^="http://witscience.org"]
+##a[href^="http://www.witscience.org"]
+witscience.org#@#a[href^="http://witscience.org"]
+witscience.org#@#a[href^="http://www.witscience.org"]
+||witscience.org^$popup,third-party
+! thenewsnerd.com
+##a[href^="http://thenewsnerd.com"]
+##a[href^="http://www.thenewsnerd.com"]
+thenewsnerd.com#@#a[href^="http://thenewsnerd.com"]
+thenewsnerd.com#@#a[href^="http://www.thenewsnerd.com"]
+||thenewsnerd.com^$popup,third-party
+! counterpsyops.com
+##a[href^="http://counterpsyops.com"]
+##a[href^="http://www.counterpsyops.com"]
+##a[href^="https://counterpsyops.com"]
+counterpsyops.com#@#a[href^="http://counterpsyops.com"]
+counterpsyops.com#@#a[href^="http://www.counterpsyops.com"]
+counterpsyops.com#@#a[href^="https://counterpsyops.com"]
+||counterpsyops.com^$popup,third-party
+! countdowntozerotime.com
+##a[href^="http://countdowntozerotime.com"]
+##a[href^="http://www.countdowntozerotime.com"]
+countdowntozerotime.com#@#a[href^="http://countdowntozerotime.com"]
+countdowntozerotime.com#@#a[href^="http://www.countdowntozerotime.com"]
+||countdowntozerotime.com^$popup,third-party
+! consciouslifenews.com
+##a[href^="http://consciouslifenews.com"]
+##a[href^="http://www.consciouslifenews.com"]
+consciouslifenews.com#@#a[href^="http://consciouslifenews.com"]
+consciouslifenews.com#@#a[href^="http://www.consciouslifenews.com"]
+||consciouslifenews.com^$popup,third-party
+! coasttocoastam.com
+##a[href^="http://coasttocoastam.com"]
+##a[href^="http://www.coasttocoastam.com"]
+coasttocoastam.com#@#a[href^="http://coasttocoastam.com"]
+coasttocoastam.com#@#a[href^="http://www.coasttocoastam.com"]
+||coasttocoastam.com^$popup,third-party
+! dcclothesline.com
+##a[href^="http://dcclothesline.com"]
+##a[href^="http://www.dcclothesline.com"]
+##a[href^="https://dcclothesline.com"]
+dcclothesline.com#@#a[href^="http://dcclothesline.com"]
+dcclothesline.com#@#a[href^="http://www.dcclothesline.com"]
+dcclothesline.com#@#a[href^="https://dcclothesline.com"]
+||dcclothesline.com^$popup,third-party
+! tomfernandez28.com
+##a[href^="http://tomfernandez28.com"]
+##a[href^="http://www.tomfernandez28.com"]
+##a[href^="https://tomfernandez28.com"]
+tomfernandez28.com#@#a[href^="http://tomfernandez28.com"]
+tomfernandez28.com#@#a[href^="http://www.tomfernandez28.com"]
+tomfernandez28.com#@#a[href^="https://tomfernandez28.com"]
+||tomfernandez28.com^$popup,third-party
+! enduringvision.com
+##a[href^="http://enduringvision.com"]
+##a[href^="http://www.enduringvision.com"]
+enduringvision.com#@#a[href^="http://enduringvision.com"]
+enduringvision.com#@#a[href^="http://www.enduringvision.com"]
+||enduringvision.com^$popup,third-party
+! therundownlive.com
+##a[href^="http://therundownlive.com"]
+##a[href^="http://www.therundownlive.com"]
+therundownlive.com#@#a[href^="http://therundownlive.com"]
+therundownlive.com#@#a[href^="http://www.therundownlive.com"]
+||therundownlive.com^$popup,third-party
+! conservativeoutfitters.com
+##a[href^="http://www.conservativeoutfitters.com"]
+##a[href^="https://conservativeoutfitters.com"]
+##a[href^="https://www.conservativeoutfitters.com"]
+conservativeoutfitters.com#@#a[href^="http://conservativeoutfitters.com"]
+conservativeoutfitters.com#@#a[href^="https//:conservativeoutfitters.com"]
+conservativeoutfitters.com#@#a[href^="https://www.conservativeoutfitters.com"]
+||conservativeoutfitters.com^$popup,third-party
+! chronicle.su
+##a[href^="http://chronicle.su"]
+##a[href^="http://www.chronicle.su"]
+chronicle.su#@#a[href^="http://chronicle.su"]
+chronicle.su#@#a[href^="http://www.chronicle.su"]
+||chronicle.su^$popup,third-party
+! 21stcenturywire.com
+##a[href^="http://21stcenturywire.com"]
+##a[href^="http://www.21stcenturywire.com"]
+21stcenturywire.com#@#a[href^="http://21stcenturywire.com"]
+21stcenturywire.com#@#a[href^="http://www.21stcenturywire.com"]
+||21stcenturywire.com^$popup,third-party
+! beforeitsnews.com
+##a[href^="http://beforeitsnews.com"]
+##a[href^="http://www.beforeitsnews.com"]
+beforeitsnews.com#@#a[href^="http://beforeitsnews.com"]
+||beforeitsnews.com^$popup,third-party
+! dailybuzzlive.com
+##a[href^="http://dailybuzzlive.com"]
+##a[href^="http://www.dailybuzzlive.com"]
+dailybuzzlive.com#@#a[href^="http://dailybuzzlive.com"]
+||dailybuzzlive.com^$popup,third-party
+! disclose.tv
+##a[href^="http://disclose.tv"]
+##a[href^="http://www.disclose.tv"]
+disclose.tv#@#a[href^="http://www.disclose.tv"]
+||disclose.tv^$popup,third-party
+! infowars.com
+##a[href^="http://infowars.com"]
+##a[href^="http://www.infowars.com"]
+infowars.com#@#a[href^="http://www.infowars.com"]
+||infowars.com^$popup,third-party
+! naturalnews.com
+##a[href^="http://naturalnews.com"]
+##a[href^="http://www.naturalnews.com"]
+naturalnews.com#@#a[href^="http://www.naturalnews.com"]
+||naturalnews.com^$popup,third-party
+! redflagnews.com
+##a[href^="http://redflagnews.com"]
+##a[href^="http://www.redflagnews.com"]
+##a[href^="https://redflagnews.com"]
+##a[href^="https://www.redflagnews.com"]
+redflagnews.com#@#a[href^="http://www.redflagnews.com"]
+redflagnews.com#@#a[href^="https://www.redflagnews.com"]
+||redflagnews.com^$popup,third-party
+! worldtruth.tv
+##a[href^="http://worldtruth.tv"]
+##a[href^="http://www.worldtruth.tv"]
+worldtruth.tv#@#a[href^="http://worldtruth.tv"]
+||worldtruth.tv^$popup,third-party
+! activistpost.com
+##a[href^="http://activistpost.com"]
+##a[href^="http://www.activistpost.com"]
+activistpost.com#@#a[href^="http://www.activistpost.com"]
+||activistpost.com^$popup,third-party
+! oann.com
+##a[href^="http://oann.com"]
+##a[href^="http://www.oann.com"]
+oann.com#@#a[href^="http://oann.com"]
+oann.com#@#a[href^="http://www.oann.com"]
+||oann.com^$popup,third-party
+! thedcgazette.com
+##a[href^="http://thedcgazette.com"]
+##a[href^="http://www.thedcgazette.com"]
+thedcgazette.com#@#a[href^="http://www.thedcgazette.com"]
+||thedcgazette.com^$popup,third-party
+! americannews.com
+##a[href^="http://americannews.com"]
+##a[href^="http://www.americannews.com"]
+americannews.com#@#a[href^="http://americannews.com"]
+americannews.com#@#a[href^="http://www.americannews.com"]
+||americannews.com^$popup,third-party
+! americannewsx.com
+##a[href^="http://americannewsx.com"]
+##a[href^="http://www.americannewsx.com"]
+americannewsx.com#@#a[href^="http://americannewsx.com"]
+americannewsx.com#@#a[href^="http://www.americannewsx.com"]
+||americannewsx.com^$popup,third-party
+! prisonplanet.com
+##a[href^="http://prisonplanet.com"]
+##a[href^="http://www.prisonplanet.com"]
+prisonplanet.com#@#a[href^="http://prisonplanet.com"]
+prisonplanet.com#@#a[href^="http://www.prisonplanet.com"]
+||prisonplanet.com^$popup,third-party
+! thesurvivalistblog.net
+##a[href^="http://thesurvivalistblog.net"]
+##a[href^="http://www.thesurvivalistblog.net"]
+thesurvivalistblog.net#@#a[href^="http://thesurvivalistblog.net"]
+thesurvivalistblog.net#@#a[href^="http://www.thesurvivalistblog.net"]
+||thesurvivalistblog.net^$popup,third-party
+! infowarsstore.com
+##a[href^="http://infowarsstore.com"]
+##a[href^="http://www.infowarsstore.com"]
+##a[href^="https://www.infowarsstore.com"]
+infowarsstore.com#@#a[href^="http://infowarsstore.com"]
+infowarsstore.com#@#a[href^="http://www.infowarsstore.com"]
+infowarsstore.com#@#a[href^="https://www.infowarsstore.com"]
+||infowarsstore.com^$popup,third-party
+! jesus-is-savior.com
+##a[href^="http://jesus-is-savior.com"]
+##a[href^="http://www.jesus-is-savior.com"]
+infowarsstore.com#@#a[href^="http://jesus-is-savior.com"]
+infowarsstore.com#@#a[href^="http://www.jesus-is-savior.com"]
+||jesus-is-savior.com^$popup,third-party
+! firebrandleft.com
+##a[href^="http://firebrandleft.com"]
+##a[href^="http://www.firebrandleft.com"]
+firebrandleft.com#@#a[href^="http://firebrandleft.com"]
+firebrandleft.com#@#a[href^="http://www.firebrandleft.com"]
+||firebrandleft.com^$popup,third-party
+! americanactionnews.com
+##a[href^="http://americanactionnews.com"]
+##a[href^="http://www.americanactionnews.com"]
+##a[href^="https://americanactionnews.com"]
+americanactionnews.com#@#a[href^="http://americanactionnews.com"]
+americanactionnews.com#@#a[href^="http://www.americanactionnews.com"]
+americanactionnews.com#@#a[href^="https://americanactionnews.com"]
+||americanactionnews.com^$popup,third-party
+! godlikeproductions.com
+##a[href^="http://godlikeproductions.com"]
+##a[href^="http://www.godlikeproductions.com"]
+godlikeproductions.com#@#a[href^="http://godlikeproductions.com"]
+godlikeproductions.com#@#a[href^="http://www.godlikeproductions.com"]
+||godlikeproductions.com^$popup,third-party
