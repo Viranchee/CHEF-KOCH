@@ -36,11 +36,9 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 
 ### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
 
-### Subscribe via URL: `https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt`
-
 ## [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
 
-## Like my list? Star it on GitHub! :star: (Desktop site) or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
+#### Like my list? Star it on GitHub! :star: (Desktop site) or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
 
 ## License
 

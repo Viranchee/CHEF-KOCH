@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA 1): E34DC9FEC8B15BCDC3203080893E430330769EEB
+! Checksum (SHA 1): FC0B226F2677B20FFC1310CF999ACA964BF0537E
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
@@ -11,6 +11,9 @@
 ! Please report any unblocked content or problems by email or via GitHUb issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
+!
+! uBlock bugs
+! https://github.com/gorhill/uBlock/issues/1885
 !
 ##div[class*="Ad"]
 ##div[class*="ads"]
@@ -1866,3 +1869,18 @@ telegraph.co.uk##div.mobileAdvertInStream
 telegraph.co.uk##div.mobileAdvertInStreamHighlightText
 telegraph.co.uk##div.mobileAdvertInStreamHorizontalLine
 telegraph.co.uk##iframe[src^="https://secure.s.telegraph.co.uk/international/Barnebys/"]
+##.icon-github
+##div[class^="SocialIcons_"]
+##div[class^="style__social"]
+##KNO-SHARE-BUTTON
+##.feature > #tell-a-friend
+/share_buttons_
+/follow-with-google-
+_facebookbadge.
+##[title="Follow me on Facebook"]
+##[title="Follow me on LinkedIn"]
+##div[class$="_social_icons_widget"]
+/socialcore-$image
+/social-core-$image
+topviccek.hu###ck
+videokedvenc.hu###cookie
