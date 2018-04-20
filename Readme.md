@@ -19,8 +19,8 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net)
 
-#### uBlock Origins
-  - Go to uBlock Origins settings
+#### uBlock Origin
+  - Go to uBlock Origin settings
   - Navigate to 3rd-party filters page
   - On the bottom of the page, there should be an textbox where there are a bunch of example URL's
   - Copy and paste into the textbox:

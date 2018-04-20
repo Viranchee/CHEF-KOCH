@@ -1,5 +1,5 @@
 <!--
-Before opening an issue, you must read the [contribution guideline](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/CONTRIBUTING.md).
+Before opening an issue, you must read the contribution guideline.
 -->
 
 ### Test link:
