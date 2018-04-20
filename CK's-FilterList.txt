@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA 1): E31214BBAFEA23BD0D38C27DC1C3A5DB13738766
+! Checksum (SHA 1): 7C37B8A8C6D40FE2DC274A32B1F1BCBB88371AC6
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
 ! TimeUpdated: 2018-04-20T02:16:23+01:00
-! Version: 0.0.0.03
+! Version: 0.0.0.04
 ! Please report any unblocked content or problems by email or via GitHUb issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -35,6 +35,7 @@ dart$important,script
 ##div[id*="_dart"]
 ##div[id*="dartad"]
 ##div[id*="DARTad"]
+##div[id^="f5acd0"]
 ##div[class*="dart-"]
 ##div[class*="dart_"]
 ##div[class*="_dart"]
@@ -52,14 +53,14 @@ outbrain$script
 ||1enm.com^$script,domain=champions.co|parkers.co.uk
 ||1rx.s3.amazonaws.com/advert.js$script,redirect=noopjs,domain=allmusic.com
 ||2enm.com^$domain=androidpolice.com|beliefnet.com
-||2znp09oa.com
-||4jnzhl0d0.com
-||6ldu6qa.com
-||82o9v830.com
+||2znp09oa.com^
+||4jnzhl0d0.com^
+||6ldu6qa.com^
+||82o9v830.com^
 ||8d1f.com^$script,domain=tvtropes.org
-||abandonedclover.com
-||abruptroad.com
-||actuallysheep.com
+||abandonedclover.com^
+||abruptroad.com^
+||actuallysheep.com^
 ||adbutler-meson.com^$important,script,domain=uploaded.net
 ||adition.com^$important,domain=spiegel.de
 ||adnety.com^
@@ -67,54 +68,54 @@ outbrain$script
 ||ambitiousagreement.com
 ||andreas-unterberger.at/includes/js/helperFunctions.js$script,first-party
 ||androidcentral.com/sites/androidcentral.com/files/advagg_js/$script,badfilter
-||anxiousapples.com
+||anxiousapples.com^
 ||aolcdn.com/ads/adswrappermsni.js$script,domain=msn.com,important
 ||alexa.com^$third-party
 ||argyresthia.com
 ||asset.pagefair.com/adimages/adsense.js$script,redirect=noopjs,domain=allmusic.com
 ||asset.pagefair.net/ads.min.js$script,important,redirect=noopjs,domain=allmusic.com
 ||assets-cdn.github.com/images/modules/site/site-signup-prompt.png$image
-||awzbijw.com
-||balloontexture.com
-||baskettexture.com
-||bawdybeast.com
+||awzbijw.com^
+||balloontexture.com^
+||baskettexture.com^
+||bawdybeast.com^
 ||ctnet2.in^
-||curtaincows.com
-||cutecushion.com
-||decisiveducks.com
-||delightdriving.com
-||differentdesk.com
-||dk4ywix.com
-||docksalmon.com
+||curtaincows.com^
+||cutecushion.com^
+||decisiveducks.com^
+||delightdriving.com^
+||differentdesk.com^
+||dk4ywix.com^
+||docksalmon.com^
 ||doubleclick.net^$important,domain=aetv.com|history.com|mylifetime.com
-||doubtfulrainstorm.com
+||doubtfulrainstorm.com^
 ||download.cnet.com^$document
 ||download.mokeedev.com/js/jquery-common.js.*$first-party,script,redirect=fuckadblock.js-3.2.0
 ||dragonball-tube.com/templates/caprica/images/pw.jpg$image
-||dragzebra.com
+||dragzebra.com^
 ||dropapk.com/images/mngez-maxspeed.swf$object
 ||dropapk.com/images/mngez-minspeed.swf$object
 ||dubshub.com^$script,redirect=noopjs,domain=fastserver.me
 ||e0mn.com^$script,domain=patheos.com
 ||edgeno.de^$script,third-party,domain=~edgemesh.com
-||elasticchange.com
-||elephantqueue.com
+||elasticchange.com^
+||elephantqueue.com^
 ||em0n.com^$domain=businessinsider.com|grubstreet.com|nowloading.co|twitchy.com
 ||eurotransport.de/*/antiAdBlock.js$script,first-party,redirect=antiAdBlock.js
-||exclusivebrass.com
+||exclusivebrass.com^
 ||exoclick.com/ad_track.js$important,script,domain=uploaded.net
 ||fieldpprofile.com^
 ||file-upload.net^$subdocument
-||flavordecision.com
+||flavordecision.com^
 ||flexytalk.net^
-||floodprincipal.com
+||floodprincipal.com^
 ||fullpremiums.com/templates/plugmod/images/a.png
-||functionalclam.com
-||futuristicfairies.com
-||fuzzyflavor.com
-||ga87z2o.com
+||functionalclam.com^
+||futuristicfairies.com^
+||fuzzyflavor.com^
+||ga87z2o.com^
 ||gamingaffiliation.com^$third-party
-||giddycoat.com
+||giddycoat.com^
 ||globaltraffico.com^$popup
 ||go.oclasrv.com/apu.php$script,redirect=noopjs
 ||go.onclasrv.com/apu.php$script,redirect=noopjs
@@ -125,12 +126,12 @@ outbrain$script
 ||2mdn.net^$important
 ||dmtry.com^$important
 ||admob.com^$important
-||gorgeousground.com
+||gorgeousground.com^
 ||graphiq.com/sites/all/modules/custom/ads/*$script,important,domain=credio.com|findthecompany.com|healthgrove.com|insidegov.com|mooseroots.com|petbreeds.com|softwareinsider.com|startclass.com
-||greetzebra.com
-||greyinstrument.com
-||guardedgovernor.com
-||guitarbelieve.com
+||greetzebra.com^
+||greyinstrument.com^
+||guardedgovernor.com^
+||guitarbelieve.com^
 ||gus.host/coins.js$script
 ||gzhls.at/b/ds_fb2.png$image
 ||gzhls.at/b/guterrat-2015-11.png$image
@@ -139,14 +140,14 @@ outbrain$script
 ||i.ytimg.com/an/CI6C8hD-hTZi2JEmS7zvQw/featured_channel.jpg?v=56988f12
 ||i0.wp.com/cdn.edgecast.steamstatic.com/steam/apps/274520/extras/app_greenlight_banner_english.png$image
 ||i1.wp.com/growonyoutube.com/wp-content/uploads/2017/06/pop-up-background-3.png?fit=1280%2C720$image
-||illustriousoatmeal.com
+||illustriousoatmeal.com^
 ||image.macovi.de/templates/mindfactory/images/banner_artikel_zeugnis_50.jpg?ver=2$image
 ||images.druckerzubehoer.de/shop/images/system_images/nav_social-media.png$image
 ||imore.com/sites/imore.com/files/advagg_js/$script,badfilter
-||incrediblesugar.com
-||ivykiosk.com
-||j93557g.com
-||jewelcheese.com
+||incrediblesugar.com^
+||ivykiosk.com^
+||j93557g.com^
+||jewelcheese.com^
 ||jsecoin.com^$third-party
 ||jsfuel.com^
 ||jyhfuqoh.info^
@@ -161,21 +162,21 @@ outbrain$script
 ||letsadvertisetogether.com^$important,domain=christianpost.com
 ||limpingline.com
 ||liverail.com^$important,domain=dailymotion.com
-||lizardslaugh.com
-||lopsidedspoon.com
-||loudloss.com
-||lp3tdqle.com
-||lumpyleaf.com
+||lizardslaugh.com^
+||lopsidedspoon.com^
+||loudloss.com^
+||lp3tdqle.com^
+||lumpyleaf.com^
 ||mac-system-alert.com^
 ||market-buster.com^$popup
-||matchcows.com
+||matchcows.com^
 ||mdf91.com^$script,domain=townhall.com
-||messagenovice.com
+||messagenovice.com^
 ||mh.signetter.com/m41983
 ||miner.pr0gramm.com^
-||mixedreading.com
+||mixedreading.com^
 ||mn0e.com^$script,domain=wwg.com
-||mowfruit.com
+||mowfruit.com^
 ||msn.com/advertisement.ad.js$script,first-party,important
 ||myadcash.com/video_landing/js/*.js$script,redirect=noopjs,domain=multiup.eu|multiup.org
 ||nationalpost.com^$generichide,important
@@ -190,45 +191,45 @@ outbrain$script
 ||opengapps.org/images/se.png
 ||openx.net^$script,important,domain=latimes.com
 ||ov2ochu.bid^
-||ovalpigs.com
-||photographpan.com
-||pietexture.com
+||ovalpigs.com^
+||photographpan.com^
+||pietexture.com^
 ||plufdsa.com^
 ||popcash.net^$script,redirect=noopjs,domain=fastserver.me
-||possibleboats.com
-||practicetoothpaste.com
-||presetrabbits.com
+||possibleboats.com^
+||practicetoothpaste.com^
+||presetrabbits.com^
 ||pro.hit.gemius.pl^$script,redirect=noopjs,domain=nova.cz
-||profitrumour.com
-||provideplant.com
+||profitrumour.com^
+||provideplant.com^
 ||pubmatic.com^$script,redirect=noopjs,domain=hackintosh.computer|hackintosh.zone
 ||pussl3.com^$script,domain=rulu.co
-||quaintcan.com
+||quaintcan.com^
 ||quickdomainfwd.com^
-||quicksandear.com
+||quicksandear.com^
 ||ratexchange.net^
-||readgoldfish.com
-||rebelsubway.com
-||receptiveink.com
-||resolutekey.com
+||readgoldfish.com^
+||rebelsubway.com^
+||receptiveink.com^
+||resolutekey.com^
 ||restream.io/img/install_flash.png$image
 ||restream.io/img/promo/trash-meme/logo.gif$image
 ||roughted.com^
 ||rsload.net/images5/premssf.png$image
 ||rubiconproject.com^$script,important,domain=latimes.com
-||rulerabbit.com
+||rulerabbit.com^
 ||rulu.co/cdn-cgi/apps/head/$script
 ||s3-us-west-2.amazonaws.com/bww.mediagroup/veam-8-30-17-webinar-overlay-v2.2.png$image
 ||s3.amazonaws.com/homad-global-configs.schneevonmorgen.com/hd-main.js$script,domain=autobild.de|chip.de|cinema.de|computerbild.de|cdnapi.kaltura.com|erdbeerlounge.de|focus.de|gamona.de|giga.de|spiegel.de|spieleaffe.de|spieletipps.de|sueddeutsche.de|t-online.de,redirect=hd-main.js
 ||s3.amazonaws.com^$xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
 ||sandbox.katcr.co/static/uploads/340556.qsfd40frcilew28_n2houohdtxb.gif$image
 ||sascdn.com^$script,important,domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de
-||saysidewalk.com
-||scarcestream.com
+||saysidewalk.com^
+||scarcestream.com^
 ||scorecardresearch.com/beacon.js$script,important,domain=allmusic.com
-||scrubsky.com
+||scrubsky.com^
 ||windowscentral.com/sites/wpcentral.com/files/advagg_js/$script,badfilter
-||wirecomic.com
+||wirecomic.com^
 ||wp.com/*/adsbygoogle.js$script,important,domain=9to5mac.com
 ||www.alternate.de/dynpics/306594$image
 ||www.alternate.de/pix/lightbox/btn-loading.gif$image
@@ -250,27 +251,26 @@ outbrain$script
 ||www.golem.de/microsite/abo/trial-social-s3.shtml$subdocument
 ||www.golem.de/microsite/abo/trial-social-s7.html
 ||www.golem.de/microsite/abo/trial-social-s7.shtml$subdocument
-||www.greysanatomy.com.br
-||www.howdoyouplayit.com
-||www.ihavenet.com
-||www.iseeitnow.xyz
-||www.kharasach.com
+||www.greysanatomy.com.br^
+||www.howdoyouplayit.com^
+||www.ihavenet.com^
+||www.iseeitnow.xyz^
+||www.kharasach.com^
 ||www.kingbill.com/cms/upload/bilder/hilfe06.png$image
-||www.nicheextensions.com
-||www.rom-world.com/jetaoban.png
+||www.nicheextensions.com^
 ||www.station-drivers.com/templates/allrounder-j1.6/images/footer.png$image
 ||www.station-drivers.com/templates/allrounder-j1.6/images/h3-module.png$image
 ||www.station-drivers.com/templates/allrounder-j1.6/images/modules/module-lt.png$image
-||www.uasweekly.com
+||www.uasweekly.com^
 ||www.urbia.de/static/imgs/xhtml/banner/experten_banner_hebammen.jpg$image
 ||www.vb-audio.com/images/DonateEUR.gif$image
 ||www.vb-audio.com/images/DonateUSD.gif$image
-||xovq5nemr.com
+||xovq5nemr.com^
 ||xxlargepop.com/apu.php$script,redirect=noopjs
 ||xxxmyself.com^$important
 ||xxxnavy.com^$important
 ||z.moatads.com^$script,redirect=noopjs,domain=pga.com
-||zbwp6ghm.com
+||zbwp6ghm.com^
 ||zinturax.com^$document,popunder,script
 ||skincjar.net^
 ||fortnite-giveaways.com^
@@ -429,36 +429,11 @@ checkshorturl.com###large-column > div:nth-of-type(2)
 checkshorturl.com###mentions
 checkshorturl.com###thumbnails
 chip.de##[href^="javascript:DownloadStartInit"]
-chromium.woolyss.com###ios
-chromium.woolyss.com###ios > .news
-chromium.woolyss.com###mac
-chromium.woolyss.com###mac > .news
-chromium.woolyss.com###mac > h2
-chromium.woolyss.com###mac-32-bit
-chromium.woolyss.com###mac-64-bit-dev-marmaduke
-chromium.woolyss.com###mac-64-bit-freesmug
-chromium.woolyss.com###mac-64-bit-official
 chromium.woolyss.com###share-this-page
 chromium.woolyss.com###welcome
 chromium.woolyss.com###windows > .news
 chromium.woolyss.com###windows > small:nth-of-type(1)
 chromium.woolyss.com###windows > small:nth-of-type(1)
-chromium.woolyss.com###windows-32-bit
-chromium.woolyss.com###windows-32-bit
-chromium.woolyss.com###windows-32-bit-aluisioasg
-chromium.woolyss.com###windows-32-bit-aluisioasg
-chromium.woolyss.com###windows-32-bit-chocolatey
-chromium.woolyss.com###windows-32-bit-chocolatey
-chromium.woolyss.com###windows-32-bit-dev-nik
-chromium.woolyss.com###windows-32-bit-dev-nik
-chromium.woolyss.com###windows-32-bit-dev-robrich
-chromium.woolyss.com###windows-32-bit-dev-robrich
-chromium.woolyss.com###windows-32-bit-official
-chromium.woolyss.com###windows-32-bit-official
-chromium.woolyss.com###windows-32-bit-stable-nik
-chromium.woolyss.com###windows-32-bit-stable-nik
-chromium.woolyss.com###windows-32-bit-winpenpack
-chromium.woolyss.com###windows-32-bit-winpenpack
 dailyuploads.net##.adsbygoogle:nth-of-type(2)
 dailyuploads.net##a[href^="http://trafflict.com/r"] > .adsbygoogle:nth-of-type(1)
 dailyuploads.net##label
@@ -1128,11 +1103,11 @@ crackwatch.com###vzduu > a[href="/vip"]
 ||crumbs.robinhood.com/track
 ||4d.condenastdigital.com/user
 ||soundcloud.com/*/events
-||alb.reddit.com
-||pwk.delvu.com
+||alb.reddit.com^
+||pwk.delvu.com^
 ||treaty.io^$script
 ||treaty.io$xmlhttprequest
-||r.logrocket.com
+||r.logrocket.com^
 ||linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||linkedin.com/mob/tracking$xmlhttprequest
 ||linkedin.com/fizzy/admin$xmlhttprequest
@@ -1148,19 +1123,19 @@ crackwatch.com###vzduu > a[href="/vip"]
 ||okcupid.com/sookie/remote_sookie.html?name=blocked_pageview*
 ||okcupid.com/1/apitun/okc/clientstats$xmlhttprequest
 ||*.com/_/batch$xmlhttprequest,first-party
-2leep.com
-adblade.com
-adsnative.com
-cdn.nmcdn.us
-content.ad
-content-ad.net
-mgid.com
-newsmaxfeednetwork.com
-outbrain.com
-revcontent.com
-taboola.com
-zemanta
-zergnet.com
+||2leep.com^
+||adblade.com^
+||adsnative.com^
+||cdn.nmcdn.us^
+||content.ad^
+||content-ad.net^
+||mgid.com^
+||newsmaxfeednetwork.com^
+||outbrain.com^
+||revcontent.com^
+||taboola.com^
+||zemanta^
+||zergnet.com^
 ##div[data-outbrain-url]
 ##.ezAdsense
 ##.trc_elastic
@@ -1169,116 +1144,116 @@ zergnet.com
 ##.trc_spotlight_widget
 ||bgl1dr1-a-fixed.sancharnet.in
 ||bgl1pp1-a-fixed.sancharnet.in
-||bj02.cww.com
-||butt-head.mos.ru
-||dcproxy1.thrunet.com
-||dmn2.bjpeu.edu.cn
-||dns2.net1.it
-||doors.co.kr
-||enterprise.telesat.com.co
-||eol1.egyptonline.com
-||fw433.npic.ac.cn
-||gambero3.cs.tin.it
-||gate.technopolis.kirov.ru
-||hakuba.janis.or.jp
-||imms1.macau.ctm.net
-||indy.fjmu.edu.cn
-||jur.unn.ac.ru
-||kacstserv.kacst.edu.sa
-||kacstserv.kacst.edu.sa
-||known.counsellor.gov.cn
-||kserv.krldysh.ru
-||laleh.itrc.ac.ir
-||m0-s.san.ru
-||mail-gw.jbic.go.jp
-||mail.bangla.net
-||mail.edi.edu.cn
-||mail.hallym.ac.kr
-||mail.hangzhouit.gov.cn
-||mail.hz.zh.cn
-||mail.imamu.edu.sa
-||mail.interq.or.jp
-||mail.ioc.ac.ru
-||mail.issas.ac.cn
-||mail.pmo.ac.cn
-||mail.siom.ac.cn
-||mail.tropmet.res.in
-||mail.tsinghua.edu.cn
-||mail.zzu.edu.cn
-||mail1.371.net
-||mailgate.sbell.com.cn
-||mailgw.thtf.com.cn
-||mailhub.minaffet.gov.rw
-||mails.cneic.com.cn
-||mailscan3.cau.ctm.net
-||mailsrv02.macau.ctm.net
-||mailsvra.macau.ctm.net
-||mbi3.kuicr.kyoto-u.ac.jp
-||mcd-su-2.mos.ru
-||metcoc5cm.clarent.com
-||mipsa.ciae.ac.cn
-||mn.mn.co.cu
-||most.cob.net.ba
-||mpkhi-bk.multi.net.pk
-||msgstore2.pldtprv.net
-||mtccsun.imtech.ernet.in
-||mx1.freemail.ne.jp
-||n02.unternehmen.com
-||nd11mx1-a-fixed.sancharnet.in
-||ndl1mc1-a-fixed.sancharnet.in
-||ndl1mx1-a-fixed.sancharnet.in
-||ndl1pp1-a-fixed.sancharnet.in
-||no1.unternehemen.com
+||bj02.cww.com^
+||butt-head.mos.ru^
+||dcproxy1.thrunet.com^
+||dmn2.bjpeu.edu.cn^
+||dns2.net1.it^
+||doors.co.kr^
+||enterprise.telesat.com.co^
+||eol1.egyptonline.com^
+||fw433.npic.ac.cn^
+||gambero3.cs.tin.it^
+||gate.technopolis.kirov.ru^
+||hakuba.janis.or.jp^
+||imms1.macau.ctm.net^
+||indy.fjmu.edu.cn^
+||jur.unn.ac.ru^
+||kacstserv.kacst.edu.sa^
+||kacstserv.kacst.edu.sa^
+||known.counsellor.gov.cn^
+||kserv.krldysh.ru^
+||laleh.itrc.ac.ir^
+||m0-s.san.ru^
+||mail-gw.jbic.go.jp^
+||mail.bangla.net^
+||mail.edi.edu.cn^
+||mail.hallym.ac.kr^
+||mail.hangzhouit.gov.cn^
+||mail.hz.zh.cn^
+||mail.imamu.edu.sa^
+||mail.interq.or.jp^
+||mail.ioc.ac.ru^
+||mail.issas.ac.cn^
+||mail.pmo.ac.cn^
+||mail.siom.ac.cn^
+||mail.tropmet.res.in^
+||mail.tsinghua.edu.cn^
+||mail.zzu.edu.cn^
+||mail1.371.net^
+||mailgate.sbell.com.cn^
+||mailgw.thtf.com.cn^
+||mailhub.minaffet.gov.rw^
+||mails.cneic.com.cn^
+||mailscan3.cau.ctm.net^
+||mailsrv02.macau.ctm.net^
+||mailsvra.macau.ctm.net^
+||mbi3.kuicr.kyoto-u.ac.jp^
+||mcd-su-2.mos.ru^
+||metcoc5cm.clarent.com^
+||mipsa.ciae.ac.cn^
+||mn.mn.co.cu^
+||most.cob.net.ba^
+||mpkhi-bk.multi.net.pk^
+||msgstore2.pldtprv.net^
+||mtccsun.imtech.ernet.in^
+||mx1.freemail.ne.jp^
+||n02.unternehmen.com^
+||nd11mx1-a-fixed.sancharnet.in^
+||ndl1mc1-a-fixed.sancharnet.in^
+||ndl1mx1-a-fixed.sancharnet.in^
+||ndl1pp1-a-fixed.sancharnet.in^
+||no1.unternehemen.com^
 ||no3.unternehmen.org
-||ns.cac.com.cn
-||ns.huawei.com.cn
-||ns.nint.ac.cn
-||ns1.2911.net
-||ns1.multi.net.pk
-||ns2.rosprint.ru
-||ns2.xidian.edu.cn
-||opcwdns.opcw.nl
-||opserver01.iti.net.pk
-||orange.npix.net
-||orion.platino.gov.ve
-||outweb.nudt.edu.cn
-||pdns.nudt.edu.cn
-||petra.nic.gov.jo
-||pop.net21pk.com
-||post.netchina.com.cn
-||postbox.mos.ru
-||public2.zz.ha.cn
-||rayo.pereira.multi.net.co
-||sea.net.edu.cn
-||sea.net.edu.cn
-||sedesol.sedesol.gob.mx
-||segob.gob.mx
-||sky.kies.co.kr
-||smmu-ipv6.smmu.edu.cn
-||smtp.2911.net
-||smtp.macau.ctm.net
-||sonatns.sonatrach.dz
-||sparc.nour.net.sa
-||sps01.office.ctm.net
-||sunhe.jinr.ru
-||sussi.cressoft.com.pk
-||tx.micro.net.pk
-||ultra2.tsinghua.edu.cn
-||unk.vver.kiae.rr
-||unknown.counsellor.gov.cn
-||voyager1.telesat.com.co
-||web-ccfr.tsinghua.edu.cn
-||webnetra.entelnet.bo
-||webserv.mos.ru
-||ws.xjb.ac.cn
-||www.caramail.com
-||www.siom.ac.cn
-||www21.counsellor.gov.cn
+||ns.cac.com.cn^
+||ns.huawei.com.cn^
+||ns.nint.ac.cn^
+||ns1.2911.net^
+||ns1.multi.net.pk^
+||ns2.rosprint.ru^
+||ns2.xidian.edu.cn^
+||opcwdns.opcw.nl^
+||opserver01.iti.net.pk^
+||orange.npix.net^
+||orion.platino.gov.ve^
+||outweb.nudt.edu.cn^
+||pdns.nudt.edu.cn^
+||petra.nic.gov.jo^
+||pop.net21pk.com^
+||post.netchina.com.cn^
+||postbox.mos.ru^
+||public2.zz.ha.cn^
+||rayo.pereira.multi.net.co^
+||sea.net.edu.cn^
+||sea.net.edu.cn^
+||sedesol.sedesol.gob.mx^
+||segob.gob.mx^
+||sky.kies.co.kr^
+||smmu-ipv6.smmu.edu.cn^
+||smtp.2911.net^
+||smtp.macau.ctm.net^
+||sonatns.sonatrach.dz^
+||sparc.nour.net.sa^
+||sps01.office.ctm.net^
+||sunhe.jinr.ru^
+||sussi.cressoft.com.pk^
+||tx.micro.net.pk^
+||ultra2.tsinghua.edu.cn^
+||unk.vver.kiae.rr^
+||unknown.counsellor.gov.cn^
+||voyager1.telesat.com.co^
+||web-ccfr.tsinghua.edu.cn^
+||webnetra.entelnet.bo^
+||webserv.mos.ru^
+||ws.xjb.ac.cn^
+||www.caramail.com^
+||www.siom.ac.cn^
+||www21.counsellor.gov.cn^
 ||www21.counsellor.gov.cn
 feross.org###spoofSite
-||ushareit.com
-||Nexage.com
-||Quantumgraph.com
+||ushareit.com^
+||Nexage.com^
+||Quantumgraph.com^
 rsload.net##h1
 rsload.net##.speedbar
 imgmak.com##p:nth-of-type(2)
@@ -1931,25 +1906,21 @@ ae911truth.org#@#a[href^="http://www.ae911truth.org"]
 americanpatriotdaily.com#@#a[href^="http://americanpatriotdaily.com"]
 americanpatriotdaily.com#@#a[href^="http://www.americanpatriotdaily.com"]
 ||americanpatriotdaily.com^$popup,third-party
-! http://www.americanpoliticnews.com/
 ##a[href^="http://americanpoliticnews.com"]
 ##a[href^="http://www.americanpoliticnews.com"]
 americanpoliticnews.com#@#a[href^="http://americanpoliticnews.com"]
 americanpoliticnews.com#@#a[href^="http://www.americanpoliticnews.com"]
 ||americanpoliticnews.com^$popup,third-party
-! http://www.americasfreedomfighters.com/
 ##a[href^="http://americasfreedomfighters.com"]
 ##a[href^="http://www.americasfreedomfighters.com"]
 americasfreedomfighters.com#@#a[href^="http://americasfreedomfighters.com"]
 americasfreedomfighters.com#@#a[href^="http://www.americasfreedomfighters.com"]
 ||americasfreedomfighters.com^$popup,third-party
-! http://www.americatalks.com/
 ##a[href^="http://americatalks.com"]
 ##a[href^="http://www.americatalks.com"]
 americatalks.com#@#a[href^="http://americatalks.com"]
 americatalks.com@#A[href^="http://www.americatalks.com"]
 ||americatalks.com^$popup,third-party
-! https://www.amren.com/
 ##a[href^="http://amren.com"]
 ##a[href^="http://www.amren.com"]
 ##a[href^="https://www.amren.com"]
@@ -1957,55 +1928,46 @@ amren.com#@#a[href^="http://amren.com"]
 amren.com@#A[href^="http://www.amren.com"]
 amren.com@#A[href^="https://www.amren.com"]
 ||amren.com^$popup,third-party
-! http://aucklandnews.tk
 ##a[href^="http://aucklandnews.tk"]
 ##a[href^="http://www.aucklandnews.tk"]
 aucklandnews.tk#@#a[href^="http://aucklandnews.tk"]
 aucklandnews.tk#@#a[href^="http://www.aucklandnews.tk"]
 ||aucklandnews.tk^$popup,third-party
-! http://christchurchnews.tk/
 ##a[href^="http://christchurchnews.tk"]
 ##a[href^="http://www.christchurchnews.tk"]
 christchurchnews.tk#@#a[href^="http://christchurchnews.tk"]
 christchurchnews.tk#@#a[href^="http://www.christchurchnews.tk"]
 ||christchurchnews.tk^$popup,third-party
-! tauranganews.tk
 ##a[href^="http://tauranganews.tk"]
 ##a[href^="http://www.tauranganews.tk"]
 tauranganews.tk#@#a[href^="http://tauranganews.tk"]
 tauranganews.tk#@#a[href^="http://www.tauranganews.tk"]
 ||tauranganews.tk^$popup,third-party
-! wellingtonnews.tk
 ##a[href^="http://wellingtonnews.tk"]
 ##a[href^="http://www.wellingtonnews.tk"]
 wellingtonnews.tk#@#a[href^="http://wellingtonnews.tk"]
 wellingtonnews.tk#@#a[href^="http://www.wellingtonnews.tk"]
 ||wellingtonnews.tk^$popup,third-party
-! dunedinnews.tk
 ##a[href^="http://dunedinnews.tk"]
 ##a[href^="http://www.dunedinnews.tk"]
 dunedinnews.tk#@#a[href^="http://dunedinnews.tk"]
 dunedinnews.tk#@#a[href^="http://www.dunedinnews.tk"]
 ||dunedinnews.tk^$popup,third-party
-! theamericantribune.org
 ##a[href^="http://theamericantribune.org"]
 ##a[href^="https://theamericantribune.org"]
 theamericantribune.org#@#a[href^="http://theamericantribune.org"]
 theamericantribune.org#@#a[href^="https://theamericantribune.org"]
 ||theamericantribune.org^$popup,third-party
-! truthfrequencyradio.com
 ##a[href^="http://truthfrequencyradio.com"]
 ##a[href^="http://www.truthfrequencyradio.com"]
 truthfrequencyradio.com#@#a[href^="http://truthfrequencyradio.com"]
 truthfrequencyradio.com#@#a[href^="http://www.truthfrequencyradio.com"]
 ||truthfrequencyradio.com^$popup,third-party
-! now8news.com
 ##a[href^="http://now8news.com"]
 ##a[href^="http://www.now8news.com"]
 now8news.com#@#a[href^="http://now8news.com"]
 now8news.com#@#a[href^="http://www.now8news.com"]
 ||now8news.com^$popup,third-party
-! newsbreakshere.com
 ##a[href^="http://newsbreakshere.com"]
 ##a[href^="http://www.newsbreakshere.com"]
 ##a[href^="https://newsbreakshere.com"]
@@ -2013,133 +1975,111 @@ newsbreakshere.com#@#a[href^="http://newsbreakshere.com"]
 newsbreakshere.com#@#a[href^="http://www.newsbreakshere.com"]
 newsbreakshere.com#@#a[href^="https://newsbreakshere.com"]
 ||newsbreakshere.com^$popup,third-party
-! fourwinds10.net
 ##a[href^="http://fourwinds10.net"]
 ##a[href^="http://www.fourwinds10.net"]
 fourwinds10.net#@#a[href^="http://fourwinds10.net"]
 fourwinds10.net#@#a[href^="http://www.fourwinds10.net"]
 ||fourwinds10.net^$popup,third-party
-! foodbabe.com
 ##a[href^="http://foodbabe.com"]
 ##a[href^="http://www.foodbabe.com"]
 foodbabe.com#@#a[href^="http://foodbabe.com"]
 foodbabe.com#@#a[href^="http://www.foodbabe.com"]
 ||foodbabe.com^$popup,third-party
-! fellowshipoftheminds.com
 ##a[href^="http://fellowshipoftheminds.com"]
 ##a[href^="https://fellowshipoftheminds.com"]
 fellowshipoftheminds.com#@#a[href^="http://fellowshipoftheminds.com"]
 fellowshipoftheminds.com#@#a[href^="https://fellowshipoftheminds.com"]
 ||fellowshipoftheminds.com^$popup,third-party
-! familysecuritymatters.org
 ##a[href^="http://familysecuritymatters.org"]
 ##a[href^="http://www.familysecuritymatters.org"]
 familysecuritymatters.org#@#a[href^="http://familysecuritymatters.org"]
 familysecuritymatters.org#@#a[href^="http://www.familysecuritymatters.org"]
 ||familysecuritymatters.org^$popup,third-party
-! eyeopening.info
 ##a[href^="http://eyeopening.info"]
 ##a[href^="http://www.eyeopening.info"]
 eyeopening.info#@#a[href^="http://eyeopening.info"]
 eyeopening.info#@#a[href^="http://www.eyeopening.info"]
 ||eyeopening.info^$popup,third-party
-! extraclubmagazine.com
 ##a[href^="http://extraclubmagazine.com"]
 ##a[href^="http://www.extraclubmagazine.com"]
 extraclubmagazine.com#@#a[href^="http://extraclubmagazine.com"]
 extraclubmagazine.com#@#a[href^="http://www.extraclubmagazine.com"]
 ||extraclubmagazine.com^$popup,third-party
-! expose1933.com
 ##a[href^="http://expose1933.com"]
 ##a[href^="http://www.expose1933.com"]
 expose1933.com#@#a[href^="http://expose1933.com"]
 expose1933.com#@#a[href^="http://www.expose1933.com"]
 ||expose1933.com^$popup,third-party
-! experimentalvaccines.org
 ##a[href^="http://experimentalvaccines.org"]
 ##a[href^="http://www.experimentalvaccines.org"]
 experimentalvaccines.org#@#a[href^="http://experimentalvaccines.org"]
 experimentalvaccines.org#@#a[href^="http://www.experimentalvaccines.org"]
 ||experimentalvaccines.org^$popup,third-party
-! eutimes.net
 ##a[href^="http://eutimes.net"]
 ##a[href^="http://www.eutimes.net"]
 eutimes.net#@#a[href^="http://eutimes.net"]
 eutimes.net#@#a[href^="http://www.eutimes.net"]
 ||eutimes.net^$popup,third-party
-! educateinspirechange.org
 ##a[href^="http://educateinspirechange.org"]
 ##a[href^="http://www.educateinspirechange.org"]
 educateinspirechange.org#@#a[href^="http://educateinspirechange.org"]
 educateinspirechange.org#@#a[href^="http://www.educateinspirechange.org"]
 ||educateinspirechange.org^$popup,third-party
-! educate-yourself.org
 ##a[href^="http://educate-yourself.org"]
 ##a[href^="http://www.educate-yourself.org"]
 educate-yourself.org#@#a[href^="http://educate-yourself.org"]
 educate-yourself.org#@#a[href^="http://www.educate-yourself.org"]
 ||educate-yourself.org^$popup,third-party
-! drudgereport.com
 ##a[href^="http://drudgereport.com"]
 ##a[href^="http://www.drudgereport.com"]
 drudgereport.com#@#a[href^="http://drudgereport.com"]
 drudgereport.com#@#a[href^="http://www.drudgereport.com"]
 ||drudgereport.com^$popup,third-party
-! dont-tread-on.me
 ##a[href^="http://dont-tread-on.me"]
 ##a[href^="http://www.dont-tread-on.me"]
 dont-tread-on.me#@#a[href^="http://dont-tread-on.me"]
 dont-tread-on.me#@#a[href^="https://www.dont-tread-on.me"]
 ||dont-tread-on.me^$popup,third-party
-! davidduke.com
 ##a[href^="http://davidduke.com"]
 ##a[href^="http://www.davidduke.com"]
 davidduke.com#@#a[href^="http://davidduke.com"]
 davidduke.com#@#a[href^="http://www.davidduke.com"]
 ||davidduke.com^$popup,third-party
-! davejanda.com
 ##a[href^="http://davejanda.com"]
 ##a[href^="http://www.davejanda.com"]
 davejanda.com#@#a[href^="http://davejanda.com"]
 davejanda.com#@#a[href^="http://www.davejanda.com"]
 ||davejanda.com^$popup,third-party
-! viralliberty.com
 ##a[href^="http://viralliberty.com"]
 ##a[href^="http://www.viralliberty.com"]
 viralliberty.com#@#a[href^="http://viralliberty.com"]
 viralliberty.com#@#a[href^="http://www.viralliberty.com"]
 ||viralliberty.com^$popup,third-party
-! whitepower.com
 ##a[href^="http://whitepower.com"]
 ##a[href^="http://www.whitepower.com"]
 whitepower.com#@#a[href^="http://whitepower.com"]
 whitepower.com#@#a[href^="http://www.whitepower.com"]
 ||whitepower.com^$popup,third-party
-! willyloman.wordpress.com
 ##a[href^="http://willyloman.wordpress.com"]
 ##a[href^="https://willyloman.wordpress.com"]
 willyloman.wordpress.com#@#a[href^="http://willyloman.wordpress.com"]
 willyloman.wordpress.com#@#a[href^="https://willyloman.wordpress.com"]
 ||willyloman.wordpress.com^$popup,third-party
-! worldnewspolitics.com
 ##a[href^="http://worldnewspolitics.com"]
 ##a[href^="http://www.worldnewspolitics.com"]
 worldnewspolitics.com#@#a[href^="http://worldnewspolitics.com"]
 worldnewspolitics.com#@#a[href^="http://www.worldnewspolitics.com"]
 ||worldnewspolitics.com^$popup,third-party
-! worldwidehealthy.com
 ##a[href^="http://worldwidehealthy.com"]
 ##a[href^="http://www.worldwidehealthy.com"]
 worldwidehealthy.com#@#a[href^="http://worldwidehealthy.com"]
 worldwidehealthy.com#@#a[href^="http://www.worldwidehealthy.com"]
 ||worldwidehealthy.com^$popup,third-party
-! zerohedge.com
 ##a[href^="http://www.zerohedge.com"]
 ##a[href^="http://zerohedge.com"]
 zerohedge.com#@#a[href^="http://www.zerohedge.com"]
 zerohedge.com#@#a[href^="http://zerohedge.com"]
 ||zerohedge.com^$popup,third-party
-! corbettreport.com
 ##a[href^="http://corbettreport.com"]
 ##a[href^="http://www.corbettreport.com"]
 ##a[href^="https://www.corbettreport.com"]
@@ -2147,151 +2087,126 @@ corbettreport.com#@#a[href^="http://corbettreport.com"]
 corbettreport.com#@#a[href^="http://www.corbettreport.com"]
 corbettreport.com#@#a[href^="https://www.corbettreport.com"]
 ||corbettreport.com^$popup,third-party
-! collectivelyconscious.net
 ##a[href^="http://collectivelyconscious.net"]
 ##a[href^="http://www.collectivelyconscious.net"]
 collectivelyconscious.net#@#a[href^="http://collectivelyconscious.net"]
 collectivelyconscious.net#@#a[href^="http://www.collectivelyconscious.net"]
 ||collectivelyconscious.net^$popup,third-party
-! collective-evolution.com
 ##a[href^="http://collective-evolution.com"]
 ##a[href^="http://www.collective-evolution.com"]
 collective-evolution.com#@#a[href^="http://collective-evolution.com"]
 collective-evolution.com#@#a[href^="http://www.collective-evolution.com"]
 ||collective-evolution.com^$popup,third-party
-! cnsnews.com
 ##a[href^="http://cnsnews.com"]
 ##a[href^="http://www.cnsnews.com"]
 cnsnews.com#@#a[href^="http://cnsnews.com"]
 cnsnews.com#@#a[href^="http://www.cnsnews.com"]
 ||cnsnews.com^$popup,third-party
-! christianpost.com
 ##a[href^="http://christianpost.com"]
 ##a[href^="http://www.christianpost.com"]
 christianpost.com#@#a[href^="http://christianpost.com"]
 christianpost.com#@#a[href^="http://www.christianpost.com"]
 ||christianpost.com^$popup,third-party
-! christianfightback.com
 ##a[href^="http://christianfightback.com"]
 ##a[href^="http://www.christianfightback.com"]
 christianfightback.com#@#a[href^="http://christianfightback.com"]
 christianfightback.com#@#a[href^="http://www.christianfightback.com"]
 ||christianfightback.com^$popup,third-party
-! chicksontheright.com
 ##a[href^="http://chicksontheright.com"]
 ##a[href^="http://www.chicksontheright.com"]
 chicksontheright.com#@#a[href^="http://chicksontheright.com"]
 chicksontheright.com#@#a[href^="http://www.chicksontheright.com"]
 ||chicksontheright.com^$popup,third-party
-! checkoutthehealthyworld.com
 ##a[href^="http://checkoutthehealthyworld.com"]
 ##a[href^="http://www.checkoutthehealthyworld.com"]
 checkoutthehealthyworld.com#@#a[href^="http://checkoutthehealthyworld.com"]
 checkoutthehealthyworld.com#@#a[href^="http://www.checkoutthehealthyworld.com"]
 ||checkoutthehealthyworld.com^$popup,third-party
-! bvanews.com
 ##a[href^="http://bvanews.com"]
 ##a[href^="http://www.bvanews.com"]
 bvanews.com#@#a[href^="http://bvanews.com"]
 bvanews.com#@#a[href^="http://www.bvanews.com"]
 ||bvanews.com^$popup,third-party
-! breaking911.com
 ##a[href^="http://breaking911.com"]
 ##a[href^="http://www.breaking911.com"]
 breaking911.com#@#a[href^="http://breaking911.com"]
 breaking911.com#@#a[href^="http://www.breaking911.com"]
 ||breaking911.com^$popup,third-party
-! bluenationreview.com
 ##a[href^="http://bluenationreview.com"]
 ##a[href^="http://www.bluenationreview.com"]
 bluenationreview.com#@#a[href^="http://bluenationreview.com"]
 bluenationreview.com#@#a[href^="http://www.bluenationreview.com"]
 ||bluenationreview.com^$popup,third-party
-! blacklistednews.com
 ##a[href^="http://blacklistednews.com"]
 ##a[href^="http://www.blacklistednews.com"]
 blacklistednews.com#@#a[href^="http://blacklistednews.com"]
 blacklistednews.com#@#a[href^="http://www.blacklistednews.com"]
 ||blacklistednews.com^$popup,third-party
-! blackgenocide.org
 ##a[href^="http://blackgenocide.org"]
 ##a[href^="http://www.blackgenocide.org"]
 blackgenocide.org#@#a[href^="http://blackgenocide.org"]
 blackgenocide.org#@#a[href^="http://www.blackgenocide.org"]
 ||blackgenocide.org^$popup,third-party
-! blackagendareport.com
 ##a[href^="http://blackagendareport.com"]
 ##a[href^="http://www.blackagendareport.com"]
 blackagendareport.com#@#a[href^="http://blackagendareport.com"]
 blackagendareport.com#@#a[href^="http://www.blackagendareport.com"]
 ||blackagendareport.com^$popup,third-party
-! bipartisanreport.com
 ##a[href^="http://bipartisanreport.com"]
 ##a[href^="http://www.bipartisanreport.com"]
 bipartisanreport.com#@#a[href^="http://bipartisanreport.com"]
 bipartisanreport.com#@#a[href^="http://www.bipartisanreport.com"]
 ||bipartisanreport.com^$popup,third-party
-! bigamericannews.com
 ##a[href^="http://bigamericannews.com"]
 ##a[href^="http://www.bigamericannews.com"]
 bigamericannews.com#@#a[href^="http://bigamericannews.com"]
 bigamericannews.com#@#a[href^="http://www.bigamericannews.com"]
 ||bigamericannews.com^$popup,third-party
-! bients.com
 ##a[href^="http://bients.com"]
 ##a[href^="http://www.bients.com"]
 bients.com#@#a[href^="http://bients.com"]
 bients.com#@#a[href^="http://www.bients.com"]
 ||bients.com^$popup,third-party
-! bb4sp.com
 ##a[href^="http://bb4sp.com"]
 ##a[href^="http://www.bb4sp.com"]
 bb4sp.com#@#a[href^="http://bb4sp.com"]
 bb4sp.com#@#a[href^="http://www.bb4sp.com"]
 ||bb4sp.com^$popup,third-party
-! barenakedislam.com
 ##a[href^="http://barenakedislam.com"]
 ##a[href^="http://www.barenakedislam.com"]
 barenakedislam.com#@#a[href^="http://barenakedislam.com"]
 barenakedislam.com#@#a[href^="http://www.barenakedislam.com"]
 ||barenakedislam.com^$popup,third-party
-! awdnews.com
 ##a[href^="http://awdnews.com"]
 ##a[href^="http://www.awdnews.com"]
 awdnews.com#@#a[href^="http://awdnews.com"]
 awdnews.com#@#a[href^="http://www.awdnews.com"]
 ||awdnews.com^$popup,third-party
-! awarenessact.com
 ##a[href^="http://awarenessact.com"]
 ##a[href^="http://www.awarenessact.com"]
 awarenessact.com#@#a[href^="http://awarenessact.com"]
 awarenessact.com#@#a[href^="http://www.awarenessact.com"]
 ||awarenessact.com^$popup,third-party
-! assassinationscience.com
 ##a[href^="http://assassinationscience.com"]
 ##a[href^="http://www.assassinationscience.com"]
 assassinationscience.com#@#a[href^="http://assassinationscience.com"]
 assassinationscience.com#@#a[href^="http://www.assassinationscience.com"]
 ||assassinationscience.com^$popup,third-party
-! angrypatriotmovement.com
 ##a[href^="http://angrypatriotmovement.com"]
 ##a[href^="http://www.angrypatriotmovement.com"]
 angrypatriotmovement.com#@#a[href^="http://angrypatriotmovement.com"]
 angrypatriotmovement.com#@#a[href^="http://www.angrypatriotmovement.com"]
 ||angrypatriotmovement.com^$popup,third-party
-! ancient-code.com
 ##a[href^="http://ancient-code.com"]
 ##a[href^="http://www.ancient-code.com"]
 ancient-code.com#@#a[href^="http://ancient-code.com"]
 ancient-code.com#@#a[href^="http://www.ancient-code.com"]
 ||ancient-code.com^$popup,third-party
-! amusmentic.com
 ##a[href^="http://amusmentic.com"]
 ##a[href^="http://www.amusmentic.com"]
 amusmentic.com#@#a[href^="http://amusmentic.com"]
 amusmentic.com#@#a[href^="http://www.amusmentic.com"]
 ||amusmentic.com^$popup,third-party
-! amren.com
 ##a[href^="http://amren.com"]
 ##a[href^="http://www.amren.com"]
 ##a[href^="https://www.amren.com"]
@@ -2299,7 +2214,6 @@ amren.com#@#a[href^="http://amren.com"]
 amren.com#@#a[href^="http://www.amren.com"]
 amren.com#@#a[href^="https://www.amren.com"]
 ||amren.com^$popup,third-party
-! oathkeepers.org
 ##a[href^="http://oathkeepers.org"]
 ##a[href^="http://www.oathkeepers.org"]
 ##a[href^="https://www.oathkeepers.org"]
@@ -2307,7 +2221,6 @@ oathkeepers.org#@#a[href^="http://oathkeepers.org"]
 oathkeepers.org#@#a[href^="http://www.oathkeepers.org"]
 oathkeepers.org#@#a[href^="https://www.oathkeepers.org"]
 ||oathkeepers.org^$popup,third-party
-! allnewspipeline.com
 ##a[href^="http://allnewspipeline.com"]
 ##a[href^="http://www.allnewspipeline.com"]
 allnewspipeline.com#@#a[href^="http://allnewspipeline.com"]
@@ -2319,89 +2232,74 @@ allnewspipeline.com#@#a[href^="http://www.allnewspipeline.com"]
 addictinginfo.org#@#a[href^="http://addictinginfo.org"]
 addictinginfo.org#@#a[href^="http://www.addictinginfo.org"]
 ||addictinginfo.org^$popup,third-party
-! abcnews.com.co
 ##a[href^="http://abcnews.com.co"]
 ##a[href^="http://www.abcnews.com.co"]
 abcnews.com.co#@#a[href^="http://abcnews.com.co"]
 abcnews.com.co#@#a[href^="http://www.abcnews.com.co"]
 ||abcnews.com.co^$popup,third-party
-! 82.221.129.208
 ##a[href^="http://82.221.129.208"]
 82.221.129.208#@#a[href^="http://82.221.129.208"]
 ||82.221.129.208^$popup,third-party
-! 4threvolutionarywar.wordpress.com
 ##a[href^="http://4threvolutionarywar.wordpress.com"]
 ##a[href^="https://4threvolutionarywar.wordpress.com"]
 4threvolutionarywar.wordpress.com#@#a[href^="http://4threvolutionarywar.wordpress.com"]
 4threvolutionarywar.wordpress.com#@#a[href^="https://4threvolutionarywar.wordpress.com"]
 ||4threvolutionarywar.wordpress.com^$popup,third-party
-! 365usanews.com
 ##a[href^="http://365usanews.com"]
 ##a[href^="http://www.365usanews.com"]
 365usanews.com#@#a[href^="http://365usanews.com"]
 365usanews.com#@#a[href^="http://www.365usanews.com"]
 ||365usanews.com^$popup,third-party
-! 100percentfedup.com
 ##a[href^="http://100percentfedup.com"]
 ##a[href^="http://www.100percentfedup.com"]
 100percentfedup.com#@#a[href^="http://100percentfedup.com"]
 100percentfedup.com#@#a[href^="http://www.100percentfedup.com"]
 ||100percentfedup.com^$popup,third-party
-! prntly.com
 ##a[href^="http://prntly.com"]
 ##a[href^="http://www.prntly.com"]
 prntly.com#@#a[href^="http://prntly.com"]
 prntly.com#@#a[href^="http://www.prntly.com"]
 ||prntly.com^$popup,third-party
-! politicalears.com
 ##a[href^="http://politicalears.com"]
 ##a[href^="http://www.politicalears.com"]
 politicalears.com#@#a[href^="http://politicalears.com"]
 politicalears.com#@#a[href^="http://www.politicalears.com"]
 ||politicalears.com^$popup,third-party
-! libertywritersnews.com
 ##a[href^="http://libertywritersnews.com"]
 ##a[href^="http://www.libertywritersnews.com"]
 libertywritersnews.com#@#a[href^="http://libertywritersnews.com"]
 libertywritersnews.com#@#a[href^="http://www.libertywritersnews.com"]
 ||libertywritersnews.com^$popup,third-party
-! 70news.wordpress.com
 ##a[href^="http://70news.wordpress.com"]
 ##a[href^="https://70news.wordpress.com"]
 70news.wordpress.com#@#a[href^="http://70news.wordpress.com"]
 70news.wordpress.com#@#a[href^="https://70news.wordpress.com"]
 ||70news.wordpress.com^$popup,third-party
-! govtslaves.info
 ##a[href^="http://govtslaves.info"]
 ##a[href^="http://www.govtslaves.info"]
 govtslaves.info#@#a[href^="http://govtslaves.info"]
 govtslaves.info#@#a[href^="http://www.govtslaves.info"]
 ||govtslaves.info^$popup,third-party
-! globalresearch.ca
 ##a[href^="http://globalresearch.ca"]
 ##a[href^="http://www.globalresearch.ca"]
 globalresearch.ca#@#a[href^="http://globalresearch.ca"]
 globalresearch.ca#@#a[href^="http://www.globalresearch.ca"]
 ||globalresearch.ca^$popup,third-party
-! theuspatriot.com
 ##a[href^="http://theuspatriot.com"]
 ##a[href^="http://www.theuspatriot.com"]
 theuspatriot.com#@#a[href^="http://theuspatriot.com"]
 theuspatriot.com#@#a[href^="http://www.theuspatriot.com"]
 ||theuspatriot.com^$popup,third-party
-! witscience.org
 ##a[href^="http://witscience.org"]
 ##a[href^="http://www.witscience.org"]
 witscience.org#@#a[href^="http://witscience.org"]
 witscience.org#@#a[href^="http://www.witscience.org"]
 ||witscience.org^$popup,third-party
-! thenewsnerd.com
 ##a[href^="http://thenewsnerd.com"]
 ##a[href^="http://www.thenewsnerd.com"]
 thenewsnerd.com#@#a[href^="http://thenewsnerd.com"]
 thenewsnerd.com#@#a[href^="http://www.thenewsnerd.com"]
 ||thenewsnerd.com^$popup,third-party
-! counterpsyops.com
 ##a[href^="http://counterpsyops.com"]
 ##a[href^="http://www.counterpsyops.com"]
 ##a[href^="https://counterpsyops.com"]
@@ -2409,25 +2307,21 @@ counterpsyops.com#@#a[href^="http://counterpsyops.com"]
 counterpsyops.com#@#a[href^="http://www.counterpsyops.com"]
 counterpsyops.com#@#a[href^="https://counterpsyops.com"]
 ||counterpsyops.com^$popup,third-party
-! countdowntozerotime.com
 ##a[href^="http://countdowntozerotime.com"]
 ##a[href^="http://www.countdowntozerotime.com"]
 countdowntozerotime.com#@#a[href^="http://countdowntozerotime.com"]
 countdowntozerotime.com#@#a[href^="http://www.countdowntozerotime.com"]
 ||countdowntozerotime.com^$popup,third-party
-! consciouslifenews.com
 ##a[href^="http://consciouslifenews.com"]
 ##a[href^="http://www.consciouslifenews.com"]
 consciouslifenews.com#@#a[href^="http://consciouslifenews.com"]
 consciouslifenews.com#@#a[href^="http://www.consciouslifenews.com"]
 ||consciouslifenews.com^$popup,third-party
-! coasttocoastam.com
 ##a[href^="http://coasttocoastam.com"]
 ##a[href^="http://www.coasttocoastam.com"]
 coasttocoastam.com#@#a[href^="http://coasttocoastam.com"]
 coasttocoastam.com#@#a[href^="http://www.coasttocoastam.com"]
 ||coasttocoastam.com^$popup,third-party
-! dcclothesline.com
 ##a[href^="http://dcclothesline.com"]
 ##a[href^="http://www.dcclothesline.com"]
 ##a[href^="https://dcclothesline.com"]
@@ -2435,7 +2329,6 @@ dcclothesline.com#@#a[href^="http://dcclothesline.com"]
 dcclothesline.com#@#a[href^="http://www.dcclothesline.com"]
 dcclothesline.com#@#a[href^="https://dcclothesline.com"]
 ||dcclothesline.com^$popup,third-party
-! tomfernandez28.com
 ##a[href^="http://tomfernandez28.com"]
 ##a[href^="http://www.tomfernandez28.com"]
 ##a[href^="https://tomfernandez28.com"]
@@ -2443,19 +2336,16 @@ tomfernandez28.com#@#a[href^="http://tomfernandez28.com"]
 tomfernandez28.com#@#a[href^="http://www.tomfernandez28.com"]
 tomfernandez28.com#@#a[href^="https://tomfernandez28.com"]
 ||tomfernandez28.com^$popup,third-party
-! enduringvision.com
 ##a[href^="http://enduringvision.com"]
 ##a[href^="http://www.enduringvision.com"]
 enduringvision.com#@#a[href^="http://enduringvision.com"]
 enduringvision.com#@#a[href^="http://www.enduringvision.com"]
 ||enduringvision.com^$popup,third-party
-! therundownlive.com
 ##a[href^="http://therundownlive.com"]
 ##a[href^="http://www.therundownlive.com"]
 therundownlive.com#@#a[href^="http://therundownlive.com"]
 therundownlive.com#@#a[href^="http://www.therundownlive.com"]
 ||therundownlive.com^$popup,third-party
-! conservativeoutfitters.com
 ##a[href^="http://www.conservativeoutfitters.com"]
 ##a[href^="https://conservativeoutfitters.com"]
 ##a[href^="https://www.conservativeoutfitters.com"]
@@ -2463,44 +2353,36 @@ conservativeoutfitters.com#@#a[href^="http://conservativeoutfitters.com"]
 conservativeoutfitters.com#@#a[href^="https//:conservativeoutfitters.com"]
 conservativeoutfitters.com#@#a[href^="https://www.conservativeoutfitters.com"]
 ||conservativeoutfitters.com^$popup,third-party
-! chronicle.su
 ##a[href^="http://chronicle.su"]
 ##a[href^="http://www.chronicle.su"]
 chronicle.su#@#a[href^="http://chronicle.su"]
 chronicle.su#@#a[href^="http://www.chronicle.su"]
 ||chronicle.su^$popup,third-party
-! 21stcenturywire.com
 ##a[href^="http://21stcenturywire.com"]
 ##a[href^="http://www.21stcenturywire.com"]
 21stcenturywire.com#@#a[href^="http://21stcenturywire.com"]
 21stcenturywire.com#@#a[href^="http://www.21stcenturywire.com"]
 ||21stcenturywire.com^$popup,third-party
-! beforeitsnews.com
 ##a[href^="http://beforeitsnews.com"]
 ##a[href^="http://www.beforeitsnews.com"]
 beforeitsnews.com#@#a[href^="http://beforeitsnews.com"]
 ||beforeitsnews.com^$popup,third-party
-! dailybuzzlive.com
 ##a[href^="http://dailybuzzlive.com"]
 ##a[href^="http://www.dailybuzzlive.com"]
 dailybuzzlive.com#@#a[href^="http://dailybuzzlive.com"]
 ||dailybuzzlive.com^$popup,third-party
-! disclose.tv
 ##a[href^="http://disclose.tv"]
 ##a[href^="http://www.disclose.tv"]
 disclose.tv#@#a[href^="http://www.disclose.tv"]
 ||disclose.tv^$popup,third-party
-! infowars.com
 ##a[href^="http://infowars.com"]
 ##a[href^="http://www.infowars.com"]
 infowars.com#@#a[href^="http://www.infowars.com"]
 ||infowars.com^$popup,third-party
-! naturalnews.com
 ##a[href^="http://naturalnews.com"]
 ##a[href^="http://www.naturalnews.com"]
 naturalnews.com#@#a[href^="http://www.naturalnews.com"]
 ||naturalnews.com^$popup,third-party
-! redflagnews.com
 ##a[href^="http://redflagnews.com"]
 ##a[href^="http://www.redflagnews.com"]
 ##a[href^="https://redflagnews.com"]
@@ -2508,52 +2390,43 @@ naturalnews.com#@#a[href^="http://www.naturalnews.com"]
 redflagnews.com#@#a[href^="http://www.redflagnews.com"]
 redflagnews.com#@#a[href^="https://www.redflagnews.com"]
 ||redflagnews.com^$popup,third-party
-! worldtruth.tv
 ##a[href^="http://worldtruth.tv"]
 ##a[href^="http://www.worldtruth.tv"]
 worldtruth.tv#@#a[href^="http://worldtruth.tv"]
 ||worldtruth.tv^$popup,third-party
-! activistpost.com
 ##a[href^="http://activistpost.com"]
 ##a[href^="http://www.activistpost.com"]
 activistpost.com#@#a[href^="http://www.activistpost.com"]
 ||activistpost.com^$popup,third-party
-! oann.com
 ##a[href^="http://oann.com"]
 ##a[href^="http://www.oann.com"]
 oann.com#@#a[href^="http://oann.com"]
 oann.com#@#a[href^="http://www.oann.com"]
 ||oann.com^$popup,third-party
-! thedcgazette.com
 ##a[href^="http://thedcgazette.com"]
 ##a[href^="http://www.thedcgazette.com"]
 thedcgazette.com#@#a[href^="http://www.thedcgazette.com"]
 ||thedcgazette.com^$popup,third-party
-! americannews.com
 ##a[href^="http://americannews.com"]
 ##a[href^="http://www.americannews.com"]
 americannews.com#@#a[href^="http://americannews.com"]
 americannews.com#@#a[href^="http://www.americannews.com"]
 ||americannews.com^$popup,third-party
-! americannewsx.com
 ##a[href^="http://americannewsx.com"]
 ##a[href^="http://www.americannewsx.com"]
 americannewsx.com#@#a[href^="http://americannewsx.com"]
 americannewsx.com#@#a[href^="http://www.americannewsx.com"]
 ||americannewsx.com^$popup,third-party
-! prisonplanet.com
 ##a[href^="http://prisonplanet.com"]
 ##a[href^="http://www.prisonplanet.com"]
 prisonplanet.com#@#a[href^="http://prisonplanet.com"]
 prisonplanet.com#@#a[href^="http://www.prisonplanet.com"]
 ||prisonplanet.com^$popup,third-party
-! thesurvivalistblog.net
 ##a[href^="http://thesurvivalistblog.net"]
 ##a[href^="http://www.thesurvivalistblog.net"]
 thesurvivalistblog.net#@#a[href^="http://thesurvivalistblog.net"]
 thesurvivalistblog.net#@#a[href^="http://www.thesurvivalistblog.net"]
 ||thesurvivalistblog.net^$popup,third-party
-! infowarsstore.com
 ##a[href^="http://infowarsstore.com"]
 ##a[href^="http://www.infowarsstore.com"]
 ##a[href^="https://www.infowarsstore.com"]
@@ -2561,19 +2434,16 @@ infowarsstore.com#@#a[href^="http://infowarsstore.com"]
 infowarsstore.com#@#a[href^="http://www.infowarsstore.com"]
 infowarsstore.com#@#a[href^="https://www.infowarsstore.com"]
 ||infowarsstore.com^$popup,third-party
-! jesus-is-savior.com
 ##a[href^="http://jesus-is-savior.com"]
 ##a[href^="http://www.jesus-is-savior.com"]
 infowarsstore.com#@#a[href^="http://jesus-is-savior.com"]
 infowarsstore.com#@#a[href^="http://www.jesus-is-savior.com"]
 ||jesus-is-savior.com^$popup,third-party
-! firebrandleft.com
 ##a[href^="http://firebrandleft.com"]
 ##a[href^="http://www.firebrandleft.com"]
 firebrandleft.com#@#a[href^="http://firebrandleft.com"]
 firebrandleft.com#@#a[href^="http://www.firebrandleft.com"]
 ||firebrandleft.com^$popup,third-party
-! americanactionnews.com
 ##a[href^="http://americanactionnews.com"]
 ##a[href^="http://www.americanactionnews.com"]
 ##a[href^="https://americanactionnews.com"]
@@ -2581,7 +2451,6 @@ americanactionnews.com#@#a[href^="http://americanactionnews.com"]
 americanactionnews.com#@#a[href^="http://www.americanactionnews.com"]
 americanactionnews.com#@#a[href^="https://americanactionnews.com"]
 ||americanactionnews.com^$popup,third-party
-! godlikeproductions.com
 ##a[href^="http://godlikeproductions.com"]
 ##a[href^="http://www.godlikeproductions.com"]
 godlikeproductions.com#@#a[href^="http://godlikeproductions.com"]
@@ -2769,6 +2638,7 @@ _204?*_ad&$image,ping
 _300x250-
 _Banner_Ad_
 ##.overlay-box
+##.Overlay
 ###afwp1m
 ###e51nvb
 ###a1ys6c
@@ -2790,3 +2660,9 @@ zippyshare.com##font[style="font-size: 10px; letter-spacing: 3px; word-spacing: 
 ||st-a.props.id^
 ||tags.tiqcdn.com^
 ||cdn4.forter.com^
+##.premium-promo.box
+crackwatch.com##div[id^="\31"]
+##.listingsignupbar.infobar
+||umekana.ru^
+||adskeeper.co.uk^
+||app-measurement.com^
