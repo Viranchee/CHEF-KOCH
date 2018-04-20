@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's uMatrix Filter List
 ! Description: A comprehensive, all-in-one domain list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA 1): C681F7FF1F71714F9A712EA2467637E4C4EB24F8
+! Checksum (SHA 1): 0C271920C32B54418A607C9243706E3C733897FE
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-04-20T02:16:23+01:00
-! Version: 0.0.0.01
+! TimeUpdated: 2018-04-21T00:07:45+01:00
+! Version: 0.0.0.02
 ! Please report any unblocked content or problems by email or via GitHUb issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -1172,3 +1172,50 @@
 0.0.0.0  zous.szm.sk
 0.0.0.0  zt.tim-taxi.com
 0.0.0.0  zyrdu.cruisingsmallship.com
+0.0.0.0  app-measurement.com
+0.0.0.0  app.adjust.com
+0.0.0.0  telemetry.api.swiftkey.com
+0.0.0.0  stats.lineageos.org
+0.0.0.0  google-analytics.com^$important
+0.0.0.0  googlesyndication.com^$important
+0.0.0.0  googleadservices.com^$important
+0.0.0.0  drive.google.com##.a-Fa-pf-Af-k-ja-Mb
+0.0.0.0  drive.google.com##.a-Fa-pf-Af-k.a-Fa-xQS9Ed-k.lb-k
+0.0.0.0  drive.google.com##.a-ee-zh-k-x
+0.0.0.0  googleplaygiftcardcodegenerator.com
+0.0.0.0  www.google-analytics.l.google.com
+0.0.0.0  googletagservices.com
+0.0.0.0  video-stats.video.google.com
+0.0.0.0  www.googletagservices.com
+0.0.0.0  adwords.google.lloymlincs.com
+0.0.0.0  www.adwords.google.lloymlincs.com
+0.0.0.0  googleads.g.doubleclick.net
+0.0.0.0  adservice.google.ca
+0.0.0.0  adservice.google.com
+0.0.0.0  adservices.google.com
+0.0.0.0  affiliate.googleusercontent.com
+0.0.0.0  buttons.googlesyndication.com
+0.0.0.0  feedads.googleadservices.com
+0.0.0.0  googlewordpad.info
+0.0.0.0  imasdk.googleapis.com
+0.0.0.0  m4.afs.googleadservices.com
+0.0.0.0  mimageads1.googleadservices.com
+0.0.0.0  mimageads2.googleadservices.com
+0.0.0.0  mimageads3.googleadservices.com
+0.0.0.0  mimageads4.googleadservices.com
+0.0.0.0  mimageads5.googleadservices.com
+0.0.0.0  mimageads6.googleadservices.com
+0.0.0.0  mimageads7.googleadservices.com
+0.0.0.0  mimageads8.googleadservices.com
+0.0.0.0  mimageads9.googleadservices.com
+0.0.0.0  mimageads.googleadservices.com
+0.0.0.0  mpartner.googleadservices.com
+0.0.0.0  pagead1.googlesyndication.com
+0.0.0.0  pagead2.googlesyndication.com
+0.0.0.0  pagead3.googlesyndication.com
+0.0.0.0  pagead.googlesyndication.com
+0.0.0.0  partner.googleadservices.com
+0.0.0.0  tpc.googlesyndication.com
+0.0.0.0  www.googleadservices.com
+0.0.0.0  www.googlewordpad.info
+0.0.0.0  www.partner.googleadservices.com
