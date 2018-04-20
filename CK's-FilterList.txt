@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA 1): 7C37B8A8C6D40FE2DC274A32B1F1BCBB88371AC6
+! Checksum (SHA 1): 79EAE36EE541FFFDC9D294665E8F619648020FA1
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-04-20T02:16:23+01:00
-! Version: 0.0.0.04
+! TimeUpdated: 2018-04-21T00:06:14+01:00
+! Version: 0.0.0.05
 ! Please report any unblocked content or problems by email or via GitHUb issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -120,9 +120,6 @@ outbrain$script
 ||go.oclasrv.com/apu.php$script,redirect=noopjs
 ||go.onclasrv.com/apu.php$script,redirect=noopjs
 ||godlessnightsfilm.co.uk/scripts/ad-gallery/$important,third-party
-||google-analytics.com^$important
-||googlesyndication.com^$important
-||googleadservices.com^$important
 ||2mdn.net^$important
 ||dmtry.com^$important
 ||admob.com^$important
@@ -326,7 +323,6 @@ outbrain$script
 ||installopensoftware.com^
 ||wii.cardcodes.net^
 ||undoupgrade24.premium-advertising.xyz^
-||googleplaygiftcardcodegenerator.com^
 ||downloadgenerators.com^
 ||failure91resc-09altla14.org^
 ||pslan.com^
@@ -452,9 +448,6 @@ dragonball-tube.com###contenttb > table > tbody > tr:nth-of-type(1) > td
 dragonball-tube.com###div-gpt-ad-1407836068824-0
 dragonball-tube.com##.adb
 dragonball-tube.com##.box > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
-drive.google.com##.a-Fa-pf-Af-k-ja-Mb
-drive.google.com##.a-Fa-pf-Af-k.a-Fa-xQS9Ed-k.lb-k
-drive.google.com##.a-ee-zh-k-x
 dropapk.com###cmt_txt
 dropapk.com###comment_btn
 dropapk.com###mngez-future
@@ -2666,3 +2659,54 @@ crackwatch.com##div[id^="\31"]
 ||umekana.ru^
 ||adskeeper.co.uk^
 ||app-measurement.com^
+||app.adjust.com^
+||telemetry.api.swiftkey.com^
+||stats.lineageos.org^
+!--- Google ----
+||google-analytics.com^$important
+||googlesyndication.com^$important
+||googleadservices.com^$important
+drive.google.com##.a-Fa-pf-Af-k-ja-Mb
+drive.google.com##.a-Fa-pf-Af-k.a-Fa-xQS9Ed-k.lb-k
+drive.google.com##.a-ee-zh-k-x
+||googleplaygiftcardcodegenerator.com^
+||www.google-analytics.l.google.com^
+||googletagservices.com^
+||video-stats.video.google.com^
+!www.googletagservices.com
+||adwords.google.lloymlincs.com^
+||www.adwords.google.lloymlincs.com^
+||googleads.g.doubleclick.net^
+||adservice.google.ca^
+||adservice.google.com^
+||adservices.google.com^
+||affiliate.googleusercontent.com^
+||buttons.googlesyndication.com^
+||feedads.googleadservices.com^
+||googlewordpad.info^
+||imasdk.googleapis.com^
+||m4.afs.googleadservices.com^
+||mimageads1.googleadservices.com^
+||mimageads2.googleadservices.com^
+||mimageads3.googleadservices.com^
+||mimageads4.googleadservices.com^
+||mimageads5.googleadservices.com^
+||mimageads6.googleadservices.com^
+||mimageads7.googleadservices.com^
+||mimageads8.googleadservices.com^
+||mimageads9.googleadservices.com^
+||mimageads.googleadservices.com^
+||mpartner.googleadservices.com^
+||pagead1.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||pagead3.googlesyndication.com^
+||pagead.googlesyndication.com^
+!||partner.googleadservices.com^
+||tpc.googlesyndication.com^
+||www.googleadservices.com^
+||www.googlewordpad.info^
+||www.partner.googleadservices.com^
+@@||www.google.com^$script,subdocument
+@@||www.gstatic.com^$script
+@@||www.gvt1.com^$script
+@@||www.redirector.gvt1.com^$script
