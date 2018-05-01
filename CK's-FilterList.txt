@@ -47,6 +47,14 @@ dart$important,script
 ##div[class*="outbrain"]
 ##div[class*="OUTBRAIN"]
 ##div[data-outbrain-url]
+##div[class^="shareBar_"]
+##div[class^="numberShares_"]
+##div[class^="article__shared_bar"]
+##div[class^="shareButton_"]
+
+
+
+
 ##.ezAdsense
 ##.trc_elastic
 ##.trc_rbox_container
