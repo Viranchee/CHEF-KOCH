@@ -19,6 +19,10 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net)
 
+#### Why do you keep dead domains?
+
+Due the following simple reason, once a domain is dead another 'bad' guy could kick-in and buy it in order to abuse it.
+
 #### uBlock Origin / Nano Adblocker
   - Open uBlock Origin (uBo) options panel
   - Navigate to Filter lists page/tab
