@@ -47,6 +47,12 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 
 #### Like my list? Star it on GitHub! :star: (Desktop site) or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
 
+## Credits 
+
+:construction: The following people contributed to CK's Filter List in order to improve the project. :construction:
+* [The-Commissioner](https://github.com/The-Commissioner)
+
+
 ## License
 
 Content of CHEF-KOCH's Filter List is licensed under a [GNU General Public License v3.0](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE).
