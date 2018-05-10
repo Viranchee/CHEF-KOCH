@@ -1,0 +1,76 @@
+[Adblock Plus 2.0]
+! Title: CHEF-KOCH's Android Filter List
+! Description: A comprehensive, all-in-one ad-block list for Android. Apps and OS related traffic.
+! Checksum (SHA 1): 8606CAA042D1B5B629818FDA117C7F2C319C97DD
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 30 days (update frequency)
+! TimeUpdated: 2018-05-10T09:28:27+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- Domains ----------
+!
+||app-measurement.com^
+||labs-mqtt.xda-developers.com^
+||app.adjust.com^
+||telemetry.api.swiftkey.com^
+||sdmaid.darken.eu^
+||stats.lineageos.org^
+||bbddeffecu^
+||record.sz.ngkmb.com^
+||api.audlabs.com^
+||acdn.adnxs.comm^
+||staticxx.facebook.com^
+||www.facebook.com^
+||connect.facebook.net^
+||app.whappodo.com^
+||widget.trustpilot.com^
+||chimpstatic.com^
+||gwhdbaqgbd^
+||hduxuchwxsqjtly^
+||szbeluhuwpcwla^
+||nllapps.com^
+||gate.hockeyapp.net^
+||reports.crashlytics.com^
+||kyjwuzgtmaoekkyn^
+||skgpxcjdkfbdimk^
+||graph.facebook.com^
+||crgfogntjmd^
+||brurcdz^
+||ewwjuhzp^
+||ikxolkeudr^
+||wnqmtqmwwix^
+||ewwjuhzp^
+||wilysis.com^
+||19bjkkhaycw6f8f4.soundcloud.com^
+||api.pinterest.com^
+||ukzrmjqnxnlwd^
+||hcqfijxg^
+||wqjmpcug^
+||api.techet.net^
+||kinesis.us-east-1amazonaws.com^
+! ---------- Cosmetic Filters ----------
+!
+! ---------- Third-Party ----------
+!
+||owssupport.zendesk.com.auth/v2/host.js$third-party
+||chelpus.com/luckypatcher/LuckyPatcher.apk$third-party
+||www.webmailer.de^$third-party
+!
+! ---------- Google ----------
+!||android.clients.google.com^
+||mobilenetworkscoring-pa.googleapis.com^
+||instantmessaging-pa.googleapis.com^
+||auditrecording-pa.googleapis.com^
+||phonedeviceverification-pa-prod.samdbox.googleapis.com^
+!||time.android.com^
+!||www.google.com^
+!||goo.gl^
+!||play-googleapis.com^
+!||playatoms-pa-googleapis.com^
+!||www.googleapis.com^^
+||safebrowsing-googleapis.com^
