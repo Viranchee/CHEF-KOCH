@@ -13,7 +13,20 @@
 
 **Site-specific or filter-based extensions such as AdBlock Plus, Request Policy, Ghostery, Priv3 and Sharemenot are in general to be avoided**. According to my own security expertise and history I can guarantee that these addons do not add any real privacy layer to the Browser by itself - a proper implementation of the privacy requirements and development efforts on the Browser directly should be preferred on general solutions that prevent tracking by all third parties, rather than a list of specific URLs or hosts.
 
-I do not recommend using any filter lists, instead I highly suggest to work with whitelist only, based on your own needs. However, a filter lists can help to reduce a possible attack surface based on the daily browsing habits.
+I do not recommend using any filter lists, instead I highly recommend to work with whitelist only which are based on your own needs. However, a filter lists can help to reduce a possible attack surface based on the daily browsing habits.
+
+## Project Structure
+
+* `/Android` includes the Android related filter list `CK's-Android-FilterList`.
+* `/I2P & Onion` includes the I2P and .Onion related filter list `CK's-Onion-FilterList.
+* `/Malware` includes the anti-Malware related filter list `CK's-Malware-FilterList`.
+* `/Not blocked` includes the excluded filter list `CK's-Wontblock-FilterList`.
+* `/Test` includes multiple test filters for IP/ASN and uBlock + uMatrix rulesets.
+* `/uBO` includes the uBlock/NanoAdBlock etc. related list `CK's-FilterList`. The list gets splitted (**work-in-process**).
+* `CONTRIBUTING.md` is the file which shows you how to contribute to the project. It's essentially that you read the guidelines before you submit something.
+* `Readme.md` is this file and is the general project overview file.
+* `ToDo.md` is like the name already suggest the current todo list. Same as the CONTRIBUTING.md it needs to be read before you submit something. 
+
 
 
 ## Installation
