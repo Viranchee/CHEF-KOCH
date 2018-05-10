@@ -1,0 +1,38 @@
+! Title: CHEF-KOCH's Onion & I2P Filter List
+! Description: A comprehensive, all-in-one domain list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
+! Checksum (SHA 1): 9D2C8812F75BE5FAE8FB11FAB37A564B6E45CC4F44F86B6B3CA3E3443E4A52F7
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 30 days (update frequency)
+! TimeUpdated: 2018-05-05T22:45:43+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue page.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+127.0.0.2       idnxcnkne4qt76tg.onion
+127.0.0.2       j6im4v42ur6dpic3.onion
+127.0.0.2       p3igkncehackjtib.onion
+127.0.0.2       vwp5zrdfwmw4avcq.onion
+127.0.0.2       p4fsi4ockecnea7l.onion
+127.0.0.2       37lnq2veifl4kar7.onion
+127.0.0.2       3g2upl4pq6kufc4m.onion
+#127.0.0.3      i2p2.i2p
+#127.0.0.3      i2p-projekt.i2p
+#127.0.0.3      plugins.i2p
+#127.0.0.3      echelon.i2p
+#127.0.0.3      postman.i2p
+#127.0.0.3      freshcoffee.i2p
+#127.0.0.3      mail.i2p
+#127.0.0.3      zzz.i2p
+#127.0.0.3      killyourtv.i2p
+#127.0.0.3      eepsites.i2p
+#127.0.0.3      i2pbote.i2p
+#127.0.0.3      false.i2p
+#127.0.0.3      forum.i2p
+#127.0.0.3      pastethis.i2p
+#127.0.0.3      ugha.i2p
+#127.0.0.3      planet.i2p
+#127.0.0.3      stats.i2p
+#127.0.0.3      inr.i2p
