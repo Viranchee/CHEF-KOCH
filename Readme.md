@@ -18,7 +18,7 @@ I do not recommend using any filter lists, instead I highly recommend to work wi
 ## Project Structure
 
 * `/Android` includes the Android related filter list `CK's-Android-FilterList`.
-* `/I2P & Onion` includes the I2P and .Onion related filter list `CK's-Onion-FilterList.
+* `/I2P & Onion` includes the I2P and .Onion related filter list `CK's-Onion-FilterList`.
 * `/Malware` includes the anti-Malware related filter list `CK's-Malware-FilterList`.
 * `/Not blocked` includes the excluded filter list `CK's-Wontblock-FilterList`.
 * `/Test` includes multiple test filters for IP/ASN and uBlock + uMatrix rulesets.
@@ -43,14 +43,14 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net)
 
-#### uBlock Origin / Nano Adblocker
+#### uBlock Origin / Nano Adblocker  (**needs to be re-written**)
   - Open uBlock Origin (uBo) options panel
   - Navigate to Filter lists page/tab
   - On the bottom of the page, there should be an 'Custom' section (you might need to click the + to reveal the 'Import' button, click on it:
   - Copy & paste into the textbox:
   
   ```
-  https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt
+  https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt  (**link fix after change**)
   ```
   
   - Now there should appear a yellow button called "Parse", click it
