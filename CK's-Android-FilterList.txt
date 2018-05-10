@@ -72,6 +72,10 @@
 !
 ! ---------- Google ----------
 !
+||doubleclick.com^
+||google-analytics.com^
+||googleadservices.com^
+||googleanalytics.com^
 ||mobilenetworkscoring-pa.googleapis.com^
 ||instantmessaging-pa.googleapis.com^
 ||auditrecording-pa.googleapis.com^
