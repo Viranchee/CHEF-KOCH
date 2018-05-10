@@ -22,6 +22,8 @@
 
 :bulb: Remedy any issues yourself instantly by simply disabling your ad blocker for the affected website.
 
+:bulb: Rules like `website.com##script:inject(abort-on-property-write.js, uabInject)` are invalid and the Pull Request gets rejected.
+
 ## Notes:
 
 :grey_exclamation: CHEF-KOCH's FilterList uses the Adblock/uBlock/AdGuard filter syntax and ideally should be used with uBlock, AdGuard etc. for the intended/optimal performance. However, the list can be used with other ad blockers that support the filter syntax.
@@ -42,7 +44,10 @@
 
 :link: [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) (Opt-out of Google Analytics.)
 
+:link: How to [write correct filters](https://adblockplus.org/en/filters), the filters itself are explained over [here](https://adblockplus.org/en/filter-cheatsheet). uBO examples are given [here](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax) and AdGuard Guide is available [here](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters).
+
 ###### You may use the following tools:
 - [Redundant Rule Checker](https://arestwo.org/famlam/redundantRuleChecker.html)
 - [Adblock Syntax](https://adblockplus.org/filters)
 - [Regex Visualizer](http://www.regexper.com/)
+- [Adblock Plus filter syntax / HTML/CSS/JavaScript - useful links](https://forums.lanik.us/viewtopic.php?f=84&t=35435)
