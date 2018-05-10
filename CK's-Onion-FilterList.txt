@@ -1,6 +1,6 @@
 ! Title: CHEF-KOCH's Onion & I2P Filter List
-! Description: A comprehensive, all-in-one domain list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA 1): 9D2C8812F75BE5FAE8FB11FAB37A564B6E45CC4F44F86B6B3CA3E3443E4A52F7
+! Description: A comprehensive, all-in-one domain list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies and faked pages.
+! Checksum (SHA 1): 248615DD0F7F9115FF374B7F63B48FBDB4094BE9
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList

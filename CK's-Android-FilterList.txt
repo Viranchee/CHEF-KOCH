@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: CHEF-KOCH's Android Filter List
 ! Description: A comprehensive, all-in-one ad-block list for Android. Apps and OS related traffic.
-! Checksum (SHA 1): 8606CAA042D1B5B629818FDA117C7F2C319C97DD
+! Checksum (SHA 1): 470680CDF67015D6460A3E35CD3CEBDA9E56A283
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
