@@ -11,3 +11,4 @@
 - [x] Create a uMatrix ruleset
 - [x] Add an ISSUE_TEMPLATE
 - [x] Add ASN list (Wip)
+- [ ] Exclude the domains which should not be blocked into a separate file
