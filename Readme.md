@@ -1,5 +1,11 @@
 # CHEF-KOCH's Filter List
 
+
+
+Readme.md is under construction! 
+
+
+
 <p align="center">
   <img width="480" height="430" src="https://i.imgur.com/rlEFwae.png">
 </p>
@@ -9,7 +15,7 @@
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 
-## Warning about filter usage
+## Information about filter usage
 
 **Site-specific or filter-based extensions such as AdBlock Plus, Request Policy, Ghostery, Priv3 and Sharemenot are in general to be avoided**. According to my own security expertise and history I can guarantee that these addons do not add any real privacy layer to the Browser by itself - a proper implementation of the privacy requirements and development efforts on the Browser directly should be preferred on general solutions that prevent tracking by all third parties, rather than a list of specific URLs or hosts.
 
@@ -37,7 +43,7 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![uBock Origin](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) or [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore)
 * ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) [AdGuard Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html)
 * ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) for **Android** and **iOS** devices
-* ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) (Included by default)
+* ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com)
 * ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com)
 * <img src="https://1blocker.com/img/icon.png" width=16> [1Blocker](https://1blocker.com) for iOS or MacOS devices
 * ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
@@ -72,4 +78,4 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 
 ## License
 
-Content of CHEF-KOCH's Filter List is licensed under a [GNU General Public License v3.0](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE).
+Content of CHEF-KOCH's Filter List is licensed under a [ISC License](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE).
