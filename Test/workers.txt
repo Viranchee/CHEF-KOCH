@@ -1,0 +1,2 @@
+*$csp=worker-src 'none'
+@@||github.com^$csp=worker-src 'none'
