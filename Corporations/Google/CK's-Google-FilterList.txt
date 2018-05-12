@@ -1,0 +1,37 @@
+[Adblock Plus 2.8]
+! Title: CHEF-KOCH's Google Filter List
+! Description: Block all Google related connections.
+! Checksum (SHA 1): B279908E31B3E7D9D89710224BDF39F5A653DA7A
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 30 days (update frequency)
+! TimeUpdated: 2018-05-10T17:21:45+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- Google ----------
+!
+||21150.com^
+||3576.net^
+||38389438.com^
+||466453.com^
+||7sou.com^
+||95539.com^
+||admob.com^
+||adsense.com^
+||adwords.com^
+||auditrecording-pa.googleapis.com^
+||doubleclick.com^
+||g.cn^
+||google-analytics.com^
+||googleadservices.com^
+||googleanalytics.com^
+||instantmessaging-pa.googleapis.com^
+||mobilenetworkscoring-pa.googleapis.com^
+||phonedeviceverification-pa-prod.samdbox.googleapis.com^
+||safebrowsing-googleapis.com^
+||storage.googleapis.com^
+||reports.crashlytics.com^

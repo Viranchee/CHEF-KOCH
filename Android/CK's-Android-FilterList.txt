@@ -1,44 +1,41 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Android Filter List
 ! Description: A comprehensive, all-in-one ad-block list for Android. Apps and OS related traffic. The list is only tested against AdGuard!
-! Checksum (SHA 1): 3D2924797859917EFAB05B93A0BF8A06C6CDE695
+! Checksum (SHA 1): 91F3F24DEA195A496F3CF79A5A6AACC8FFF0D695
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
 ! TimeUpdated: 2018-05-10T17:21:45+01:00
-! Version: 0.0.0.4
+! Version: 0.0.0.5
 ! Please report any unblocked content or problems by email or via GitHub issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 !
 ! ---------- Apps related ----------
 !
-||app-measurement.com^
-||labs-mqtt.xda-developers.com^
-||app.adjust.com^
-||telemetry.api.swiftkey.com^
-||sdmaid.darken.eu^
-||stats.lineageos.org^
-||record.sz.ngkmb.com^
-||api.audlabs.com^
-||acdn.adnxs.comm^
-||staticxx.facebook.com^
-||www.facebook.com^
-||connect.facebook.net^
-||app.whappodo.com^
-||widget.trustpilot.com^
-||chimpstatic.com^
-||nllapps.com^
-||gate.hockeyapp.net^
-||reports.crashlytics.com^
-||graph.facebook.com^
-||wilysis.com^
 ||19bjkkhaycw6f8f4.soundcloud.com^
+||acdn.adnxs.comm^
+||api.audlabs.com^
 ||api.pinterest.com^
 ||api.techet.net^
+||app-measurement.com^
+||app.adjust.com^
+||app.whappodo.com^
+||chimpstatic.com^
+||gate.hockeyapp.net^
 ||kinesis.us-east-1amazonaws.com^
+||labs-mqtt.xda-developers.com^
+||ms-applications.appspot.com^
+||nllapps.com^
 ||qrbotandroid.firebase.com^
+||record.sz.ngkmb.com^
+||reports.crashlytics.com^
+||sdmaid.darken.eu^
+||stats.lineageos.org^
+||telemetry.api.swiftkey.com^
+||widget.trustpilot.com^
+||wilysis.com^
 !
 ! ---------- Cosmetic Filters ----------
 !
@@ -46,48 +43,51 @@
 ! ---------- DNS ----------
 !
 ||aafsiuwmsuiea^
-||olfeymupbgrvom^
-||gxokakqlwydvzvz^
-||ukzrmjqnxnlwd^
-||hcqfijxg^
-||wqjmpcug^
-||crgfogntjmd^
-||brurcdz^
-||ewwjuhzp^
-||ikxolkeudr^
-||wnqmtqmwwix^
-||ewwjuhzp^
-||kyjwuzgtmaoekkyn^
-||skgpxcjdkfbdimk^
-||gwhdbaqgbd^
-||hduxuchwxsqjtly^
-||szbeluhuwpcwla^
 ||bbddeffecu^
+||brurcdz^
+||crgfogntjmd^
+||ewwjuhzp^
+||ewwjuhzp^
+||gwhdbaqgbd^
+||gxokakqlwydvzvz^
+||hcqfijxg^
+||hduxuchwxsqjtly^
+||ikxolkeudr^
+||jrtmtyrgtf^
+||kyjwuzgtmaoekkyn^
+||miiccbz^
+||olfeymupbgrvom^
+||skgpxcjdkfbdimk^
+||szbeluhuwpcwla^
+||ukzrmjqnxnlwd^
+||wnqmtqmwwix^
+||wqjmpcug^
+||xuajldeuud^
+!
 ! ---------- Third-Party ----------
 !
-!
-||owssupport.zendesk.com.auth/v2/host.js$third-party
 ||chelpus.com/luckypatcher/LuckyPatcher.apk$third-party
+||owssupport.zendesk.com.auth/v2/host.js$third-party
 ||www.webmailer.de^$third-party
 !
 ! ---------- Google ----------
 !
-||doubleclick.com^
-||google-analytics.com^
-||googleadservices.com^
-||googleanalytics.com^
-||mobilenetworkscoring-pa.googleapis.com^
-||instantmessaging-pa.googleapis.com^
-||auditrecording-pa.googleapis.com^
-||phonedeviceverification-pa-prod.samdbox.googleapis.com^
-||safebrowsing-googleapis.com^
+||21150.com^
+||3576.net^
+||38389438.com^
+||466453.com^
+||7sou.com^
+||95539.com^
 ||admob.com^
 ||adsense.com^
 ||adwords.com^
-||21150.com^
-||3576.net^
-||7sou.com^
-||95539.com^
-||466453.com^
-||38389438.com^
+||auditrecording-pa.googleapis.com^
+||doubleclick.com^
 ||g.cn^
+||google-analytics.com^
+||googleadservices.com^
+||googleanalytics.com^
+||instantmessaging-pa.googleapis.com^
+||mobilenetworkscoring-pa.googleapis.com^
+||phonedeviceverification-pa-prod.samdbox.googleapis.com^
+||safebrowsing-googleapis.com^

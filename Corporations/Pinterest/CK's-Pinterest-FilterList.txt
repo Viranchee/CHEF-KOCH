@@ -1,0 +1,28 @@
+[Adblock Plus 2.8]
+! Title: CHEF-KOCH's Pinterest Filter List
+! Description: Block all Pinterest related connections, it also blocks sync and other apps and services.
+! Checksum (SHA 1): DD696A95780E9C142D68F13A702C31790704918E
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 30 days (update frequency)
+! TimeUpdated: 2018-05-10T17:21:45+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+||blocked.cdn.mozilla.net^
+||crash-stats.mozilla.com^
+||detectportal.firefox.com^
+||experiments.mozilla.org^
+||fhr.cdn.mozilla.net^
+||incoming.telemetry.mozilla.org^
+||onyx_tiles.stage.mozaws.net^
+||search.services.mozilla.com^
+||shavar.services.mozilla.com^
+||shavar.services.mozilla.com^
+||tbpl.mozilla.org^
+||telemetry-experiment.cdn.mozilla.net^
+||telemetry.mozilla.org^
+||tiles.services.mozilla.com^

@@ -1,0 +1,51 @@
+[Adblock Plus 2.8]
+! Title: CHEF-KOCH's Font Filter List
+! Description: Block all external Fonts.
+! Checksum (SHA 1): 25DC116FF3010EF1AB3545159735C797B496CB9A
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 30 days (update frequency)
+! TimeUpdated: 2018-05-10T17:21:45+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+||alluremedia.com.au^$font,third-party
+||amazonaws.com^$font,third-party
+||cloud.typography.com^$third-party
+||cloud.webtype.com^$font,third-party
+||cloudfront.net^$font,third-party
+||disquscdn.com/next/assets/font/$third-party
+||edgefonts.net^$third-party
+||fast.fonts.com^$third-party
+||fast.fonts.net^$third-party
+||fastly.net^$font,third-party
+||fontawesome.com^$third-party
+||fontdeck.com^$third-party
+||fonts.advance.net^$third-party
+||fonts.bauernet.me^
+||fonts.condenast.com^$script,third-party
+||fonts.googleapis.com/css?
+||fonts.gotraffic.net^$script
+||fonts.gstatic.com^$third-party
+||fonts.nymag.com^$script,third-party
+||fonts.staticworld.net^$third-party
+||fonts.timeinc.net^
+||fonts.voxmedia.com^$third-party
+||googleapis.com/ajax/libs/webfont/$third-party
+||googleusercontent.com/static/fonts/$third-party
+||gotraffic.net^$font
+||maxcdn.bootstrapcdn.com/font-awesome/$third-party
+||myfontastic.com^$third-party
+||myfonts.net^$third-party
+||netdna-cdn.com^*/webfonts/
+||netdna.bootstrapcdn.com^*/fonts/$third-party
+||qmerce.com/assets/$font
+||typefront.com^$third-party
+||typekit.com^$third-party
+||typekit.net^$third-party
+||use.fonticons.com^$third-party
+||webfonts.creativecloud.com^$third-party
+||wp.com^*/fonts/$third-party

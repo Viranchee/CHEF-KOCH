@@ -1,0 +1,68 @@
+[Adblock Plus 2.8]
+! Title: CHEF-KOCH's Cloudflare Filter List
+! Description: Block all Cloudflare related connections.
+! Checksum (SHA 1): 667E6455F4AD840A32A26D57D297A4289BDBF872
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 30 days (update frequency)
+! TimeUpdated: 2018-05-10T17:21:45+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+||ajax.cloudflare.com^
+||api.cloudflare.com^
+||beth.ns.cloudflare.com^
+||blog.cloudflare.com^
+||bob.ns.cloudflare.com^
+||cdnjs.cloudflare.com^
+||cf-173-245-53-191.cloudflare.com^
+||cf-173-245-56-224.cloudflare.com^
+||cheryl.ns.cloudflare.com^
+||clark.ns.cloudflare.com^
+||dahlia.ns.cloudflare.com^
+||dave.ns.cloudflare.com^
+||dawn.ns.cloudflare.com^
+||dina.ns.cloudflare.com^
+||dns2.cloudflare.com^
+||dns3.cloudflare.com^
+||donald.ns.cloudflare.com^
+||duke.ns.cloudflare.com^
+||ed.ns.cloudflare.com^
+||elsa.ns.cloudflare.com^
+||eric.ns.cloudflare.com^
+||greg.ns.cloudflare.com^
+||hank.ns.cloudflare.com^
+||ian.ns.cloudflare.com^
+||isla.ns.cloudflare.com^
+||ivan.ns.cloudflare.com^
+||jake.ns.cloudflare.com^
+||jeff.ns.cloudflare.com^
+||jerry.ns.cloudflare.com^
+||karina.ns.cloudflare.com^
+||kate.ns.cloudflare.com^
+||kim.ns.cloudflare.com^
+||lee.ns.cloudflare.com^
+||lily.ns.cloudflare.com^
+||linda.ns.cloudflare.com^
+||lloyd.ns.cloudflare.com^
+||lola.ns.cloudflare.com^
+||maria.ns.cloudflare.com^
+||mark.ns.cloudflare.com^
+||ns.cloudflare.com^
+||ns3.cloudflare.com^
+||ns5.cloudflare.com^
+||olga.ns.cloudflare.com^
+||pam.ns.cloudflare.com^
+||rob.ns.cloudflare.com^
+||sara.ns.cloudflare.com^
+||support.cloudflare.com^
+||support.cloudflare.com^
+||uma.ns.cloudflare.com^
+||whois.cloudflare.com^
+||will.ns.cloudflare.com^
+||www.cloudflare.com^
+||www.cloudflare.com^
+||zara.ns.cloudflare.com^

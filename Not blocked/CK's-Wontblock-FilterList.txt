@@ -3,6 +3,7 @@ Will not be avbl. via subscription.
 !
 ! ---------- Google ----------
 !
+||people-pa.googleapis.com^
 ||time.android.com^
 ||www.google.com^
 ||android.clients.google.com^
