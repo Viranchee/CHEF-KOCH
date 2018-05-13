@@ -28,7 +28,6 @@ I do not recommend using any filter lists, instead I highly recommend to work wi
 * `/Malware` includes the anti-Malware related filter list `CK's-Malware-FilterList`.
 * `/Not blocked` includes the excluded filter list `CK's-Wontblock-FilterList`.
 * `/Test` includes multiple test filters for IP/ASN and uBlock + uMatrix rulesets.
-* `/uBO` includes the uBlock/NanoAdBlock etc. related list `CK's-FilterList`. The list gets splitted (**work-in-process**).
 * `CONTRIBUTING.md` is the file which shows you how to contribute to the project. It's essentially that you read the guidelines before you submit something.
 * `Readme.md` is this file and is the general project overview file.
 * `ToDo.md` is like the name already suggest the current todo list. Same as the CONTRIBUTING.md it needs to be read before you submit something. 
@@ -38,10 +37,13 @@ I do not recommend using any filter lists, instead I highly recommend to work wi
 ## Installation
 
 Make sure you have an ad-blocker installed in your desktop or mobile browsers that uses [Adblock Plus](https://adblockplus.org/) filter syntax:
+* ![AdAway](https://i.imgur.com/AdWsIxw.png) [AdAway](https://github.com/AdAway/AdAway) for **Android**
 * ![AdBlock](https://i.imgur.com/3KbyifF.png) [AdBlock](https://getadblock.com)
 * ![AdBlock Plus](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/)
+* ![Blackada](https://i.imgur.com/XB1l9aG.png?1) [Blockada](http://blokada.org/) for **Android**
+* ![DNS66](https://github.com/julian-klode/dns66) for **Android**
 * ![uBock Origin](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) or [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore)
-* ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) [AdGuard Browser Extension](https://adguard.com/en/adguard-browser-extension/overview.html)
+* ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) (All Platforms)
 * ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) for **Android** and **iOS** devices
 * ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com)
 * ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com)
