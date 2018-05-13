@@ -11,6 +11,9 @@
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
+! OS level font blocking: 
+! https://docs.microsoft.com/en-us/windows/security/threat-protection/block-untrusted-fonts-in-enterprise
+! https://blogs.technet.microsoft.com/secguide/2017/06/15/dropping-the-untrusted-font-blocking-setting/
 !
 ||alluremedia.com.au^$font,third-party
 ||amazonaws.com^$font,third-party
