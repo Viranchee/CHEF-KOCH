@@ -40,7 +40,6 @@
 ||betaoneservices.com^
 ||bing-int.com^
 ||bing.com^
-||bing.net:443^
 ||bing.net^
 ||binginternal.com^
 ||brktx.com^
