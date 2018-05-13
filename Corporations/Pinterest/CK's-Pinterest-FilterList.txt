@@ -17,10 +17,8 @@
 ||detectportal.firefox.com^
 ||experiments.mozilla.org^
 ||fhr.cdn.mozilla.net^
-||incoming.telemetry.mozilla.org^
 ||onyx_tiles.stage.mozaws.net^
 ||search.services.mozilla.com^
-||shavar.services.mozilla.com^
 ||shavar.services.mozilla.com^
 ||tbpl.mozilla.org^
 ||telemetry-experiment.cdn.mozilla.net^
