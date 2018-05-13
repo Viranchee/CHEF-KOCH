@@ -19,7 +19,6 @@
 127.0.0.2       37lnq2veifl4kar7.onion
 127.0.0.2       3g2upl4pq6kufc4m.onion
 127.0.0.2       3g2up5afx6n5miu4.onion
-127.0.0.2       msydqjihosw2fsu3.onion
 127.0.0.2       25ffhe3ppwxs7kvz.onion
 127.0.0.2       2jv5rmgnmze5l6i4.onion
 127.0.0.2       2kka4fvykre7lixh.onion
@@ -31,20 +30,6 @@
 127.0.0.2       344c6ybvfvgixumv.onion
 127.0.0.2       34j2fnjhzm6ziok2.onion
 127.0.0.2       3dbr5b6julcuecih.onion
-127.0.0.2       3g2up5afx6n5miu4.onion
-127.0.0.2       4yjesu7shlur5r2j.onion
-127.0.0.2       25ffhe3ppwxs7kvz.onion
-127.0.0.2       2jv5rmgnmze5l6i4.onion
-127.0.0.2       2kka4fvykre7lixh.onion
-127.0.0.2       2ogmrvgb2vqmfd7x.onion
-127.0.0.2       2qrdpa2pnlt25ra2.onion
-127.0.0.2       2v7ibxmgunxlbk7m.onion
-127.0.0.2       32ixilcy6zntfvxc.onion
-127.0.0.2       334bkwavf5w5u5ds.onion
-127.0.0.2       344c6ybvfvgixumv.onion
-127.0.0.2       34j2fnjhzm6ziok2.onion
-127.0.0.2       3dbr5b6julcuecih.onion
-127.0.0.2       3g2up5afx6n5miu4.onion
 127.0.0.2       4yjesu7shlur5r2j.onion
 127.0.0.2       52o7rfly3mvjiqgg.onion
 127.0.0.2       5oulvvbt6szuzjtp.onion
@@ -71,7 +56,6 @@
 127.0.0.2       bitbleiyua7uro22.onion
 127.0.0.2       bitmailrmtb2fcjo.onion
 127.0.0.2       blackblye5nyfjdn.onion
-127.0.0.2       blockchatntqnf7o.onion
 127.0.0.2       blockchatntqnf7o.onion
 127.0.0.2       bm26rgwc7u545fuo.onion
 127.0.0.2       c3jembnkdnbcdniu.onion
@@ -103,8 +87,6 @@
 127.0.0.2       flibuwz3ij5czyks.onion
 127.0.0.2       fmpr22lptmrda3tw.onion
 127.0.0.2       foggedd7z6li5fyn.onion
-127.0.0.2       foggedd7z6li5fyn.onion
-127.0.0.2       foggedd7z6li5fyn.onion
 127.0.0.2       forumnokn57p7u2j.onion
 127.0.0.2       forum5fipx3hwjcx.onion
 127.0.0.2       freephirrpusfho3.onion
@@ -116,7 +98,6 @@
 127.0.0.2       geti2b6dmi73jutl.onion
 127.0.0.2       ggvowe5kgjw47q3e.onion
 127.0.0.2       googojjjxpclkepr.onion
-127.0.0.2       grams7xfvv7kbyc3.onion
 127.0.0.2       grams7xfvv7kbyc3.onion
 127.0.0.2       greenmwbv5u5t5th.onion
 127.0.0.2       greenjexhpmkokgb.onion
