@@ -1,6 +1,6 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Android Filter List
-! Description: A comprehensive, all-in-one ad-block list for Android. Apps and OS related traffic. The list is only tested against AdGuard!
+! Description: A comprehensive, all-in-one ad-block list for Android. Apps and OS related traffic, it's designed to filter 'unneeded' Android connections. The list is only tested against AdGuard!
 ! Checksum (SHA 1): 91F3F24DEA195A496F3CF79A5A6AACC8FFF0D695
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
@@ -8,7 +8,7 @@
 ! Expires: 30 days (update frequency)
 ! TimeUpdated: 2018-05-10T17:21:45+01:00
 ! Version: 0.0.0.5
-! Please report any unblocked content or problems by email or via GitHub issue
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 !
