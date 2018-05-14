@@ -1,0 +1,72 @@
+# Title: CHEF-KOCH's Cloudflare Filter List for HOSTS
+# Description: Block all Cloudflare connections. 
+# Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
+# Checksum (SHA 1): 46B7B1F19464C5D4FDEBFC34C5EC388B05410863
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 90 days
+# TimeUpdated: 2018-05-13	22:18:01+01:00
+# Version: 0.0.0.1
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 by CHEF-KOCH
+#
+# ---------- Cloudflare ----------
+#
+0.0.0.0 pam.ns.cloudflare.com
+0.0.0.0 cody.ns.cloudflare.com
+0.0.0.0 ajax.cloudflare.com
+0.0.0.0 api.cloudflare.com
+0.0.0.0 beth.ns.cloudflare.com
+0.0.0.0 blog.cloudflare.com
+0.0.0.0 bob.ns.cloudflare.com
+0.0.0.0 cdnjs.cloudflare.com
+0.0.0.0 cf-173-245-53-191.cloudflare.com
+0.0.0.0 cf-173-245-56-224.cloudflare.com
+0.0.0.0 cheryl.ns.cloudflare.com
+0.0.0.0 clark.ns.cloudflare.com
+0.0.0.0 dahlia.ns.cloudflare.com
+0.0.0.0 dave.ns.cloudflare.com
+0.0.0.0 dawn.ns.cloudflare.com
+0.0.0.0 dina.ns.cloudflare.com
+0.0.0.0 dns2.cloudflare.com
+0.0.0.0 dns3.cloudflare.com
+0.0.0.0 donald.ns.cloudflare.com
+0.0.0.0 duke.ns.cloudflare.com
+0.0.0.0 ed.ns.cloudflare.com
+0.0.0.0 elsa.ns.cloudflare.com
+0.0.0.0 eric.ns.cloudflare.com
+0.0.0.0 greg.ns.cloudflare.com
+0.0.0.0 hank.ns.cloudflare.com
+0.0.0.0 ian.ns.cloudflare.com
+0.0.0.0 isla.ns.cloudflare.com
+0.0.0.0 ivan.ns.cloudflare.com
+0.0.0.0 jake.ns.cloudflare.com
+0.0.0.0 jeff.ns.cloudflare.com
+0.0.0.0 jerry.ns.cloudflare.com
+0.0.0.0 karina.ns.cloudflare.com
+0.0.0.0 kate.ns.cloudflare.com
+0.0.0.0 kim.ns.cloudflare.com
+0.0.0.0 lee.ns.cloudflare.com
+0.0.0.0 lily.ns.cloudflare.com
+0.0.0.0 linda.ns.cloudflare.com
+0.0.0.0 lloyd.ns.cloudflare.com
+0.0.0.0 lola.ns.cloudflare.com
+0.0.0.0 maria.ns.cloudflare.com
+0.0.0.0 mark.ns.cloudflare.com
+0.0.0.0 ns.cloudflare.com
+0.0.0.0 ns3.cloudflare.com
+0.0.0.0 ns5.cloudflare.com
+0.0.0.0 olga.ns.cloudflare.com
+0.0.0.0 pam.ns.cloudflare.com
+0.0.0.0 rob.ns.cloudflare.com
+0.0.0.0 sara.ns.cloudflare.com
+0.0.0.0 support.cloudflare.com
+0.0.0.0 support.cloudflare.com
+0.0.0.0 uma.ns.cloudflare.com
+0.0.0.0 whois.cloudflare.com
+0.0.0.0 will.ns.cloudflare.com
+0.0.0.0 www.cloudflare.com
+0.0.0.0 www.cloudflare.com
+0.0.0.0 zara.ns.cloudflare.com

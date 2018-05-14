@@ -1,0 +1,65 @@
+# Title: CHEF-KOCH's Mozilla Filter List
+# Description: Block all Mozilla related connections, it also blocks sync and other apps + services.
+# Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
+# Checksum (SHA 1): 2E57925735BF1F5CFDA3412FD8809D4FA8AAB64B
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 90 days 
+# TimeUpdated: 2018-05-13	15:01:45+01:00
+# Version: 0.0.0.1
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 by CHEF-KOCH
+#
+# ---------- Mozilla ----------
+#
+0.0.0.0 accounts.firefox.com
+0.0.0.0 activations.cdn.mozilla.net
+0.0.0.0 add.my.yahoo.com
+0.0.0.0 addons.mozilla.org
+0.0.0.0 api.accounts.firefox.com
+0.0.0.0 aus5.mozilla.org
+0.0.0.0 auth.services.mozilla.com
+0.0.0.0 blocked.cdn.mozilla.net
+0.0.0.0 blocklist.addons.mozilla.org
+0.0.0.0 cdnjs.cloudflare.com
+0.0.0.0 code.cdn.mozilla.net
+0.0.0.0 compose.mail.yahoo.com
+0.0.0.0 crash-stats.mozilla.com
+0.0.0.0 crash-stats.mozilla.org
+0.0.0.0 data.mozilla.com
+0.0.0.0 detectportal.firefox.com
+0.0.0.0 developer.mozilla.org
+0.0.0.0 experiments.mozilla.org
+0.0.0.0 fhr.cdn.mozilla.net
+0.0.0.0 fhr.data.mozilla.net
+0.0.0.0 ftp.mozilla.org
+0.0.0.0 hello.firefox.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 input.mozilla.org
+0.0.0.0 location.services.mozilla.com
+0.0.0.0 loop.services.mozilla.com
+0.0.0.0 mail.google.com
+0.0.0.0 marketplace.firefox.com
+0.0.0.0 mozsocial.cliqz.com
+0.0.0.0 oauth.accounts.firefox.com
+0.0.0.0 onyx_tiles.stage.mozaws.net
+0.0.0.0 profile.accounts.firefox.com
+0.0.0.0 search.services.mozilla.com
+0.0.0.0 self-repair.mozilla.org
+0.0.0.0 services.addons.mozilla.org
+0.0.0.0 services.mozilla.com
+0.0.0.0 setup.services.mozilla.com
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 support.mozilla.org
+0.0.0.0 tbpl.mozilla.org
+0.0.0.0 telemetry-experiment.cdn.mozilla.net
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 tiles.services.mozilla.com
+0.0.0.0 token.services.mozilla.com
+0.0.0.0 wiki.mozilla.org
+0.0.0.0 www.firefox.com
+0.0.0.0 www.mibbit.com
+0.0.0.0 www.mozilla.org

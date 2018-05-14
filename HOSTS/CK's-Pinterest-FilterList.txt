@@ -1,0 +1,32 @@
+# Title: CHEF-KOCH's Pinterest Filter List
+# Description: Block all Pinterest related connections, it also blocks sync and other apps and services.
+# Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
+# Checksum (SHA 1): 13996120EE6DE115B701D2C49A012B8EA4885A26
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 90 days
+# TimeUpdated: 2018-05-10T17:21:45+01:00
+# Version: 0.0.0.1
+# Please report any unblocked content or problems by email or via GitHub issue
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 by CHEF-KOCH
+#
+# ---------- Pinterest ----------
+#
+0.0.0.0 edgecastcdn.com
+0.0.0.0 ns1.pinterest.com
+0.0.0.0 ns2.pinterest.com
+0.0.0.0 ns3.pinterest.com
+0.0.0.0 ns4.pinterest.com
+0.0.0.0 ns5.pinterest.com
+0.0.0.0 ns6.pinterest.com
+0.0.0.0 ns7.pinterest.com
+0.0.0.0 ns8.pinterest.com 
+0.0.0.0 pin.it
+0.0.0.0 pinimg.com
+0.0.0.0 pinterest.com
+0.0.0.0 s-media-cache-ak0.pinimg.com
+0.0.0.0 s-media-cache-ak0.pinimg.com
+0.0.0.0 s-passets-cache-ak0.pinimg.com
+0.0.0.0 s-passets-cache-ak0.pinimg.com
