@@ -1,0 +1,34 @@
+Ultimately we could do ONE list for everything, so the user only need to sub to on list and exclude the stuff he doesn't like to get.
+
+This needs to be checked and verified with UBO, AdGuard, AdAway etc. or a PR must be done to support such loading.  
+
+
+! Main
+#include /I2P & Onion/CK's-Onion-FilterList.txt
+#include /Ad & Tracker/CK's-Ad-Tracker-FilterList.txt
+#include /Android/CK's-Android-FilterList.txt
+
+
+! Fonts
+#include /Fonts/CK's-Fonts-FilterList.txt
+
+! Malware
+#include /Malware/CK's-Malware-FilterList.txt
+
+
+! Excluded
+#include /Not blocked/CK's-Wontblock-FilterList.txt
+
+
+! Hosts
+#include \Corporations\Cloudflare\CK's-Cloudflare-FilterList.txt
+#include \Corporations\Facebook\CK's-Facebook-FilterList.txt
+#include \Corporations\Google\CK's-Google-FilterList.txt
+#include \Corporations\Microsoft\CK's-Microsoft-FilterList.txt
+#include \Corporations\Mozilla\CK's-Mozilla-FilterList.txt
+#include \Corporations\Pinterest\CK's-Pinterest-FilterList.txt
+#include \Corporations\Spotify Ad-Free\CK's-Spotify-FilterList.txt
+
+
+! uMatrix
+!#include \uMatrix\CK's-uMatrix-FilterList.txt
