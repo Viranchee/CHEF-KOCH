@@ -1,14 +1,14 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Google Filter List
 ! Description: Block all Google related connections.
-! Checksum (SHA 1): 50334B8188E89723FA2B5337A4C9F15D87E9E74F
+! Checksum (SHA3-256): A7FFC6F8BF1ED76651C14756A061D662F580FF4DE43B49FA82D80A4B80F8434A
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
 ! TimeUpdated: 2018-05-10	17:21:45+01:00
-! Version: 0.0.0.2
-! Please report any unblocked content or problems by email or via GitHub issue
+! Version: 0.0.0.3
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 !
@@ -360,6 +360,7 @@
 ||pagespeedmobilizer.com^
 ||panoramio.com^
 ||picasa.com^
+||play.googleapis.com^
 ||reports.crashlytics.com^
 ||safebrowsing-googleapis.com^
 ||sketchup.com^
@@ -373,5 +374,16 @@
 ||youtube.com^
 ||youtubeeducation.com^
 ||youtubegaming.com^
+||youtubei.googleapis.com^
 ||yt.be^
+||yt1.ggpht.com^
+||yt10.ggpht.com^
+||yt2.ggpht.com^
+||yt3.ggpht.com^
+||yt4.ggpht.com^
+||yt5.ggpht.com^
+||yt6.ggpht.com^
+||yt7.ggpht.com^
+||yt8.ggpht.com^
+||yt9.ggpht.com^
 ||ytimg.com^
