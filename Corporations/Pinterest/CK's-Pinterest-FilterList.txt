@@ -22,7 +22,7 @@
 ||ns5.pinterest.com^
 ||ns6.pinterest.com^
 ||ns7.pinterest.com^
-||ns8.pinterest.com ^
+||ns8.pinterest.com^
 ||pin.it^
 ||pinimg.com^
 ||pinterest.com^
