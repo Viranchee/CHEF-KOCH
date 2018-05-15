@@ -1,16 +1,18 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Cloudflare Filter List
 ! Description: Block all Cloudflare related connections.
-! Checksum (SHA 1): 667E6455F4AD840A32A26D57D297A4289BDBF872
+! Checksum (SHA3-256): 89046CDC2AB3F5D2C83FFDAC9EAC044FC1BC1E9FF4A59D035E365A742AAC4383
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-10T17:21:45+01:00
+! TimeUpdated: 2018-05-15	04:39:59+01:00
 ! Version: 0.0.0.1
-! Please report any unblocked content or problems by email or via GitHub issue
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- Cloudflare ----------
 !
 ||ajax.cloudflare.com^
 ||api.cloudflare.com^

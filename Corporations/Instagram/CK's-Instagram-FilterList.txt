@@ -1,7 +1,7 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Instagram Filter List
 ! Description: Block all Instagram related connections, it also blocks sync and other apps and services.
-! Checksum (SHA 1): 4814123DCE93C0595B73979D1E3A5CB41BB55589
+! Checksum (SHA3-256): 1E81F645C2AFAFA7684FCA40451226E3A139215DFE3E450F277542976F9EF49B
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList

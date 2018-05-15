@@ -1,12 +1,12 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Font Filter List
 ! Description: Block all external Fonts.
-! Checksum (SHA 1): 25DC116FF3010EF1AB3545159735C797B496CB9A
+! Checksum (SHA3-256): 25C14363377C923A41B7C89D394EB0EC73B2C5B52D18195CA2CE66211F187DC3
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-10T17:21:45+01:00
+! TimeUpdated: 2018-05-15	04:45:02+01:00
 ! Version: 0.0.0.1
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
@@ -14,6 +14,8 @@
 ! OS level font blocking: 
 ! https://docs.microsoft.com/en-us/windows/security/threat-protection/block-untrusted-fonts-in-enterprise
 ! https://blogs.technet.microsoft.com/secguide/2017/06/15/dropping-the-untrusted-font-blocking-setting/
+!
+! ---------- Fonts ----------
 !
 ||alluremedia.com.au^$font,third-party
 ||amazonaws.com^$font,third-party

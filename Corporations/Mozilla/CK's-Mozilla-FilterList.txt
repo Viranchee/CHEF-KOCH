@@ -1,16 +1,18 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Mozilla Filter List
 ! Description: Block all Mozilla related connections, it also blocks sync and other apps and services.
-! Checksum (SHA 1): 1584F0BE3FD1F5543F37FA4712277CB24C6E9F06
+! Checksum (SHA3-256): F6AE50DFA73D3588DEE8EDE8A2BBE4D30EEA74A700F097497D8C865D75C3930A
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-12	14:00:45+01:00
+! TimeUpdated: 2018-05-15	04:42:01+01:00
 ! Version: 0.0.0.2
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- Mozilla ----------
 !
 ||accounts.firefox.com^
 ||activations.cdn.mozilla.net^

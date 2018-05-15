@@ -1,16 +1,17 @@
 ! Title: CHEF-KOCH's uMatrix Filter List
 ! Description: A comprehensive, all-in-one domain list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (): 91DE247B4DB286FD689D2D7588ED55183A187B6B
+! Checksum (SHA3-256): 7A768071240B1D8963B76517CECD35BCBF98C0266194B27FCFC826602144C592
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-05T23:54:54+01:00
+! TimeUpdated: 2018-05-15	04:46:20+01:00
 ! Version: 0.0.0.5
 ! Please report any unblocked content or problems by email or via GitHub issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 !
+! ---------- uMatrix ----------
 !
 !127.0.0.1			localhost
 !127.0.0.1			localhost.localdomain
