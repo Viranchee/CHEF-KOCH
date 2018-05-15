@@ -6,7 +6,7 @@
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-10T17:21:45+01:00
+! TimeUpdated: 2018-05-15	04:51:34+01:00
 ! Version: 0.0.0.1
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
@@ -14,6 +14,9 @@
 !
 ! ---------- Instagram ----------
 !
+||api.instagram.com^
 ||instagram.com^
 !||badges.instagram.com^
+||cdninstagram.com^
+||www.instagram.com^
 

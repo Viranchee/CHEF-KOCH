@@ -1,14 +1,14 @@
 # Title: CHEF-KOCH's Microsoft Filter List
 # Description: Block all Microsoft related connections, it also blocks Skype etc.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
-# Checksum (SHA 1): 20F61D9573EFA0C2A140E8F0DB147138E38F532E
+# Checksum (SHA3-256): 4D3FBA328EF22F68E9FBC30219CAE79B105A0F0271C73687EA958F19E12D1052
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 # Expires: 90 days
-# TimeUpdated: 2018-05-14	04:34:03+01:00
+# TimeUpdated: 2018-05-14	04:53:18+01:00
 # Version: 0.0.0.1
-# Please report any unblocked content or problems by email or via GitHub issue
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #

@@ -1,7 +1,7 @@
 # Title: CHEF-KOCH's Mozilla Filter List
 # Description: Block all Mozilla related connections, it also blocks sync and other apps + services.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
-# Checksum (SHA 1): 2E57925735BF1F5CFDA3412FD8809D4FA8AAB64B
+# Checksum (SHA3-256): D8760BFB78B339E991A6B1E745322215DAD703B2D6A9CBA26FBE0B4C9915D26A
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
@@ -11,8 +11,6 @@
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
-#
-# ---------- Mozilla ----------
 #
 0.0.0.0 accounts.firefox.com
 0.0.0.0 activations.cdn.mozilla.net
