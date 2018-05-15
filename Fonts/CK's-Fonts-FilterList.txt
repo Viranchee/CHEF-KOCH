@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Font Filter List
 ! Description: Block all external Fonts.
-! Checksum (SHA3-256): 25C14363377C923A41B7C89D394EB0EC73B2C5B52D18195CA2CE66211F187DC3
+! Checksum (SHA3-256): EA8F15281031208294F4CD4CF298367D6526239EB1F61D797B1E85C79248031E
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-15	04:45:02+01:00
-! Version: 0.0.0.1
+! TimeUpdated: 2018-05-15	07:23:02+01:00
+! Version: 0.0.0.2
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -54,3 +54,9 @@
 ||use.fonticons.com^$third-party
 ||webfonts.creativecloud.com^$third-party
 ||wp.com^*/fonts/$third-party
+!
+! ---------- Test ----------
+!
+||/\.woff2(|\?.*)$/$third-party
+/\.(ttf|otf|woff|woff2)(|\?.*)$/$third-party
+/\.(ttf|ttc|tte|otf|otc|eot|svg|svgz|woff|woff2)(|\?.*)$/$third-party
