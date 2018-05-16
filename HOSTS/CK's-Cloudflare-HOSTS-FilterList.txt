@@ -1,4 +1,4 @@
-# Title: CHEF-KOCH's Cloudflare Filter List for HOSTS
+# Title: CHEF-KOCH's Cloudflare HOSTS Filter List
 # Description: Block all Cloudflare connections. 
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
 # Checksum (SHA3-256): 2903DB6F49EAB5B692FDBA149189F318FB4941AB1DBEF370B7F4AE0BC6617DAD
@@ -11,6 +11,8 @@
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
+#
+# ---------- Cloudflare ----------
 #
 0.0.0.0 pam.ns.cloudflare.com
 0.0.0.0 cody.ns.cloudflare.com

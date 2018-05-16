@@ -1,4 +1,4 @@
-# Title: CHEF-KOCH's Instagram Filter List
+# Title: CHEF-KOCH's Instagram HOSTS Filter List
 # Description: Block all Instagram related connections, it also blocks sync and other apps and services.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
 # Checksum (SHA3-256): 0348E2AE75E93CEA1120CABC46C018DE489C3AD102705912B561894260D1D967
@@ -11,6 +11,9 @@
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
+#
+#
+# ---------- Instagram ----------
 #
 0.0.0.0 api.instagram.com
 0.0.0.0 instagram.com

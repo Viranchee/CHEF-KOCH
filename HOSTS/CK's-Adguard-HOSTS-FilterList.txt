@@ -1,4 +1,4 @@
-# Title: CHEF-KOCH's AdGuard Filter List
+# Title: CHEF-KOCH's AdGuard HOSTS Filter List
 # Description: Filters AdGuard traffic only.
 # Checksum (SHA3-256): A003F9D9C11674FD5F6E0BCDE602F8ED175C8757B6044182FE424DA18AAB3635
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE

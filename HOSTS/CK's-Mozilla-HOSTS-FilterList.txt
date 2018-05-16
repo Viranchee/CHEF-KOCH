@@ -1,4 +1,4 @@
-# Title: CHEF-KOCH's Mozilla Filter List
+# Title: CHEF-KOCH's Mozilla HOSTS Filter List
 # Description: Block all Mozilla related connections, it also blocks sync and other apps + services.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
 # Checksum (SHA3-256): D8760BFB78B339E991A6B1E745322215DAD703B2D6A9CBA26FBE0B4C9915D26A

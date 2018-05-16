@@ -1,0 +1,42 @@
+# Title: CHEF-KOCH's Apple Filter List
+# Description: Block all Apple related connections, this also breaks iCloud etc.
+# Checksum (SHA3-256): 2E6CB61183A37EF67953BA578528C3A7239273341B48A35D963D5901CAEF87CC
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 90 days
+# TimeUpdated: 2018-05-16	19:05:12+01:00
+# Version: 0.0.0.1
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 by CHEF-KOCH
+#
+# ---------- Apple ----------
+#
+0.0.0.0 Airport.com
+0.0.0.0 Applecomputer.com
+0.0.0.0 Appleimac.com
+0.0.0.0 Applemusic.com
+0.0.0.0 Buy-Different.com
+0.0.0.0 BuyAAPL.com
+0.0.0.0 Carbon.com
+0.0.0.0 DesktopMovie.com
+0.0.0.0 DigitalHub.com
+0.0.0.0 Dvdstudiopro.com
+0.0.0.0 FinalCutPro.com
+0.0.0.0 FireWire.org
+0.0.0.0 PublishingResearch.com
+0.0.0.0 PublishingSurvey.com
+0.0.0.0 Quicktime.com
+0.0.0.0 Xserve.com
+0.0.0.0 Xserve.net
+0.0.0.0 apple-dns.net
+0.0.0.0 apple.com
+0.0.0.0 iChat.com
+0.0.0.0 iMac.com
+0.0.0.0 iPhone.org
+0.0.0.0 iPod.com
+0.0.0.0 iPodRocks.com
+0.0.0.0 iTunes.com
+0.0.0.0 iWork.com
+0.0.0.0 mac.com

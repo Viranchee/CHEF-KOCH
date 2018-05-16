@@ -1,19 +1,18 @@
-[Adblock Plus 2.8]
-! Title: CHEF-KOCH's Adobe HOSTS Filter List
-! Description: Block all Adobe related connections, this also breaks activation etc.
-! Checksum (SHA3-256): 75969AE9F89E9E3C0785411A9C1F8D84A1F147E514079B1B0FDC9A5E7AA14814
-! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
-! By downloading or viewing, or using this list, you are accepting these terms and the license.
-! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
-! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-16	18:28:06+01:00
-! Version: 0.0.0.1
-! Please report any unblocked content or problems by email or via GitHub issue ticket.
-! Email: CHEF-KOCH@protonmail.com
-! Copyright (C) 2018 by CHEF-KOCH
-!
-! ---------- Adobe license check ----------
-!
+# Title: CHEF-KOCH's Adobe HOSTS Filter List
+# Description: Block all Adobe related connections, this also breaks activation etc.
+# Checksum (SHA3-256): 75969AE9F89E9E3C0785411A9C1F8D84A1F147E514079B1B0FDC9A5E7AA14814
+# License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+# By downloading or viewing, or using this list, you are accepting these terms and the license.
+# Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+# Expires: 30 days (update frequency)
+# TimeUpdated: 2018-05-16	18:28:06+01:00
+# Version: 0.0.0.1
+# Please report any unblocked content or problems by email or via GitHub issue ticket.
+# Email: CHEF-KOCH@protonmail.com
+# Copyright (C) 2018 by CHEF-KOCH
+#
+# ---------- Adobe license check ----------
+#
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sea.adobe.de
 0.0.0.0 activate-sjc0.adobe.com
@@ -32,9 +31,9 @@
 0.0.0.0 lmlicenses.wip4.adobe.com
 0.0.0.0 na1r.services.adobe.com
 0.0.0.0 practivate.adobe.com
-!
-! ---------- Adobe ----------
-!
+#
+# ---------- Adobe ----------
+#
 0.0.0.0 3dns-1.adobe.com
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-3.adobe.com

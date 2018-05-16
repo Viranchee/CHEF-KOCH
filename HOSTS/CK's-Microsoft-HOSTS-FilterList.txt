@@ -1,4 +1,4 @@
-# Title: CHEF-KOCH's Microsoft Filter List
+# Title: CHEF-KOCH's Microsoft HOSTS Filter List
 # Description: Block all Microsoft related connections, it also blocks Skype etc.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
 # Checksum (SHA3-256): 4D3FBA328EF22F68E9FBC30219CAE79B105A0F0271C73687EA958F19E12D1052
@@ -11,6 +11,8 @@
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
+#
+# ---------- Microsoft ----------
 #
 0.0.0.0 0012e48c18730618b3eb42e847f7a2b0.azr.msnetworkanalytics.testanalytics.net
 0.0.0.0 00135016b0db733bde45e90b996247a5.azr.msnetworkanalytics.testanalytics.net

@@ -1,4 +1,4 @@
-# Title: CHEF-KOCH's Pinterest Filter List
+# Title: CHEF-KOCH's Pinterest HOSTS Filter List
 # Description: Block all Pinterest related connections, it also blocks sync and other apps and services.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
 # Checksum (SHA3-256): 0D19AB6786FDFCDA0D8037722E12047355CC4C8151A18444A005BF0B1A8C4737
