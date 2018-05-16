@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Ad & Tracker Filter List
 ! Description: Filters Ad & Trackers only.
-! Checksum (SHA3-256): 1FA7CBB94C285076D72CB421F725A7AAFA5EB2414A68388D2AB9F35EEDC95E11
+! Checksum (SHA3-256): 9E2DA55E14449C2ED3D727CFF0D329531321BB09352BB603D8675B36946CF01F
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-16	04:46:11+01:00
-! Version: 0.0.0.4
+! TimeUpdated: 2018-05-16	06:03:41+01:00
+! Version: 0.0.0.5
 ! Please report any unblocked content or problems by email or via GitHub issue page.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -6332,6 +6332,7 @@
 ||bzgint.com^
 ||c.compete.com^
 ||c.newsinc.com^
+||c2.taboola.com^
 ||casalemedia.com^
 ||castplatform.com^
 ||cedexis.com^
@@ -6360,12 +6361,14 @@
 ||crwdcntrl.net^
 ||ctnsnet.com^
 ||cxense.com^
+||d1z2jf7jlzjs58.cloudfront.net^
 ||dashbida.com^
 ||dashgreen.online^
 ||decenthat.com^
 ||delivery47.com^
 ||demdex.net^
 ||deployads.com^
+||dev.visualwebsiteoptimizer.com^
 ||deximedia.com^
 ||dirt.dennis.co.uk^
 ||displaymarketplace.com^
@@ -6420,6 +6423,7 @@
 ||gweini.com^
 ||heapanalytics.com^
 ||histats.com^
+||hit-parade.com^
 ||hotjar.com^
 ||hudb.pl^
 ||ifmnwi.club^
@@ -6458,10 +6462,12 @@
 ||legolas-media.com^
 ||liadm.com^
 ||lifestreet.com^
+||lightboxcdn.com^
 ||lijit.com^
 ||liqwid.net^
 ||lkqd.net^
 ||log.
+||loga.hit-parade.com^
 ||logentries.com^
 ||lognormal.net^
 ||lp4.io^
@@ -6540,6 +6546,7 @@
 ||prizma.tv/get
 ||pro-market.net^
 ||prorentisol.com^
+||ps.eyeota.net^
 ||pubmine.com^
 ||pubnation.com^
 ||puserving.com^
@@ -6563,9 +6570,13 @@
 ||rover.ebay.com^
 ||ru4.com^
 ||rubiconproject.com^
+||sacklunch.net^
 ||sbal4kp.com^
 ||scorecardresearch.com^
+||secure.quantserve.com^
+||securepubads.g.doubleclick.net^
 ||sekindo.com^
+||servebom.com^
 ||servedbyopenx.com^
 ||serving-sys.com^
 ||shareasale.com^
@@ -6596,8 +6607,10 @@
 ||surveygifts.win^
 ||survicate.com^
 ||swoop.com^
+||taboola.com^
 ||taboolasyndication.com^
 ||tagcade.com^
+||tags.crwdcntrl.net^
 ||tagsrvcs.com^
 ||teads.tv^
 ||tealium.hs.llnwd.net^
@@ -6632,6 +6645,7 @@
 ||velocecdn.com^
 ||vertamedia.com^
 ||verymuchad.com^
+||vgwort.de^
 ||videostat.com^
 ||videotracker.
 ||viglink.com^
@@ -6648,6 +6662,7 @@
 ||whatismyip.win^
 ||widget.quantcast.com^
 ||wunderloop.net^
+||www.lightboxcdn.com^
 ||wwwpromoter.com^
 ||xg4ken.com^
 ||xiti.com^
