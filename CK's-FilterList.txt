@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA 1): D444942DF1261E799EA02BD3ED7DC82B502E55E1
+! Checksum (SHA3-256): B7F6E1587A110A17D612547BB128D50D29F4560F8B50385FA9F4B3BC9DF51075
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-13	08:26:34+01:00
-! Version: 0.0.0.7
+! TimeUpdated: 2018-05-16	04:59:19+01:00
+! Version: 0.0.0.8
 ! Please report any unblocked content or problems by email or via GitHub issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -168,10 +168,24 @@
 !
 ! ---------- 3rd party ----------
 !
+.amazonaws.com/*/buzzing/$third-party
+-300x250.$third-party
+-analytics.$image,third-party
+-tracking.$third-party
 @@||cloudfront.net/assets/$script,third-party
 @@||cloudfront.net/gp/$script,third-party
 @@||s3.amazonaws.com^$xmlhttprequest,domain=travis-ci.org
 outbrain$script
+/c.gif?$third-party
+/e.gif?$third-party
+/get_cdns?$xmlhttprequest,third-party
+/siteanalytics.$third-party
+/track.$third-party
+/track/*$third-party
+/tracker.$third-party
+/tracker/*$third-party
+/tracking.$third-party
+/tracking/*$third-party
 ||02ip.ru^$important
 ||2no.co^$important
 ||33across.com^$important
@@ -2210,7 +2224,7 @@ outbrain$script
 ||a.adorika.net^
 ||a.adready.com^
 ||a.adroll.com^
-||a.ads.t-online.de #[AdSolution-Website-Tag]^
+||a.ads.t-online.de^
 ||a.ads1.msads.net^
 ||a.ads1.msn.com^
 ||a.ads2.msads.net^
@@ -67662,7 +67676,6 @@ cookiewarning.js
 cookiewarning2.js
 cookiewarning4.js
 csaladinet.hu###CookieAcceptLayer
-developers.google.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
 devportal.hu###PCBContainer
 dictzone.com###ac
 divany.hu,index.hu###_iph_cp_popup
@@ -68562,6 +68575,8 @@ zoldbolt.hu##.cookie_accept_container
 !
 ##[title="Follow me on Facebook"]
 _facebookbadge.
+facebook.com###pagelet_side_ads
+facebook.com##.ego_unit_container
 facebook.com###u_0_m
 facebook.com#?#.ego_section:-abp-contains(People you)
 facebook.com#?#.fbUserStory:-abp-contains(People you)
@@ -68600,6 +68615,8 @@ github.com##.unsupported-browser
 !
 ! ---------- Google (YouTube gets separated) ----------
 !
+mail.google.com##.aKB
+mail.google.com##.nH.PS
 youtube.com##div.ad-div
 youtube.com##div.video-ads
 youtube.com##ytd-compact-promoted-video-renderer
@@ -68608,8 +68625,15 @@ youtube.com###promotion-shelf
 youtube.com##.ad-div
 youtube.com##.masthead-ad-control
 youtube.com##.pyv-afc-ads-container
+youtube.com###video-masthead
+youtube.com###watch-channel-brand-div
+youtube.com##.promoted-videos
+youtube.com##.ytd-iframe-companion-renderer
+youtube.com##YTD-PROMOTED-VIDEO-RENDERER
+youtube.com##DIV[class*="-ads-"]
 ||youtube.com/api/stats$important
 ||youtube.com/ad_data$important
+||youtube.com/get_midroll_
 ||youtube.com/player_204$important
 ||youtube.com/ptracking$important
 ||youtube.com/set_awesome$important
@@ -68958,8 +68982,14 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 ||vortex.data.microsoft.com/collect/v1^
 ||watson.telemetry.microsoft.com^
 !
-! ---------- Overlay ----------
+! ---------- Overlay + Ad Element Hiding ----------
 !
+###AUI_A9AdsMiddleBoxTop
+###Ad160x600_0_adchoice
+###DartAd300x250
+###HomepageAdSpace
+###TOP_RIGHT_BOXAD
+###ad-north-base
 ###a1ys6c
 ###ad1
 ###ad2
@@ -69109,11 +69139,53 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 !
 ! ---------- Whitelisting rules ----------
 !
+@@-adverts.$script,domain=dailymail.co.uk
+@@.com/ad_img/$domain=twitter.com
+@@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
+@@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
+@@.com/metrics/$script,domain=apple.com
+@@.demdex.net/$script,domain=foxnews.com|globaltv.com
+@@.net/ad/$object-subrequest,domain=foxsports.com
+@@.net/ad/$script,domain=zone.msn.com
+@@/ad1.$image,domain=embed.universaluclick.com
+@@/ads/*$image,domain=frys.com
+@@/airbnb/*-tracking.
+@@/beacon.$domain=amazon.com|sciencechannel.com
+@@/beacon.min.js$domain=huffingtonpost.com
+@@/foresee-$script,domain=kohls.com
+@@/js/analytics/*$domain=ebates.com
+@@/piwik.$script,domain=myuv.com
+@@/prebid.$script,domain=bodybuilding.com
+@@/pubads_$script,domain=threenow.co.nz
+@@/track.$domain=tnt.com
+@@/track/*$media,subdocument
+@@/tracker/*$script,domain=taobao.com
+@@/tracking.$script,xmlhttprequest,domain=mlb.com
+@@/tracking/*$script,xmlhttprequest,domain=ctv.ca|ctvnews.ca|inpost.pl|mlb.com
+@@/trackingCode.$script,domain=oakley.com
+@@/webtrends.$script,domain=mabanque.bnpparibas
+@@_tracker.$script,domain=huffingtonpost.de
+@@_tracking.$script,domain=kohls.com|slideshare.net
+@@||abclocal.go.com/combiner/*/js/analytics/
+@@||accounts.alibaba.com^
+@@||adobedtm.com/*/satelliteLib-$script,domain=aarp.org
 @@||ajax.googleapis.com/ajax/libs/$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net
+@@||analytics.$script,domain=everbuying.net|threenow.co.nz
+@@||analytics.$xmlhttprequest,domain=washingtonpost.com
+@@||analytics.snidigital.com^
+@@||analytics.twitter.com/user/
+@@||api-maps.yandex.ru^
 @@||arcot.com^$elemhide
+@@||bcbits.com/download/track/
+@@||c.amazon-adsystem.$script,domain=player.performgroup.com
+@@||cdn.turner.com/ads/$script,domain=cnn.com
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net
 @@||code.jquery.com^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net
 @@||codeorigin.jquery.com^$domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net
+@@||doubleclick.net/gampad/ads?gdfp%$object-subrequest,domain=cbsnews.com
+@@||doubleclick.net/gampad/ads?max%$object-subrequest,domain=cbsnews.com
+@@||doubleclick.net/gpt/pubads_impl_$script,domain=csnchicago.com|digitaltrends.com
+@@||facebook.com/ads/profile/$xmlhttprequest
 @@||focus.ti.com^*/metrics-min.js
 @@||foodnetwork.com^*/analytics.sitecatalyst.js
 @@||freefilefillableforms.com/js/lib/irs/fingerprint.js$~third-party
@@ -69121,17 +69193,43 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||freehostedscripts.net/online/$script,~third-party
 @@||ft.com/opentag/opentag-$script
 @@||gaanacdn.com/*_social_tracking.js$domain=gaana.com
+@@||googletagservices.com^$script,domain=csnchicago.com|digitaltrends.com|nytimes.com|threenow.co.nz|zdnet.com
 @@||googleusercontent.com/gadgets/$image,domain=9anime.is
+@@||ifmnwi.club^$xmlhttprequest,domain=cbsnews.com
+@@||img-fotki.yandex.ru^
+@@||imrworldwide.com^$domain=threenow.co.nz
 @@||interrail.eu^$elemhide
+@@||krxd.net^$script,domain=foxnews.com
 @@||lefrecce.it^$elemhide
+@@||list-manage.com/track/
 @@||loadercdn.io^$script,domain=video-download.co
+@@||logentries.com^$domain=player.hearstdigitalstudios.com
+@@||mixpanel.com^$domain=floorplanner.com
+@@||moatads.com^$script,domain=digitaltrends.com
+@@||monetate.net^$script,domain=oakley.com
 @@||orteil.dashnet.org^$elemhide
+@@||outbrain.com^$domain=wtae.com
 @@||p.jwpcdn.com^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net
+@@||parsely.com^$script,domain=dailystar.co.uk|express.co.uk
+@@||passport.alibaba.com^
+@@||roimedia.advertserve.com/js/
+@@||s.youtube.com/api/stats/playback?
+@@||scorecardresearch.com^$script,domain=animalplanet.com
 @@||static.h-bid.com/video-download.co/$script,domain=video-download.co
+@@||stats.$domain=csnchicago.com|stats.com|wetter.info
 @@||szukajka.tv/jsverify.php?op=tag|$xmlhttprequest,~third-party
 @@||szukajka.tv/szukaj|$xmlhttprequest,~third-party
+@@||ticketm.net/*/tm_internal_tracker.js
+@@||use.typekit.net^$script,font
 @@||ws.webcaster.pro^$websocket
+@@||yandex.ru^$xmlhttprequest,domain=yastatic.net
 @@||zencdn.net^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com|vidoza.net
+bikeexchange.com.au,bikeexchange.co.nz,bikeexchange.com,bikeexchange.de,bikeexchange.be,bikeexchange.nl,bikeexchange.co.uk,bikeexchange.ie,bikeexchange.com.co,oakley.com#@#.advert
+cardgames.io,check24.de#@#DIV[id*="-ads"]
+cdkeys.com#@#DIV[class^="box-ad"]
+chess.com#@#DIV[id^="div-gpt-ad"]
+news.naver.com#@#.sponsor
+photographyblog.com#@#DIV[id^="taboola-"]
 !
 ! ---------- Zdnet ----------
 !
