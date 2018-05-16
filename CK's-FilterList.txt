@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 4B77335B7B156805FC1D326E4E81F038EF75BA097A0FC4575D7E21ABFE3F1D10
+! Checksum (SHA3-256): F09F8DEC1D5EE2552740392E30DA76D22F7F24FF2A84C7FD95394A8BACFEA6F3
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-16	17:43:27+01:00
-! Version: 0.0.0.9
+! TimeUpdated: 2018-05-16	18:12:38+01:00
+! Version: 0.0.1.0
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -68575,13 +68575,18 @@ zoldbolt.hu##.cookie_accept_container
 ##[title="Follow me on Facebook"]
 _facebookbadge.
 facebook.com###pagelet_side_ads
-facebook.com##.ego_unit_container
 facebook.com###u_0_m
+facebook.com##.ego_unit_container
 facebook.com#?#.ego_section:-abp-contains(People you)
 facebook.com#?#.fbUserStory:-abp-contains(People you)
 facebook.com#?#.mtm:-abp-contains(Products shown)
 facebook.com#?#.userContentWrapper:-abp-contains(People you)
 facebook.com#?#div[data-testid="fbfeed_story"]:-abp-has(a[href*="[is_sponsored]"])
+||facebook.com/ajax/photos/logging/session_logging.php$important
+||graph.facebook.com$xmlhttprequest
+||instagram.com/ajax/bz
+||instagram.com/client_action
+||instagram.com/client_error
 !
 ! ---------- Forbes ----------
 !
@@ -68614,6 +68619,10 @@ github.com##.unsupported-browser
 !
 ! ---------- Google (YouTube gets separated) ----------
 !
+||||maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
+||maps.googleapis.com/maps/api/js/StatsService.RecordStats
+||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
+apis.google.com/_/jserror$xmlhttprequest
 mail.google.com##.aKB
 mail.google.com##.nH.PS
 youtube.com##div.ad-div
@@ -68969,6 +68978,24 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 ##iframe[src^="https://syndication.exoclick.com/ads-iframe-display.php"]
 ##iframe[src^="https://www.mxttrf.com/ads"]
 !
+! ---------- Yahoo ----------
+!
+||answers.yahoo.com/ros
+||assets.tumblr.com/images/transparent-pixel.png$image
+||assets.tumblr.com/images/x.gif$image
+||assets.tumblr.com/images/x.gif?v=*$image
+||geo.query.yahoo.com
+||ls.srvcs.tumblr.com/services/bblog$xmlhttprequest
+||mail.yahoo.com/stats
+||tag.researchnow.com
+||tumblr.com/services/cslog$beacon
+||tumblr.com/services/cslog$xmlhttprequest
+||tumblr.com/svc/log$xmlhttprequest
+||txmblr.com/research
+||txmblr.com/svc/embed/iframe/slurppi$inline-script
+||www.flickr.com/beacon_client_api_timings.gne$xmlhttprequest,domain=www.flickr.com
+||www.flickr.com/beacon_rb_jserror.gne$image,domain=www.flickr.com
+!
 ! ---------- Microsoft Data Management Service ----------
 !
 ||de.vortex-win.data.microsoft.com/collect/v1^
@@ -69077,19 +69104,33 @@ pastebin.com###paypal-overlay
 @@||redditstatic.com^$stylesheet,domain=www.reddit.com
 ||alb.reddit.com^
 ||d.reddit.com
+||d.reddit.com
+||e.reddit.com$xmlhttprequest
 ||e.reddit.com^$important
 ||events.reddit.com
+||events.reddit.com
+||reddit.com/*/log/*
 ||reddit.com/*/log/*
 ||reddit.com/api/login.json
+||reddit.com/api/login.json
+||reddit.com/api/register.json
 ||reddit.com/api/register.json
 ||reddit.com/api/request_promo$important
+||reddit.com/api/request_promo$xmlhttprequest
 ||reddit.com/api/request_recommended_link$important
+||reddit.com/api/request_recommended_link$xmlhttprequest
+||reddit.com/api/share
 ||reddit.com/api/share
 ||reddit.com/api/share.json
+||reddit.com/api/share.json
 ||reddit.com/errors
+||reddit.com/errors
+||reddit.com/static/pixel.png$image
+||reddit.com/timings
 ||reddit.com/timings
 ||reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
 ||redditmedia.com/gtm/$important
+||redditmedia.com/moat/*
 ||redditmedia.com/moat/*
 ||redditstatic.com/moat/$important
 ||redditstatic.com/recommended-link.*$important
