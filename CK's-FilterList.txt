@@ -1,14 +1,14 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): B7F6E1587A110A17D612547BB128D50D29F4560F8B50385FA9F4B3BC9DF51075
+! Checksum (SHA3-256): 4B77335B7B156805FC1D326E4E81F038EF75BA097A0FC4575D7E21ABFE3F1D10
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-16	04:59:19+01:00
-! Version: 0.0.0.8
-! Please report any unblocked content or problems by email or via GitHub issue
+! TimeUpdated: 2018-05-16	17:43:27+01:00
+! Version: 0.0.0.9
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 !
@@ -68550,7 +68550,6 @@ zoldbolt.hu##.cookie_accept_container
 ||webserv.mos.ru^
 ||websitepulse.com^
 ||wii.cardcodes.net^
-||windowsupdate.com^
 ||wirecomic.com^
 ||ws.xjb.ac.cn^
 ||www.caramail.com^
