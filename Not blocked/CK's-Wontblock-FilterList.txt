@@ -3,6 +3,22 @@ Will not be avbl. via subscription.
 !
 ! ---------- Google ----------
 !
+||easylist-downloads.adblockplus.org^
+||mirror.cedia.org.ec^
+||pgl.yoyo.org^
+||www.malwaredomainlist.com^
+||avatars0.githubusercontent.com^
+||avatars1.githubusercontent.com^
+||avatars2.githubusercontent.com^
+||avatars3.githubusercontent.com^
+||camo.githubusercontent.com^
+||github.com^
+||live.github.com^
+||user-images.githubusercontent.com^
+
+
+
+
 ||platform.twitter.com^
 ||api.twitch.tv^
 ||mail.protonmail.com^
