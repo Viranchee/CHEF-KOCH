@@ -1,0 +1,20 @@
+[Adblock Plus 2.8]
+! Title: CHEF-KOCH's CCleaner Filter List
+! Description: Block all CCleaner related connections.
+! Checksum (SHA3-256): 9BFD145D4B1B5CBBF8A06F2A7791D5DA997AF2228005E89652FBB7D7C4A62E9F
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 30 days (update frequency)
+! TimeUpdated: 2018-05-16	18:18:56+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- CCleaner license check ----------
+!
+||license.piriform.com^
+!
+! ---------- Avast/CCleaner ----------
+!
