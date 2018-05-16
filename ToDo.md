@@ -11,3 +11,4 @@
 - [x] Add an ISSUE_TEMPLATE
 - [x] Add ASN list (Wip)
 - [x] Exclude the domains which should not be blocked into a separate file
+- [ ] merge the 1.8 GB Hosts list I collected over 17 years into the project (low-prio)
