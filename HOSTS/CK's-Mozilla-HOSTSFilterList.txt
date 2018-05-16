@@ -12,6 +12,8 @@
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #
+# ---------- Mozilla ----------
+#
 0.0.0.0 accounts.firefox.com
 0.0.0.0 activations.cdn.mozilla.net
 0.0.0.0 add.my.yahoo.com

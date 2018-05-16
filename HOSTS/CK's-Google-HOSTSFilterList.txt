@@ -12,6 +12,13 @@
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #
+
+
+0.0.0.0 chromestatus.com
+
+
+
+
 0.0.0.0 productforums.google.com
 0.0.0.0 id.google.com
 0.0.0.0 consent.google.com

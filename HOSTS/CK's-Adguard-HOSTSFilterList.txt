@@ -11,7 +11,7 @@
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #
-# ---------- AdGuard License Check ----------
+# ---------- AdGuard License Check, ensure AdguardSvc.exe is blocked via Firewall ----------
 #
 0.0.0.0  194.177.22.245
 0.0.0.0  api.adguard.com

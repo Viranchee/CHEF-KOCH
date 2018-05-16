@@ -12,6 +12,8 @@
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #
+# ---------- Pinterest ----------
+#
 0.0.0.0 edgecastcdn.com
 0.0.0.0 ns1.pinterest.com
 0.0.0.0 ns2.pinterest.com
