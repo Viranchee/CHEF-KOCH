@@ -1,0 +1,16 @@
+!
+! ---------- Social Icons ----------
+!
+##.icon-googlePlus
+##.icon-polyvore
+##div[id^="sl_share_"]
+/socialcore-$image
+/social-core-$image
+!
+! ---------- Social Toolbars ----------
+!
+/toolbarxooit/?
+!
+! ---------- Social  ----------
+!
+/images/fb-
