@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): D78AD5B2F3AC2159CB902D8906B4E6398EA88622F6ABBA1FDD4DC00EA34A6875
+! Checksum (SHA3-256): 00C85B37CC6B9A6E67F833D72090E8E1CC10306FEA3133A068E54FC315EC0750
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-17	06:29:30+01:00
-! Version: 0.0.1.2
+! TimeUpdated: 2018-05-17	06:56:55+01:00
+! Version: 0.0.1.3
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -69035,6 +69035,7 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 ###ad5
 ###afwp1m
 ###e51nvb
+###ea_intext_div
 ###ip
 ###issuem-leaky-paywall-articles-zero-remaining-nag
 ###page > div:nth-of-type(6)
@@ -69056,6 +69057,7 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 ##.trc_rbox_container
 ##.trc_related_container
 ##.trc_spotlight_widget
+##td#freenet_table_ads
 &ad_size=
 &adformat=
 &adunit=
@@ -69075,18 +69077,33 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 .net/ads-
 .net/ads/
 .net/atrk.
+/728x90.swf
+/banners/*.jpg$~image
+/bannerscstm/*
+/catalog/images/baner*.gif
+/cgi-bin/banner.cgi
+/design/images/banner/*
+/images/banner.gif
+/mambo/images/banners*
 /rollbar.js
 /rollbar.min.js
+/tpbanners/*
 /www-search-ads.
+/xgemius.js
 ?[AQB]&ndh=
 ?action=log_
 ?adW=300&adH=250&
+?go=_common&p=banner&bannerId=
 ?instream_ad=
 AQB=1&ndh=
+AdsClick.php?AdsID=
+BannerClick.aspx?ID=
 _204?*_ad&$image,ping
 _300x250-
 _Banner_Ad_
+b.*/ban/*
 calciomercato.com###ca_banner
+com.nxtras.banner.ImageRotator
 fifa.com##.mdl-overlay
 guideitech.com##.pea_cook_wrapper
 ladige.it###sliding-popup
