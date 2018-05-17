@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): E028C0A3A6D61605750AAA116E5CA49A8B4684B836439F2535210C3AC435DBAC
+! Checksum (SHA3-256): D78AD5B2F3AC2159CB902D8906B4E6398EA88622F6ABBA1FDD4DC00EA34A6875
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-17	06:19:00+01:00
-! Version: 0.0.1.1
+! TimeUpdated: 2018-05-17	06:29:30+01:00
+! Version: 0.0.1.2
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -168,14 +168,10 @@
 !
 ! ---------- 3rd party ----------
 !
-.amazonaws.com/*/buzzing/$third-party
 -300x250.$third-party
 -analytics.$image,third-party
 -tracking.$third-party
-@@||cloudfront.net/assets/$script,third-party
-@@||cloudfront.net/gp/$script,third-party
-@@||s3.amazonaws.com^$xmlhttprequest,domain=travis-ci.org
-outbrain$script
+.amazonaws.com/*/buzzing/$third-party
 /c.gif?$third-party
 /e.gif?$third-party
 /get_cdns?$xmlhttprequest,third-party
@@ -186,6 +182,11 @@ outbrain$script
 /tracker/*$third-party
 /tracking.$third-party
 /tracking/*$third-party
+@@||cloudfront.net/assets/$script,third-party
+@@||cloudfront.net/gp/$script,third-party
+@@||s3.amazonaws.com^$xmlhttprequest,domain=travis-ci.org
+outbrain$script
+www.luxor.co.at##.info
 ||02ip.ru^$important
 ||2no.co^$important
 ||33across.com^$important
@@ -289,6 +290,7 @@ outbrain$script
 ||ps3cfw.com^$important
 ||r1p.pw^$important
 ||restresser.com^$important
+||rollbar.com^$third-party
 ||sciencefuture.tk^$important
 ||sexy18.webcam^$important
 ||skidpaste.org^$important
@@ -67749,9 +67751,11 @@ termalonline.hu###ecl-notice
 thetimes.co.uk##.CookieMessage
 theweek.co.uk###__ic-notice-container
 tipparuhaz.hu###bottom_dialog
+topviccek.hu###ck
 ujszo.com###ujszo_cookiealert
 unicheck.com##.is-show.jcc.df.cookie
 unnepnaposoldal.hu###cookie-law-bar
+videokedvenc.hu###cookie
 vilaglato.info##.pea_cook_bottomright.pea_cook_wrapper
 vilaglato.info##.pea_cook_more_info_popover
 vilaglato.info##.tplis-cl-cookies
@@ -69022,8 +69026,8 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 ###DartAd300x250
 ###HomepageAdSpace
 ###TOP_RIGHT_BOXAD
-###ad-north-base
 ###a1ys6c
+###ad-north-base
 ###ad1
 ###ad2
 ###ad3
@@ -69071,6 +69075,8 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 .net/ads-
 .net/ads/
 .net/atrk.
+/rollbar.js
+/rollbar.min.js
 /www-search-ads.
 ?[AQB]&ndh=
 ?action=log_
@@ -69089,6 +69095,8 @@ ladige.it###sliding-popup
 ||ads3.
 ||ads4.
 ||ads5.
+||d37gvrvc0wt4s1.cloudfront.net^
+||service.giosg.com/api/*/public/track/
 !
 ! ---------- Palemoon ----------
 !
@@ -69199,6 +69207,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@/airbnb/*-tracking.
 @@/beacon.$domain=amazon.com|sciencechannel.com
 @@/beacon.min.js$domain=huffingtonpost.com
+@@/downloads.mailchimp.com/*$domain=bil24.no
 @@/foresee-$script,domain=kohls.com
 @@/js/analytics/*$domain=ebates.com
 @@/piwik.$script,domain=myuv.com
@@ -69263,6 +69272,8 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||s.youtube.com/api/stats/playback?
 @@||scorecardresearch.com^$script,domain=animalplanet.com
 @@||static.h-bid.com/video-download.co/$script,domain=video-download.co
+@@||static.podaj.to/images/fb-*$image,first-party
+@@||static.podaj.to/thumbs/images/fb-*$image,first-party
 @@||stats.$domain=csnchicago.com|stats.com|wetter.info
 @@||szukajka.tv/jsverify.php?op=tag|$xmlhttprequest,~third-party
 @@||szukajka.tv/szukaj|$xmlhttprequest,~third-party
