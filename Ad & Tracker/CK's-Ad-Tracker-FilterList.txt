@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Ad & Tracker Filter List
 ! Description: Filters Ad & Trackers only.
-! Checksum (SHA3-256): 5417C04DBFD610766DB956AC8BFDDE4867BC90F392FD81FBB8FEC31AE5F809F0
+! Checksum (SHA3-256): 51B9B4588FCC9A23ECED31F140B9BAEA5B7D73BDD4CE594DF552E5EB7E7BD76E
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-16	16:11:26+01:00
-! Version: 0.0.0.6
+! TimeUpdated: 2018-05-17	16:39:51+01:00
+! Version: 0.0.0.7
 ! Please report any unblocked content or problems by email or via GitHub issue page.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -2356,6 +2356,7 @@
 ||a.shulhanafuh.com^
 ||a.solarmovie.is^
 ||a.stanzapub.com^
+||a.stat.xiaomi.com^
 ||a.t.webtracker.jp^
 ||a.tantella.com^
 ||a.teads.tv^
@@ -2621,6 +2622,8 @@
 ||absilf.link^
 ||absolstats.co.za^
 ||absquint.com^
+||abtest.mistat.intl.xiaomi.com^
+||abtest.mistat.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
 ||abtest.swrve.com^
 ||abtracker.us^
@@ -20700,8 +20703,10 @@
 ||api.140proof.com^
 ||api.2easydroid.com^
 ||api.ad-patrick.com^
+||api.ad.xiaomi.com^
 ||api.adip.ly^
 ||api.adlure.net^
+||api.admob.xiaomi.com^
 ||api.adrta.com^
 ||api.adsymptotic.com^
 ||api.adyoulike.com^
@@ -20725,6 +20730,7 @@
 ||api.content-ad.net^
 ||api.contextly.com^
 ||api.crittercism.com^
+||api.d.xiaomi.com^
 ||api.demandbase.com^
 ||api.domob.cn^
 ||api.elasticemail.com^
@@ -24400,11 +24406,15 @@
 ||cc.amazingcounters.com^
 ||cc.chango.com^
 ||cc.connextra.com^
+||cc.sys.intl.xiaomi.com^
+||cc.sys.miui.com^
 ||cc.zeit.de^
 ||cc03-41cf-c2ea-3a84.reporo.net^
 ||cc54-ed21-fc7f-e519.reporo.net^
 ||ccamholdings.go2cloud.org^
 ||ccas.clearchannel.com^
+||ccc.sys.intl.xiaomi.com^
+||ccc.sys.miui.com^
 ||ccc01.opinionlab.com^
 ||cclfx.voluumtrk.com^
 ||cclrn.voluumtrk.com^
@@ -24429,6 +24439,7 @@
 ||cdn.2xbpub.com^
 ||cdn.ad-maven.com^
 ||cdn.ad.maist.jp^
+||cdn.ad.xiaomi.com^
 ||cdn.adbrau.com^
 ||cdn.addnow.com^
 ||cdn.adengine.org^
@@ -27355,6 +27366,8 @@
 ||data.lockscalecompare.com^
 ||data.logentries.com^
 ||data.marketgid.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.xiaomi.com^
 ||data.mobclix.com^
 ||data.neuroxmedia.com^
 ||data.ninemsn.com.au^
@@ -28035,6 +28048,7 @@
 ||e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com^
 ||e-tracker.de^
 ||e-zeeinternet.com^
+||e.ad.xiaomi.com^
 ||e.admob.com^
 ||e.ai.inmobi.com^
 ||e.digitalnectar.co.uk^
@@ -28822,6 +28836,7 @@
 ||fbtrack.webtrekk.net^
 ||fc.webmasterpro.de^
 ||fc4c-b275-b59b-7a32.reporo.net^
+||fcanr.tracking.miui.com^
 ||fccl5.voluumtrk.com^
 ||fcd3-8570-6529-d8b7.reporo.net^
 ||fcds.affiliatetracking.net^
@@ -29834,6 +29849,7 @@
 ||geobar.ziffdavisinternational.com^
 ||geobytes.com^
 ||geocities.bfast.com^
+||geofence.sys.miui.com^
 ||geoip.al.com^
 ||geoip.infra-team.com^
 ||geoip.syracuse.com^
@@ -30034,6 +30050,7 @@
 ||global.reporo.net^
 ||global.ymtrack.com^
 ||global.ymtracking.com^
+||globalapi.ad.xiaomi.com^
 ||globaltargets.go2cloud.org^
 ||globaltrack.com^
 ||globaltrack123.go2cloud.org^
@@ -33703,6 +33720,7 @@
 ||neueoz.ivwbox.de^
 ||neutrinokhdii.download^
 ||new.adition.com^
+||new.api.ad.xiaomi.com^
 ||new.gtsads.com^
 ||new.livejasmin.com^
 ||newads.bangbros.com^
@@ -36545,6 +36563,7 @@
 ||sdk-b.apptornado.com^
 ||sdk.appbrain.com^
 ||sdk.justad.mobi^
+||sdkconfig.ad.xiaomi.com^
 ||sdkm.w.inmobi.com^
 ||sdr.totango.com^
 ||sdsbucket.s3.amazonaws.com^
@@ -37345,6 +37364,7 @@
 ||sslad.adcash.com^
 ||ssljscdn.airbrake.io^
 ||sso.conduit.com^
+||ssp.ad.xiaomi.com^
 ||ssp.sellads.me^
 ||sstatic1.histats.com^
 ||sstats.adobe.com^
@@ -37804,6 +37824,7 @@
 ||storage.psstgccint.com^
 ||store.greatdealnews.com^
 ||store.lavasoft.com^
+||storeconfig.mistat.intl.xiaomi.com^
 ||storedsearch.com^
 ||storewidget.pcauthority.com.au^
 ||storm.applifier.com^
@@ -38310,12 +38331,15 @@
 ||tesr.112.207.net^
 ||test.112.207.net^
 ||test.2cnt.net^
+||test.ad.xiaomi.com^
 ||test.adition.com^
 ||test.ajc.cimedia.com^
 ||test.applifier.com^
 ||test.coremetrics.com^
 ||test.doublepimp.com^
+||test.e.ad.xiaomi.com^
 ||test.livejasmin.com^
+||test.new.api.ad.xiaomi.com^
 ||test.reporo.net^
 ||test.scorecardresearch.com^
 ||test.superstats.com^
@@ -38880,6 +38904,7 @@
 ||tracking.messagemates.com^
 ||tracking.mhlnk.com^
 ||tracking.mindshare.de^
+||tracking.miui.com^
 ||tracking.mlsat02.de^
 ||tracking.mobile.de^
 ||tracking.mobitracker.info^
@@ -47423,6 +47448,7 @@
 ||zeroredirect.com^
 ||zeroredirect1.com^
 ||zetatrk.com^
+||zeus.ad.intl.xiaomi.com^
 ||zeus.timesink.com^
 ||zeuscpa.go2affise.com^
 ||zeuscpa.go2cloud.org^
