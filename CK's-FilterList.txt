@@ -1,7 +1,7 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 00C85B37CC6B9A6E67F833D72090E8E1CC10306FEA3133A068E54FC315EC0750
+! Checksum (SHA3-256): C9C0A4C1FCE14563950DE5FDFEF554A5B03E43A2BC5E7F0D22B6B279D9184FC7
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
@@ -67575,7 +67575,7 @@ www.luxor.co.at##.info
 ||zz.zeroredirect1.com^
 ||zzz.clickbank.net^
 !
-!---------- Cloudfront ------------
+!---------- Cloudfront ----------
 !
 ||cloudfront.net/*&referrer=
 ||cloudfront.net/*&res=
@@ -67600,7 +67600,7 @@ www.luxor.co.at##.info
 ||dz2fz0bgyq9tn.cloudfront.net^$important
 ||dc8xl0ndzn2cb.cloudfront.net^$important
 !
-!---------- Cookie Warnings ------------
+!---------- Cookie Warnings ----------
 !
 ##adcookies
 ##app-cookie-consent
@@ -68210,8 +68210,12 @@ zoldbolt.hu##.cookie_accept_container
 ##div[id^="f5acd0"]
 ##ins[class*="ads"]
 !
-! ---------- Domains ----------
+! ---------- Domains (unsorted) ----------
 !
+||countante.info^
+||qulsqiqrev.com^
+||krynjumnqlix.com^
+||xnlxpsbs.com^
 ||2leep.com^
 ||2znp09oa.com^
 ||4jnzhl0d0.com^
@@ -68626,58 +68630,13 @@ github.com##.unsupported-browser
 ||github.io^$third-party,xmlhttprequest,domain=~facebook.com|~github.com|~tumblr.com
 ||github.io^$third-party,xmlhttprequest,domain=~github.com|~tumblr.com
 !
-! ---------- Google (Some domains getting separated + it's unsorted and a mess right now - I'm aware of it) ----------
+! ---------- Google + Sub Services ----------
 !
-mail.google.com#@#div[class*="ads"]
-accounts.google.com#@#div[class*="Ad"]
-||||maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
-||maps.googleapis.com/maps/api/js/StatsService.RecordStats
-||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
-apis.google.com/_/jserror$xmlhttprequest
-mail.google.com##.aKB
-mail.google.com##.nH.PS
-youtube.com##div.ad-div
-youtube.com##div.video-ads
-youtube.com##ytd-compact-promoted-video-renderer
-youtube.com##ytd-search-pyv-renderer
-youtube.com###promotion-shelf
-youtube.com##.ad-div
-youtube.com##.masthead-ad-control
-youtube.com##.pyv-afc-ads-container
-youtube.com###video-masthead
-youtube.com###watch-channel-brand-div
-youtube.com##.promoted-videos
-youtube.com##.ytd-iframe-companion-renderer
-youtube.com##YTD-PROMOTED-VIDEO-RENDERER
-youtube.com##DIV[class*="-ads-"]
-||youtube.com/api/stats$important
-||youtube.com/ad_data$important
-||youtube.com/get_midroll_
-||youtube.com/player_204$important
-||youtube.com/ptracking$important
-||youtube.com/set_awesome$important
-||youtube.com/get_midroll$important
-||youtube.com/csi_204$important
-@@||youtube.com/iframe_api$third-party
-@@||youtube.com/player_api$third-party
-@@||google.com/analytics/js/analytics.min.js$~third-party
-@@||google.com/coop/cse/brand?form=searchbox_$script,domain=wellness.com
-||www.googletagservices.com^
-||partner.googleadservices.com^
+! -- API + Ads + Element Hiding --
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##div.post-body > [class][zoompage-fontsize]
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##div[class][zoompage-fontsize] > img[src]
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##script:inject(abort-on-property-read.js, canRunAds)
-@@||googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=techsolutiontips.com|yalujailbreak.net|avoiderrors.net|fileflares.com|steamid.eu|xarold.com|new-skys.net|haxcolors.com|haxmaps.com|haxrec.com|onperiscope.com|australianfrequentflyer.com.au|tivocommunity.com|intercelestial.com|wordsense.eu|onecccam.com|newz.dk|playonlinux.com
-@@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=yalujailbreak.net|fileflares.com|techsolutiontips.com|avoiderrors.net|steamid.eu|xarold.com|new-skys.net|haxcolors.com|haxmaps.com|haxrec.com|onperiscope.com|australianfrequentflyer.com.au|tivocommunity.com|intercelestial.com|wordsense.eu|onecccam.com|newz.dk|playonlinux.com
-@@||googlesyndication.com/pagead/show_ads.js$domain=new-skys.net
-@@||googletagservices.com/tag/js/gpt.js$domain=tmz.com|goibibo.com|gamespot.com|gry.pl|whosampled.com|zdnet.com|thewrap.com|expansion.com|hardware.info|techrepublic.com|abczdrowie.pl|playrust.io|v3.co.uk|wired.com|ebaumsworld.com|pocketnow.com|cityam.com|computerworlduk.com|cwtv.com|forbes.com|independent.co.uk|techworld.com|my5.tv|ocregister.com|phoronix.com|realtor.com|seahawks.com|wwe.com
-@@||www.google.com^$script,xmlhttprequest,subdocument
-@@||www.gstatic.com^$script
-@@||www.gvt1.com^$script
-@@||www.redirector.gvt1.com^$script
-drive.google.com##.a-Fa-pf-Af-k-ja-Mb
-drive.google.com##.a-Fa-pf-Af-k.a-Fa-xQS9Ed-k.lb-k
-drive.google.com##.a-ee-zh-k-x
+apis.google.com/_/jserror$xmlhttprequest
 google.*###center_col > #\5f Emc
 google.*###center_col > #main > .dfrd > .mnr-c > .c._oc._zs
 google.*###center_col > #res > #topstuff + #search > div > #ires > #rso > #flun
@@ -68730,14 +68689,8 @@ google.*##.ra[width="30%"][align="right"] + table[width="70%"][cellpadding="0"]
 google.*##.rhsvw[style="background-color:#fff;margin:0 0 14px;padding-bottom:1px;padding-top:1px;"]
 google.*##.rscontainer > .ellip
 google.*##.widget-pane-section-result[data-result-ad-type]
-www.youtube.com###footer-links
-www.youtube.com###google-help
-www.youtube.com###movie_player > .ytp-cards-button.ytp-button
-www.youtube.com###ticker
-www.youtube.com###video-masthead
-www.youtube.com###watch7-sidebar-contents
-www.youtube.com##.yt-alert-content
-www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-box.yt-uix-expander.related-channels-editor
+||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
+! -- Domains --
 ||adservice.google.ca^
 ||adservice.google.com^
 ||adservices.google.com^
@@ -68771,13 +68724,71 @@ www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-bo
 ||pagead1.googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||pagead3.googlesyndication.com^
+||partner.googleadservices.com^
 ||tpc.googlesyndication.com^
 ||video-stats.video.google.com^
 ||www.adwords.google.lloymlincs.com^
 ||www.google-analytics.l.google.com^
 ||www.googleadservices.com^
+||www.googletagservices.com^
 ||www.googlewordpad.info^
 ||www.partner.googleadservices.com^
+! -- GDrive (Google One) --
+drive.google.com##.a-Fa-pf-Af-k-ja-Mb
+drive.google.com##.a-Fa-pf-Af-k.a-Fa-xQS9Ed-k.lb-k
+drive.google.com##.a-ee-zh-k-x
+! -- GMail --
+mail.google.com#@#div[class*="ads"]
+accounts.google.com#@#div[class*="Ad"]
+mail.google.com##.aKB
+mail.google.com##.nH.PS
+! -- Maps --
+||maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
+||maps.googleapis.com/maps/api/js/StatsService.RecordStats
+! -- YouTube --
+@@||youtube.com/iframe_api$third-party
+@@||youtube.com/player_api$third-party
+www.youtube.com###footer-links
+www.youtube.com###google-help
+www.youtube.com###movie_player > .ytp-cards-button.ytp-button
+www.youtube.com###ticker
+www.youtube.com###video-masthead
+www.youtube.com###watch7-sidebar-contents
+www.youtube.com##.yt-alert-content
+www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-box.yt-uix-expander.related-channels-editor
+youtube.com###promotion-shelf
+youtube.com###video-masthead
+youtube.com###watch-channel-brand-div
+youtube.com##.ad-div
+youtube.com##.masthead-ad-control
+youtube.com##.promoted-videos
+youtube.com##.pyv-afc-ads-container
+youtube.com##.ytd-iframe-companion-renderer
+youtube.com##DIV[class*="-ads-"]
+youtube.com##YTD-PROMOTED-VIDEO-RENDERER
+youtube.com##div.ad-div
+youtube.com##div.video-ads
+youtube.com##ytd-compact-promoted-video-renderer
+youtube.com##ytd-search-pyv-renderer
+||youtube.com/ad_data$important
+||youtube.com/api/stats$important
+||youtube.com/csi_204$important
+||youtube.com/get_midroll$important
+||youtube.com/get_midroll_
+||youtube.com/player_204$important
+||youtube.com/ptracking$important
+||youtube.com/set_awesome$important
+! -- Unbreak Google --
+@@||google.com/analytics/js/analytics.min.js$~third-party
+@@||google.com/coop/cse/brand?form=searchbox_$script,domain=wellness.com
+@@||googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=techsolutiontips.com|yalujailbreak.net|avoiderrors.net|fileflares.com|steamid.eu|xarold.com|new-skys.net|haxcolors.com|haxmaps.com|haxrec.com|onperiscope.com|australianfrequentflyer.com.au|tivocommunity.com|intercelestial.com|wordsense.eu|onecccam.com|newz.dk|playonlinux.com
+@@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=yalujailbreak.net|fileflares.com|techsolutiontips.com|avoiderrors.net|steamid.eu|xarold.com|new-skys.net|haxcolors.com|haxmaps.com|haxrec.com|onperiscope.com|australianfrequentflyer.com.au|tivocommunity.com|intercelestial.com|wordsense.eu|onecccam.com|newz.dk|playonlinux.com
+@@||googlesyndication.com/pagead/show_ads.js$domain=new-skys.net
+@@||googletagservices.com/tag/js/gpt.js$domain=tmz.com|goibibo.com|gamespot.com|gry.pl|whosampled.com|zdnet.com|thewrap.com|expansion.com|hardware.info|techrepublic.com|abczdrowie.pl|playrust.io|v3.co.uk|wired.com|ebaumsworld.com|pocketnow.com|cityam.com|computerworlduk.com|cwtv.com|forbes.com|independent.co.uk|techworld.com|my5.tv|ocregister.com|phoronix.com|realtor.com|seahawks.com|wwe.com
+@@||www.google.com^$script,xmlhttprequest,subdocument
+@@||www.gstatic.com^$script
+@@||www.gvt1.com^$script
+@@||www.redirector.gvt1.com^$script
 !
 ! ---------- iframe ----------
 !
