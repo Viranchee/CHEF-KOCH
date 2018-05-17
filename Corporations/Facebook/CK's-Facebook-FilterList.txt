@@ -5,9 +5,9 @@
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
-! Expires: 30 days (update frequency)
+! Expires: 90d
 ! TimeUpdated: 2018-05-10	04:40:17+01:00
-! Version: 0.0.0.1
+! Version: 0.0.0.2
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -280,7 +280,8 @@
 ||instagramstatic-a.akamaihd.net.edgesuite.net^
 ||instagramstatic-a.akamaihd.net^
 ||m.me^
-||messenger.com^
+||messenger.fb.com^
+||newsroom.fb.com^
 ||profile.ak.facebook.com.edgesuite.net^
 ||s-static.ak.facebook.com.edgekey.net^
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^

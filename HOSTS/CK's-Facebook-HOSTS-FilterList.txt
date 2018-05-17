@@ -1,11 +1,11 @@
-# Title: CHEF-KOCH's Facebook Filter List
+# Title: CHEF-KOCH's Facebook HOSTS Filter List
 # Description: Block all Facebook related connections. This will also block apps and services related to Facebook, like WhatsApp etc.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
 # Checksum (SHA3-256): A93C41C446444972341388BA2DF1B7D514A8EC63DA625BCEF5FA47D6DC3EDB93
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
-# Expires: 90 days
+# Expires: 90d
 # TimeUpdated: 2018-05-15	04:56:41+01:00
 # Version: 0.0.0.3
 # Please report any unblocked content or problems by email or via GitHub issue ticket.

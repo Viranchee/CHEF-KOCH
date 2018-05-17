@@ -5,7 +5,7 @@
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
-! Expires: 30 days (update frequency)
+! Expires: 90d
 ! TimeUpdated: 2018-05-10	17:21:45+01:00
 ! Version: 0.0.0.3
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
@@ -14,6 +14,22 @@
 !
 ! ---------- Google ----------
 !
+
+||chromestatus.com^
+||update.googleapis.com^
+||tools.google.com^
+||pki.google.com^
+||dl.google.com^
+||talk.google.com^^
+||android.clients.google.com^
+||www.google.com^
+||connectivitycheck.gstatic.com^
+||beacons5.gvt2.com^
+||clients4.google.com^
+||mobile-gtalk.l.google.com^
+||myaccount.google.com^
+||cloudconfig.googleapis.com^
+
 ||21150.com^
 ||3576.net^
 ||38389438.com^
