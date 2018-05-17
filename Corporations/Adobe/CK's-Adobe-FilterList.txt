@@ -52,8 +52,8 @@
 ||adobe.activate.com^
 ||adobeereg.com^
 ||cmdls.adobe.com^
-||crl.verisign.net^
 ||crl.verisign.net.*^
+||crl.verisign.net^
 ||ereg.adobe.com^
 ||ereg.adobe.de^
 ||ereg.wip.adobe.com^
@@ -62,9 +62,9 @@
 ||ereg.wip3.adobe.com^
 ||ereg.wip4.adobe.com^
 ||genuine.adobe.com^
-||hlrcv.stage.adobe.com^
 ||hl2rcv.adobe.com^
 ||hl2rcv.adobe.de^
+||hlrcv.stage.adobe.com^
 ||ims-na1-prprod.adobelogin.com^
 ||lm.licenses.adobe.com^
 ||lmlicenses.wip4.adobe.com^
@@ -74,13 +74,13 @@
 ||na4r.services.adobe.com^
 ||ocsp.spo1.verisign.com^
 ||ood.opsource.net^
-||practivate.adobe^
 ||practivate.adobe.*^
 ||practivate.adobe.com^
 ||practivate.adobe.de^
 ||practivate.adobe.ipp^
 ||practivate.adobe.newoa^
 ||practivate.adobe.ntp^
+||practivate.adobe^
 ||prod-rel-ffc-ccm.oobesaas.adobe.com^
 ||s-2.adobe.com^
 ||s-3.adobe.com^
@@ -189,6 +189,7 @@
 ||wwis-dubc1-vip98.adobe.com^
 ||wwis-dubc1-vip99.adobe.com^
 ||www.adobeereg.com^
+||www.adobetag.com^
 ||www.wip.adobe.com^
 ||www.wip1.adobe.com^
 ||www.wip2.adobe.com^

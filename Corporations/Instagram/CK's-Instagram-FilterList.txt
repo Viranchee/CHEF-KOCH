@@ -14,9 +14,9 @@
 !
 ! ---------- Instagram ----------
 !
-||api.instagram.com^
-||instagram.com^
 !||badges.instagram.com^
+||api.instagram.com^
 ||cdninstagram.com^
+||instagram.com^
 ||www.instagram.com^
 

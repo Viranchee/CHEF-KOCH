@@ -1,5 +1,5 @@
 [Adblock Plus 2.8]
-! Title: CHEF-KOCH's Torrent Filter List
+! Title: CHEF-KOCH's BadTorrentTracker Filter List
 ! Description: Blocks all suspicious, unverified, fake, duplicate or malfunction torrent trackers. 
 ! Checksum (SHA3-256): D288A0C91781D297CD9DB2E0BDBFB08C76CCDA8C
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE

@@ -31,6 +31,7 @@
 0.0.0.0 lmlicenses.wip4.adobe.com
 0.0.0.0 na1r.services.adobe.com
 0.0.0.0 practivate.adobe.com
+0.0.0.0 www.adobetag.com
 #
 # ---------- Adobe ----------
 #

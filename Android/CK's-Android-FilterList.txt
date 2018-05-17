@@ -23,6 +23,12 @@
 ||app.adjust.com^
 ||app.whappodo.com^
 ||chimpstatic.com^
+||datacollect1.abtasty.com^
+||datacollect2.abtasty.com^
+||datacollect3.abtasty.com^
+||datacollect4.abtasty.com^
+||datacollect5.abtasty.com^
+||datacollect6.abtasty.com^
 ||gate.hockeyapp.net^
 ||kinesis.us-east-1amazonaws.com^
 ||labs-mqtt.xda-developers.com^

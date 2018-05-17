@@ -72,7 +72,6 @@
 ||discoverbing.com^
 ||dnset.com^
 ||do.com^
-||download.com^
 ||downloadgamecenter.net^
 ||downloadgamecenter.org^
 ||downloadgamescenter.com^
