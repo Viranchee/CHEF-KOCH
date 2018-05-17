@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): F09F8DEC1D5EE2552740392E30DA76D22F7F24FF2A84C7FD95394A8BACFEA6F3
+! Checksum (SHA3-256): E028C0A3A6D61605750AAA116E5CA49A8B4684B836439F2535210C3AC435DBAC
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 30 days (update frequency)
-! TimeUpdated: 2018-05-16	18:12:38+01:00
-! Version: 0.0.1.0
+! TimeUpdated: 2018-05-17	06:19:00+01:00
+! Version: 0.0.1.1
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -68573,6 +68573,11 @@ zoldbolt.hu##.cookie_accept_container
 ! ---------- Facebook ----------
 !
 ##[title="Follow me on Facebook"]
+@@||connect.facebook.com^*/audiencenetworkprebid.js$script,domain=screenrant.com
+@@||connect.facebook.net^$script,domain=abc.go.com|adultswim.com|contv.com|damnyouautocorrect.com|embedly.com|fitbit.com|instagram.com|interviewmagazine.com|noovo.ca|pogo.com|reddit.com|salon.com|sci2.tv|southpark.cc.com|southpark.de|upi.com
+@@||google.com/js/plusone.js$domain=abcnews.go.com|watch.nba.com
+@@||graph.facebook.com^$xmlhttprequest,domain=theguardian.com
+@@||staticxx.facebook.com/connect/$domain=embedly.com
 _facebookbadge.
 facebook.com###pagelet_side_ads
 facebook.com###u_0_m
@@ -68617,8 +68622,10 @@ github.com##.unsupported-browser
 ||github.io^$third-party,xmlhttprequest,domain=~facebook.com|~github.com|~tumblr.com
 ||github.io^$third-party,xmlhttprequest,domain=~github.com|~tumblr.com
 !
-! ---------- Google (YouTube gets separated) ----------
+! ---------- Google (Some domains getting separated + it's unsorted and a mess right now - I'm aware of it) ----------
 !
+mail.google.com#@#div[class*="ads"]
+accounts.google.com#@#div[class*="Ad"]
 ||||maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
 ||maps.googleapis.com/maps/api/js/StatsService.RecordStats
 ||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
