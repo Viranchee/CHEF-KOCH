@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): C9C0A4C1FCE14563950DE5FDFEF554A5B03E43A2BC5E7F0D22B6B279D9184FC7
+! Checksum (SHA3-256): B2E7F905657617ED7AC9E41876545E28224DA7C2806E5EC11273B05E26E1FCB0
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-17	06:56:55+01:00
-! Version: 0.0.1.3
+! TimeUpdated: 2018-05-18	00:33:02+01:00
+! Version: 0.0.1.5
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -87,6 +87,7 @@
 ||linkedin.com/mob/tracking$xmlhttprequest
 ||linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||liverail.com^$important,domain=dailymotion.com
+||log.logrocket.io^$script
 ||market-buster.com^$popup
 ||mdf91.com^$script,domain=townhall.com
 ||mh.signetter.com/m41983
@@ -190,6 +191,7 @@ www.luxor.co.at##.info
 ||02ip.ru^$important
 ||2no.co^$important
 ||33across.com^$important
+||adblockanalytics.com^$third-party
 ||adcolony.com^$important
 ||adelphic.com^$important
 ||ampnode.host^$important
@@ -203,6 +205,7 @@ www.luxor.co.at##.info
 ||blasze.tk^$important
 ||bootyou.net^$important
 ||bvog.com^$important
+||callreports.com^$third-party
 ||chartboost.com^$important
 ||cloudfsx.com^$important
 ||community.hackersclub.net^$important
@@ -288,9 +291,11 @@ www.luxor.co.at##.info
 ||privatexmpp.me^$important
 ||prntsc.cf^$important
 ||ps3cfw.com^$important
+||pubexchange.com^$third-party
 ||r1p.pw^$important
 ||restresser.com^$important
 ||rollbar.com^$third-party
+||salemove.com^$third-party
 ||sciencefuture.tk^$important
 ||sexy18.webcam^$important
 ||skidpaste.org^$important
@@ -303,10 +308,12 @@ www.luxor.co.at##.info
 ||stresser.science^$important
 ||supersonicads-a.akamaihd.net^$important
 ||supersonicads.com^$important
+||taboola.com^$third-party
 ||tapjoy.com^$important
 ||tapjoyads.com^$important
 ||topcdn.biz^$important
 ||topstreaming.us^$important
+||trc.taboola.com*http%$script,third-party,important
 ||ts3free.top^$important
 ||twitte.ga^$important
 ||tzode.com^$third-party
@@ -68212,6 +68219,17 @@ zoldbolt.hu##.cookie_accept_container
 !
 ! ---------- Domains (unsorted) ----------
 !
+||thisisanothercoolthing.com^
+||thisisacoolthing.com^
+||tradeadsexchange.com^
+||takethatad.com^
+||spaceshipad.com^
+||serverads.net^
+||adserv.info^
+||trendtext.eu^
+||silkenthreadiness.info^
+||tatumsmolena.com^
+||cayucosprenter.com^
 ||countante.info^
 ||qulsqiqrev.com^
 ||krynjumnqlix.com^
@@ -69145,6 +69163,7 @@ pastebin.com###paypal-overlay
 @@||redditstatic.com^$image,domain=www.reddit.com
 @@||redditstatic.com^$script,domain=www.reddit.com
 @@||redditstatic.com^$stylesheet,domain=www.reddit.com
+reddit.com##.recommended-link
 ||alb.reddit.com^
 ||d.reddit.com
 ||d.reddit.com
