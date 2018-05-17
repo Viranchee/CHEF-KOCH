@@ -1,12 +1,12 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Android Filter List
 ! Description: A comprehensive, all-in-one ad-block list for Android. Apps and OS related traffic, it's designed to filter 'unneeded' Android connections. The list is only tested against AdGuard!
-! Checksum (SHA3-256): 30B84A74644F716047521F6656D0FBAD3756BC0A1FF8AFEBB1F27043EE7BC150
+! Checksum (SHA3-256): 4C85D235C3839319013609C821F9F7B86A058760D08BFCAAA18E7F43FA73FB05
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-15	04:37:23+01:00
+! TimeUpdated: 2018-05-17	16:38:03+01:00
 ! Version: 0.0.0.5
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
@@ -90,3 +90,32 @@
 ||mobilenetworkscoring-pa.googleapis.com^
 ||phonedeviceverification-pa-prod.samdbox.googleapis.com^
 ||safebrowsing-googleapis.com^
+!
+! ---------- Xiaomi tracking ----------
+!
+||a.stat.xiaomi.com^
+||abtest.mistat.intl.xiaomi.com^
+||abtest.mistat.xiaomi.com^
+||api.ad.xiaomi.com^
+||api.admob.xiaomi.com^
+||api.d.xiaomi.com^
+||cc.sys.intl.xiaomi.com^
+||cc.sys.miui.com^
+||ccc.sys.intl.xiaomi.com^
+||ccc.sys.miui.com^
+||cdn.ad.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.xiaomi.com^
+||e.ad.xiaomi.com^
+||fcanr.tracking.miui.com^
+||geofence.sys.miui.com^
+||globalapi.ad.xiaomi.com^
+||new.api.ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||ssp.ad.xiaomi.com^
+||storeconfig.mistat.intl.xiaomi.com^
+||test.ad.xiaomi.com^
+||test.e.ad.xiaomi.com^
+||test.new.api.ad.xiaomi.com^
+||tracking.miui.com^
+||zeus.ad.intl.xiaomi.com^
