@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Adobe Filter List
 ! Description: Block all Adobe related connections, this also breaks activation etc.
-! Checksum (SHA3-256): 72911FFA82F8CC79E1B9F40060D2205D6F1EE22E5332C86E1531A5D11594F3AC
+! Checksum (SHA3-256): B824236F5364A066C529D0C799C9BC17D1BB69006A27B9F106ED40B5EC5AC757
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-16	18:28:06+01:00
-! Version: 0.0.0.1
+! TimeUpdated: 2018-05-20	02:56:25+01:00
+! Version: 0.0.0.2
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -35,12 +35,25 @@
 !
 ! ---------- Adobe ----------
 !
+||209-34-83-73.ood.opsource.net^
 ||3dns-1.adobe.com^
 ||3dns-2.adobe.com^
 ||3dns-3.adobe.com^
 ||3dns-4.adobe.com^
 ||3dns-5.adobe.com^
 ||3dns.adobe.com^
+||activate-sea.adobe.com^
+||activate-sea.adobe.de^
+||activate-sjc0.adobe.com^
+||activate-sjc0.adobe.de^
+||activate.adobe.com^
+||activate.adobe.de^
+||activate.wip.adobe.com^
+||activate.wip1.adobe.com^
+||activate.wip2.adobe.com^
+||activate.wip3.adobe.com^
+||activate.wip3.adobe.de^
+||activate.wip4.adobe.com^
 ||adobe-dns-1.adobe.com^
 ||adobe-dns-2.adobe.com^
 ||adobe-dns-2.adobe.de^
@@ -52,7 +65,6 @@
 ||adobe.activate.com^
 ||adobeereg.com^
 ||cmdls.adobe.com^
-||crl.verisign.net.*^
 ||crl.verisign.net^
 ||ereg.adobe.com^
 ||ereg.adobe.de^
@@ -62,9 +74,9 @@
 ||ereg.wip3.adobe.com^
 ||ereg.wip4.adobe.com^
 ||genuine.adobe.com^
+||hlrcv.stage.adobe.com^
 ||hl2rcv.adobe.com^
 ||hl2rcv.adobe.de^
-||hlrcv.stage.adobe.com^
 ||ims-na1-prprod.adobelogin.com^
 ||lm.licenses.adobe.com^
 ||lmlicenses.wip4.adobe.com^
@@ -74,13 +86,12 @@
 ||na4r.services.adobe.com^
 ||ocsp.spo1.verisign.com^
 ||ood.opsource.net^
-||practivate.adobe.*^
+||practivate.adobe^
 ||practivate.adobe.com^
 ||practivate.adobe.de^
 ||practivate.adobe.ipp^
 ||practivate.adobe.newoa^
 ||practivate.adobe.ntp^
-||practivate.adobe^
 ||prod-rel-ffc-ccm.oobesaas.adobe.com^
 ||s-2.adobe.com^
 ||s-3.adobe.com^
@@ -91,6 +102,7 @@
 ||wip2.adobe.com^
 ||wip3.adobe.com^
 ||wip4.adobe.com^
+||www.du1.adobe.com^
 ||wwis-dubc1-vip100.adobe.com^
 ||wwis-dubc1-vip101.adobe.com^
 ||wwis-dubc1-vip102.adobe.com^
@@ -189,9 +201,11 @@
 ||wwis-dubc1-vip98.adobe.com^
 ||wwis-dubc1-vip99.adobe.com^
 ||www.adobeereg.com^
-||www.adobetag.com^
 ||www.wip.adobe.com^
 ||www.wip1.adobe.com^
 ||www.wip2.adobe.com^
 ||www.wip3.adobe.com^
 ||www.wip4.adobe.com^
+||crl.verisign.net.*^
+||practivate.adobe.*^
+||www.adobetag.com^
