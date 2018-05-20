@@ -60,9 +60,9 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 
 
 
-## [Report issues, unblocked ads or trackers]
+## [Report issues, unblocked ads or trackers](https://github.com/CHEF-KOCH/CKs-FilterList/issues)
 
-#### Like my list? Star it on GitHub! :star: (Desktop site) or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
+#### Like my list? Star it on GitHub! :star: or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
 
 ## Credits 
 
