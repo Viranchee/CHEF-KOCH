@@ -1,13 +1,13 @@
 [Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Facebook Filter List
 ! Description: Block all Facebook related connections. This will also block apps and services related to Facebook, like WhatsApp etc.
-! Checksum (SHA3-256): 0F6FCAFEB1E24EFBA3FB204C998FE4E0FCEBD0C7291E4EBDB85A91E110218EAE
+! Checksum (SHA3-256): 83802FAF82C426202943B3EA6FBA2143C63A067AC8D2625701C83BF4B30CBDE7
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-10	04:40:17+01:00
-! Version: 0.0.0.2
+! TimeUpdated: 2018-05-19	21:35:07+01:00
+! Version: 0.0.0.3
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -266,8 +266,79 @@
 ||ae13.pr01.sea1.tfbnw.net^
 ||connect.facebook.net.edgekey.net^
 ||connect.facebook.net^
+||external.xx.fbcdn.net^
 ||facebook-web-clients.appspot.com^
+||facebook.ac^
+||facebook.af^
+||facebook.ag^
+||facebook.al^
+||facebook.asia^
+||facebook.at^
+||facebook.be^
+||facebook.bg^
+||facebook.biz^
+||facebook.bs^
+||facebook.ca^
+||facebook.cg^
+||facebook.cl^
+||facebook.cn^
+||facebook.co.in^
+||facebook.co.nz^
+||facebook.co.th^
+||facebook.co.uk^
+||facebook.co.za^
+||facebook.co^
 ||facebook.com^
+||facebook.com^
+||facebook.cr^
+||facebook.de^
+||facebook.dk^
+||facebook.dm^
+||facebook.es^
+||facebook.eu^
+||facebook.fi^
+||facebook.fm^
+||facebook.fr^
+||facebook.gg^
+||facebook.gl^
+||facebook.gp^
+||facebook.gy^
+||facebook.hk^
+||facebook.hr^
+||facebook.ht^
+||facebook.hu^
+||facebook.ie^
+||facebook.in^
+||facebook.it^
+||facebook.jp^
+||facebook.kr^
+||facebook.lv^
+||facebook.ly^
+||facebook.mobi^
+||facebook.mw^
+||facebook.mx^
+||facebook.nf^
+||facebook.nl^
+||facebook.no^
+||facebook.org^
+||facebook.pk^
+||facebook.pl^
+||facebook.pn^
+||facebook.pr^
+||facebook.pt^
+||facebook.pw^
+||facebook.rw^
+||facebook.sd^
+||facebook.se^
+||facebook.sr^
+||facebook.tf^
+||facebook.tj^
+||facebook.tw^
+||facebook.ug^
+||facebook.us^
+||facebook.vn^
+||facebook.vu^
+||facebookmail.com^
 ||fb.com^
 ||fb.me^
 ||fbcdn-profile-a.akamaihd.net^
