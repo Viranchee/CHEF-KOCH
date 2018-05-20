@@ -1,12 +1,12 @@
 # Title: CHEF-KOCH's Spotify Ad-Filter List
 # Description: Blocks all annoying Spotify Ads.
-# Checksum (SHA 1): 3561EC14F82476B6D60E4A2528FFF4173612FA2539309E97D6A354523ED93735
+# Checksum (SHA 1): DCAD69A4A11ED2D6C0FD7B6E070717DF6267ADC1DACF1D3EDA9A2833C7D45CA9
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 # Expires: 14d
-# TimeUpdated: 2018-05-20	01:11:33+01:00
-# Version: 0.0.0.2
+# TimeUpdated: 2018-05-20	02:12:14+01:00
+# Version: 0.0.0.3
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
@@ -22,6 +22,7 @@
 0.0.0.0 analytics.spotify.com
 0.0.0.0 audio-sp-sto.spotify.com
 0.0.0.0 audio2.spotify.com
+0.0.0.0 audio4-ak.spotify.com.edgesuite.net
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 bs.serving-sys.com
@@ -81,4 +82,4 @@
 #0.0.0.0 151.101.112.246										
 #0.0.0.0 gew1-accesspoint-b-zzfg.ap.spotify.com
 #0.0.0.0 gew1-accesspoint-b-mb1b.ap.spotify.com
-#
+#0.0.0.0 i.scdn.co
