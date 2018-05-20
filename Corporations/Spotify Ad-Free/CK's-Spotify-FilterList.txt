@@ -11,6 +11,8 @@
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 !
+! ---------- Spotify ----------
+!
 ||a2-16-186-17.deploy.static.akamaitechnologies.com^
 ||adclick.g.doublecklick.net^
 ||adeventtracker.spotify.com^

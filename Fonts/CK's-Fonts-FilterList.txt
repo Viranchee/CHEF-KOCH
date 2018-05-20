@@ -56,8 +56,15 @@
 ||webfonts.creativecloud.com^$third-party
 ||wp.com^*/fonts/$third-party
 !
+! ---------- Whitelist ----------
+!
+@@||amazonaws.com^$font,domain=play.spotify.com
+!
+!
 ! ---------- Test ----------
 !
 ||/\.woff2(|\?.*)$/$third-party
 /\.(ttf|otf|woff|woff2)(|\?.*)$/$third-party
 /\.(ttf|ttc|tte|otf|otc|eot|svg|svgz|woff|woff2)(|\?.*)$/$third-party
+/cdn-cgi/pe/bag2?*googleapis.com*webfont.js
+||maxcdn.bootstrapcdn.com^*/fonts/

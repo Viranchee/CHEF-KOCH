@@ -1,4 +1,3 @@
-[Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Pinterest Filter List
 ! Description: Block all Pinterest related connections, it also blocks sync and other apps and services.
 ! Checksum (SHA3-256): 2820B3C4181AE7BCA9A9F14887E101240EADA826A5A87FEDF7BBF95D5FC7284A
