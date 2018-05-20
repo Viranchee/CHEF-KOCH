@@ -1,17 +1,17 @@
-[Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Spotify Ad-Filter List
 ! Description: Blocks all annoying Spotify Ads.
-! Checksum (SHA 1): E66805C25AF616A65412ACCC8C63592D645FCBC6
+! Checksum (SHA 1): CFF70C5ED71AE7E537A0D0E06D4115030D5C200E4006E6021F4DD06A53978FAD
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-12	14:35:45+01:00
-! Version: 0.0.0.1
+! TimeUpdated: 2018-05-20	03:42:28+01:00
+! Version: 0.0.0.2
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 !
+||a2-16-186-17.deploy.static.akamaitechnologies.com^
 ||adclick.g.doublecklick.net^
 ||adeventtracker.spotify.com^
 ||adnxs.com^
@@ -21,6 +21,7 @@
 ||analytics.spotify.com^
 ||audio-sp-sto.spotify.com^
 ||audio2.spotify.com^
+||audio4-ak.spotify.com.edgesuite.net^
 ||b.scorecardresearch.com^
 ||bounceexchange.com^
 ||bs.serving-sys.com^
@@ -41,6 +42,7 @@
 ||googleads4.g.doubleclick.net^
 ||googleadservices.com^
 ||gtssl2-ocsp.geotrust.com^
+||i.scdn.co^
 ||js.moatads.com^
 ||log.spotify.com^
 ||lon3-weblb-wg3.lon3.spotify.com^
@@ -53,7 +55,6 @@
 ||partner.googleadservices.com^
 ||prod.spotify.map.fastlylb.net^
 ||pubads.g.doubleclick.net^
-||redirector.gvt1.com^
 ||s0.2mdn.net^
 ||securepubads.g.doubleclick.net^
 ||seen-on-screen.thewhizmarketing.com^
