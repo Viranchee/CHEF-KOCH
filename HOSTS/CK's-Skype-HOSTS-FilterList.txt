@@ -1,0 +1,141 @@
+! Title: CHEF-KOCH's Skype HOSTS Ad-Filter List
+! Description: Blocks all annoying Skype Ads.
+! Checksum (SHA 1): 384E23594A57A547CA708211C8661B9261631D0339A70C871E9E930947B61A35
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 14d
+! TimeUpdated: 2018-05-20	03:46:17+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- Skype ----------
+!
+#0.0.0.0 104.146.0.0-104.146.0.19
+#0.0.0.0 104.146.128.0-104.146.128.17
+#0.0.0.0 104.208.0.0-104.208.0.13
+#0.0.0.0 104.40.0.0-104.40.0.13
+#0.0.0.0 111.221.16.0-111.221.16.20
+#0.0.0.0 111.221.64.0-111.221.64.18
+#0.0.0.0 13.104.0.0-13.104.0.14
+#0.0.0.0 13.107.20.0-13.107.20.24
+#0.0.0.0 13.64.0.0-13.64.0.11
+#0.0.0.0 131.253.1.0-131.253.1.24
+0.0.0.0 134.170.30.202
+0.0.0.0 137.116.81.24
+0.0.0.0 204.79.197.200
+0.0.0.0 23.218.212.69
+0.0.0.0 23.218.212.69
+0.0.0.0 65.39.117.230
+0.0.0.0 65.55.108.23
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.global.msads.net
+0.0.0.0 a.rad.msn.com
+0.0.0.0 ac3.msn.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
+0.0.0.0 ads2.msn.com.c.footprint.net
+0.0.0.0 ads2.msn.com
+0.0.0.0 aidps.atdmt.com
+0.0.0.0 aka-cdn-ns.adtech.de
+0.0.0.0 api.skype.com
+0.0.0.0 apps.skype.com
+0.0.0.0 b.ads1.msn.com
+0.0.0.0 b.ads2.msads.net
+0.0.0.0 b.rad.msn.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 c.atdmt.com
+0.0.0.0 c.msn.com.nsatc.net
+0.0.0.0 c.msn.com
+0.0.0.0 cdn.atdmt.com
+0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 choice.microsoft.com.nstac.net
+0.0.0.0 choice.microsoft.com
+0.0.0.0 compatexchange.cloudapp.net
+0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 db3aqu.atdmt.com
+0.0.0.0 devads.skypeassets.net
+0.0.0.0 devapps.skype.net
+0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 ec.atdmt.com
+0.0.0.0 fe2.update.microsoft.com.akadns.net
+0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 feedback.windows.com
+0.0.0.0 flex.msn.com.nsatc.net
+0.0.0.0 flex.msn.com
+0.0.0.0 g.msn.com
+0.0.0.0 global.msads.net
+0.0.0.0 h1.msn.com
+0.0.0.0 h2.msn.com
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 live.rads.msn.com
+0.0.0.0 m.adnxs.com
+0.0.0.0 m.hotmail.com
+0.0.0.0 msftncsi.com
+0.0.0.0 msntest.serving-sys.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 pipe.skype.com
+0.0.0.0 pre.footprintpredict.com
+0.0.0.0 preads.skypeassets.net
+0.0.0.0 preg.bforex.com
+0.0.0.0 preview.msn.com
+0.0.0.0 pricelist.skype.com
+0.0.0.0 pricelist.skype.com
+0.0.0.0 qaapi.skype.net
+0.0.0.0 qawww.skypeassets.net
+0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com.nsatc.net
+0.0.0.0 rad.msn.com
+0.0.0.0 rad.msn.com
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 secure.adnxs.com
+0.0.0.0 secure.flashtalking.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 serving.plexop.net
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 ssw.live.com
+0.0.0.0 static-asm.secure.skypeassets.com
+0.0.0.0 static.2mdn.net
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
+0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 ui.skype.akadns.net
+0.0.0.0 ui.skype.com
+0.0.0.0 view.atdmt.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 watson.live.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com

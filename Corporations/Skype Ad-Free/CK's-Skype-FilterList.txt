@@ -1,0 +1,141 @@
+! Title: CHEF-KOCH's Skype Ad-Filter List
+! Description: Blocks all annoying Skype Ads.
+! Checksum (SHA 1): AA11522C40DE6E2CBF84A4B69457FF8B722F99C0D32CFA28C0FCAA1225168070
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 14d
+! TimeUpdated: 2018-05-20	03:46:17+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- Skype ----------
+!
+!||104.146.0.0-104.146.0.19^
+!||104.146.128.0-104.146.128.17^
+!||104.208.0.0-104.208.0.13^
+!||104.40.0.0-104.40.0.13^
+!||111.221.16.0-111.221.16.20^
+!||111.221.64.0-111.221.64.18^
+!||13.104.0.0-13.104.0.14^
+!||13.107.20.0-13.107.20.24^
+!||13.64.0.0-13.64.0.11^
+!||131.253.1.0-131.253.1.24^
+||134.170.30.202^
+||137.116.81.24^
+||204.79.197.200^
+||23.218.212.69^
+||23.218.212.69^
+||65.39.117.230^
+||65.55.108.23^
+||a-0001.a-msedge.net^
+||a.ads1.msn.com^
+||a.ads2.msads.net^
+||a.ads2.msn.com^
+||a.global.msads.net^
+||a.rad.msn.com^
+||ac3.msn.com^
+||ad.doubleclick.net^
+||adnexus.net^
+||adnxs.com^
+||ads.msn.com^
+||ads1.msads.net^
+||ads1.msn.com^
+||ads2.msn.com.c.footprint.net^
+||ads2.msn.com^
+||aidps.atdmt.com^
+||aka-cdn-ns.adtech.de^
+||api.skype.com^
+||apps.skype.com^
+||b.ads1.msn.com^
+||b.ads2.msads.net^
+||b.rad.msn.com^
+||bs.serving-sys.com^
+||c.atdmt.com^
+||c.msn.com.nsatc.net^
+||c.msn.com^
+||cdn.atdmt.com^
+||cds26.ams9.msecn.net^
+||choice.microsoft.com.nstac.net^
+||choice.microsoft.com^
+||compatexchange.cloudapp.net^
+||corp.sts.microsoft.com^
+||corpext.msitadfs.glbdns2.microsoft.com^
+||cs1.wpc.v0cdn.net^
+||db3aqu.atdmt.com^
+||devads.skypeassets.net^
+||devapps.skype.net^
+||df.telemetry.microsoft.com^
+||diagnostics.support.microsoft.com^
+||ec.atdmt.com^
+||fe2.update.microsoft.com.akadns.net^
+||feedback.microsoft-hohm.com^
+||feedback.search.microsoft.com^
+||feedback.windows.com^
+||flex.msn.com.nsatc.net^
+||flex.msn.com^
+||g.msn.com^
+||global.msads.net^
+||h1.msn.com^
+||h2.msn.com^
+||i1.services.social.microsoft.com.nsatc.net^
+||i1.services.social.microsoft.com^
+||live.rads.msn.com^
+||m.adnxs.com^
+||m.hotmail.com^
+||msftncsi.com^
+||msntest.serving-sys.com^
+||oca.telemetry.microsoft.com.nsatc.net^
+||oca.telemetry.microsoft.com^
+||pipe.skype.com^
+||pre.footprintpredict.com^
+||preads.skypeassets.net^
+||preg.bforex.com^
+||preview.msn.com^
+||pricelist.skype.com^
+||pricelist.skype.com^
+||qaapi.skype.net^
+||qawww.skypeassets.net^
+||rad.live.com^
+||rad.msn.com.nsatc.net^
+||rad.msn.com^
+||rad.msn.com^
+||redir.metaservices.microsoft.com^
+||reports.wes.df.telemetry.microsoft.com^
+||s0.2mdn.net^
+||secure.adnxs.com^
+||secure.flashtalking.com^
+||services.wes.df.telemetry.microsoft.com^
+||serving.plexop.net^
+||settings-sandbox.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||sls.update.microsoft.com.akadns.net^
+||sqm.df.telemetry.microsoft.com^
+||sqm.telemetry.microsoft.com.nsatc.net^
+||sqm.telemetry.microsoft.com^
+||ssw.live.com^
+||static-asm.secure.skypeassets.com^
+||static.2mdn.net^
+||statsfe1.ws.microsoft.com^
+||statsfe2.update.microsoft.com.akadns.net^
+||statsfe2.ws.microsoft.com^
+||survey.watson.microsoft.com^
+||telecommand.telemetry.microsoft.com.nsatc.net^
+||telecommand.telemetry.microsoft.com^
+||telemetry.appex.bing.net^
+||telemetry.microsoft.com^
+||telemetry.urs.microsoft.com^
+||ui.skype.akadns.net^
+||ui.skype.com^
+||view.atdmt.com^
+||vortex-sandbox.data.microsoft.com^
+||vortex-win.data.microsoft.com^
+||vortex.data.microsoft.com^
+||watson.live.com^
+||watson.microsoft.com^
+||watson.ppe.telemetry.microsoft.com^
+||watson.telemetry.microsoft.com.nsatc.net^
+||watson.telemetry.microsoft.com^
+||wes.df.telemetry.microsoft.com^
