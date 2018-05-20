@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): B2E7F905657617ED7AC9E41876545E28224DA7C2806E5EC11273B05E26E1FCB0
+! Checksum (SHA3-256): 1BFEE537EF36A462F3434892D204A6E86FE128BA165ACF761C10D8B03C610791
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
-! Expires: 3d
-! TimeUpdated: 2018-05-19	17:26:59+01:00
-! Version: 0.0.1.6
+! Expires: 5d
+! TimeUpdated: 2018-05-19	23:58:50+01:00
+! Version: 0.0.1.7
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -333,6 +333,12 @@ luxor.co.at##.info
 !
 ! ---------- Amazon ----------
 !
+amazon.com/empty.gif
+amazon.com/mn/search/uedata/
+fls-na.amazon.com/*/amazon-clicks/
+m.media-amazon.com/images/*/AMSSponsoredSearch
+ssl-images-amazon.com/images/*/ClientSideMetricsAUIJavascript
+ams-ads-cornerstone-creatives.s3.amazonaws.com
 ||gtrk.s3.amazonaws.com^$important
 ||load.s3.amazonaws.com^$important
 !
@@ -67169,6 +67175,31 @@ luxor.co.at##.info
 ||zz.zeroredirect1.com^
 ||zzz.clickbank.net^
 !
+!---------- Bloomberg ----------
+!
+bloomberg.com###adBlockerContainer
+bloomberg.com###bb-nav:style(position: relative !important; top: 0 !important; animation: none !important;)
+bloomberg.com###full-header:style(position: absolute !important;)
+bloomberg.com###header-sharing
+bloomberg.com###paywall-banner
+bloomberg.com##.article_interaction
+bloomberg.com##.bb-nav-social__link
+bloomberg.com##.bb-nav-social__more-icon
+bloomberg.com##.blvs-share-button
+bloomberg.com##.dvz-v0-stuck.bb-nav-root:style(position: absolute !important;)
+bloomberg.com##.highlights-v6-story__social
+bloomberg.com##.in-article-ad-dummy
+bloomberg.com##.inline-newsletter
+bloomberg.com##.mobile-box-ad-dummy
+bloomberg.com##.navi:style(position: relative !important; top: 0 !important; transition: none !important;)
+bloomberg.com##.persist-nav.bb-nav-root
+bloomberg.com##.recirc.rotation-item:style(transition: none !important; transform: none !important; opacity: 1 !important; max-height: 2000px !important;)
+bloomberg.com##.rotation-item[current=false]:style(opacity: 1 !important; max-height: 2000px !important; transform: none !important;)
+bloomberg.com##.sticky-container:style(position: static !important; top: 0px !important;)
+bloomberg.com##.sticky-video:style(transition: none !important; transform: none !important;)
+bloomberg.com##.terminal-tout-container
+bloomberg.com##.video-player__container:style(position: static !important; transition: none !important; transform: none !important; opacity: 1 !important; top: 0 !important; width: auto !important; height: auto !important;)
+!
 !---------- Cloudfront ----------
 !
 ||cloudfront.net/*&referrer=
@@ -67193,23 +67224,41 @@ luxor.co.at##.info
 !
 !---------- Cookie Warnings ----------
 !
-lexus.com.tr,lexus.is##.l-disclaimer
-markapark.com##.htext
-movieview.dk###cookie
-##.gb-gnb__notice-bar
-##.cookieCon
-###tenantAcceptText
-disagreeCookie.
-/agreeCookie.
-nytimes.com##.expanded
 ###amp-user-notification
 ###amp-user-notification1
 ###amp-user-notification2
+###tenantAcceptText
+##.cc-cookies
+##.cookie-accept-overlay
+##.cookie-alert
+##.cookie-banner
+##.cookie-banner-wrapper
+##.cookie-bg
+##.cookie-choice
+##.cookie-consent-container
+##.cookie-container
+##.cookie-law
+##.cookie-message
+##.cookie-mobile-wrapper
+##.cookie-nav
+##.cookie-notice
+##.cookie-notice-container
+##.cookie-notification
+##.cookie-policy
+##.cookie-policy-form
+##.cookie-policy-message
+##.cookieBar
+##.cookieBox
+##.cookieCon
+##.cookieConsent
+##.cookieConsent-popOut
+##.gb-gnb__notice-bar
 ##adcookies
 ##app-cookie-consent
 ##app-cookie-warning
 ##b2c-cookies-notification
 /CookiesDirective
+/agreeCookie.
 /ajax/libs/cookieconsent2/
 /amp-user-notification-
 /cg_cookie.js
@@ -67246,7 +67295,6 @@ nytimes.com##.expanded
 @@||huppa.hu^*/cookielawinfo.js
 CookieAccept/affirmation.js
 adaptil.com###toolbar-cookie
-stream.cr###iFrameResizer0
 adf.ly###cookie_notice
 agrokisgepcenter.hu##.cookie-holder
 allas.hu##.cookiepolicy-wrapper
@@ -67283,6 +67331,7 @@ cookiewarning4.js
 csaladinet.hu###CookieAcceptLayer
 devportal.hu###PCBContainer
 dictzone.com###ac
+disagreeCookie.
 divany.hu,index.hu###_iph_cp_popup
 drtihanyi.hu###cookies
 e-egeszsegugy.gov.hu##.cookie-question
@@ -67319,12 +67368,16 @@ kertvarosipatika.hu###coocie
 kh.hu###cookieAcceptanceContainer
 koloknet.hu###cookie
 kult.de###cookie-fixed-layer
+lexus.com.tr,lexus.is##.l-disclaimer
 logmein.hu##.cookie
 magyarkozosseg.net##.tplis-cl-cookies
+markapark.com##.htext
 marmalade.hu###cookies_popup
+movieview.dk###cookie
 mystipendium.de###sliding-popup
 nickelodeon.hu###cookie-policy-msg
 notebookspecialista.hu###cookie
+nytimes.com##.expanded
 okopolc.hu###firstLogNanobar
 online.filmek-sorozatok.info###CookieMonsterNAIH
 origo.hu###ac
@@ -67341,6 +67394,7 @@ softonic.com###cookie-policies
 softpedia.com##.jobnotice_cnt
 sokkaljobb.hu###SPS_noaccept
 statusbrew.com##.nag.cookie.ui
+stream.cr###iFrameResizer0
 studis-online.de##div[aria-label=cookieconsent]
 sunstargum.com###cookiecontainer
 szamalk.hu###js-cookie-box
@@ -68387,7 +68441,6 @@ google.*##.widget-pane-section-result[data-result-ad-type]
 ||mimageads8.googleadservices.com^
 ||mimageads9.googleadservices.com^
 ||mpartner.googleadservices.com^
-||pagead3.googlesyndication.com^
 ||tpc.googlesyndication.com^
 ||video-stats.video.google.com^
 ||www.adwords.google.lloymlincs.com^
@@ -68912,6 +68965,8 @@ reddit.com##.recommended-link
 !
 ! ---------- Share Buttons ----------
 !
+###headermodule2
+###SocialMediaIconsID
 ###social-apps
 ###social-bar
 ###social-bar-bottom
@@ -69016,14 +69071,6 @@ reddit.com##.recommended-link
 ##.SocialBar
 ##.SocialButtons
 ##.SocialShare
-##.feature > #tell-a-friend
-##KNO-SHARE-BUTTON
-##[title="Follow me on LinkedIn"]
-##div[class$="_social_icons_widget"]
-/follow-with-google-
-/share_buttons_
-/social-core-$image
-/socialcore-$image
 ##.facebook
 ##.facebook-blue
 ##.facebook-btn
@@ -69078,6 +69125,14 @@ reddit.com##.recommended-link
 ##.fbbutton
 ##.fblike
 ##.fbshare_gm_p
+##.feature > #tell-a-friend
+##KNO-SHARE-BUTTON
+##[title="Follow me on LinkedIn"]
+##div[class$="_social_icons_widget"]
+/follow-with-google-
+/share_buttons_
+/social-core-$image
+/socialcore-$image
 !
 ! ---------- Twitter ----------
 !
@@ -69216,6 +69271,14 @@ cdkeys.com#@#DIV[class^="box-ad"]
 chess.com#@#DIV[id^="div-gpt-ad"]
 news.naver.com#@#.sponsor
 photographyblog.com#@#DIV[id^="taboola-"]
+!
+! ---------- Wordpress ----------
+!
+wordpress.com###bit
+wordpress.com###masthead:style(position: absolute !important;)
+wordpress.com###wpadminbar:style(position: absolute !important;)
+wordpress.com##.is-invisible.is-fixed.masterbar:style(position: absolute !important;)
+wordpress.org###wpadminbar:style(position: absolute !important;)
 !
 ! ---------- Zdnet ----------
 !
