@@ -5,8 +5,8 @@
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 5d
-! TimeUpdated: 2018-05-20	14:01:24+01:00
-! Version: 0.0.2.2
+! TimeUpdated: 2018-05-20	14:48:01+01:00
+! Version: 0.0.2.3
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -164,6 +164,25 @@
 !
 ! ---------- 3rd party ----------
 !
+||angel-group.net^$third-party
+||angel-live.com^$third-party
+||citysex.com^$third-party
+||dxlive.com^$third-party
+||finderz.jp^$third-party
+||hananokai.tv^$third-party
+||j-live.tv^$third-party
+||lakn.org^$third-party
+||latexbizarret.net^$third-party
+||livede55.com^$third-party
+||m-live.jp^$third-party
+||mg-k.jp^$third-party
+||natuko-miracle.com^$third-party
+||rose-lip.com^$third-party
+||roselip-fetish.com^$third-party
+||redshell.info^$third-party
+||sexy-ch.com^$third-party
+||sorotore.com^$third-party
+||zeppin.com^$third-party
 ericmathison.com##script:inject(abort-on-property-read.js, _paq)
 ||kfryur.club^$third-party
 ||okserial.club^$third-party
@@ -507,6 +526,37 @@ http://wq3.ru^$third-party
 /300x250b.
 /300x250px-
 /300x250px_
+/468x60_
+/468x60.
+_468x60_
+_468x60.
+/468_60_
+/468_60.
+_468_60.
+/728x90_
+/728x90-
+/728x90.
+_728x90_
+_728x90.
+/728_90.
+_728_90.
+.biz/ad/
+.biz/ads/
+.ch/ads/
+.co/ads/
+.com/ad/
+.com/ads/
+.eu/ads/
+.fr/ads/
+.gs/ads/
+.jp/ad/$domain=~gakushuin.ac.jp
+.jp/ad_
+.jp/ads/
+.org/ad/
+.org/ads/
+.ru/ads/
+.to/ads/
+.tv/ads/
 -analytics.$image,third-party
 -tracking.$third-party
 .amazonaws.com/*/buzzing/$third-party
@@ -774,16 +824,120 @@ outbrain$script
 ||zanboor.net^$third-party
 ||zarpop.com^$third-party
 !
+! ---------- 9 GAG ----------
+!
+9gag.com###jsid-featured-sidebar-tail
+9gag.com###jsid-sticky-button
+9gag.com###sidebar-content:style(position: relative !important;)
+9gag.com###top-nav:style(position: absolute !important;)
+9gag.com##.badge-toolbar-pre.fixed-wrap-post-bar
+9gag.com##.post-afterbar-a.in-post-bot.full-width
+!
 ! ---------- Amazon ----------
 !
+###freespace [href*="amazon.co.jp"]
+###right a[href*="amazon.co.jp"]
+###side a[href*="amazon.co.jp"]
+###sidemenu a[href*="amazon.co.jp"]
+###sub a[href*="amazon.co.jp"]
+##.left-column-inner a[href*="amazon.co.jp"]
+##.left-container a[href*="amazon.co.jp"]
+##.plugin-freearea a[href*="amazon.co.jp"]
+##.plugin-freearea1 a[href*="amazon.co.jp"]
+##.right-column-inner a[href*="amazon.co.jp"]
+##.right-container a[href*="amazon.co.jp"]
+##.side a[href*="amazon.co.jp"]
+##.sidemenu2 a[href*="amazon.co.jp"]
+##.sidewrapper a[href*="amazon.co.jp"]
+#.column-inner-2 a[href*="amazon.co.jp"]
+/amazon.js
+/tinywidget.min.js
+amazon.co.uk##.actor.xrayQuickViewListItem
+amazon.co.uk##.show.xrayQuickView
+amazon.co.uk##.xrayHeaderLink
+amazon.co.uk##.xrayQuickViewList.collectionView
+amazon.com###huc-v2-order-row-placeholder
+amazon.com###miniATFUDP:style(position: relative !important; top: 0 !important;)
+amazon.com###miniATF_feature_div:style(position: relative !important; top: 0 !important;)
+amazon.com###nav-flyout-ewc:style(position: absolute !important; top: 0 !important; height: 600px !important;)
+amazon.com###nav-mobile-airstream-stripe
+amazon.com###subtotalsContainer:style(position: absolute !important; top: 0 !important;)
+amazon.com###tell-a-friend-byline
+amazon.com###tellAFriendBox_feature_div
+amazon.com###tellafriendAUI
+amazon.com##.actor.xrayQuickViewListItem
+amazon.com##.ewc-beacon.nav-flyout-body:style(top: 0 !important; height: 501px !important; border-bottom-color: rgb(202, 202, 202); !important; border-bottom-style: solid !important; border-bottom-width: 1px !important;)
+amazon.com##.huc-v2-pinned-order-row-with-divider:style(position: relative !important; top: 0 !important; padding: 0 !important;)
+amazon.com##.nav-flyout-head:style(padding-top: 47px !important; height: 99px !important; top: 0px !important;)
+amazon.com##.nav-sprite.nav-tools.nav-flyout-head:style(top: 0px !important;)
+amazon.com##.pantry-place-holder
+amazon.com##.pantry-wayfinder-sticky-bar:style(position: relative !important;)
+amazon.com##.show.xrayQuickView
+amazon.com##.stickybuybox.a-button-stack:style(position: absolute !important;)
+amazon.com##.w-swf-inline-tab
+amazon.com##.xrayHeaderLink
+amazon.com##.xrayQuickViewList.collectionView
+amazon.com##body:style(overflow-x: hidden !important; overflow-y: auto !important; padding-top: 0px !important;)
 amazon.com/empty.gif
 amazon.com/mn/search/uedata/
+ams-ads-cornerstone-creatives.s3.amazonaws.com
 fls-na.amazon.com/*/amazon-clicks/
 m.media-amazon.com/images/*/AMSSponsoredSearch
 ssl-images-amazon.com/images/*/ClientSideMetricsAUIJavascript
-ams-ads-cornerstone-creatives.s3.amazonaws.com
 ||gtrk.s3.amazonaws.com^$important
 ||load.s3.amazonaws.com^$important
+~amazon.co.jp###sidebar a[href*="amazon.co.jp"]
+~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de###left a[href*="amazon.co.jp"]
+~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de##.sidebar a[href*="amazon.co.jp"]
+!
+!---------- Anandtech ----------
+!
+anandtech.com###header_ad
+anandtech.com###side_ad
+anandtech.com###uix_jumpToFixed
+anandtech.com##.fl-lt
+anandtech.com##.inner_wrapper:style(position: absolute !important;)
+anandtech.com##.sticky_wrapper:style(position: absolute !important;)
+!
+!---------- Android.com ----------
+!
+android.com###anchor-nav:style(position: relative !important; top: 0 !important;)
+android.com###header:style(position: absolute !important;)
+android.com##.dac-nav-sidebar:style(position: absolute !important;)
+android.com##.dac-toast-group
+android.com##.l-header:style(position: relative !important; top: 0 !important; transform: none !important;))
+android.com##.nocontent.devsite-top-section:style(position: relative !important; top: 0 !important;)
+android.com##body:style(padding-top: 0px !important;)
+!
+!---------- Android Authority ----------
+!
+androidauthority.com###aa-subscribe-widget-wrap
+androidauthority.com###scrolled_view_bar
+androidauthority.com###sticky-bar:style(position: absolute !important;)
+androidauthority.com##.aa_app_widget
+androidauthority.com##.aa_soc_sidebar
+androidauthority.com##.fixed.fixed-object.bottom-reached.single-sidebar.content-panel:style(position: relative !important;)
+androidauthority.com##.short.single_post_additional_block.single_share_block
+androidauthority.com##.sw_overlay_href.overlay-link
+!
+!---------- Android Central ----------
+!
+androidcentral.com###header:style(position: relative !important;)
+androidcentral.com##.header-top-inner2:style(position: relative !important; height: 60px !important;)
+androidcentral.com##.header-top-inner:style(position: relative !important; height: 60px !important;)
+androidcentral.com##.mn_mbn_share
+androidcentral.com##.recent-posts
+!
+!---------- Android Police ----------
+!
+androidpolice.com###apfollowwidget-2
+androidpolice.com###toc_wrapper:style(position: relative !important;)
+androidpolice.com##.ap-follow-widget.widget.red.widget-2.widget-even
+androidpolice.com##body:style(overflow-x: hidden !important; overflow-y: auto !important;)
+androidrepublic.org##.is-sticky.uix_stickyBar.p-navSticky--primary.p-navSticky:style(position: relative !important; top: 0px
+androidrepublic.org##.p-staffBar
+androidrepublic.org##.u-scrollButtons
+androidrepublic.org##.uix_headerContainer .p-navSticky.is-sticky > *:style(position: relative !important; top: 0 !important; box-shadow: none !important;)
 !
 !---------- Bloomberg ----------
 !
@@ -832,6 +986,22 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 !
 !---------- Cookie Warnings ----------
 !
+###amp-cookie-notice
+##.footerCookieNotice
+##.CookieBar
+##.CookieMessage
+/cookies-legal-
+/cookiewarning*.js
+/cookie-terms.
+/cookie.js$script
+/cookie_msg.js$script
+/cookie_notify/*
+/cookieser.js$script
+/cookiesWidget/widget.js$script
+/cookieMonster.min.js
+/CookieLaw$script
+/CookieAlert-latest.min.js
+/savecookie.js$script
 ###amp-user-notification
 ###amp-user-notification1
 ###amp-user-notification2
@@ -846,7 +1016,11 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 ##.cookie-consent-container
 ##.cookie-container
 ##.cookie-law
+###cookies-politics
+###cookiesdirective
 ##.cookie-message
+###cookieswrapper
+###cookiewarn
 ##.cookie-mobile-wrapper
 ##.cookie-nav
 ##.cookie-notice
@@ -1072,7 +1246,6 @@ zoldbolt.hu##.cookie_accept_container
 ||bootsticks.npage.de/assets/js/cookieconsent.latest.min.js$script
 ||bsl.nl/extern/smbv-incl/script.js$script
 ||catalogo.pusc.it/pusc_jquery.cookie.min.js$script
-||catalogocoop.it/cookie.js$script
 ||cdn.dometic.com/ui/dometic/dist/components/cookiescomponent$script
 ||cdn.iubenda.com/cookie_solution/iubenda_cs.js$script
 ||cdn.nwmgroups.hu/s/js/custom/origo/accept-cookie.js$script
@@ -1083,19 +1256,15 @@ zoldbolt.hu##.cookie_accept_container
 ||cookies.orangegames.com/assets/js/cc.js$script
 ||cultizm.com/templates/c2012light/javascript/cookies$script
 ||freegamehosting.eu/js/cookies.js$script
-||gartneriraadgivningen.dk/skinCss/website/js/cookie/cookie.js$script
-||global.mercedes-benz-classic.com/cookie/cookie.js$script
 ||gofundme.com/js/3.0/visitorCookie.js$script
 ||harazd.net/info_o_cookie_utf8.js$script
 ||hogarutil.com/js/cookies.js$script
 ||ingdirect.es/comun/cookie_comercial.js$script
 ||iti.si/deljene_datoteke/cookies.js$script
-||jp2w.pl/a/cookie.js$script
 ||lebendiges-aachen.de/includes/javascript/cookiechoices/cookiechoices.js$script
 ||leporc.com/sites/all/modules/custom/info_cookies/info_cookies.js$script
 ||mercedes-benz-bank.de/static/js/MB_cookies.js$script
 ||metpartner.pl/cookie/info_cookie.js$script
-||oleificiozucchi.it/cookie.js$script
 ||pcz.pl/static/js/moo-cooker.js$script
 ||phufart.pl/info_o_cookie_utf8.js$script
 ||prismamediadigital.com/cnil.min.js$script
@@ -1104,7 +1273,6 @@ zoldbolt.hu##.cookie_accept_container
 ||promoracing.it/cookies/popup.cookie.js$script
 ||recepttar.hu/js/privacy.js$script
 ||shop.szakalmetal.hu//js/cookies.js$script
-||skm.warszawa.pl/js/cookie.js$script
 ||ssl.synovite-scripts.com/ut$script
 ||static.origos.hu/s/js/custom/origo/accept-cookie.js$script
 ||tdn.r42tag.com/lib/ut$script
@@ -1257,9 +1425,6 @@ zoldbolt.hu##.cookie_accept_container
 ||crypto.csgocpu.com^third-party
 ||cryptobara.com^$third-party
 ||cryptonoter.com^$third-party
-||cryweb.github.io^
-||crywebber.github.io^
-||ctlrnwbv.ru^
 ||datasecu.download^$third-party
 ||depttake.ga^$third-party
 ||devphp.org.ua^$third-party
@@ -1424,8 +1589,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ##div[id^="f5acd0"]
 ##div[id^="google_ads_iframe_"]
 ##div[id^="sbaAbout"]
-##ins.adsbyadop
-##ins.adsbygoogle
 ##ins.daum_ddn_area
 ##ins[class*="ads"]
 !
@@ -42282,17 +42445,20 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Facebook ----------
 !
-/facebook-page-promoter-lightbox/*
 ##[title="Follow me on Facebook"]
+-ad.js$domain=~sh.st|~facebook.com
+/facebook-page-promoter-lightbox/*
 @@||connect.facebook.com^*/audiencenetworkprebid.js$script,domain=screenrant.com
 @@||connect.facebook.net^$script,domain=abc.go.com|adultswim.com|contv.com|damnyouautocorrect.com|embedly.com|fitbit.com|instagram.com|interviewmagazine.com|noovo.ca|pogo.com|reddit.com|salon.com|sci2.tv|southpark.cc.com|southpark.de|upi.com
 @@||google.com/js/plusone.js$domain=abcnews.go.com|watch.nba.com
 @@||graph.facebook.com^$xmlhttprequest,domain=theguardian.com
 @@||staticxx.facebook.com/connect/$domain=embedly.com
 _facebookbadge.
+facebook.com###mobile_mirror_banner
 facebook.com###pagelet_side_ads
 facebook.com###u_0_m
 facebook.com##.ego_unit_container
+facebook.com##.pam._3-95.uiBoxRed
 facebook.com#?#.ego_section:-abp-contains(People you)
 facebook.com#?#.fbUserStory:-abp-contains(People you)
 facebook.com#?#.mtm:-abp-contains(Products shown)
@@ -42389,6 +42555,7 @@ forbes.com##fbs-ad
 ! ---------- GitHub ----------
 !
 ##.icon-github
+@@||github.com^$generichide
 @@||githubusercontent.com^$image
 github.com##.flash-full.flash
 github.com##.github-jobs-promotion > p
@@ -42485,14 +42652,10 @@ mail.google.com##.nH.PS
 ||maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
 ||maps.googleapis.com/maps/api/js/StatsService.RecordStats
 ! -- YouTube --
-youtube.com##ytd-compact-promoted-video-renderer
-youtube.com##div#feed-pyv-container
 ##.video-ads
 ##.ytp-ad-progress-list
-=adunit&
 @@||youtube.com/iframe_api$third-party
 @@||youtube.com/player_api$third-party
-s0.2mdn.net/ads
 www.youtube.com###footer-links
 www.youtube.com###google-help
 www.youtube.com###movie_player > .ytp-cards-button.ytp-button
@@ -42501,9 +42664,12 @@ www.youtube.com###watch7-sidebar-contents
 www.youtube.com##.yt-alert-content
 www.youtube.com##.yt-uix-clickcard.c4-visible-on-hover-container.branded-page-box.yt-uix-expander.related-channels-editor
 youtube.com###channel-subscription-promo-in-feed
+youtube.com###inproduct-guide-modal
 youtube.com###promotion-shelf
 youtube.com###video-masthead
 youtube.com###watch-channel-brand-div
+youtube.com###yt-dialog-bg
+youtube.com###yt-lang-aler-tp
 youtube.com##.ad-div
 youtube.com##.branded-page-v2-col-container > .branded-page-v2-col-container-inner > .branded-page-v2-secondary-col:last-child > .branded-page-box:first-child:last-child
 youtube.com##.branded-page-v2-col-container > .branded-page-v2-col-container-inner > .branded-page-v2-secondary-col:last-child > .branded-page-related-channels:first-child + .branded-page-box:last-child
@@ -42514,20 +42680,28 @@ youtube.com##.guide-builder-v2 .branded-page-v2-secondary-col
 youtube.com##.home .branded-page-v2-secondary-col
 youtube.com##.html5-endscreen
 youtube.com##.html5-endscreen-content
+youtube.com##.iv-promo
 youtube.com##.masthead-ad-control
 youtube.com##.promoted-videos
 youtube.com##.pyv-afc-ads-container
+youtube.com##.pyv-afc-ads-inner
 youtube.com##.watch-sidebar-body > #watch-related > .related-list-item
+youtube.com##.yt-dialog-base
 youtube.com##.ytd-iframe-companion-renderer
 youtube.com##YTD-PROMOTED-VIDEO-RENDERER
+youtube.com##div#feed-pyv-container
 youtube.com##div#footer-ads
 youtube.com##div#masthead-ad
 youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-search-pyv-renderer
+youtube.com/player_204?
+youtube.com^*/log_event?
+youtube.com^*/log_interaction?
 ||www.youtube.com/pagead
 ||www.youtube.com/ptracking
 ||youtube.com/ad_data$important
 ||youtube.com/api/stats$important
+||youtube.com/api/stats/qoe?
 ||youtube.com/csi_204$important
 ||youtube.com/get_midroll$important
 ||youtube.com/get_midroll_
@@ -42550,412 +42724,210 @@ youtube.com##ytd-search-pyv-renderer
 ! ---------- iframe ----------
 !
 ##iframe[data-src^="http://nw.realssp.co.kr/"]
-##iframe[data-src^="http://nw.realssp.co.kr/"]
-##iframe[data-src^="http://ssp.realclick.co.kr/"][data-src*="c=iframe"]
 ##iframe[data-src^="http://ssp.realclick.co.kr/"][data-src*="c=iframe"]
 ##iframe[id*="adsIfrme"
 ##iframe[id*="google_ad"]
-##iframe[id^="google_ads_iframe_"]
-##iframe[id^="nad_"]
 ##iframe[id^="nad_"]
 ##iframe[name="ifrad"]
-##iframe[name="ifrad"]
-##iframe[src*="-d.openx.net/w/1.0/afr"]
 ##iframe[src*="-d.openx.net/w/1.0/afr"]
 ##iframe[src*="/NetInsight/"]
-##iframe[src*="/NetInsight/"]
-##iframe[src*="/RealMedia/ads/"]
 ##iframe[src*="/RealMedia/ads/"]
 ##iframe[src^="//101.livere.co.kr/coinone-ad/coinone-ad-widget.html"]
-##iframe[src^="//101.livere.co.kr/coinone-ad/coinone-ad-widget.html"]
-##iframe[src^="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html"]
 ##iframe[src^="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html"]
 ##iframe[src^="//acdn.adnxs.com/ib/static/usersync/v4/async_usersync.html"]
-##iframe[src^="//acdn.adnxs.com/ib/static/usersync/v4/async_usersync.html"]
-##iframe[src^="//ad.vkoad.com/showads.php"]
 ##iframe[src^="//ad.vkoad.com/showads.php"]
 ##iframe[src^="//adclickservice.com"]
-##iframe[src^="//adclickservice.com"]
-##iframe[src^="//ads.acrosspf.com/adinfo.ad"]
 ##iframe[src^="//ads.acrosspf.com/adinfo.ad"]
 ##iframe[src^="//ads.acrosspf.com/opf/"]
-##iframe[src^="//ads.acrosspf.com/opf/original.html"]
-##iframe[src^="//ads.exdynsrv.com/iframe.php"]
 ##iframe[src^="//ads.exdynsrv.com/iframe.php"]
 ##iframe[src^="//ads.exoclick.com/iframe.php"]
-##iframe[src^="//ads.exoclick.com/iframe.php"]
-##iframe[src^="//adspaces.ero-advertising.com/banads/view.php"]
 ##iframe[src^="//adspaces.ero-advertising.com/banads/view.php"]
 ##iframe[src^="//adx-exchange.toast.com/a_request"]
-##iframe[src^="//adx-exchange.toast.com/a_request"]
-##iframe[src^="//am15.net/ssp/banner"]
 ##iframe[src^="//am15.net/ssp/banner"]
 ##iframe[src^="//ax-d.pixfuture.net/w/1.0/afr"]
-##iframe[src^="//ax-d.pixfuture.net/w/1.0/afr"]
-##iframe[src^="//d3u5zn5k9864p0.cloudfront.net/br"]
 ##iframe[src^="//d3u5zn5k9864p0.cloudfront.net/br"]
 ##iframe[src^="//disqusads.com/ads-iframe/prebid/"]
-##iframe[src^="//disqusads.com/ads-iframe/prebid/"]
-##iframe[src^="//mrelko.com/bnrs/"]
 ##iframe[src^="//mrelko.com/bnrs/"]
 ##iframe[src^="//onedrive.su/code/swf_banner.php"]
-##iframe[src^="//onedrive.su/code/swf_banner.php"]
-##iframe[src^="//plugin.adplex.co.kr/iframe/"][src*=".html"]
 ##iframe[src^="//plugin.adplex.co.kr/iframe/"][src*=".html"]
 ##iframe[src^="//searchmaster.pro/b.php"]
-##iframe[src^="//searchmaster.pro/b.php"]
-##iframe[src^="//ssp.adpies.com/ssp/request"]
 ##iframe[src^="//ssp.adpies.com/ssp/request"]
 ##iframe[src^="//ssp.advg.jp/ssp/p/iframe"]
-##iframe[src^="//ssp.advg.jp/ssp/p/iframe"]
-##iframe[src^="//urldelivery.com/watch."]
 ##iframe[src^="//urldelivery.com/watch."]
 ##iframe[src^="//x.jd.com/exsites"]
-##iframe[src^="//x.jd.com/exsites"]
-##iframe[src^="//y.one.impact-ad.jp/imp"]
 ##iframe[src^="//y.one.impact-ad.jp/imp"]
 ##iframe[src^="http://178.175.132.130/script/ad.php"]
-##iframe[src^="http://178.175.132.130/script/ad.php"]
-##iframe[src^="http://a1.dp25.kr/"]
 ##iframe[src^="http://a1.dp25.kr/"]
 ##iframe[src^="http://ad.about.co.kr/"]
-##iframe[src^="http://ad.about.co.kr/"]
-##iframe[src^="http://ad.ad4989.co.kr/"]
 ##iframe[src^="http://ad.ad4989.co.kr/"]
 ##iframe[src^="http://ad.adenc.co.kr/media/"]
-##iframe[src^="http://ad.adenc.co.kr/media/"]
-##iframe[src^="http://ad.adinc.kr/"]
 ##iframe[src^="http://ad.adinc.kr/"]
 ##iframe[src^="http://ad.adixs.co.kr/"]
-##iframe[src^="http://ad.adixs.co.kr/"]
-##iframe[src^="http://ad.adkova.com/media/"]
 ##iframe[src^="http://ad.adkova.com/media/"]
 ##iframe[src^="http://ad.atdmt.com/d/a.html"]
-##iframe[src^="http://ad.atdmt.com/d/a.html"]
-##iframe[src^="http://ad.ilikesponsorad.co.kr/"]
 ##iframe[src^="http://ad.ilikesponsorad.co.kr/"]
 ##iframe[src^="http://ad.mediafarm.co.kr/mad/"]
-##iframe[src^="http://ad.mediafarm.co.kr/mad/"]
-##iframe[src^="http://ad.mediatoday.co.kr/"]
 ##iframe[src^="http://ad.mediatoday.co.kr/"]
 ##iframe[src^="http://ad.naver.com/adshow"]
-##iframe[src^="http://ad.naver.com/adshow"]
-##iframe[src^="http://ad.naver.com/fxshow"]
 ##iframe[src^="http://ad.naver.com/fxshow"]
 ##iframe[src^="http://ad.owra.net/"]
-##iframe[src^="http://ad.owra.net/"]
-##iframe[src^="http://ad.phaserep.com/cgi-bin/PelicanC.dll"]
 ##iframe[src^="http://ad.phaserep.com/cgi-bin/PelicanC.dll"]
 ##iframe[src^="http://ad.pitta.ne.jp/ads/show/"]
-##iframe[src^="http://ad.pitta.ne.jp/ads/show/"]
-##iframe[src^="http://ad.priel.co.kr/"]
 ##iframe[src^="http://ad.priel.co.kr/"]
 ##iframe[src^="http://ad.tpmn.co.kr/adReqSb.tpmn"]
-##iframe[src^="http://ad.tpmn.co.kr/adReqSb.tpmn"]
-##iframe[src^="http://ad.xc.nis.nitmus.com/"]
 ##iframe[src^="http://ad.xc.nis.nitmus.com/"]
 ##iframe[src^="http://ad1.adenc.co.kr/media/"]
-##iframe[src^="http://ad1.adenc.co.kr/media/"]
-##iframe[src^="http://ad1.eventmanager.co.kr/"]
 ##iframe[src^="http://ad1.eventmanager.co.kr/"]
 ##iframe[src^="http://ad2.thisisgame.com/ad"]
-##iframe[src^="http://ad2.thisisgame.com/ad"]
-##iframe[src^="http://adbiz.co.kr/"]
 ##iframe[src^="http://adbiz.co.kr/"]
 ##iframe[src^="http://adddn.adotsolution.com/contents/html5/"][src*="/adbay_inline_sdk/default.html"]
-##iframe[src^="http://adddn.adotsolution.com/contents/html5/"][src*="/adbay_inline_sdk/default.html"]
-##iframe[src^="http://adex.ednplus.com/"]
 ##iframe[src^="http://adex.ednplus.com/"]
 ##iframe[src^="http://adexpert.ad4989.co.kr/"]
-##iframe[src^="http://adexpert.ad4989.co.kr/"]
-##iframe[src^="http://adexview.new-star.co.kr/"]
 ##iframe[src^="http://adexview.new-star.co.kr/"]
 ##iframe[src^="http://adf.acrosspf.com/adifr/"]
-##iframe[src^="http://adf.acrosspf.com/adifr/"]
-##iframe[src^="http://adf.send.microad.jp/afr.php"]
 ##iframe[src^="http://adf.send.microad.jp/afr.php"]
 ##iframe[src^="http://adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll"]
-##iframe[src^="http://adgrp1.ad4989.co.kr/cgi-bin/PelicanC.dll"]
-##iframe[src^="http://adin.ad4980.kr/"]
 ##iframe[src^="http://adin.ad4980.kr/"]
 ##iframe[src^="http://adn.inven.co.kr/"]
-##iframe[src^="http://adn.inven.co.kr/"]
-##iframe[src^="http://adpingpong.co.kr/"]
 ##iframe[src^="http://adpingpong.co.kr/"]
 ##iframe[src^="http://adpingpong1.co.kr/"]
-##iframe[src^="http://adpingpong1.co.kr/"]
-##iframe[src^="http://adpingpong2.co.kr/"]
 ##iframe[src^="http://adpingpong2.co.kr/"]
 ##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
-##iframe[src^="http://ads-optima.com/www/delivery/afr.php"]
-##iframe[src^="http://ads.ecoadproject.co.kr/"]
 ##iframe[src^="http://ads.ecoadproject.co.kr/"]
 ##iframe[src^="http://ads.mangouni.com/mad/"]
-##iframe[src^="http://ads.mangouni.com/mad/"]
-##iframe[src^="http://ads.mncmedia.co.kr/"]
 ##iframe[src^="http://ads.mncmedia.co.kr/"]
 ##iframe[src^="http://ads.mobitree.co.kr/cgi-bin/PelicanC.dll"]
-##iframe[src^="http://ads.mobitree.co.kr/cgi-bin/PelicanC.dll"]
-##iframe[src^="http://ads.priel.co.kr/cgi-bin/PelicanC.dll"]
 ##iframe[src^="http://ads.priel.co.kr/cgi-bin/PelicanC.dll"]
 ##iframe[src^="http://ads.pubmatic.com/AdServer/js/showad.js"]
-##iframe[src^="http://ads.pubmatic.com/AdServer/js/showad.js"]
-##iframe[src^="http://ads.pubmatic.com/AdServer/js/user_sync.html"]
 ##iframe[src^="http://ads.pubmatic.com/AdServer/js/user_sync.html"]
 ##iframe[src^="http://ads.realclick.co.kr/ad_headcopy/criteo_rta.html"]
-##iframe[src^="http://ads.realclick.co.kr/ad_headcopy/criteo_rta.html"]
-##iframe[src^="http://ads2.contentabc.com/ads"]
 ##iframe[src^="http://ads2.contentabc.com/ads"]
 ##iframe[src^="http://adserver.sbtrustmedia.com/"]
-##iframe[src^="http://adserver.sbtrustmedia.com/"]
-##iframe[src^="http://adstract.adk2x.com/imp"]
 ##iframe[src^="http://adstract.adk2x.com/imp"]
 ##iframe[src^="http://adsvc2.wisenut.co.kr/"]
-##iframe[src^="http://adsvc2.wisenut.co.kr/"]
-##iframe[src^="http://adtg.widerplanet.com/"]
 ##iframe[src^="http://adtg.widerplanet.com/"]
 ##iframe[src^="http://adv.imadrep.co.kr/"]
-##iframe[src^="http://adv.imadrep.co.kr/"]
-##iframe[src^="http://adv.khan.co.kr/"]
 ##iframe[src^="http://adv.khan.co.kr/"]
 ##iframe[src^="http://adw.heraldm.com/"]
-##iframe[src^="http://adw.heraldm.com/"]
-##iframe[src^="http://adx-exchange.toast.com/html/integration.html"]
 ##iframe[src^="http://adx-exchange.toast.com/html/integration.html"]
 ##iframe[src^="http://adx.bibl.uk/ra/www/delivery/afr.php"]
-##iframe[src^="http://adx.bibl.uk/ra/www/delivery/afr.php"]
-##iframe[src^="http://adx.naonmedia.net/adx/"]
 ##iframe[src^="http://adx.naonmedia.net/adx/"]
 ##iframe[src^="http://adx.turl.co.kr/pick.wif"]
-##iframe[src^="http://adx.turl.co.kr/pick.wif"]
-##iframe[src^="http://agate.opap.co.kr/html/"]
 ##iframe[src^="http://agate.opap.co.kr/html/"]
 ##iframe[src^="http://aitg.widerplanet.com/"]
-##iframe[src^="http://aitg.widerplanet.com/"]
-##iframe[src^="http://api.adns.contentlink.co.kr/adserver/delivery/iframe.php"]
 ##iframe[src^="http://api.adns.contentlink.co.kr/adserver/delivery/iframe.php"]
 ##iframe[src^="http://apis.piclick.me/v1/publish/banner/iframe"]
-##iframe[src^="http://apis.piclick.me/v1/publish/banner/iframe"]
-##iframe[src^="http://bayabar.com/adworking/"]
 ##iframe[src^="http://bayabar.com/adworking/"]
 ##iframe[src^="http://c6.daisy6.com/v1/adreq"]
-##iframe[src^="http://c6.daisy6.com/v1/adreq"]
-##iframe[src^="http://cadvv.heraldm.com/nbiz/"]
 ##iframe[src^="http://cadvv.heraldm.com/nbiz/"]
 ##iframe[src^="http://candy.ad9.kr/"]
-##iframe[src^="http://candy.ad9.kr/"]
-##iframe[src^="http://care-health.co.kr/"]
 ##iframe[src^="http://care-health.co.kr/"]
 ##iframe[src^="http://cas.criteo.com/delivery/"]
-##iframe[src^="http://cas.criteo.com/delivery/"]
-##iframe[src^="http://cdn.interworksmedia.co.kr/google/"]
 ##iframe[src^="http://cdn.interworksmedia.co.kr/google/"]
 ##iframe[src^="http://cdn.optmd.com/V2/PSA/"]
-##iframe[src^="http://cdn.optmd.com/V2/PSA/"]
-##iframe[src^="http://cdn04.sndkorea.co.kr/"]
 ##iframe[src^="http://cdn04.sndkorea.co.kr/"]
 ##iframe[src^="http://chie8oo.com/afr.php"]
-##iframe[src^="http://chie8oo.com/afr.php"]
-##iframe[src^="http://cm.interworksmedia.co.kr/adTagRequest.htm"]
 ##iframe[src^="http://cm.interworksmedia.co.kr/adTagRequest.htm"]
 ##iframe[src^="http://compass.adop.cc/RD/"]
-##iframe[src^="http://compass.adop.cc/RD/"]
-##iframe[src^="http://cpv.ad.naver.com/adshow"]
 ##iframe[src^="http://cpv.ad.naver.com/adshow"]
 ##iframe[src^="http://creative.wwwpromoter.com/"]
-##iframe[src^="http://creative.wwwpromoter.com/"]
-##iframe[src^="http://d.a1comm.co.kr/"]
 ##iframe[src^="http://d.a1comm.co.kr/"]
 ##iframe[src^="http://dcd.adotsolution.com/dcd/creative.skp"]
-##iframe[src^="http://dcd.adotsolution.com/dcd/creative.skp"]
-##iframe[src^="http://deliverys.n2s.co.kr/afm.php"]
 ##iframe[src^="http://deliverys.n2s.co.kr/afm.php"]
 ##iframe[src^="http://dgate.joins.com/hc.aspx"]
-##iframe[src^="http://dgate.joins.com/hc.aspx"]
 ##iframe[src^="http://display.ad.daum.net/imp"]
-##iframe[src^="http://display.ad.daum.net/imp"]
-##iframe[src^="http://disqusads.com/ads-iframe/adsnative/"]
 ##iframe[src^="http://disqusads.com/ads-iframe/adsnative/"]
 ##iframe[src^="http://dsp.adzon.net/at/view.php"]
 ##iframe[src^="http://etc.gamechosun.co.kr/banner/"]
-##iframe[src^="http://etc.gamechosun.co.kr/banner/"]
-##iframe[src^="http://exttag.about.co.kr/cgi-bin/PelicanC.dll"]
 ##iframe[src^="http://exttag.about.co.kr/cgi-bin/PelicanC.dll"]
 ##iframe[src^="http://file.osen.co.kr/web2/html/realclick_ad.html"]
-##iframe[src^="http://file.osen.co.kr/web2/html/realclick_ad.html"]
-##iframe[src^="http://fs.jtbc.joins.com/common/ui/ad/"]
 ##iframe[src^="http://fs.jtbc.joins.com/common/ui/ad/"]
 ##iframe[src^="http://hankyung.bohumplaza.com/_chann/"]
-##iframe[src^="http://hankyung.bohumplaza.com/_chann/"]
-##iframe[src^="http://i.yimg.jp/images/listing/tool/yads/yads-iframe.html"]
 ##iframe[src^="http://i.yimg.jp/images/listing/tool/yads/yads-iframe.html"]
 ##iframe[src^="http://ilikeview.com/aclk"]
-##iframe[src^="http://ilikeview.com/aclk"]
-##iframe[src^="http://im.obel.kr/file/"]
 ##iframe[src^="http://im.obel.kr/file/"]
 ##iframe[src^="http://image.lsinfo.co.kr/lottorich/partnership/"]
-##iframe[src^="http://image.lsinfo.co.kr/lottorich/partnership/"]
-##iframe[src^="http://img.sbs.co.kr/news/ad/delay_redirect_mobile.html"]
 ##iframe[src^="http://img.sbs.co.kr/news/ad/delay_redirect_mobile.html"]
 ##iframe[src^="http://imp.mklaud.com/ad"]
-##iframe[src^="http://imp.mklaud.com/ad"]
-##iframe[src^="http://imp.sndkorea.co.kr/php/m.php"]
 ##iframe[src^="http://imp.sndkorea.co.kr/php/m.php"]
 ##iframe[src^="http://imp.valuepotion.com/mimp"]
-##iframe[src^="http://imp.valuepotion.com/mimp"]
-##iframe[src^="http://jdaily.co.kr/frame/jad-bin.do"]
 ##iframe[src^="http://jdaily.co.kr/frame/jad-bin.do"]
 ##iframe[src^="http://joy-adstore.co.kr/ad/"]
-##iframe[src^="http://joy-adstore.co.kr/ad/"]
 ##iframe[src^="http://js.hnscom.com/etc/hns/hnsIframe_"][src$=".html"]
-##iframe[src^="http://js.hnscom.com/etc/hns/hnsIframe_"][src$=".html"]
-##iframe[src^="http://jtpress.kr/ShareMaxBanner"][src*=".php"]
 ##iframe[src^="http://jtpress.kr/ShareMaxBanner"][src*=".php"]
 ##iframe[src^="http://kn.acrosspf.com/delivery.ad"]
 ##iframe[src^="http://life.chosun.com/dhtm//rightBner.html"]
-##iframe[src^="http://life.chosun.com/dhtm//rightBner.html"]
-##iframe[src^="http://longkeyone.co.kr/"]
 ##iframe[src^="http://longkeyone.co.kr/"]
 ##iframe[src^="http://m.11st.co.kr/MW/html/allianceAd/"]
-##iframe[src^="http://m.11st.co.kr/MW/html/allianceAd/"]
-##iframe[src^="http://m.hankooki.com/ad/"]
 ##iframe[src^="http://m.hankooki.com/ad/"]
 ##iframe[src^="http://m.joyninfo.com/yna/yna_m_new.asp"]
-##iframe[src^="http://m.joyninfo.com/yna/yna_m_new.asp"]
-##iframe[src^="http://m.joyninfo.com/yna/yna_w2.asp"]
 ##iframe[src^="http://m.joyninfo.com/yna/yna_w2.asp"]
 ##iframe[src^="http://m.kmib.co.kr/banner/"]
-##iframe[src^="http://m.kmib.co.kr/banner/"]
-##iframe[src^="http://m.ytn.co.kr/ad/ad_"][src$=".html"]
 ##iframe[src^="http://m.ytn.co.kr/ad/ad_"][src$=".html"]
 ##iframe[src^="http://mienisa.co.kr/api/bn1"]
-##iframe[src^="http://mienisa.co.kr/api/bn1"]
-##iframe[src^="http://mktag.mt.co.kr/code.ems/"]
 ##iframe[src^="http://mktag.mt.co.kr/code.ems/"]
 ##iframe[src^="http://mobi.luxad.kr/ad/"]
-##iframe[src^="http://mobi.luxad.kr/ad/"]
-##iframe[src^="http://mobi.luxad.net/ad/"]
 ##iframe[src^="http://mobi.luxad.net/ad/"]
 ##iframe[src^="http://mobs.luxad.kr/media/"]
-##iframe[src^="http://mobs.luxad.kr/media/"]
-##iframe[src^="http://mtab.clickmon.co.kr/pop/"]
 ##iframe[src^="http://mtab.clickmon.co.kr/pop/"]
 ##iframe[src^="http://mymyad.co.kr/"]
-##iframe[src^="http://mymyad.co.kr/"]
-##iframe[src^="http://nad1.mklaud.com/ad"]
 ##iframe[src^="http://nad1.mklaud.com/ad"]
 ##iframe[src^="http://nads.lumieyes.com/show/media/"]
-##iframe[src^="http://nads.lumieyes.com/show/media/"]
-##iframe[src^="http://news.nate.com/etc/AD"]
 ##iframe[src^="http://news.nate.com/etc/AD"]
 ##iframe[src^="http://newsbanner.co.kr/newsad/advertiser/ad_blank.php"]
-##iframe[src^="http://newsbanner.co.kr/newsad/advertiser/ad_blank.php"]
-##iframe[src^="http://nws.lumieyes.com/"]
 ##iframe[src^="http://nws.lumieyes.com/"]
 ##iframe[src^="http://ojsfile.ohmynews.com/AD_FILE/"]
-##iframe[src^="http://ojsfile.ohmynews.com/AD_FILE/"]
-##iframe[src^="http://p.lumieyes.com/"]
 ##iframe[src^="http://p.lumieyes.com/"]
 ##iframe[src^="http://plugin.2beon.co.kr/"]
-##iframe[src^="http://plugin.2beon.co.kr/"]
-##iframe[src^="http://polltest.azurewebsites.net/Polls/Ads"]
 ##iframe[src^="http://polltest.azurewebsites.net/Polls/Ads"]
 ##iframe[src^="http://provider.hiadone.com/cgi-bin/conad_hi.fcgi/"]
-##iframe[src^="http://provider.hiadone.com/cgi-bin/conad_hi.fcgi/"]
-##iframe[src^="http://pub.adpnut.com/"]
 ##iframe[src^="http://pub.adpnut.com/"]
 ##iframe[src^="http://ra.ntwoad.co.kr/"]
-##iframe[src^="http://ra.ntwoad.co.kr/"]
-##iframe[src^="http://realdsp.realclick.co.kr/real_ad_dsp.html"]
 ##iframe[src^="http://realdsp.realclick.co.kr/real_ad_dsp.html"]
 ##iframe[src^="http://redir.adap.tv/redir/mobile/mobile-ad-source.html"]
-##iframe[src^="http://redir.adap.tv/redir/mobile/mobile-ad-source.html"]
-##iframe[src^="http://res.heraldm.com/iframe/"]
 ##iframe[src^="http://res.heraldm.com/iframe/"]
 ##iframe[src^="http://rsense-ad.realclick.co.kr/rsense/view_ad_adcrm.html"]
-##iframe[src^="http://rsense-ad.realclick.co.kr/rsense/view_ad_adcrm.html"]
-##iframe[src^="http://sc2.appldp.com/publisher-show-ads.php"]
 ##iframe[src^="http://sc2.appldp.com/publisher-show-ads.php"]
 ##iframe[src^="http://search.supplyframe.com/partner/"]
-##iframe[src^="http://search.supplyframe.com/partner/"]
-##iframe[src^="http://server.cpmstar.com/view.aspx"]
 ##iframe[src^="http://server.cpmstar.com/view.aspx"]
 ##iframe[src^="http://shop.nate.com/shopbox/shopbox.htm"]
-##iframe[src^="http://shop.nate.com/shopbox/shopbox.htm"]
-##iframe[src^="http://sin1.g.adnxs.com/if"]
 ##iframe[src^="http://sin1.g.adnxs.com/if"]
 ##iframe[src^="http://smartitphone.co.kr/bn/bn2.php"]
-##iframe[src^="http://smartitphone.co.kr/bn/bn2.php"]
-##iframe[src^="http://static.joins.com/isplus/ui/ad/"]
 ##iframe[src^="http://static.joins.com/isplus/ui/ad/"]
 ##iframe[src^="http://sweetgo.kr/adv/top.php"]
-##iframe[src^="http://sweetgo.kr/adv/top.php"]
-##iframe[src^="http://syndication.exoclick.com/ads-iframe-display.php"]
 ##iframe[src^="http://syndication.exoclick.com/ads-iframe-display.php"]
 ##iframe[src^="http://tab2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html"]
-##iframe[src^="http://tab2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html"]
-##iframe[src^="http://tab2.clickmon.co.kr/pop/"]
 ##iframe[src^="http://tab2.clickmon.co.kr/pop/"]
 ##iframe[src^="http://tracker.adbinead.com/other/"][src$=".html"]
 ##iframe[src^="http://us-ads.openx.net/w/1.0/afr"]
-##iframe[src^="http://us-ads.openx.net/w/1.0/afr"]
-##iframe[src^="http://utildown.co.kr/adv/adv.php"]
 ##iframe[src^="http://utildown.co.kr/adv/adv.php"]
 ##iframe[src^="http://veta.naver.com/fxshow"]
-##iframe[src^="http://veta.naver.com/fxshow"]
-##iframe[src^="http://vsc.send.microad.jp/delivery/afr.php"]
 ##iframe[src^="http://vsc.send.microad.jp/delivery/afr.php"]
 ##iframe[src^="http://vse-spravki.bid/aclk/banner_click.php"]
-##iframe[src^="http://vse-spravki.bid/aclk/banner_click.php"]
-##iframe[src^="http://widget.barnebys.com/widget.php"]
 ##iframe[src^="http://widget.barnebys.com/widget.php"]
 ##iframe[src^="http://www.ad-playstore.com/"]
-##iframe[src^="http://www.ad-playstore.com/"]
-##iframe[src^="http://www.adpingpong.co.kr/"]
 ##iframe[src^="http://www.adpingpong.co.kr/"]
 ##iframe[src^="http://www.animefreak.tv/sites/all/modules/custom/anime/ads/"]
-##iframe[src^="http://www.animefreak.tv/sites/all/modules/custom/anime/ads/"]
-##iframe[src^="http://www.animefreak.tv/sites/all/modules/custom/anime/yanone.html"]
 ##iframe[src^="http://www.animefreak.tv/sites/all/modules/custom/anime/yanone.html"]
 ##iframe[src^="http://www.dreamsearch.or.kr/ad/"]
-##iframe[src^="http://www.dreamsearch.or.kr/ad/"]
-##iframe[src^="http://www.dreamsearch.or.kr/servlet/adBanner"]
 ##iframe[src^="http://www.dreamsearch.or.kr/servlet/adBanner"]
 ##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
-##iframe[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
-##iframe[src^="http://www.dreamsearch.or.kr/servlet/iadbn"]
 ##iframe[src^="http://www.dreamsearch.or.kr/servlet/iadbn"]
 ##iframe[src^="http://www.inven.co.kr/ad/"]
-##iframe[src^="http://www.inven.co.kr/ad/"]
-##iframe[src^="http://www.jjan.kr/banner/ad_banner_"][src$=".html"]
 ##iframe[src^="http://www.jjan.kr/banner/ad_banner_"][src$=".html"]
 ##iframe[src^="http://www.kmib.co.kr/cp/realclick/"]
-##iframe[src^="http://www.kmib.co.kr/cp/realclick/"]
-##iframe[src^="http://www.mediamixad.com/ad/liveAd"]
 ##iframe[src^="http://www.mediamixad.com/ad/liveAd"]
 ##iframe[src^="http://www.sunnyworks.co.kr/data/SW"][src$=".html"]
-##iframe[src^="http://www.sunnyworks.co.kr/data/SW"][src$=".html"]
-##iframe[src^="http://www.ti-center.co.kr/"]
 ##iframe[src^="http://www.ti-center.co.kr/"]
 ##iframe[src^="http://zone5.adpopcon.com/cgi-bin/PelicanC.dll"]
-##iframe[src^="http://zone5.adpopcon.com/cgi-bin/PelicanC.dll"]
-##iframe[src^="https://ads.adjust-net.jp/adserver/ads"]
 ##iframe[src^="https://ads.adjust-net.jp/adserver/ads"]
 ##iframe[src^="https://bullseye.backbeatmedia.com/bullseye/adserver/"]
-##iframe[src^="https://bullseye.backbeatmedia.com/bullseye/adserver/"]
-##iframe[src^="https://creative.wwwpromoter.com/"]
 ##iframe[src^="https://creative.wwwpromoter.com/"]
 ##iframe[src^="https://mycdn.co/adServe/imgBanner"][src*="_image-banner.cib"]
-##iframe[src^="https://mycdn.co/adServe/imgBanner"][src*="_image-banner.cib"]
-##iframe[src^="https://s.yimg.jp/images/listing/tool/yads/yads-iframe.html"]
 ##iframe[src^="https://s.yimg.jp/images/listing/tool/yads/yads-iframe.html"]
 ##iframe[src^="https://search2.nuriclick.co.kr/banner.php"]
-##iframe[src^="https://search2.nuriclick.co.kr/banner.php"]
-##iframe[src^="https://syndication.exdynsrv.com/ads-iframe-display.php"]
 ##iframe[src^="https://syndication.exdynsrv.com/ads-iframe-display.php"]
 ##iframe[src^="https://syndication.exoclick.com/ads-iframe-display.php"]
-##iframe[src^="https://syndication.exoclick.com/ads-iframe-display.php"]
-##iframe[src^="https://www.mxttrf.com/ads"]
 ##iframe[src^="https://www.mxttrf.com/ads"]
 ##iframe[width="300"][height="250"]
 ##iframe[width="468"][height="60"]
@@ -43072,6 +43044,7 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ###Topadver
 ###a1ys6c
 ###abp-killer
+###ad
 ###ad-box
 ###ad-north-base
 ###ad1
@@ -43079,6 +43052,13 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ###ad3
 ###ad4
 ###ad5
+###adsense
+###advertise
+###advertisement
+##.adsbygoogle
+##.adsense
+##.adv
+##.advertisement
 ###adBlockAlert
 ###adBlockAlertWrap
 ###adBlockDetect
@@ -43318,7 +43298,6 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ##.adsbox
 ##.adsimg
 ##.adss
-##.adv
 ##.adv-banner
 ##.adv-block
 ##.adv-border
@@ -43405,8 +43384,6 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ##.tabliq-right
 ##.tabliq-top
 ##.tblgh
-##.text-ad
-##.text-ads
 ##.text-tabliq
 ##.textads
 ##.textads1
@@ -43454,7 +43431,6 @@ yahoo.com##body:style(padding-top: 0px !important;)
 .net/ads-
 .net/ads/
 .net/atrk.
-/728x90.swf
 /AdblockMessage.
 /Image/Ads/*
 /SiteAdvert/*
@@ -43667,8 +43643,6 @@ reddit.com##.recommended-link
 ###socialmedia
 ###socialsharebuttons
 ##.Bigfoot-socialLinks
-##.CookieBar
-##.CookieMessage
 ##.Post-social
 ##.Post-social-container
 ##.Share
@@ -43751,12 +43725,15 @@ reddit.com##.recommended-link
 !
 ! ---------- Twitter ----------
 !
-twitter.com#@#div[class*="Ad"]
-twitter.com#@#div[class*="-ad"]
 twitter.com##.Footer-adsModule.flex-module
 twitter.com##.dashboard-right.dashboard
 twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > .flex-module
+twitter.com##.modal-overlay
+twitter.com##.promoted-tweet
+twitter.com##.promoted-tweet-heading
 twitter.com##.roaming-module.module.Footer > .flex-module
+twitter.com#@#div[class*="-ad"]
+twitter.com#@#div[class*="Ad"]
 !
 ! ---------- Urban Dictionary ----------
 !
@@ -43787,6 +43764,8 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 !
 ! ---------- Whitelisting rules ----------
 !
+@@||images-amazon.com^*/beacon/BeaconSprite-$image
+@@||ssl-images-amazon.com^*/beacon/BeaconSprite-$image
 @@||tagcommander.com^*/tc_$script
 @@-adverts.$script,domain=dailymail.co.uk
 @@.com/ad_img/$domain=twitter.com
@@ -43908,6 +43887,16 @@ wordpress.com###wpadminbar:style(position: absolute !important;)
 wordpress.com##.is-invisible.is-fixed.masterbar:style(position: absolute !important;)
 wordpress.org###wpadminbar:style(position: absolute !important;)
 !
+! ---------- XDA ----------
+!
+xda-developers.com###google_login
+xda-developers.com###header:style(position: absolute !important; top: 0 !important;)
+xda-developers.com###xda_header_google_login
+xda-developers.com###xda_header_social
+xda-developers.com##.breadcrumbs.navbits:style(position: absolute !important; top: 0 !important;)
+xda-developers.com##.hosted_by
+xda-developers.com##body:style(padding-top: 0px !important;)
+!
 ! ---------- Zdnet ----------
 !
 zdnet.co.kr##div#main_right_Floating_banner
@@ -43953,3 +43942,6 @@ crackwatch.com##div[style="margin-top: 35px; text-align: center;"]
 ticketmaster.ca##.agree-terms
 ticketmaster.ca##.page__legal-link
 jw.org##.legal-notices-client--notice
+/://[0-9a-z]{10,}\.com/\d{5,}(/|\.css)$/$third-party
+/://(?:js|\d{6})\.[-.0-9a-z]+/t/\d{3}/\d{3}/a\d{7}\.js$/
+!s0.2mdn.net/ads
