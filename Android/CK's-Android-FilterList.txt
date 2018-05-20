@@ -1,28 +1,35 @@
-[Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Android Filter List
 ! Description: A comprehensive, all-in-one ad-block list for Android. Apps and OS related traffic, it's designed to filter 'unneeded' Android connections. The list is only tested against AdGuard!
-! Checksum (SHA3-256): 4C85D235C3839319013609C821F9F7B86A058760D08BFCAAA18E7F43FA73FB05
+! Checksum (SHA3-256): 9F90B55E4891E3924D30F19FEEE0DF0152030DAA30B07CC248A800AFE049468D
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-17	16:38:03+01:00
-! Version: 0.0.0.5
+! TimeUpdated: 2018-05-20	02:40:07+01:00
+! Version: 0.0.0.6
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 !
 ! ---------- Android Apps & OS related ----------
 !
-||www.kmspico.info^
 ||19bjkkhaycw6f8f4.soundcloud.com^
+||54.222.186.106^
 ||acdn.adnxs.comm^
+||ad.duapps.com^
+||adiquity.com^
+||admin.appnext.com^
+||adzmob.com^
 ||api.audlabs.com^
+||api.mobojoy.baidu.com^
 ||api.pinterest.com^
 ||api.techet.net^
 ||app-measurement.com^
 ||app.adjust.com^
 ||app.whappodo.com^
+||avault.net^
+||buxx.mobi^
+||c3.myapkcdn.in^
 ||chimpstatic.com^
 ||datacollect1.abtasty.com^
 ||datacollect2.abtasty.com^
@@ -30,19 +37,40 @@
 ||datacollect4.abtasty.com^
 ||datacollect5.abtasty.com^
 ||datacollect6.abtasty.com^
+||dmg-mobile.com^
 ||gate.hockeyapp.net^
+||i2.myapkcdn.in^
+||id1.cn^
+||js.mobojoy.baidu.com^
 ||kinesis.us-east-1amazonaws.com^
+||kuad.kusogi.com^
 ||labs-mqtt.xda-developers.com^
+||mad-adz.com^
+||mkhoj.com^
+||mo.freeindoapp.com^
+||mobgold.com^
+||mobizme.net^
 ||ms-applications.appspot.com^
+||mysearch-online.com^
 ||nllapps.com^
+||plugin.mobopay.baidu.com^
 ||qrbotandroid.firebase.com^
+||recognified.net^
 ||record.sz.ngkmb.com^
 ||reports.crashlytics.com^
 ||sdmaid.darken.eu^
 ||stats.lineageos.org^
+||stepkeydo.com^
+||sync.mobojoy.baidu.com^
 ||telemetry.api.swiftkey.com^
+||ufz.doesxyz.com^
+||usp1.baidu.com^
+||wapdollar.in^
+||waptrick.com^
 ||widget.trustpilot.com^
 ||wilysis.com^
+||www.kmspico.info^
+||xdrig.com^
 !
 ! ---------- Cosmetic Filters ----------
 !
