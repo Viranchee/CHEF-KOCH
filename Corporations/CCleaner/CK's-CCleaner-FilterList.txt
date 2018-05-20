@@ -18,3 +18,7 @@
 !
 ! ---------- Avast/CCleaner ----------
 !
+||avast.com^
+||piriform.com^
+||ccleaner.com^
+||ccleanercloud.com^

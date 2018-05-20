@@ -51,7 +51,7 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net) - for **PI devices** 
 
 
-#### Other Documentation related stuff
+## Other Documentation related things
 
 * For a more detailed project description and documentation please use see the [Wiki pages](https://github.com/CHEF-KOCH/CKs-FilterList/wiki).
 
@@ -60,7 +60,7 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 
 
 
-## [Report issues, unblocked ads or trackers](./CONTRIBUTING.md)
+## [Report issues, unblocked ads or trackers]
 
 #### Like my list? Star it on GitHub! :star: (Desktop site) or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
 
