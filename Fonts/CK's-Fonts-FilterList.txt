@@ -23,6 +23,7 @@
 ||cloudfront.net^$font,third-party
 ||disquscdn.com/next/assets/font/$third-party
 ||edgefonts.net^$third-party
+||edgewebfonts.adobe.com^$font,third-party
 ||fast.fonts.com^$third-party
 ||fast.fonts.net^$third-party
 ||fastly.net^$font,third-party
@@ -52,6 +53,7 @@
 ||typefront.com^$third-party
 ||typekit.com^$third-party
 ||typekit.net^$third-party
+||use.edgefonts.net^$font,third-party
 ||use.fonticons.com^$third-party
 ||webfonts.creativecloud.com^$third-party
 ||wp.com^*/fonts/$third-party

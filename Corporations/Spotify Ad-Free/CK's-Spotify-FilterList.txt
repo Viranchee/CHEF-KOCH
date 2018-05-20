@@ -75,3 +75,4 @@
 ||www.googletagservices.com^
 ||www.omaze.com^
 ||www.spotify-desktop.com^
+spotify.com/ads/

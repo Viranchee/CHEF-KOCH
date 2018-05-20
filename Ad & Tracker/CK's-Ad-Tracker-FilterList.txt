@@ -12,6 +12,7 @@
 ! Copyright (C) 2018 by CHEF-KOCH
 !
 ! ---------- Ad & Tracker ----------
+||adxprtz.com^
 ||102.112.2o7.net^
 ||102.122.2o7.net^
 ||10xhellometro.112.2o7.net^
@@ -39984,7 +39985,6 @@
 ||traffic-supremacy.com^
 ||traffic.acwebconnecting.com^
 ||traffic.adxprts.com^
-||traffic.adxprtz.com^
 ||traffic.alexa.com^
 ||traffic.bannerator.com^
 ||traffic.bokecc.com^

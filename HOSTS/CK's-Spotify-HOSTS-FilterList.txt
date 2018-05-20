@@ -78,20 +78,26 @@
 0.0.0.0 www.spotify-desktop.com
 #
 # Test (needs confirmation)
-#0.0.0.0 a2-16-186-17.deploy.static.akamaitechnologies.com
-#0.0.0.0 62.224.186.35.bc.googleusercontent.com					
-#0.0.0.0 136.64.199.104.bc.googleusercontent.com	
+#0.0.0.0 23.10.249.185
+#0.0.0.0 35.186.224.62
 #0.0.0.0 151.101.112.246
-#0.0.0.0 gew1-accesspoint-b-zzfg.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-mb1b.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-qk27.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-zzgz.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-5mtq.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-288m.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-nxwj.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-slpb.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-4k8l.ap.spotify.com:443
-#0.0.0.0 gew1-accesspoint-b-vzpx.ap.spotify.com:443
+#0.0.0.0 104.199.65.30
+#0.0.0.0 62.224.186.35.bc.googleusercontent.com					
+#0.0.0.0 a2-16-186-17.deploy.static.akamaitechnologies.com
+#0.0.0.0 audio-fac.spotify.com
 #0.0.0.0 gew1-accesspoint-b-1nkj.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-288m.ap.spotify.com:443
 #0.0.0.0 gew1-accesspoint-b-2d6s.ap.spotify.com:443
-#
+#0.0.0.0 gew1-accesspoint-b-4k8l.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-5mtq.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-mb1b.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-nxwj.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-qk27.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-qkg1.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-slpb.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-vzpx.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-w84j.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-zzfg.ap.spotify.com:443
+#0.0.0.0 gew1-accesspoint-b-zzgz.ap.spotify.com:443
+#0.0.0.0 23.10.249.184 aka a23-10-249-185.deploy.static.akamaitechnologies.com
+#0.0.0.0 104.199.65.209

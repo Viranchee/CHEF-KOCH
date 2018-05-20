@@ -16,6 +16,7 @@
 !
 ! ---------- 1st party blocking rules ----------
 !
+||readcomiconline.to/*.png
 ||*.com/_/batch$xmlhttprequest,first-party
 ||01net.com/telecharger/$document
 ||0mme.com^$script,domain=comicbook.com|popculture.com
@@ -823,6 +824,7 @@ outbrain$script
 ||youutube.gq^$important
 ||zanboor.net^$third-party
 ||zarpop.com^$third-party
+||9anime.is/$script
 !
 ! ---------- 9 GAG ----------
 !
@@ -1594,7 +1596,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
-||www.kmspico.info^
+||iz682noju02ye5.com^
 ||0.start.bz^
 ||0.win-eto.com^
 ||000-search.net^
@@ -42472,6 +42474,7 @@ facebook.com#?#div[data-testid="fbfeed_story"]:-abp-has(a[href*="[is_sponsored]"
 !
 ! ---------- Fake News ----------
 !
+||www.kmspico.info^
 ||100percentfedup.com^
 ||enduringvision.com^
 ||pakalertpress.com^
@@ -43056,6 +43059,7 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ###advertise
 ###advertisement
 ##.adsbygoogle
+##.advertembed
 ##.adsense
 ##.adv
 ##.advertisement
@@ -43764,9 +43768,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 !
 ! ---------- Whitelisting rules ----------
 !
-@@||images-amazon.com^*/beacon/BeaconSprite-$image
-@@||ssl-images-amazon.com^*/beacon/BeaconSprite-$image
-@@||tagcommander.com^*/tc_$script
+@@||readcomiconline.to/Content*.png
 @@-adverts.$script,domain=dailymail.co.uk
 @@.com/ad_img/$domain=twitter.com
 @@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
@@ -43796,6 +43798,8 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@_tracker.$script,domain=huffingtonpost.de
 @@_tracking.$script,domain=kohls.com|slideshare.net
 @@||5471782.fls.doubleclick.net^|
+@@||9anime.is/assets/min/frontend/all.js$script
+@@||9anime.is/assets/player/jwplayer-7.12.3/jwplayer.js$script
 @@||abclocal.go.com/combiner/*/js/analytics/
 @@||accounts.alibaba.com^
 @@||acdn.adnxs.com^|
@@ -43832,6 +43836,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||h-sdk.online-metrix.net^|
 @@||href.li^|
 @@||ifmnwi.club^$xmlhttprequest,domain=cbsnews.com
+@@||images-amazon.com^*/beacon/BeaconSprite-$image
 @@||img-fotki.yandex.ru^
 @@||imrworldwide.com^$domain=threenow.co.nz
 @@||interrail.eu^$elemhide
@@ -43857,6 +43862,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||roimedia.advertserve.com/js/
 @@||s.youtube.com/api/stats/playback?
 @@||scorecardresearch.com^$script,domain=animalplanet.com
+@@||ssl-images-amazon.com^*/beacon/BeaconSprite-$image
 @@||static.h-bid.com/video-download.co/$script,domain=video-download.co
 @@||static.podaj.to/images/fb-*$image,first-party
 @@||static.podaj.to/thumbs/images/fb-*$image,first-party
@@ -43864,6 +43870,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||str.hit.gemius.pl^|
 @@||szukajka.tv/jsverify.php?op=tag|$xmlhttprequest,~third-party
 @@||szukajka.tv/szukaj|$xmlhttprequest,~third-party
+@@||tagcommander.com^*/tc_$script
 @@||ticketm.net/*/tm_internal_tracker.js
 @@||ticketm.net^*/omniture_tracker.js$script
 @@||track.rutarget.ru^|
