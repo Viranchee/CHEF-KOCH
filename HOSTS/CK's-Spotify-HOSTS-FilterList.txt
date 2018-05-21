@@ -76,13 +76,13 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.omaze.com
 0.0.0.0 www.spotify-desktop.com
+0.0.0.0 62.224.186.35.bc.googleusercontent.com	
 #
 # Test (needs confirmation)
 #0.0.0.0 23.10.249.185
 #0.0.0.0 35.186.224.62
 #0.0.0.0 151.101.112.246
-#0.0.0.0 104.199.65.30
-#0.0.0.0 62.224.186.35.bc.googleusercontent.com					
+#0.0.0.0 104.199.65.30			
 #0.0.0.0 a2-16-186-17.deploy.static.akamaitechnologies.com
 #0.0.0.0 audio-fac.spotify.com
 #0.0.0.0 gew1-accesspoint-b-1nkj.ap.spotify.com:443

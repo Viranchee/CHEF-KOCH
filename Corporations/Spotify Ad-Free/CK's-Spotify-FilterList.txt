@@ -75,4 +75,8 @@
 ||www.googletagservices.com^
 ||www.omaze.com^
 ||www.spotify-desktop.com^
+||62.224.186.35.bc.googleusercontent.com^
+!
+! ---------- Spotify Homepage ----------
+! 
 spotify.com/ads/

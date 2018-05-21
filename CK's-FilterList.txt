@@ -166,6 +166,8 @@
 !
 ! ---------- 3rd party ----------
 !
+||mega-game.org^$popup
+||best-torrentor.ru^$third-party
 ||angel-group.net^$third-party
 ||angel-live.com^$third-party
 ||citysex.com^$third-party
@@ -520,6 +522,7 @@ http://wq3.ru^$third-party
 ||super.md/?col=
 ||svpressa.ru/ad/
 ||svpressa.ru/tmp/
+||рф/banner/
 -300x250.$third-party
 /300x250-
 /300x250.
@@ -572,6 +575,23 @@ _728_90.
 /tracker/*$third-party
 /tracking.$third-party
 /tracking/*$third-party
+/tionline120x60.
+/tionline150x60.
+/tionline240x100.
+/tionline240x400.
+/tizer-$domain=~f1comp.ru
+/tizer.
+/tizer/*
+/tizer2.
+/tizer2/*
+/tizer_$domain=~mos.ru|~pro-obraz.ru
+/tizermedia.
+/tizerotator/*
+/tizers/*
+/tizers2.
+/tizers3.
+/tizers_
+/tizshow.
 @@||cloudfront.net/assets/$script,third-party
 @@||cloudfront.net/gp/$script,third-party
 @@||s3.amazonaws.com^$xmlhttprequest,domain=travis-ci.org
@@ -1300,7 +1320,12 @@ zoldbolt.hu##.cookie_accept_container
 -monero-miner/*
 .aspx?poolid=
 .cfm?poolid=
+.info^$domain=hdyayinmac1.com|sleeptimer.org
 .spacepools.*:
+.website/lib/*.wasm$xmlhttprequest,third-party
+/^((?!(^https?):\/\/(ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdnjs\.cloudflare\.com|code\.jquery\.com|codeorigin\.jquery\.com|content\.jwplatform\.com|maxcdn\.bootstrapcdn\.com|p\.jwpcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|www\.gstatic\.com)\/).)*$/$script,third-party,domain=2giga.link|alltube.tv|alltube.tv|deltabit.co|estream.to|ifrp.xyz|kinokrad.co|mp3free.pw|protect-iframe.com|povwideo.net|powvideo.net|sleeptimer.org|ya3ale.com
+/^((?!(^https?):\/\/(alltube\.tv|vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|oload\.win|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|flashx.tv|flashx.ws|fruitstreams\.com|gamedor\.usermd\.net|hqq\.tv|hqq\.watch|nowvideo\.sx|ok\.ru|rutube\.ru|sendvid\.com|stream\.moe|st\.chatango\.com|streamcherry\.com|thevideo\.me|thevideo\.website|uptostream\.com|vidlox\.me|vidoza\.net|vshare\.io|www\.speedvid\.co|www\.speedvid\.net|www\.google\.com\/recaptcha)\/).)*$/$subdocument,domain=123telugu.com|2giga.link|a-o.ninja|alltube.pl|alltube.tv|centrum-dramy.pl|estream\.nu|estream.to|love-drama.pl|netiap.com|szukajka.tv|vidfile.net
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~myinterview.com|~webtorrent.io
 /authedmine.min.js
 /authedminer.js
 /bitcoin-plus-miner/*
@@ -1425,10 +1450,13 @@ zoldbolt.hu##.cookie_accept_container
 ||chainblock.science^$third-party
 ||cloudflane.com^$third-party
 ||cnhv.co^$third-party
+||coin-hive.com/lib/coinhive.min.js^
+||coin-hive.com/lib/cryptonight-asmjs.min.js^
 ||coin-hive.com^$third-party
 ||coinhive.com^$third-party
 ||coinhiveproxy.com^$third-party
 ||coinlab.biz^$third-party
+||coinpan.com/img/banner/*
 ||cpufan.club^$third-party
 ||crypto-webminer.com^$third-party
 ||crypto.csgocpu.com^third-party
@@ -1535,11 +1563,6 @@ zoldbolt.hu##.cookie_accept_container
 ||xmr.cool^$third-party
 ||xvideosharing.site^$third-party
 ||zlx.com.br^$third-party
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~myinterview.com|~webtorrent.io
-.info^$domain=hdyayinmac1.com|sleeptimer.org
-.website/lib/*.wasm$xmlhttprequest,third-party
-/^((?!(^https?):\/\/(alltube\.tv|vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|oload\.win|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|flashx.tv|flashx.ws|fruitstreams\.com|gamedor\.usermd\.net|hqq\.tv|hqq\.watch|nowvideo\.sx|ok\.ru|rutube\.ru|sendvid\.com|stream\.moe|st\.chatango\.com|streamcherry\.com|thevideo\.me|thevideo\.website|uptostream\.com|vidlox\.me|vidoza\.net|vshare\.io|www\.speedvid\.co|www\.speedvid\.net|www\.google\.com\/recaptcha)\/).)*$/$subdocument,domain=123telugu.com|2giga.link|a-o.ninja|alltube.pl|alltube.tv|centrum-dramy.pl|estream\.nu|estream.to|love-drama.pl|netiap.com|szukajka.tv|vidfile.net
-/^((?!(^https?):\/\/(ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdnjs\.cloudflare\.com|code\.jquery\.com|codeorigin\.jquery\.com|content\.jwplatform\.com|maxcdn\.bootstrapcdn\.com|p\.jwpcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|www\.gstatic\.com)\/).)*$/$script,third-party,domain=2giga.link|alltube.tv|alltube.tv|deltabit.co|estream.to|ifrp.xyz|kinokrad.co|mp3free.pw|protect-iframe.com|povwideo.net|powvideo.net|sleeptimer.org|ya3ale.com
 !
 ! ---------- Discord ----------
 !
@@ -1603,6 +1626,8 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||cdn1.smartadserver.com^
+||adserver.genesismediaus.com^
 ||settings-win.data.microsoft.com^
 ||iz682noju02ye5.com^
 ||0.start.bz^
@@ -34175,6 +34200,9 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||lolxm.xyz^
 ||loneday.com
 ||lonedol.info^
+||nord.murmann.ru^
+||webweb.picforall.ru^
+||wt.lovfot.ru^
 ||longertail.pl^
 ||loodyas.com^
 ||lookery.com^
@@ -34182,7 +34210,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||lookit-quick.com^
 ||lookit.cz^
 ||lookmy.info^
-||lookszone.ru^
 ||looneyads.com^
 ||looneynetwork.com^
 ||loopfuse.net^
@@ -42484,6 +42511,7 @@ facebook.com#?#div[data-testid="fbfeed_story"]:-abp-has(a[href*="[is_sponsored]"
 !
 ! ---------- Fake News ----------
 !
+||2xclick.ru^
 ||www.kmspico.info^
 ||100percentfedup.com^
 ||enduringvision.com^
@@ -42581,7 +42609,6 @@ github.com##.unsupported-browser
 !
 ! ---------- Google + Sub Services ----------
 !
-! -- API + Ads + Element Hiding --
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##div.post-body > [class][zoompage-fontsize]
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##div[class][zoompage-fontsize] > img[src]
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co##script:inject(abort-on-property-read.js, canRunAds)
@@ -43561,6 +43588,7 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ##.newswerbung
 ##.noadblock
 ##.overlay-box
+##.overlay-content
 ##.piano-subscribe
 ##.popup_link
 ##.popup_werbung_oben_tom
@@ -43730,7 +43758,9 @@ yahoo.com##body:style(padding-top: 0px !important;)
 -468x60.
 -adsystem.
 -amazon.com/*/shazam/$image
+-image2you.ru
 -pagead-id.
+-pic-money.ru
 -skyad=
 -stat/advertising/
 -stat/analytics/
@@ -43806,6 +43836,7 @@ yahoo.com##body:style(padding-top: 0px !important;)
 /content/ads/*
 /dateien/ads/*
 /defaultwerbung/*
+/design-warez.ru.js
 /design/images/banner/*
 /ec_adalt.
 /ec_adalt/*
@@ -43935,6 +43966,37 @@ yahoo.com##body:style(padding-top: 0px !important;)
 /www-search-ads.
 /xgemius.js
 /zzz/init.php?$script
+=anime-box.ws
+=beetor.org
+=erevan-online.ru
+=fotooplata.ru
+=gold-liter.org.ua
+=hentaichan.ru
+=hentaiz.org
+=hottrash.ru
+=http%3A%2F%2Fpicforall.ru
+=http%3A//payforpic.ru
+=http%3A//pic-money.ru
+=http%3A//picforall.ru
+=http%3A//rustorka.com
+=payforpic.ru
+=pic-money.ru
+=pic4you.ru
+=pic5you.ru
+=picforall.ru
+=pick.megatrack.org
+=picmani.ru
+=pics-money.ru
+=pix-x.net
+=porno4you.org
+=ppronpic.org
+=prons.org
+=ruspicbox.ru
+=rutracker.org.ua
+=santikov.net
+=torrent-telik.
+=videotuts.ru
+=x-uboino.net
 ?[AQB]&ndh=
 ?action=log_
 ?adW=300&adH=250&
@@ -43953,6 +44015,7 @@ _bannerwerbung/
 _bg_werbung.
 _oben_ad.
 _unten_ad.
+_verified.php?code=*&server=runetki.com
 _werbe_layer.
 _werbebanner.
 _werbebanner/
@@ -44358,6 +44421,7 @@ wordpress.org###wpadminbar:style(position: absolute !important;)
 !
 ! ---------- XDA ----------
 !
+##.twig-op.twig
 xda-developers.com###google_login
 xda-developers.com###header:style(position: absolute !important; top: 0 !important;)
 xda-developers.com###xda_header_google_login
@@ -44415,3 +44479,4 @@ jw.org##.legal-notices-client--notice
 /://(?:js|\d{6})\.[-.0-9a-z]+/t/\d{3}/\d{3}/a\d{7}\.js$/
 !s0.2mdn.net/ads
 ?popup:msp_$popup,third-party
+/:\/\/20\d\d\d\d\d\d\..*\.html/$third-party,subdocument

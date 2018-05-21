@@ -6,7 +6,7 @@
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 # Expires: 14d
-# TimeUpdated: 2018-05-21	11:08:29+01:00
+# TimeUpdated: 2018-05-2111:08:29+01:00
 # Version: 0.0.0.3
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
@@ -11922,7 +11922,7 @@
 0.0.0.0 googleapps.com
 0.0.0.0 googlearth.com
 0.0.0.0 googlebot.com
-0.0.0.0 googlecapital.com	
+0.0.0.0 googlecapital.com
 0.0.0.0 googlecode.com
 0.0.0.0 googlecommerce.com
 0.0.0.0 googledrive.com
@@ -12020,7 +12020,7 @@
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 waze.com
 0.0.0.0 whatbrowser.org
-0.0.0.0 whatbrowser.org	
+0.0.0.0 whatbrowser.org
 0.0.0.0 withgoogle.com
 0.0.0.0 withyoutube.com
 0.0.0.0 www.google.com
