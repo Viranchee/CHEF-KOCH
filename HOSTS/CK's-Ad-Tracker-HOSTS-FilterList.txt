@@ -1,21 +1,18 @@
 # Title: CHEF-KOCH's Ad & Tracker Filter List
 # Description: Filters Ad & Trackers only.
-# Checksum (SHA3-256): 12F5924454949A4F60535B908043F241D32E2807ADD0FDD73AFC8CEF2BDF3DD5
+# Checksum (SHA3-256): 060E3CFF8FA5F10134A2F71BD625B08590803362FD77A167564AAC090461A9B4
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 # Expires: 14d
-# TimeUpdated: 2018-05-21	13:24:47+01:00
-# Version: 0.0.0.4
+# TimeUpdated: 2018-05-21	14:09:04+01:00
+# Version: 0.0.0.5
 # Please report any unblocked content or problems by email or via GitHub issue page.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #
 # ---------- Ad & Tracker ----------
 #
-0.0.0.0  adserver.hardtecs.org
-0.0.0.0  hardtecs.org
-0.0.0.0  traviously.pro
 0.0.0.0  -rotation.de
 0.0.0.0  -traffic.com
 0.0.0.0  004b17a0c349157de.com
@@ -1023,6 +1020,7 @@
 0.0.0.0  237.bitterstrawberry.com
 0.0.0.0  2370.bitterstrawberry.com
 0.0.0.0  238.6.87.194.dynamic.dol.ru
+0.0.0.0  238097-hb.adomik.com
 0.0.0.0  239.6.87.194.dynamic.dol.ru
 0.0.0.0  2398.bitterstrawberry.com
 0.0.0.0  2400.bitterstrawberry.com
@@ -19363,6 +19361,7 @@
 0.0.0.0  adserver.garden.nl
 0.0.0.0  adserver.goforandroid.com
 0.0.0.0  adserver.gorillanation.com
+0.0.0.0  adserver.hardtecs.org
 0.0.0.0  adserver.hardwareanalysis.com
 0.0.0.0  adserver.harktheherald.com
 0.0.0.0  adserver.hellasnet.gr
@@ -20724,6 +20723,7 @@
 0.0.0.0  api.celtra.com
 0.0.0.0  api.chartboost.com
 0.0.0.0  api.citygridmedia.com
+0.0.0.0  api.coinmarketcap.com
 0.0.0.0  api.conduit.com
 0.0.0.0  api.content-ad.net
 0.0.0.0  api.contextly.com
@@ -25364,6 +25364,7 @@
 0.0.0.0  coheredqdsurfq.download
 0.0.0.0  cohortdigital.go2cloud.org
 0.0.0.0  coiffedvsyitd.download
+0.0.0.0  coinmarketcap.com
 0.0.0.0  coinurl.com
 0.0.0.0  coinvisitor.com
 0.0.0.0  coke.nuggad.net
@@ -25375,6 +25376,7 @@
 0.0.0.0  collector-cdn.github.com
 0.0.0.0  collector-test.staging.mb-internal.com
 0.0.0.0  collector.deepmetrix.com
+0.0.0.0  collector.githubapp.com
 0.0.0.0  collector.ksax.com
 0.0.0.0  collector.kstptv5.com
 0.0.0.0  collector.statowl.com
@@ -30009,6 +30011,7 @@
 0.0.0.0  girlscoutsoftheusa.sc.omtrdc.net
 0.0.0.0  girlsofvs.com
 0.0.0.0  girthingbeypvmxb.download
+0.0.0.0  githubapp.com
 0.0.0.0  giveaboost.go2cloud.org
 0.0.0.0  givemefreestuff.com
 0.0.0.0  gj.mmstat.com
@@ -30424,6 +30427,7 @@
 0.0.0.0  harassedlyayeigwq.download
 0.0.0.0  hardcore.xxxcounter.com
 0.0.0.0  hardsextube-bud.gravityrd-services.com
+0.0.0.0  hardtecs.org
 0.0.0.0  hardwarezone.us.intellitxt.com
 0.0.0.0  hariqavi.com
 0.0.0.0  harrenmedia.go2affise.com
@@ -36285,6 +36289,7 @@
 0.0.0.0  s.update.rubiconproject.com
 0.0.0.0  s.userzoom.com
 0.0.0.0  s.vgsgaming-ads.com
+0.0.0.0  s.w.org
 0.0.0.0  s.wnd.com
 0.0.0.0  s.xp1.ru4.com
 0.0.0.0  s.xpanama.net
@@ -39045,6 +39050,7 @@
 0.0.0.0  travelmail.traveltek.net
 0.0.0.0  travelocity.bfast.com
 0.0.0.0  travelscream.com
+0.0.0.0  traviously.pro
 0.0.0.0  travsoft.bfast.com
 0.0.0.0  trax-ad.jp
 0.0.0.0  trax.gamespot.com
@@ -43519,6 +43525,7 @@
 0.0.0.0  w.hypercomments.com
 0.0.0.0  w.mlv-cdn.com
 0.0.0.0  w.online-verlag-freiburg.de
+0.0.0.0  w.org
 0.0.0.0  w.sharethis.com
 0.0.0.0  w.shoopadoo.com
 0.0.0.0  w.tr553.com
@@ -43963,6 +43970,7 @@
 0.0.0.0  wiki.ero-advertising.com
 0.0.0.0  wildrhino.com
 0.0.0.0  wiliestmbpgakdno.download
+0.0.0.0  wilku.de
 0.0.0.0  willhab.oewabox.at
 0.0.0.0  win.bannersbucket.xyz
 0.0.0.0  win.openvn.com
@@ -46821,6 +46829,7 @@
 0.0.0.0  www.widgettool.net
 0.0.0.0  www.wildrhino.com
 0.0.0.0  www.wiliestmbpgakdno.download
+0.0.0.0  www.wilku.de
 0.0.0.0  www.win7affiliates.com
 0.0.0.0  www.windgallsxsnxcqt.download
 0.0.0.0  www.wingoads.com
@@ -47513,20 +47522,79 @@
 0.0.0.0  zz.zeroredirect1.com
 0.0.0.0  zzptzdhugavot.review
 0.0.0.0  zzz.clickbank.net
-0.0.0.0  coinmarketcap.com
-0.0.0.0  api.coinmarketcap.com
-0.0.0.0  wilku.de
-0.0.0.0  www.wilku.de
-0.0.0.0  w.org
-0.0.0.0  s.w.org
-0.0.0.0  githubapp.com
-0.0.0.0  collector.githubapp.com
-0.0.0.0  238097-hb.adomik.com
 0.0.0.0 2-01-275d-0013.cdx.cedexis.net
 0.0.0.0 2-01-275d-0017.cdx.cedexis.net
 0.0.0.0 2-01-275d-0018.cdx.cedexis.net
 0.0.0.0 2-01-275d-001d.cdx.cedexis.net
+0.0.0.0 a.wyzmob.com
+0.0.0.0 a1.dp25.kr
+0.0.0.0 ad-cdn.technoratimedia.com
+0.0.0.0 ad-first.co.kr
+0.0.0.0 ad-playstore.com
+0.0.0.0 ad.about.co.kr
+0.0.0.0 ad.ad-ya.net
+0.0.0.0 ad.ad4989.co.kr
+0.0.0.0 ad.adinc.kr
+0.0.0.0 ad.adixs.co.kr
+0.0.0.0 ad.adlike.co.kr
+0.0.0.0 ad.adnmore.co.kr
+0.0.0.0 ad.aeonad.co.kr
+0.0.0.0 ad.aeonad.net
+0.0.0.0 ad.applead.co.kr
+0.0.0.0 ad.crwdcntrl.net
+0.0.0.0 ad.daum.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.dt.co.kr
+0.0.0.0 ad.hankooki.com
+0.0.0.0 ad.hankookilbo.com
+0.0.0.0 ad.hooniad.com
+0.0.0.0 ad.ilikesponsorad.co.kr
+0.0.0.0 ad.ilikesponsorad.com
+0.0.0.0 ad.ingfac.co.kr
+0.0.0.0 ad.kmib.co.kr
+0.0.0.0 ad.koreadaily.com
+0.0.0.0 ad.mediatoday.co.kr
+0.0.0.0 ad.openmatch.co.kr
+0.0.0.0 ad.osen.co.kr
+0.0.0.0 ad.owra.net
+0.0.0.0 ad.pickple.net
+0.0.0.0 ad.priel.co.kr
+0.0.0.0 ad.reople.co.kr
+0.0.0.0 ad.touchwise.co.kr
 0.0.0.0 ad.tvazteca.com
+0.0.0.0 ad.wowtv.co.kr
+0.0.0.0 ad.xc.netinsight.co.kr
+0.0.0.0 ad.xc.nis.nitmus.com
+0.0.0.0 ad.yieldmanager.com
+0.0.0.0 ad00.inews24.com
+0.0.0.0 ad01.inews24.com
+0.0.0.0 ad1.eventmanager.co.kr
+0.0.0.0 ad1.sportschosun.com
+0.0.0.0 ad1.sportsseoul.com
+0.0.0.0 ad2.thisisgame.com
+0.0.0.0 adbiz.co.kr
+0.0.0.0 adclickservice.com
+0.0.0.0 ade.realclick.co.kr
+0.0.0.0 adex.ednplus.com
+0.0.0.0 adexpert.ad4989.co.kr
+0.0.0.0 adexview.neoebiz.co.kr
+0.0.0.0 adexview.new-star.co.kr
+0.0.0.0 adf.send.microad.jp
+0.0.0.0 adget.co.kr
+0.0.0.0 adimage.hankookilbo.com
+0.0.0.0 adimg.nateimg.co.kr
+0.0.0.0 adimg1.adinc.co.kr
+0.0.0.0 adin.ad4980.kr
+0.0.0.0 adinc.co.kr
+0.0.0.0 adixs.net
+0.0.0.0 adn.adneo.co.kr
+0.0.0.0 adn.inven.co.kr
+0.0.0.0 adn.nsmartad.com
+0.0.0.0 adpingpong.co.kr
+0.0.0.0 adpingpong1.co.kr
+0.0.0.0 adpingpong2.co.kr
+0.0.0.0 adr.realclick.co.kr
+0.0.0.0 ads-by.yieldselect.com
 0.0.0.0 ads.20minutes.fr
 0.0.0.0 ads.abcdelbebe.com
 0.0.0.0 ads.alo.co
@@ -47536,44 +47604,120 @@
 0.0.0.0 ads.eltiempo.co
 0.0.0.0 ads.eltiempo.com
 0.0.0.0 ads.futbolred.com
+0.0.0.0 ads.gamemeca.com
 0.0.0.0 ads.inventmx.com
+0.0.0.0 ads.mncmedia.co.kr
 0.0.0.0 ads.portafolio.co
+0.0.0.0 ads.realclick.co.kr
 0.0.0.0 ads.revistadonjuan.com
 0.0.0.0 ads.scrollerads.com
 0.0.0.0 ads.seccionamarilla.com.mx
 0.0.0.0 ads.simpleads.com.br
+0.0.0.0 ads.tapzin.com
+0.0.0.0 ads.tlvmedia.com
 0.0.0.0 ads.vive.in
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads3.adinc.co.kr
 0.0.0.0 adserv2.jornaldaparaiba.com.br
+0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver.genesismediaus.com
+0.0.0.0 adserver.sbtrustmedia.com
+0.0.0.0 adserver.uniqube.tv
+0.0.0.0 adsvc2.wisenut.co.kr
+0.0.0.0 adtg.widerplanet.com
+0.0.0.0 adv.imadrep.co.kr
+0.0.0.0 adv.khan.co.kr
+0.0.0.0 adv.mediakeep.co.kr
+0.0.0.0 adv.realclick.co.kr
+0.0.0.0 adver.clickmon.co.kr
+0.0.0.0 ak-gb.marketgid.com
+0.0.0.0 as.dc.impact-ad.jp
 0.0.0.0 asa.allegro.pl
+0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 brad.acsta.net
+0.0.0.0 candy.ad9.kr
+0.0.0.0 care-health.co.kr
+0.0.0.0 cdn03.sndkorea.co.kr
+0.0.0.0 cdn04.sndkorea.co.kr
+0.0.0.0 celeb.nann.co.kr
+0.0.0.0 click.realclick.co.kr
+0.0.0.0 clkads.com
+0.0.0.0 cm.keywordsconnect.com
+0.0.0.0 cm1.joins.com
+0.0.0.0 cm1.jssearch.net
+0.0.0.0 cm2.cjmooter.com
+0.0.0.0 cm2.joins.com
+0.0.0.0 cm2.jssearch.net
+0.0.0.0 cm3.jssearch.net
+0.0.0.0 creative.wwwpromoter.com
 0.0.0.0 csync-tmk.smartadserver.com
+0.0.0.0 cwdata.itsearch.co.kr
+0.0.0.0 d.a1comm.co.kr
+0.0.0.0 d.adroll.com
+0.0.0.0 d1jikhx1ssl81z.cloudfront.net
+0.0.0.0 d269y12mnftu9c.cloudfront.net
+0.0.0.0 d3oep4gb91kpuv.cloudfront.net
 0.0.0.0 diff.smartadserver.com
+0.0.0.0 dlv.hooniad.com
+0.0.0.0 ex.mdtoday.co.kr
+0.0.0.0 g4p.redtram.com
 0.0.0.0 geoced.smartadserver.com
+0.0.0.0 get.keywordsconnect.com
+0.0.0.0 get2.keywordsconnect.com
+0.0.0.0 gsad.gameshot.net
+0.0.0.0 guide.allblet.net
+0.0.0.0 h.adscope.co.kr
 0.0.0.0 itx5-itx4-eqx.smartadserver.com
+0.0.0.0 js.keywordsconnect.com
+0.0.0.0 js.theprimead.co.kr
+0.0.0.0 js2.keywordsconnect.com
+0.0.0.0 jsc.mgid.com
+0.0.0.0 jshoppingbox.joinsmsn.com
+0.0.0.0 keyword.ad4989.co.kr
+0.0.0.0 longkeyone.co.kr
+0.0.0.0 mp.mmnneo.com
+0.0.0.0 mymyad.co.kr
 0.0.0.0 network.enfemenino.com
 0.0.0.0 network.sofeminine.co.uk
 0.0.0.0 network.taofeminino.com.br
 0.0.0.0 network.wewomen.com
+0.0.0.0 nw.realssp.co.kr
+0.0.0.0 p.lumieyes.com
+0.0.0.0 plugin.2beon.co.kr
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 prism.pandora.tv
+0.0.0.0 prwidgets.com
+0.0.0.0 pub.adpnut.com
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 qc.smartadserver.com
 0.0.0.0 r-tmk.sascdn.com
 0.0.0.0 r.sascdn.com
+0.0.0.0 ra.ntwoad.co.kr
 0.0.0.0 reachandrich.antevenio.com
 0.0.0.0 rtb-csync.smartadserver.com
+0.0.0.0 script.keywordlink.co.kr
+0.0.0.0 scripts.chitika.net
+0.0.0.0 serv.ads.pixiv.org
 0.0.0.0 serve.blutonic-ads.com
+0.0.0.0 sh.adingo.jp
+0.0.0.0 shoppingbox.joinsmsn.com
 0.0.0.0 smart.upromise.com
 0.0.0.0 smart2.allocine.fr
+0.0.0.0 sp1.jssearch.net
 0.0.0.0 ssp-csync.smartadserver.com
+0.0.0.0 st.keywordsconnect.com
 0.0.0.0 sync.smartadserver.com
+0.0.0.0 ti-center.co.kr
 0.0.0.0 tmk-eltiempo.smartadserver.com
 0.0.0.0 tmk-eqx-geoloc.smartadserver.com
 0.0.0.0 tmk-eqx-hzh-geoloc.smartadserver.com
 0.0.0.0 tmk-secure.smartadserver.com
 0.0.0.0 tmk.2-01-275d-0003.cdx.cedexis.net
 0.0.0.0 tmk.smartadserver.com
+0.0.0.0 traffic.adxprts.com
 0.0.0.0 usharbors.smartadserver.com
 0.0.0.0 w1716.smartadserver.com
+0.0.0.0 web.n2s.co.kr
 0.0.0.0 ww1097.smartadserver.com
 0.0.0.0 ww1270.smartadserver.com
 0.0.0.0 ww1316-tmk.smartadserver.com
