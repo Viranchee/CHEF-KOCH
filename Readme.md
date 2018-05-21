@@ -18,7 +18,7 @@
 ## Project Structure
 
 * `/CK's-Android-FilterList.txt` the main filter lists for your Ad-Blocker. The filter gets updated at least every 3 days.
-* `/Android` includes the Android related filter list `CK's-Android-FilterList`.
+* `/Android` includes the Android related filter list.
 * `/HOSTS` contains HOSTS files for th project. The lists aren't updated frequently. 
 * `/I2P & Onion` includes the I2P and .Onion related filter list `CK's-Onion-FilterList`.
 * `/Malware` includes the anti-Malware related filter list `CK's-Malware-FilterList`.
@@ -45,7 +45,6 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net) - for **PI devices** 
 
 
-
 ## Partial supported 
 
 The following blockers aren't fully supported, so they might work but they have some limitations and I personally can't recommend them. A more detailed explanation is given [here](https://github.com/CHEF-KOCH/CKs-FilterList/wiki/Limited-support-for-AdBlock-&-AdBlock-Plus).
@@ -57,12 +56,15 @@ The following blockers aren't fully supported, so they might work but they have 
 
 
 
+## Subscribe to CHEF-KOCH's FilterList
+
+[Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
+
+
+
 ## Documentation
 
 * For a more detailed project description and documentation please see the [Wiki pages](https://github.com/CHEF-KOCH/CKs-FilterList/wiki).
-
-
-### [Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
 
 
 
@@ -71,7 +73,8 @@ The following blockers aren't fully supported, so they might work but they have 
 The following filters might not getting into the main filter list (_CK's-FilterList.txt_) and are labeled as [optional](https://github.com/CHEF-KOCH/CKs-FilterList#optional-lists), there also not getting as fast updates, their update interval is set to 14 days. 
 
 
-#### uBlock, 1Block, etc optional filter lists.
+
+### uBlock, 1Block, etc optional filter lists.
 
 Filter Name | Description | Sub link
 --- | --- | ---
@@ -97,10 +100,10 @@ Torrent | Blocklist for bad Torrent Tracker | [Subscribe to CHEF-KOCH's Torrent 
 
 
 
-#### uMatrix & HOSTS only optional filter lists.
+### uMatrix & HOSTS only optional filter lists.
 
 
-HOSTS and uMatrix filter lists, keep in mind that there not sub-clickable (like the above uBO list). There will be [no 127.0.0.1 versions](https://github.com/CHEF-KOCH/CKs-FilterList/wiki/127.0.0.1-vs-0.0.0.0). 
+HOSTS and uMatrix only filter lists - please keep in mind that _there not sub-clickable_ (like the above uBO list). There will also be [no 127.0.0.1 versions](https://github.com/CHEF-KOCH/CKs-FilterList/wiki/127.0.0.1-vs-0.0.0.0). 
 
 
 Filter Name | Description | Sub link
@@ -123,10 +126,11 @@ App: Spotify | Spotify Ad-Free | [Subscribe to CHEF-KOCH's Spotify Ad-Free Filte
 uMatrix | uMatrix / HOSTS based lists (domains only from CK's-FilterList) | [Subscribe to CHEF-KOCH's uMatrix FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/uMatrix/CK's-uMatrix-FilterList.txt&title=CHEF-KOCH's-Spotify-Ad-Free-Filter-List)
 
 
-
 ## [Report issues, unblocked ads or trackers](https://github.com/CHEF-KOCH/CKs-FilterList/issues)
 
+
 #### Like my list? Star it on GitHub! :star: or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
+
 
 ## Credits 
 
