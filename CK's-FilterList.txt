@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 950B8DF3FEA172D79AA64D130191718B193C62E2292B5E3C8824F8575C5B186A
+! Checksum (SHA3-256): CFBA258DF41FFBB8DFBB9997B121422E30EDEE6D29998225539454992024CC7F
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 5d
-! TimeUpdated: 2018-05-21	13:03:05+01:00
-! Version: 0.0.2.6
+! TimeUpdated: 2018-05-21	13:19:28+01:00
+! Version: 0.0.2.7
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -16,7 +16,6 @@
 !
 ! ---------- 1st party blocking rules ----------
 !
-||readcomiconline.to/*.png
 ||*.com/_/batch$xmlhttprequest,first-party
 ||01net.com/telecharger/$document
 ||0mme.com^$script,domain=comicbook.com|popculture.com
@@ -87,6 +86,7 @@
 ||linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||liverail.com^$important,domain=dailymotion.com
 ||log.logrocket.io^$script
+||ltn.hitomi.la/hitomi-anintager.js^$domain=hitomi.la
 ||market-buster.com^$popup
 ||mdf91.com^$script,domain=townhall.com
 ||mh.signetter.com/m41983
@@ -110,6 +110,7 @@
 ||popcash.net^$script,redirect=noopjs,domain=fastserver.me
 ||pro.hit.gemius.pl^$script,redirect=noopjs,domain=nova.cz
 ||pubmatic.com^$script,redirect=noopjs,domain=hackintosh.computer|hackintosh.zone
+||readcomiconline.to/*.png
 ||restream.io/img/install_flash.png$image
 ||restream.io/img/promo/trash-meme/logo.gif$image
 ||rsload.net/images5/premssf.png$image
@@ -42705,6 +42706,7 @@ youtube.com##div#feed-pyv-container
 youtube.com##div#footer-ads
 youtube.com##div#masthead-ad
 youtube.com##ytd-compact-promoted-video-renderer
+youtube.com##ytd-companion-slot-renderer.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##ytd-search-pyv-renderer
 youtube.com/player_204?
 youtube.com^*/log_event?
@@ -42717,6 +42719,7 @@ youtube.com^*/log_interaction?
 ||youtube.com/csi_204$important
 ||youtube.com/get_midroll$important
 ||youtube.com/get_midroll_
+||youtube.com/get_midroll_info^$domain=youtube.com
 ||youtube.com/player_204$important
 ||youtube.com/ptracking$important
 ||youtube.com/set_awesome$important
