@@ -127,10 +127,14 @@ App: Spotify | Spotify Ad-Free | [Subscribe to CHEF-KOCH's Spotify Ad-Free Filte
 uMatrix | uMatrix / HOSTS based lists (domains only from CK's-FilterList) | [Subscribe to CHEF-KOCH's uMatrix FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/uMatrix/CK's-uMatrix-FilterList.txt&title=CHEF-KOCH's-Spotify-Ad-Free-Filter-List)
 
 
-## [Report issues, unblocked ads or trackers](https://github.com/CHEF-KOCH/CKs-FilterList/issues)
+## Report issues, unblocked ads or trackers
+
+You can report issue [here](https://github.com/CHEF-KOCH/CKs-FilterList/issues)), keep in mind that this requires that you read the [contribution guidelines](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/CONTRIBUTING.md) first.  
 
 
-#### Like my list? Star it on GitHub! :star: or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
+#### Like my list? 
+
+Star it on GitHub! :star: or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
 
 
 ## Credits 
