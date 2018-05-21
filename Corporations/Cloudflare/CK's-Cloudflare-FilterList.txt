@@ -1,4 +1,3 @@
-[Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Cloudflare Filter List
 ! Description: Block all Cloudflare related connections.
 ! Checksum (SHA3-256): 89046CDC2AB3F5D2C83FFDAC9EAC044FC1BC1E9FF4A59D035E365A742AAC4383

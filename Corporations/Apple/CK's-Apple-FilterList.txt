@@ -1,4 +1,3 @@
-[Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Apple Filter List
 ! Description: Block all Apple related connections, this also breaks iCloud etc.
 ! Checksum (SHA3-256): 7A47CECF6B2440EB8F0FDB957E2B3F82E14BDEE9232734776CD559FE2BD9661D

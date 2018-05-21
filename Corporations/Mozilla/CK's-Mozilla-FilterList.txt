@@ -1,4 +1,3 @@
-[Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Mozilla Filter List
 ! Description: Block all Mozilla related connections, it also blocks sync and other apps and services.
 ! Checksum (SHA3-256): F6AE50DFA73D3588DEE8EDE8A2BBE4D30EEA74A700F097497D8C865D75C3930A

@@ -1,4 +1,3 @@
-[Adblock Plus 2.8]
 ! Title: CHEF-KOCH's CCleaner Filter List
 ! Description: Block all CCleaner related connections.
 ! Checksum (SHA3-256): 9BFD145D4B1B5CBBF8A06F2A7791D5DA997AF2228005E89652FBB7D7C4A62E9F

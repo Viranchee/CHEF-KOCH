@@ -1,0 +1,9 @@
+/emoji.$script,stylesheet
+/emojiFace.$script
+/emojiarea.$script
+/emojify.$script
+/emojione.$script,stylesheet
+/images/*emoji/*
+/lsxemojipicker.$script
+/wp-emoji$script,stylesheet
+||twemoji.maxcdn.com^

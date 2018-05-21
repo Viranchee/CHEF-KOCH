@@ -154,7 +154,6 @@
 ||sdssf.com^
 ||tshyjck.com^
 ||cai38.com^
-||msgin.vvv.facebook.com^
 ||alt4.aspmx.l.google.com.mx^
 ||mail.xn--ngkbet-dza8b8h.com^
 ||mail.xmm919.com^
@@ -167,8 +166,6 @@
 ||lamlaiba.com^
 ||mail.717919.com^
 ||mail.todaynews911.com^
-||a.ns.facebook.com^
-||b.ns.facebook.com^
 ||b.ns.igcdn.com^
 ||a.ns.igcdn.com^
 ||caiak998.com^
@@ -491,7 +488,6 @@
 ||ae13.pr01.sea1.tfbnw.net^
 ||connect.facebook.net.edgekey.net^
 ||connect.facebook.net^
-||external.xx.fbcdn.net^
 ||facebook-web-clients.appspot.com^
 ||facebook.ac^
 ||facebook.af^
@@ -573,8 +569,6 @@
 ||instagramstatic-a.akamaihd.net.edgesuite.net^
 ||instagramstatic-a.akamaihd.net^
 ||m.me^
-||messenger.fb.com^
-||newsroom.fb.com^
 ||profile.ak.facebook.com.edgesuite.net^
 ||s-static.ak.facebook.com.edgekey.net^
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
@@ -586,43 +580,11 @@
 !
 ! ---------- Thirdparty Filters ----------
 !
-||api-read.facebook.com/restserver.php?api_key=$third-party
-||api.facebook.com^$third-party
-||badge.facebook.com^$third-party
-||connect.facebook.com^$third-party,domain=~facebook.net|~fb.com
-||connect.facebook.net^$third-party,domain=~facebook.com|~fb.com
-||facebook.com/connect/$third-party
 ||facebook.com/dialog/oauth?display=popup$popup,domain=humorhub.org
-||facebook.com/plugins/activity.php?$third-party
-||facebook.com/plugins/comments.php?$third-party
-||facebook.com/plugins/facepile.php?$third-party
-||facebook.com/plugins/fan.php?$third-party
-||facebook.com/plugins/follow.php$third-party
-||facebook.com/plugins/like.php?$third-party
-||facebook.com/plugins/like_box.php$third-party
-||facebook.com/plugins/likebox.php?$third-party
-||facebook.com/plugins/post.php?$third-party
-||facebook.com/plugins/recommendations.php?$third-party
-||facebook.com/plugins/recommendations_bar.php?$third-party
-||facebook.com/plugins/send.php?$third-party
-||facebook.com/plugins/share_button.php?$third-party
-||facebook.com/plugins/subscribe.php$third-party
-||facebook.com/plugins/subscribe?$third-party
-||facebook.com/restserver.php?*.getStats&$third-party
-||facebook.com/whitepages/wpminiprofile.php$third-party
-||facebook.com/widgets/activity.php?$third-party
-||facebook.com/widgets/fan.php?$third-party
-||facebook.com/widgets/like.php?$third-party
-||facebook.com/widgets/recommendations.php?$third-party
-||fbcdn-profile-a.akamaihd.net^$third-party,domain=~facebook.com
 ||google.com/js/client:plusone.js$third-party
 ||google.com/js/plusone.js$third-party
-||graph.facebook.com/?id=$third-party
-||graph.facebook.com^$third-party,xmlhttprequest
-||profile.ak.fbcdn.net^$third-party,domain=~facebook.com
 ||scontent-a.*.fbcdn.net^$third-party,domain=~facebook.com
 ||spot.im/embed/scripts/launcher.js$third-party
-||static.ak.fbcdn.net^$third-party,domain=~facebook.com
 !
 ! ---------- Problematic sites ----------
 !

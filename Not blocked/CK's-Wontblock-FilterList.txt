@@ -14,7 +14,8 @@ Will not be avbl. via subscription.
 ||github.com^
 ||live.github.com^
 ||user-images.githubusercontent.com^
-
+avanza.se#@#a[title="LeoVegas"]
+@@||opinionstage.com^$domain=99.se|fz.se|sweclockers.com
 
 
 

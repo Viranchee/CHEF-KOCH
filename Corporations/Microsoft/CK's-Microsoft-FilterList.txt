@@ -1,4 +1,3 @@
-[Adblock Plus 2.8]
 ! Title: CHEF-KOCH's Microsoft Filter List
 ! Description: Block all Microsoft related connections, it also blocks Skype etc.
 ! Checksum (SHA3-256): 478FD77D585CC094F4D9AE9A0B94C25CD1F5DFB1B4F6ECC65486EB4D3DEDFF78

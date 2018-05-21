@@ -48,12 +48,10 @@
 ||myfonts.net^$third-party
 ||netdna-cdn.com^*/webfonts/
 ||netdna.bootstrapcdn.com^*/fonts/$third-party
-||performance.typekit.net^$third-party
 ||qmerce.com/assets/$font
 ||typefront.com^$third-party
 ||typekit.com^$third-party
 ||typekit.net^$third-party
-||use.edgefonts.net^$font,third-party
 ||use.fonticons.com^$third-party
 ||webfonts.creativecloud.com^$third-party
 ||wp.com^*/fonts/$third-party

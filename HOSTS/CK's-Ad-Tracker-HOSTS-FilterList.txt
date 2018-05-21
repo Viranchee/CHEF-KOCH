@@ -47533,6 +47533,7 @@
 0.0.0.0 24-rus.info
 0.0.0.0 24onlinesmi.net
 0.0.0.0 24reporter.ru
+0.0.0.0 4dsply.com
 0.0.0.0 a.wyzmob.com
 0.0.0.0 a1.dp25.kr
 0.0.0.0 aaeqlxdgx.bid
@@ -47659,6 +47660,7 @@
 0.0.0.0 adserver.genesismediaus.com
 0.0.0.0 adserver.sbtrustmedia.com
 0.0.0.0 adserver.uniqube.tv
+0.0.0.0 adsrvmedia.net
 0.0.0.0 adsvc2.wisenut.co.kr
 0.0.0.0 adtg.widerplanet.com
 0.0.0.0 adtikimdtfbb.com
@@ -47733,6 +47735,7 @@
 0.0.0.0 algkebjdgafa.com
 0.0.0.0 algnnojsdr.com
 0.0.0.0 alidnquxirv.bid
+0.0.0.0 all2lnk.com
 0.0.0.0 allblog24.ru
 0.0.0.0 alnisdrmhs.bid
 0.0.0.0 alxetzfhlzekv.bid
@@ -47749,6 +47752,7 @@
 0.0.0.0 ammqwpksb.bid
 0.0.0.0 ammuburyqlhsjx.bid
 0.0.0.0 amnpmitevuxx.com
+0.0.0.0 ampclicks.com
 0.0.0.0 ampnkoudpnd.bid
 0.0.0.0 amqcdbles.com
 0.0.0.0 anasjdzutdmv.com
@@ -47783,6 +47787,8 @@
 0.0.0.0 apicloud.ru
 0.0.0.0 apmgzzaej.bid
 0.0.0.0 apmkcdsnv.bid
+0.0.0.0 apportium.com
+0.0.0.0 appvk.ru
 0.0.0.0 aprddnfuzc.bid
 0.0.0.0 aptaeabkg.com
 0.0.0.0 apuorlaqiscu.bid
@@ -47814,6 +47820,7 @@
 0.0.0.0 asa.allegro.pl
 0.0.0.0 asecxggulyrf.com
 0.0.0.0 ashwlrtiazee.com
+0.0.0.0 askfm.im
 0.0.0.0 asmvccgoy.bid
 0.0.0.0 asotnnwspw.bid
 0.0.0.0 astrack.ru
@@ -47879,6 +47886,7 @@
 0.0.0.0 bakdsoarxjab.com
 0.0.0.0 bakjtxvku.bid
 0.0.0.0 baommitouduxo.bid
+0.0.0.0 base2.ru
 0.0.0.0 batigfkcbwpb.com
 0.0.0.0 bauffnmtou.com
 0.0.0.0 bbbrhcxtdkfui.bid
@@ -47917,10 +47925,14 @@
 0.0.0.0 behjgnhniasz.com
 0.0.0.0 behybmunweid.com
 0.0.0.0 bektvxxfv.bid
+0.0.0.0 beryblog.ru
 0.0.0.0 besplodstop.ru
 0.0.0.0 best-binary.site
 0.0.0.0 best-zdorovye.ru
 0.0.0.0 best-zdrav.ru
+0.0.0.0 bestadbid.com
+0.0.0.0 bestload.me
+0.0.0.0 bestoffertime.com
 0.0.0.0 beststbuy.ru
 0.0.0.0 beufosew.bid
 0.0.0.0 bewovdhiubnk.com
@@ -48011,6 +48023,7 @@
 0.0.0.0 blogofest.com
 0.0.0.0 blogonews.org
 0.0.0.0 blogostar.org
+0.0.0.0 blogport.ru
 0.0.0.0 blogs-new.ru
 0.0.0.0 blogs-peoples.com
 0.0.0.0 blogs-shop.org
@@ -48050,6 +48063,7 @@
 0.0.0.0 boldblogs.com
 0.0.0.0 bolgooltxygp.com
 0.0.0.0 bomjrcum.bid
+0.0.0.0 bongacash.com
 0.0.0.0 bowqvvztlkzn.com
 0.0.0.0 bpblqdfe.bid
 0.0.0.0 bpbwwasthwtp.com
@@ -48259,7 +48273,9 @@
 0.0.0.0 clhkbfqzwpst.com
 0.0.0.0 clhqmynew.bid
 0.0.0.0 click.realclick.co.kr
+0.0.0.0 clicksvenue.com
 0.0.0.0 clkads.com
+0.0.0.0 clkfeed.com
 0.0.0.0 clomggnzxsyf.bid
 0.0.0.0 clonsvyhy.bid
 0.0.0.0 clxakmsyjlryz.bid
@@ -48438,6 +48454,7 @@
 0.0.0.0 ddjodgzhxyjtaa.bid
 0.0.0.0 debuackedhkvu.bid
 0.0.0.0 dehyogsjbk.bid
+0.0.0.0 delta-search.com
 0.0.0.0 deouvnqbgflv.com
 0.0.0.0 deqrdwsjlpjz.com
 0.0.0.0 derpqpyvym.bid
@@ -48480,6 +48497,8 @@
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 dinmbegj.bid
 0.0.0.0 diqstzzbqin.bid
+0.0.0.0 directadvert.ru
+0.0.0.0 directrev.com
 0.0.0.0 ditouyldfqgt.com
 0.0.0.0 diuiyzhao.com
 0.0.0.0 diwkemnk.bid
@@ -48498,6 +48517,8 @@
 0.0.0.0 dklvewbgjksyy.com
 0.0.0.0 dkvblgxkihtys.bid
 0.0.0.0 dlahijuwjsv.com
+0.0.0.0 dle01.freesoftt2cc.name
+0.0.0.0 dle30.sofftportall9nn.info
 0.0.0.0 dlemeyrkjy.com
 0.0.0.0 dlganxfc.bid
 0.0.0.0 dlntzbuskygwj.com
@@ -48547,6 +48568,7 @@
 0.0.0.0 dpmyrskvbznvn.com
 0.0.0.0 dpqytzwxohcd.bid
 0.0.0.0 dprdhzofq.bid
+0.0.0.0 dprtb.com
 0.0.0.0 dpwmloknxtuw.com
 0.0.0.0 dqcqavgqk.bid
 0.0.0.0 dqfhklmwj.com
@@ -48575,6 +48597,7 @@
 0.0.0.0 dubijsirwtwq.com
 0.0.0.0 dubzmzpdkddi.com
 0.0.0.0 duchmcmpmqqu.com
+0.0.0.0 duckcash.eu
 0.0.0.0 dueybqnkkhzdh.bid
 0.0.0.0 dugtor-deer.pw
 0.0.0.0 duhqtjmftpxrmn.bid
@@ -48781,6 +48804,7 @@
 0.0.0.0 etbrjgpsadke.com
 0.0.0.0 etggiddfdaqd.com
 0.0.0.0 etglnloj.com
+0.0.0.0 etofirma36.pp.ua
 0.0.0.0 etojackpot.com
 0.0.0.0 etonews.ru
 0.0.0.0 etprpfuw.bid
@@ -48832,6 +48856,7 @@
 0.0.0.0 exqaxblsmev.com
 0.0.0.0 exsuqfxv.bid
 0.0.0.0 extra-7news.ru
+0.0.0.0 extrabase.ru
 0.0.0.0 exucfbmppagqta.bid
 0.0.0.0 exvgzhwssyivz.bid
 0.0.0.0 exvmxqexedomi.com
@@ -48850,6 +48875,7 @@
 0.0.0.0 ezknqsblzmsl.com
 0.0.0.0 ezuosstmbcle.com
 0.0.0.0 facsowlaufzk.com
+0.0.0.0 factor-vesa.net
 0.0.0.0 faftjhuu.com
 0.0.0.0 fahowtxv.bid
 0.0.0.0 fajonlkb.com
@@ -48884,6 +48910,7 @@
 0.0.0.0 fduyzzjazngphw.bid
 0.0.0.0 fdvmskmentjob.com
 0.0.0.0 feacamnliz.bid
+0.0.0.0 fed2.ru
 0.0.0.0 fefzohgedqp.com
 0.0.0.0 fembsflungod.com
 0.0.0.0 feqlklwaafgc.com
@@ -48919,7 +48946,9 @@
 0.0.0.0 fiarnvygamgpqf.com
 0.0.0.0 fieejwanbrv.com
 0.0.0.0 fiieresmi.ru
+0.0.0.0 fiilueportal.dvvarf.pp.ua
 0.0.0.0 fikyzmbuhql.bid
+0.0.0.0 file.freeddns.org
 0.0.0.0 filebase.me
 0.0.0.0 filenlgic.bid
 0.0.0.0 films.ws
@@ -49013,6 +49042,7 @@
 0.0.0.0 freelite-browser.ru
 0.0.0.0 freelitebrowser.com
 0.0.0.0 freelitebrowser.ru
+0.0.0.0 freesoft2scc.pp.ua
 0.0.0.0 frezshmura.bid
 0.0.0.0 frkohfqkpwvvq.com
 0.0.0.0 frlzxwxictmg.com
@@ -49200,6 +49230,7 @@
 0.0.0.0 gkwdspzl.bid
 0.0.0.0 gkyblmfggpyq.bid
 0.0.0.0 glance-news.com
+0.0.0.0 glav4.ru
 0.0.0.0 glbgkmvl.com
 0.0.0.0 glcgytymbp.bid
 0.0.0.0 glcpzwihisagw.bid
@@ -49209,6 +49240,7 @@
 0.0.0.0 glhxoawgunlame.bid
 0.0.0.0 gllkdkxygckb.com
 0.0.0.0 globalstylis.ru
+0.0.0.0 globaltraffico.com
 0.0.0.0 glslciwwvtxn.com
 0.0.0.0 glykvwol.bid
 0.0.0.0 gmecesfngrngu.bid
@@ -49233,6 +49265,7 @@
 0.0.0.0 goods-story.ru
 0.0.0.0 goowurzdotcom.bid
 0.0.0.0 gopamdzgpdrwe.bid
+0.0.0.0 gorspravki.ru
 0.0.0.0 gouytrujxuhkzk.bid
 0.0.0.0 govnogames.com
 0.0.0.0 gozfsvoqn.com
@@ -49291,6 +49324,8 @@
 0.0.0.0 gtzyfaro.bid
 0.0.0.0 gubdadtxwqow.com
 0.0.0.0 gubisowidb.com
+0.0.0.0 guestapp.ru
+0.0.0.0 guf2.ru
 0.0.0.0 gufjfwopsez.bid
 0.0.0.0 guhtjoqtobac.com
 0.0.0.0 guide.allblet.net
@@ -49417,7 +49452,9 @@
 0.0.0.0 hihyunxtiuqhhm.bid
 0.0.0.0 hijvwwbnbhb.bid
 0.0.0.0 hilkfxdqxzac.com
+0.0.0.0 hilltopads.net
 0.0.0.0 hirdchyngnn.bid
+0.0.0.0 hivxffti.oagroup.info
 0.0.0.0 hixuxtufzqcq.com
 0.0.0.0 hiypucxjvfka.com
 0.0.0.0 hjeoncuvklqh.com
@@ -50028,6 +50065,7 @@
 0.0.0.0 kadjwdpzxdxd.com
 0.0.0.0 kahbkhlb.bid
 0.0.0.0 kaqtvgcy.bid
+0.0.0.0 kareliyarsp.ru
 0.0.0.0 karownxatpbd.com
 0.0.0.0 kayophjgzqdq.com
 0.0.0.0 kbgphmpg.bid
@@ -50257,6 +50295,7 @@
 0.0.0.0 kyieflmhiekvrr.bid
 0.0.0.0 kylbshaqo.bid
 0.0.0.0 kyqacdtrmwwy.com
+0.0.0.0 kyrenie.magbraslet.top
 0.0.0.0 kyveduvdkbro.com
 0.0.0.0 kywqvoqood.bid
 0.0.0.0 kyxikfdzqwjtvw.bid
@@ -50273,6 +50312,7 @@
 0.0.0.0 kzzqkhxjeytu.com
 0.0.0.0 lacrxqvydzlan.bid
 0.0.0.0 lafvopkskbeuj.bid
+0.0.0.0 lapala.cl
 0.0.0.0 lapbekessbozpx.bid
 0.0.0.0 laqiccblmxfewa.bid
 0.0.0.0 lavmeebdxwc.com
@@ -50303,6 +50343,7 @@
 0.0.0.0 lestujzrpeom.bid
 0.0.0.0 leuojmgbkpcl.com
 0.0.0.0 levjirsqbtjhif.bid
+0.0.0.0 lexclub.ru
 0.0.0.0 lexcyehlniruu.bid
 0.0.0.0 lexwdqnzmkdr.com
 0.0.0.0 lfclktkwnc.com
@@ -50371,6 +50412,7 @@
 0.0.0.0 live-novostimira.ru
 0.0.0.0 live-rutor.ga
 0.0.0.0 live-smi.ru
+0.0.0.0 liveadexchanger.com
 0.0.0.0 livebloggerz.ru
 0.0.0.0 livebloggs.com
 0.0.0.0 liveblogjournal.biz
@@ -50428,6 +50470,8 @@
 0.0.0.0 lnnwwxpeodmw.com
 0.0.0.0 lnsthqzdsvzboo.bid
 0.0.0.0 loadbookvo.ru
+0.0.0.0 loading-delivery1.com
+0.0.0.0 loading-delivery2.com
 0.0.0.0 loakfiiggz.bid
 0.0.0.0 locjzfoh.com
 0.0.0.0 lofipgeld.bid
@@ -50616,6 +50660,7 @@
 0.0.0.0 medlifestory.ru
 0.0.0.0 mednews-online.ru
 0.0.0.0 meeaowsxneps.com
+0.0.0.0 megapopads.com
 0.0.0.0 megpacokjce.bid
 0.0.0.0 mehcpazsnzh.com
 0.0.0.0 mekmrcgtmuvv.bid
@@ -50667,6 +50712,7 @@
 0.0.0.0 minportal.ru
 0.0.0.0 minroszdrav.com
 0.0.0.0 miovsibmkpy.com
+0.0.0.0 misterjoy.ru
 0.0.0.0 mixfyfriqtatz.bid
 0.0.0.0 mjckfsgogzcd.com
 0.0.0.0 mjlkhnizufhmrt.bid
@@ -50716,6 +50762,7 @@
 0.0.0.0 mnetqnqpmog.bid
 0.0.0.0 mniyaeikxozlts.bid
 0.0.0.0 mnkwxsjxp.bid
+0.0.0.0 mnn0gofilueus.dvvarf.pp.ua
 0.0.0.0 mnnanyddolwf.com
 0.0.0.0 mnodkuklcw.bid
 0.0.0.0 mnqziregyq.bid
@@ -50731,6 +50778,7 @@
 0.0.0.0 mohcafpwpldi.com
 0.0.0.0 moi-oftalmolog.com
 0.0.0.0 molqvpnnlmnb.com
+0.0.0.0 mona-vi.ru
 0.0.0.0 money4leads.biz
 0.0.0.0 monlscalmows.bid
 0.0.0.0 moquxotvyuoo.com
@@ -50825,6 +50873,7 @@
 0.0.0.0 my-story.info
 0.0.0.0 my0blog.ru
 0.0.0.0 myawrthcsjc.com
+0.0.0.0 myblogoff.ru
 0.0.0.0 mybrowserlite.ru
 0.0.0.0 myfrvfxqeimp.com
 0.0.0.0 myhdpwmjabpc.bid
@@ -50844,6 +50893,8 @@
 0.0.0.0 mznijqwjkqadk.com
 0.0.0.0 mzqxeqrmgzxv.com
 0.0.0.0 mzrhjbbikqm.com
+0.0.0.0 n121adserv.com
+0.0.0.0 n156adserv.com
 0.0.0.0 nahvyfyfpffm.com
 0.0.0.0 nalivali.ru
 0.0.0.0 namjixxurjam.com
@@ -50912,6 +50963,7 @@
 0.0.0.0 newlitebrowser.ru
 0.0.0.0 newmed24.ru
 0.0.0.0 newnyqfgkkjht.com
+0.0.0.0 newpoptab.com
 0.0.0.0 news-are.com
 0.0.0.0 news-bc.ru
 0.0.0.0 news-decent.com
@@ -50967,6 +51019,7 @@
 0.0.0.0 nkkxgqdgnpunnr.bid
 0.0.0.0 nklivofyjkbt.com
 0.0.0.0 nklofbjtpfpp.bid
+0.0.0.0 nkokbr.ru
 0.0.0.0 nksfmnvmngxzr.bid
 0.0.0.0 nkxdyorwbt.com
 0.0.0.0 nlcfowfz.com
@@ -51010,6 +51063,7 @@
 0.0.0.0 notqlzafzch.bid
 0.0.0.0 nouusaniebhhfv.bid
 0.0.0.0 nouvurtqlz.bid
+0.0.0.0 november-lax.com
 0.0.0.0 npaclqyoqrwh.bid
 0.0.0.0 npauffnlpgzw.com
 0.0.0.0 npgdqwtrprfq.com
@@ -51320,6 +51374,7 @@
 0.0.0.0 ozyjicurrutehe.bid
 0.0.0.0 ozymwqsycimr.com
 0.0.0.0 p.lumieyes.com
+0.0.0.0 padsdel.com
 0.0.0.0 pafovocg.bid
 0.0.0.0 pajmxvlsuxyks.bid
 0.0.0.0 palzblimzpdk.com
@@ -51341,6 +51396,7 @@
 0.0.0.0 pckhpollpp.bid
 0.0.0.0 pcvdrjvku.bid
 0.0.0.0 pddvryclt.bid
+0.0.0.0 pdf-knigi.com
 0.0.0.0 pdgpekso.com
 0.0.0.0 pdippmqmrkvn.com
 0.0.0.0 pdrauqbvdgjut.bid
@@ -51349,6 +51405,7 @@
 0.0.0.0 pdwyzrmrnddley.com
 0.0.0.0 pdxvgkivkc.bid
 0.0.0.0 pdypjcgng.bid
+0.0.0.0 peceqi.meda-21.ru
 0.0.0.0 pedbkepupj.bid
 0.0.0.0 peewuranpdwo.com
 0.0.0.0 peggziuzk.bid
@@ -51373,10 +51430,13 @@
 0.0.0.0 pgymbgnabv.bid
 0.0.0.0 phfknysgvwhnr.bid
 0.0.0.0 phlslvetboouo.bid
+0.0.0.0 phoenixads.co.in
+0.0.0.0 phone8.ru
 0.0.0.0 phqqzdemby.bid
 0.0.0.0 phxwwaznm.club
 0.0.0.0 pibizrfgsrkji.bid
 0.0.0.0 pifaojvaiofw.com
+0.0.0.0 pilabu.ru
 0.0.0.0 piljbvnykkt.bid
 0.0.0.0 pixjqfvlsqvu.com
 0.0.0.0 piyzmkcxa.bid
@@ -51445,6 +51505,9 @@
 0.0.0.0 pop-blogs.com
 0.0.0.0 pop-blogz.com
 0.0.0.0 popadscdn.net
+0.0.0.0 popcash.net
+0.0.0.0 popmyads.com
+0.0.0.0 popundertotal.com
 0.0.0.0 popzkvfimbox.com
 0.0.0.0 portal-info.org
 0.0.0.0 portal-peoples.com
@@ -51470,6 +51533,7 @@
 0.0.0.0 praeicwgzapf.com
 0.0.0.0 prcfiopms.bid
 0.0.0.0 prdrmcwuawjwjl.bid
+0.0.0.0 predictivadvertising.com
 0.0.0.0 prenvifxzjuo.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 pricessmall.com
@@ -51481,6 +51545,7 @@
 0.0.0.0 pro-zdorovye.ru
 0.0.0.0 propolis-shungit.biz
 0.0.0.0 prpkhpjxghhn.com
+0.0.0.0 prpops.com
 0.0.0.0 prunwxph.bid
 0.0.0.0 prwidgets.com
 0.0.0.0 psbadfsth.bid
@@ -51799,6 +51864,7 @@
 0.0.0.0 rdlynbosndvx.com
 0.0.0.0 rdmccvanlx.bid
 0.0.0.0 rdqyasdstllr.com
+0.0.0.0 rdsa2012.com
 0.0.0.0 rdvrxbxwxspxd.com
 0.0.0.0 rdwfotuyp.bid
 0.0.0.0 reachandrich.antevenio.com
@@ -51814,6 +51880,7 @@
 0.0.0.0 reallblog.net
 0.0.0.0 realmengames.com
 0.0.0.0 reals-story.ru
+0.0.0.0 redirectvoluum.com
 0.0.0.0 regbigltd.bid
 0.0.0.0 rejbqhagczm.com
 0.0.0.0 repefwairfkx.com
@@ -52003,6 +52070,7 @@
 0.0.0.0 rxczemggfsxx.com
 0.0.0.0 rxeospfus.bid
 0.0.0.0 rxisfwvggzot.com
+0.0.0.0 rxjqqt.joyreactor.cc
 0.0.0.0 rxjyjfkzzbl.bid
 0.0.0.0 rxjzpvsziytui.bid
 0.0.0.0 rxknixwwt.bid
@@ -52010,6 +52078,7 @@
 0.0.0.0 rxsazdeoypma.com
 0.0.0.0 rxuqpktyqixa.com
 0.0.0.0 rxyeukffow.bid
+0.0.0.0 rybalka-profi.ru
 0.0.0.0 ryhrabmmprehm.com
 0.0.0.0 ryjlaaimxrq.com
 0.0.0.0 rylkihtmnvsh.com
@@ -52070,6 +52139,7 @@
 0.0.0.0 seaxhrqc.bid
 0.0.0.0 seiqobwpbofg.com
 0.0.0.0 sekllcjbujp.bid
+0.0.0.0 sellings.ru
 0.0.0.0 semvdooatmd.bid
 0.0.0.0 senfvsdvtsn.com
 0.0.0.0 seotpqntjukhg.bid
@@ -52132,6 +52202,7 @@
 0.0.0.0 slurolen.com
 0.0.0.0 smart.upromise.com
 0.0.0.0 smart2.allocine.fr
+0.0.0.0 smartinf.ru
 0.0.0.0 smhyvyvnpzigir.com
 0.0.0.0 smi-inform.ru
 0.0.0.0 smi.today
@@ -52157,6 +52228,7 @@
 0.0.0.0 sockjgaabayf.com
 0.0.0.0 socssite.ru
 0.0.0.0 socxihke.bid
+0.0.0.0 softing.draizer.ru
 0.0.0.0 sohdqpqlgis.com
 0.0.0.0 soibuuqqhuyo.com
 0.0.0.0 soiegibhwvti.com
@@ -52169,7 +52241,9 @@
 0.0.0.0 sovcbhem.bid
 0.0.0.0 sovqylkbucid.com
 0.0.0.0 sp1.jssearch.net
+0.0.0.0 spaceshipads.com
 0.0.0.0 spbflxvnheih.com
+0.0.0.0 spenlobubestgas.files.wordpress.com
 0.0.0.0 spfrlpjmvkmq.com
 0.0.0.0 sphjqakwuteg.com
 0.0.0.0 spomwstrgood.com
@@ -52222,6 +52296,7 @@
 0.0.0.0 sweetbloggs.com
 0.0.0.0 swfqsfewk.bid
 0.0.0.0 swgvpkwmojcv.com
+0.0.0.0 swhpgjkl.kyty.net
 0.0.0.0 swkhaeiymk.bid
 0.0.0.0 swrvnnelfyay.bid
 0.0.0.0 swtwtbiwbjvq.com
@@ -52297,6 +52372,7 @@
 0.0.0.0 tdxuojiufz.bid
 0.0.0.0 tefwraudu.bid
 0.0.0.0 teqceeivmpvv.com
+0.0.0.0 terraclicks.com
 0.0.0.0 test2.wow-impulse.net
 0.0.0.0 tevrzjuymzxpk.bid
 0.0.0.0 tewoutrepozv.bid
@@ -52452,17 +52528,22 @@
 0.0.0.0 tqwfafmh.bid
 0.0.0.0 tqwuasyvwebt.bid
 0.0.0.0 tqzvjmgftvtj.bid
+0.0.0.0 trackingclick.net
 0.0.0.0 traffic.adxprts.com
+0.0.0.0 traffichaus.com
+0.0.0.0 trafficstars.com
 0.0.0.0 trafmax.ru
 0.0.0.0 tranzitpagetop.ru
 0.0.0.0 tranzitsmi.ru
 0.0.0.0 trcbxjusetvc.com
 0.0.0.0 trdhjlszfbwk.com
+0.0.0.0 trklnks.com
 0.0.0.0 trqbzsxnzxmf.com
 0.0.0.0 trtkp.ru
 0.0.0.0 trueblg.ru
 0.0.0.0 trutor.org.pl
 0.0.0.0 trvposbevwxvo.bid
+0.0.0.0 trw12.com
 0.0.0.0 trwbkkxk.com
 0.0.0.0 tsjnzilsuzoxm.bid
 0.0.0.0 tskctmvpwjdb.com
@@ -52847,6 +52928,7 @@
 0.0.0.0 vhwuphctrfil.com
 0.0.0.0 vhzzzbdtxhh.bid
 0.0.0.0 vicofhozbuaf.com
+0.0.0.0 vid.x-casino.net
 0.0.0.0 vigrjuksi.bid
 0.0.0.0 vimenhhpqnb.com
 0.0.0.0 vimhuspifwyy.com
@@ -52868,6 +52950,7 @@
 0.0.0.0 vjzqadxswfb.bid
 0.0.0.0 vjzqmbcx.com
 0.0.0.0 vjzttumdetao.com
+0.0.0.0 vk-com-auth5.com
 0.0.0.0 vkdbvgcawubn.com
 0.0.0.0 vkqfzlpowalv.com
 0.0.0.0 vkywqkbmdkmmg.com
@@ -52905,6 +52988,7 @@
 0.0.0.0 voksuksb.bid
 0.0.0.0 vokvlthjzt.bid
 0.0.0.0 volleqgoafcb.com
+0.0.0.0 voluumtrk.com
 0.0.0.0 volyncftzhw.bid
 0.0.0.0 vomhhsovuu.bid
 0.0.0.0 vorgazme.date
@@ -52937,6 +53021,7 @@
 0.0.0.0 vsgherxdcfon.com
 0.0.0.0 vsgumkkc.bid
 0.0.0.0 vshsjxfjehju.com
+0.0.0.0 vstrade.ru
 0.0.0.0 vswaapygj.bid
 0.0.0.0 vtcquvxsaosz.com
 0.0.0.0 vtdvhmbouayj.club
@@ -52946,6 +53031,7 @@
 0.0.0.0 vtncgdjuzpe.bid
 0.0.0.0 vtqdavdjsymt.com
 0.0.0.0 vtqmlzprsunm.com
+0.0.0.0 vtradein.ru
 0.0.0.0 vtukwrrfjxybsh.bid
 0.0.0.0 vtvjkyqstvec.com
 0.0.0.0 vtvvokys.bid
@@ -53037,11 +53123,14 @@
 0.0.0.0 wdvmxgwwyzoq.bid
 0.0.0.0 wdxhjmot.bid
 0.0.0.0 web.n2s.co.kr
+0.0.0.0 webalta.ru
+0.0.0.0 webindicator.ru
 0.0.0.0 webwagssicx.bid
 0.0.0.0 weckosoew.bid
 0.0.0.0 weekwkbulvsy.com
 0.0.0.0 wegbgideb.com
 0.0.0.0 wehtkuhlwsxy.com
+0.0.0.0 well-men.ru
 0.0.0.0 welzgxwtvto.bid
 0.0.0.0 wembbuue.com
 0.0.0.0 wenqyczxgpoyu.bid
@@ -53083,6 +53172,7 @@
 0.0.0.0 wjdjovjrxsqx.com
 0.0.0.0 wjkwjcmeymu.com
 0.0.0.0 wjnkvhlgvixx.com
+0.0.0.0 wkctj.baidu.com
 0.0.0.0 wkfcadtuljnesp.bid
 0.0.0.0 wkgaqvvwvqjg.com
 0.0.0.0 wkggjmkrkvot.com
@@ -53254,6 +53344,7 @@
 0.0.0.0 wzlgmbmwq.bid
 0.0.0.0 wzyagambcfn.bid
 0.0.0.0 x-yzabc.ru
+0.0.0.0 x002xx.ru
 0.0.0.0 xaftihkjg.com
 0.0.0.0 xahwjirrejjh.bid
 0.0.0.0 xakkasmwpdwzvv.bid
@@ -53304,6 +53395,7 @@
 0.0.0.0 xhmakwcpmg.bid
 0.0.0.0 xhvhisywkvha.com
 0.0.0.0 xhwqginopocs.com
+0.0.0.0 xiby.ru
 0.0.0.0 xicnoklyvgldzh.bid
 0.0.0.0 xicuxxferbnn.com
 0.0.0.0 xiebddgbseoxa.com
@@ -53333,6 +53425,7 @@
 0.0.0.0 xkwnadxakuqc.com
 0.0.0.0 xkygmtrrjalx.com
 0.0.0.0 xkziczlmpsfw.bid
+0.0.0.0 xl415.com
 0.0.0.0 xlauvkqs.bid
 0.0.0.0 xlavzhffzwgb.com
 0.0.0.0 xlbosrttvas.bid
@@ -53458,6 +53551,7 @@
 0.0.0.0 yaifxxudxyns.com
 0.0.0.0 yaizwjvnxctz.com
 0.0.0.0 yalyuzvlr.bid
+0.0.0.0 yamdex.net
 0.0.0.0 yamrxfbkpirt.com
 0.0.0.0 yaoslgiweccw.com
 0.0.0.0 yaqysxlohdyg.com
@@ -53709,6 +53803,9 @@
 0.0.0.0 zeantqrix.bid
 0.0.0.0 zehwjplnopevjt.bid
 0.0.0.0 zenpmagn.bid
+0.0.0.0 zeroredirect1.com
+0.0.0.0 zeroredirect10.com
+0.0.0.0 zeroredirect2.com
 0.0.0.0 zeuwuxfzvaoqp.bid
 0.0.0.0 zeyiihbqbswtn.bid
 0.0.0.0 zezowfisdfyn.com
@@ -53743,6 +53840,7 @@
 0.0.0.0 ziglpcxcxetsi.com
 0.0.0.0 zijkalirgmyzj.bid
 0.0.0.0 zijnobynjmcs.com
+0.0.0.0 zinturax.com
 0.0.0.0 zirhuqksdqeyg.com
 0.0.0.0 zitbvxrbai.bid
 0.0.0.0 ziumnfnltbu.bid
@@ -53771,6 +53869,7 @@
 0.0.0.0 zmnpobvglair.bid
 0.0.0.0 zmnqoymznwng.com
 0.0.0.0 zmxcefuntbgf.com
+0.0.0.0 znaniytutpiahocost.weebly.com
 0.0.0.0 znfnwozd.com
 0.0.0.0 zngnfdmxsfnf.bid
 0.0.0.0 znmrgzozlohe.com
