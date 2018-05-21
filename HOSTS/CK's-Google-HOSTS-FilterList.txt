@@ -1,20 +1,35 @@
 # Title: CHEF-KOCH's Google HOSTS Filter List
 # Description: Block all Google connections and services.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
-# Checksum (SHA3-256): 79B3396468A6980C2118C3A44E7DF71EA311454A3C1C9AE2F81D86BCBA28D915
+# Checksum (SHA3-256): 888E8716F71D10806363B1C60FFB7237C769A8D093B335EE9E92AB4732041680
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 # Expires: 14d
-# TimeUpdated: 2018-05-15	04:54:40+01:00
-# Version: 0.0.0.2
+# TimeUpdated: 2018-05-21	11:08:29+01:00
+# Version: 0.0.0.3
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #
-#
 # ---------- Google ----------
 #
+0.0.0.0 00e9e64bac486a04fa9636f7612b6db779f232eb77b294d1d3-apidata.googleusercontent.com
+0.0.0.0 00e9e64bac62ac0e0f79bebd1f20a06c2093344beff885112b-apidata.googleusercontent.com
+0.0.0.0 00e9e64bac8b95421d462db9cd87a85120eb48ced4ca75694a-apidata.googleusercontent.com
+0.0.0.0 00e9e64bacd9a7f5d3dcf8f32b1155495a3687db80f09d2b70-apidata.googleusercontent.com
+0.0.0.0 00e9e64bacf46d685710df913c78112483d990b2e3cab92c57-apidata.googleusercontent.com
+0.0.0.0 1e100.net
+0.0.0.0 21150.com
+0.0.0.0 2542116.fls.doubleclick.net
+0.0.0.0 3576.net
+0.0.0.0 38389438.com
+0.0.0.0 466453.com
+0.0.0.0 7sou.com
+0.0.0.0 95539.com
+0.0.0.0 BCMLS2.glpals.com
+0.0.0.0 abc.xyz
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.doubleclick.net-60563.9436.302br.net
 0.0.0.0 ad.doubleclick.net.1.6100.302br.net
 0.0.0.0 ad.doubleclick.net.10100.9025.302br.net
@@ -11551,60 +11566,14 @@
 0.0.0.0 ad.doubleclick.net.947.9005.302br.net
 0.0.0.0 ad.doubleclick.net.950.9005.302br.net
 0.0.0.0 ad.doubleclick.net.954.9005.302br.net
-0.0.0.0 android.clients.google.com
-0.0.0.0 beacons5.gvt2.com
-0.0.0.0 chromestatus.com
-0.0.0.0 cloudconfig.googleapis.com
-0.0.0.0 connectivitycheck.gstatic.com
-0.0.0.0 dl.google.com
-0.0.0.0 mobile-gtalk.l.google.com
-0.0.0.0 pki.google.com
-0.0.0.0 talk.google.com
-0.0.0.0 tools.google.com
-0.0.0.0 www.google.com
-0.0.0.0 translate.googleapis.com
-0.0.0.0 productforums.google.com
-0.0.0.0 id.google.com
-0.0.0.0 consent.google.com
-0.0.0.0 bugs.chromium.org
-0.0.0.0 00e9e64bacf46d685710df913c78112483d990b2e3cab92c57-apidata.googleusercontent.com
-0.0.0.0 00e9e64bacf46d685710df913c78112483d990b2e3cab92c57-apidata.googleusercontent.com
-0.0.0.0 00e9e64bacd9a7f5d3dcf8f32b1155495a3687db80f09d2b70-apidata.googleusercontent.com
-0.0.0.0 00e9e64bac62ac0e0f79bebd1f20a06c2093344beff885112b-apidata.googleusercontent.com
-0.0.0.0 00e9e64bac8b95421d462db9cd87a85120eb48ced4ca75694a-apidata.googleusercontent.com
-0.0.0.0 00e9e64bac486a04fa9636f7612b6db779f232eb77b294d1d3-apidata.googleusercontent.com
-0.0.0.0 plus.google.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 p4-fbm4tfy4du3vk-rsg77dtzm53vwr6k-854535-i1-v6exp3.v4.metric.gstatic.com
-0.0.0.0 p4-fbm4tfy4du3vk-rsg77dtzm53vwr6k-854535-i2-v6exp3.ds.metric.gstatic.com
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 p4-fbm4tfy4du3vk-rsg77dtzm53vwr6k-if-v6exp3-v4.metric.gstatic.com
-0.0.0.0 imasdk.googleapis.com
-0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 s1.2mdn.net
 0.0.0.0 ade.googlesyndication.com
-0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 admob.com
+0.0.0.0 adsense.com
+0.0.0.0 adwords.com
 0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 s0.2mdn.net
-0.0.0.0 goto.google.com
-0.0.0.0 21150.com
-0.0.0.0 2542116.fls.doubleclick.net
-0.0.0.0 3576.net
-0.0.0.0 38389438.com
-0.0.0.0 466453.com
-0.0.0.0 466453.com
-0.0.0.0 7sou.com
-0.0.0.0 95539.com
-0.0.0.0 BCMLS2.glpals.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 admob.com
-0.0.0.0 admob.com
-0.0.0.0 adsense.com
-0.0.0.0 adsense.com
-0.0.0.0 adwords.com
-0.0.0.0 adwords.com
 0.0.0.0 ajax.googleapis.com
 0.0.0.0 ajax.proxy.ustclug.org
+0.0.0.0 android.clients.google.com
 0.0.0.0 android.com
 0.0.0.0 apis.google.com
 0.0.0.0 appspot.com
@@ -11619,6 +11588,8 @@
 0.0.0.0 beacons.gvt7.com
 0.0.0.0 beacons.gvt8.com
 0.0.0.0 beacons.gvt9.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 blogger.com
 0.0.0.0 blogspot.ae
 0.0.0.0 blogspot.al
@@ -11638,6 +11609,7 @@
 0.0.0.0 blogspot.co.nz
 0.0.0.0 blogspot.co.uk
 0.0.0.0 blogspot.co.za
+0.0.0.0 blogspot.com
 0.0.0.0 blogspot.com.ar
 0.0.0.0 blogspot.com.au
 0.0.0.0 blogspot.com.br
@@ -11651,8 +11623,6 @@
 0.0.0.0 blogspot.com.ng
 0.0.0.0 blogspot.com.tr
 0.0.0.0 blogspot.com.uy
-0.0.0.0 blogspot.com
-0.0.0.0 blogspot.com
 0.0.0.0 blogspot.cv
 0.0.0.0 blogspot.cz
 0.0.0.0 blogspot.de
@@ -11695,10 +11665,12 @@
 0.0.0.0 blogspot.tw
 0.0.0.0 blogspot.ug
 0.0.0.0 blogspot.vn
+0.0.0.0 bugs.chromium.org
 0.0.0.0 cello.client-channel.google.com
 0.0.0.0 chrome.com
 0.0.0.0 chrome.google.com
 0.0.0.0 chromebook.com
+0.0.0.0 chromestatus.com
 0.0.0.0 chromium.org
 0.0.0.0 clients1.google.com
 0.0.0.0 clients10.google.com
@@ -11710,22 +11682,25 @@
 0.0.0.0 clients7.google.com
 0.0.0.0 clients8.google.com
 0.0.0.0 clients9.google.com
+0.0.0.0 cloudconfig.googleapis.com
 0.0.0.0 cm.g.doubleclick
 0.0.0.0 cobrasearch.com
 0.0.0.0 codespot.com
 0.0.0.0 com.google
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 consent.google.com
 0.0.0.0 content.googleapis.com
 0.0.0.0 csi.gstatic.com
+0.0.0.0 dl.google.com
 0.0.0.0 docs.google.com
 0.0.0.0 domains.google
 0.0.0.0 doubleclick.com
-0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
+0.0.0.0 duck.com
 0.0.0.0 feedburner.com
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 foofle.com
 0.0.0.0 froogle.com
-0.0.0.0 g.cn
 0.0.0.0 g.cn
 0.0.0.0 g.co
 0.0.0.0 ggoogle.com
@@ -11792,6 +11767,7 @@
 0.0.0.0 google.co.za
 0.0.0.0 google.co.zm
 0.0.0.0 google.co.zw
+0.0.0.0 google.com
 0.0.0.0 google.com.af
 0.0.0.0 google.com.ag
 0.0.0.0 google.com.ai
@@ -11851,9 +11827,6 @@
 0.0.0.0 google.com.uy
 0.0.0.0 google.com.vc
 0.0.0.0 google.com.vn
-0.0.0.0 google.com
-0.0.0.0 google.com
-0.0.0.0 google.com
 0.0.0.0 google.cv
 0.0.0.0 google.cz
 0.0.0.0 google.de
@@ -11944,16 +11917,12 @@
 0.0.0.0 google.ws
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
-0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytics.com
-0.0.0.0 googleanalytics.com
-0.0.0.0 googleapis.com
-0.0.0.0 googleapis.com
 0.0.0.0 googleapis.com
 0.0.0.0 googleapps.com
 0.0.0.0 googlearth.com
 0.0.0.0 googlebot.com
-0.0.0.0 googlecode.com
+0.0.0.0 googlecapital.com	
 0.0.0.0 googlecode.com
 0.0.0.0 googlecommerce.com
 0.0.0.0 googledrive.com
@@ -11973,10 +11942,14 @@
 0.0.0.0 googlr.com
 0.0.0.0 goolge.com
 0.0.0.0 gooogle.com
+0.0.0.0 goto.google.com
 0.0.0.0 gstatic.com
+0.0.0.0 gv.com
 0.0.0.0 gvt1.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 id.google.com
 0.0.0.0 igoogle.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 keyhole.com
 0.0.0.0 lh1.googleusercontent.com
@@ -11986,15 +11959,22 @@
 0.0.0.0 like.com
 0.0.0.0 madewithcode.com
 0.0.0.0 mail.google.com
+0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 mobilenetworkscoring-pa.googleapis.com
 0.0.0.0 myaccount.google.com
 0.0.0.0 oauth.googleusercontent.com
+0.0.0.0 p4-fbm4tfy4du3vk-rsg77dtzm53vwr6k-854535-i1-v6exp3.v4.metric.gstatic.com
+0.0.0.0 p4-fbm4tfy4du3vk-rsg77dtzm53vwr6k-854535-i2-v6exp3.ds.metric.gstatic.com
+0.0.0.0 p4-fbm4tfy4du3vk-rsg77dtzm53vwr6k-if-v6exp3-v4.metric.gstatic.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagespeedmobilizer.com
 0.0.0.0 panoramio.com
 0.0.0.0 phonedeviceverification-pa-prod.samdbox.googleapis.com
 0.0.0.0 picasa.com
+0.0.0.0 pki.google.com
 0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 plus.google.com
+0.0.0.0 productforums.google.com
 0.0.0.0 pubads.g.doubleclick
 0.0.0.0 r1---sn-3u-bh2l.gvt1.com
 0.0.0.0 r1---sn-aigzrn7k.gvt1.com
@@ -12022,21 +12002,29 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 s.ytimg.com
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s1.2mdn.net
 0.0.0.0 safebrowsing-googleapis.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 sketchup.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl.gstatic.com
 0.0.0.0 static-dot-virustotalcloud.appspot.com
 0.0.0.0 static.doubleclick.com
 0.0.0.0 storage.googleapis.com
+0.0.0.0 talk.google.com
+0.0.0.0 tools.google.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 translate.googleapis.com
 0.0.0.0 update.googleapis.com
 0.0.0.0 urchin.com
+0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 waze.com
 0.0.0.0 whatbrowser.org
-0.0.0.0 withgoogle.com
+0.0.0.0 whatbrowser.org	
 0.0.0.0 withgoogle.com
 0.0.0.0 withyoutube.com
+0.0.0.0 www.google.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 youtu.be
 0.0.0.0 youtube-nocookie.com
@@ -12047,5 +12035,4 @@
 0.0.0.0 yt1.ggpht.com
 0.0.0.0 yt2.ggpht.com
 0.0.0.0 yt3.ggpht.com
-0.0.0.0 ytimg.com
 0.0.0.0 ytimg.com
