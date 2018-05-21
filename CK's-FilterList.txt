@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): E204FE9CBEA994FAD68D7230892B0DDEC3BAE3DAF8F8E06F58F0A4553A69B6F4
+! Checksum (SHA3-256): 0BAB370720901DF506DAC9E45CF6716F80B680B3411F7A676D8D172C3D42CEFD
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 5d
-! TimeUpdated: 2018-05-21	10:42:32+01:00
-! Version: 0.0.2.4
+! TimeUpdated: 2018-05-21	12:57:18+01:00
+! Version: 0.0.2.5
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -42733,6 +42733,28 @@ youtube.com^*/log_interaction?
 @@||www.gvt1.com^$script
 @@||www.redirector.gvt1.com^$script
 !
+! ---------- heise.de ----------
+!
+@@||advertiser.wbtrk.net/js/advertiser.js$domain=heise.de´
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=heise.de|radio.de
+heise.de##.ama
+heise.de##.bcadv
+heise.de##.buytable
+heise.de##.gh_teaser
+heise.de##.jobtv24
+heise.de##.meldung_preisvergleich
+heise.de##.online-markt
+heise.de##.teaser_ebook
+heise.de##.teaser_geizhals
+heise.de##.teaser_preisvergleich
+heise.de##.themenseite_preisvergleich.meldung__box--right
+heise.de##.us_ad
+heise.de##a[href^="http://www.kqzyfj.com/click-"]
+heise.de##heisetext > .img[width="100%"]
+heise.de##td[align="left"][valign="top"][rowspan="5"]
+heise.de#@#.adbottom
+
+!
 ! ---------- iframe ----------
 !
 ##iframe[data-src^="http://nw.realssp.co.kr/"]
@@ -43420,7 +43442,6 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ##.widget-ads
 ##.wp_bannerize
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
-##h1
 ##h2 > div
 ##td#freenet_table_ads
 &ad_size=
