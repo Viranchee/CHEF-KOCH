@@ -1,18 +1,21 @@
 # Title: CHEF-KOCH's Ad & Tracker Filter List
 # Description: Filters Ad & Trackers only.
-# Checksum (SHA3-256): DCD3A261340B03E83F0DD1855C2BA3F9B5F9B26328BE180B7B0FE5152919C607
+# Checksum (SHA3-256): 12F5924454949A4F60535B908043F241D32E2807ADD0FDD73AFC8CEF2BDF3DD5
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 # Expires: 14d
-# TimeUpdated: 2018-05-16	16:24:31+01:00
-# Version: 0.0.0.3
+# TimeUpdated: 2018-05-21	13:24:47+01:00
+# Version: 0.0.0.4
 # Please report any unblocked content or problems by email or via GitHub issue page.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #
 # ---------- Ad & Tracker ----------
 #
+0.0.0.0  adserver.hardtecs.org
+0.0.0.0  hardtecs.org
+0.0.0.0  traviously.pro
 0.0.0.0  -rotation.de
 0.0.0.0  -traffic.com
 0.0.0.0  004b17a0c349157de.com
@@ -47510,3 +47513,103 @@
 0.0.0.0  zz.zeroredirect1.com
 0.0.0.0  zzptzdhugavot.review
 0.0.0.0  zzz.clickbank.net
+0.0.0.0  coinmarketcap.com
+0.0.0.0  api.coinmarketcap.com
+0.0.0.0  wilku.de
+0.0.0.0  www.wilku.de
+0.0.0.0  w.org
+0.0.0.0  s.w.org
+0.0.0.0  githubapp.com
+0.0.0.0  collector.githubapp.com
+0.0.0.0  238097-hb.adomik.com
+0.0.0.0 2-01-275d-0013.cdx.cedexis.net
+0.0.0.0 2-01-275d-0017.cdx.cedexis.net
+0.0.0.0 2-01-275d-0018.cdx.cedexis.net
+0.0.0.0 2-01-275d-001d.cdx.cedexis.net
+0.0.0.0 ad.tvazteca.com
+0.0.0.0 ads.20minutes.fr
+0.0.0.0 ads.abcdelbebe.com
+0.0.0.0 ads.alo.co
+0.0.0.0 ads.boursorama.com
+0.0.0.0 ads.citytv.com.co
+0.0.0.0 ads.diarioadn.co
+0.0.0.0 ads.eltiempo.co
+0.0.0.0 ads.eltiempo.com
+0.0.0.0 ads.futbolred.com
+0.0.0.0 ads.inventmx.com
+0.0.0.0 ads.portafolio.co
+0.0.0.0 ads.revistadonjuan.com
+0.0.0.0 ads.scrollerads.com
+0.0.0.0 ads.seccionamarilla.com.mx
+0.0.0.0 ads.simpleads.com.br
+0.0.0.0 ads.vive.in
+0.0.0.0 adserv2.jornaldaparaiba.com.br
+0.0.0.0 adserver.genesismediaus.com
+0.0.0.0 asa.allegro.pl
+0.0.0.0 brad.acsta.net
+0.0.0.0 csync-tmk.smartadserver.com
+0.0.0.0 diff.smartadserver.com
+0.0.0.0 geoced.smartadserver.com
+0.0.0.0 itx5-itx4-eqx.smartadserver.com
+0.0.0.0 network.enfemenino.com
+0.0.0.0 network.sofeminine.co.uk
+0.0.0.0 network.taofeminino.com.br
+0.0.0.0 network.wewomen.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 qc.smartadserver.com
+0.0.0.0 r-tmk.sascdn.com
+0.0.0.0 r.sascdn.com
+0.0.0.0 reachandrich.antevenio.com
+0.0.0.0 rtb-csync.smartadserver.com
+0.0.0.0 serve.blutonic-ads.com
+0.0.0.0 smart.upromise.com
+0.0.0.0 smart2.allocine.fr
+0.0.0.0 ssp-csync.smartadserver.com
+0.0.0.0 sync.smartadserver.com
+0.0.0.0 tmk-eltiempo.smartadserver.com
+0.0.0.0 tmk-eqx-geoloc.smartadserver.com
+0.0.0.0 tmk-eqx-hzh-geoloc.smartadserver.com
+0.0.0.0 tmk-secure.smartadserver.com
+0.0.0.0 tmk.2-01-275d-0003.cdx.cedexis.net
+0.0.0.0 tmk.smartadserver.com
+0.0.0.0 usharbors.smartadserver.com
+0.0.0.0 w1716.smartadserver.com
+0.0.0.0 ww1097.smartadserver.com
+0.0.0.0 ww1270.smartadserver.com
+0.0.0.0 ww1316-tmk.smartadserver.com
+0.0.0.0 ww1316.2-01-275d-0003.cdx.cedexis.net
+0.0.0.0 ww1316.smartadserver.com
+0.0.0.0 ww1325.smartadserver.com
+0.0.0.0 ww1575.smartadserver.com
+0.0.0.0 ww1649-tmk.smartadserver.com
+0.0.0.0 ww1649.2-01-275d-0003.cdx.cedexis.net
+0.0.0.0 ww1649.smartadserver.com
+0.0.0.0 ww1692.smartadserver.com
+0.0.0.0 ww1703.smartadserver.com
+0.0.0.0 ww1716.smartadserver.com
+0.0.0.0 ww1755.smartadserver.com
+0.0.0.0 ww1972.smartadserver.com
+0.0.0.0 ww2026.smartadserver.com
+0.0.0.0 ww2234.smartadserver.com
+0.0.0.0 ww2313.smartadserver.com
+0.0.0.0 ww2451.smartadserver.com
+0.0.0.0 ww2468.smartadserver.com
+0.0.0.0 ww2609.smartadserver.com
+0.0.0.0 ww264.smartadserver.com
+0.0.0.0 ww2675.smartadserver.com
+0.0.0.0 ww2743.smartadserver.com
+0.0.0.0 ww2837.smartadserver.com
+0.0.0.0 ww38.smartadserver.com
+0.0.0.0 ww484.2-01-275d-0003.cdx.cedexis.net
+0.0.0.0 ww484.smartadserver.com
+0.0.0.0 ww488.smartadserver.com
+0.0.0.0 ww489.smartadserver.com
+0.0.0.0 ww57.smartadserver.com
+0.0.0.0 ww619.smartadserver.com
+0.0.0.0 ww946.smartadserver.com
+0.0.0.0 www.blutonic-ads.com
+0.0.0.0 www15.smartadserver.com
+0.0.0.0 www3.smartadserver.com
+0.0.0.0 www5.smartadserver.com
+0.0.0.0 www8.smartadserver.com
+0.0.0.0 www9.smartadserver.com
