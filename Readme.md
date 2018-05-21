@@ -1,5 +1,7 @@
 # CHEF-KOCH's Filter List
 
+The project was created 2018 because I don't like the current known filters and I think there often outdated and _incomplete_ or inefficient, so I created my own list. My list is not restricted by any region. The overall goal is to block ads and reduce the traffic coming from the domains/websites you visit. The term 'ads' is not defined in this project because I also block cosmetically, banners and popup stuff which I think only causes useless traffic without any real-benefit.
+
 <p align="center">
   <img width="480" height="430" src="https://i.imgur.com/rlEFwae.png">
 </p>
@@ -11,7 +13,7 @@
 
 ## Information about filter usage
 
-**Site-specific or filter-based extensions such as AdBlock Plus, Request Policy, Ghostery, Priv3 and Sharemenot are in general to be avoided**. According to my own security expertise and history I can guarantee that these addons do not add any real privacy layer to the Browser by itself - a proper implementation of the privacy requirements and development efforts on the Browser directly should be preferred on general solutions that prevent tracking by all third parties, rather than a list of specific URLs or hosts.
+**Site-specific or filter-based extensions such as AdBlock Plus, Request Policy, Ghostery, Priv3 and Sharemenot are in general to be avoided**. According to my own security expertise and history I can guarantee that these extensions do not add any real privacy layer to the Browser by itself - a proper implementation of the privacy requirements and development efforts on the Browser directly should be preferred on general solutions that prevent tracking by all third parties, rather than a list of specific URLs or hosts.
 
 [I do not recommend using any filter lists](https://github.com/CHEF-KOCH/CKs-FilterList/wiki/Information-about-filter-usage), instead I highly recommend to work with whitelist only which are based on your own needs. However, a filter lists can help to reduce a possible attack surface based on the daily browsing habits.
 
@@ -38,9 +40,6 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![DNS66](https://github.com/julian-klode/dns66) - for **Android** only
 * ![uBock Origin](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) or [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) - for **Browsers** as extension only
 * ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) - for **All Platforms** 
-* ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) - for **Android** and **iOS** devices only
-* ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) - (partial supported, request to add the list send)
-* ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com) - (partial supported, request to add the list send)
 * ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net) - for **PI devices** 
 
@@ -53,18 +52,20 @@ The following blockers aren't fully supported, so they might work but they have 
 * ![AdBlock](https://i.imgur.com/3KbyifF.png) [AdBlock](https://getadblock.com) - for **All Platforms** 
 * ![AdBlock Plus](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/) - for **Browsers** as extension only
 * <img src="https://1blocker.com/img/icon.png" width=16> [1Blocker](https://1blocker.com) for **iOS or MacOS** devices only
-
+* ![AdBlock Browser](https://i.imgur.com/6pkmjA0.png) [Adblock Browser](https://adblockbrowser.org/) - for **Android** and **iOS** devices only
+* ![Brave Browser](https://user-images.githubusercontent.com/831718/32730079-e80c013c-c853-11e7-83b4-7443bc489581.png) [Brave Browser](https://www.brave.com) - (partial supported, request to add the list send)
+* ![Opera Browser](https://i.imgur.com/bP0t9xc.png) [Opera Browser](https://www.opera.com) - (partial supported, request to add the list send)
 
 
 ## Subscribe to CHEF-KOCH's FilterList
 
-[Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List)
+[Subscribe to CHEF-KOCH's FilterList](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/CK's-FilterList.txt&title=CHEF-KOCH's-Filter-List) - Click on the link in order to sub the filter list via your Browser.
 
 
 
 ## Documentation
 
-* For a more detailed project description and documentation please see the [Wiki pages](https://github.com/CHEF-KOCH/CKs-FilterList/wiki).
+For a more detailed project description and documentation please see the [Wiki pages](https://github.com/CHEF-KOCH/CKs-FilterList/wiki).
 
 
 
