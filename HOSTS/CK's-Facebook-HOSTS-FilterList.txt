@@ -1,19 +1,154 @@
 # Title: CHEF-KOCH's Facebook HOSTS Filter List
 # Description: Block all Facebook related connections. This will also block apps and services related to Facebook, like WhatsApp etc.
 # Keep in mind this will break the 'net'. The lists will contain redundant entries compared to the the extension based blocking lists because HOSTS work inefficient. There will be no 127.0.0.1 version because I also want to keep 'dead'' entries alive, which means we not need to check against 127 (slower due possible timeout).
-# Checksum (SHA3-256): A93C41C446444972341388BA2DF1B7D514A8EC63DA625BCEF5FA47D6DC3EDB93
+# Checksum (SHA3-256): EC22549E5ECFE126DD745C7A46CE2D2F9E7D6983D0C3FFF342B0EDBE8BF6F69A
 # License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 # By downloading or viewing, or using this list, you are accepting these terms and the license.
 # Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 # Expires: 14d
-# TimeUpdated: 2018-05-15	04:56:41+01:00
-# Version: 0.0.0.3
+# TimeUpdated: 2018-05-21	16:40:10+01:00
+# Version: 0.0.0.4
 # Please report any unblocked content or problems by email or via GitHub issue ticket.
 # Email: CHEF-KOCH@protonmail.com
 # Copyright (C) 2018 by CHEF-KOCH
 #
 # ---------- Facebook ----------
 #
+0.0.0.0 qidaixia919.com
+0.0.0.0 ssf666.com
+0.0.0.0 90345u.com
+0.0.0.0 fun87.com
+0.0.0.0 898398a.com
+0.0.0.0 32355r.com
+0.0.0.0 jjj.com
+0.0.0.0 67987331--78yl.com
+0.0.0.0 033033d.com
+0.0.0.0 ikason.com
+0.0.0.0 sor1919.com
+0.0.0.0 ylg999444.com
+0.0.0.0 wv72.com
+0.0.0.0 833a.com
+0.0.0.0 a785485246.com
+0.0.0.0 zhu071919.com
+0.0.0.0 zbc1919.com
+0.0.0.0 86331919.com
+0.0.0.0 www8633a.com
+0.0.0.0 88901616.com
+0.0.0.0 facebook.eu
+0.0.0.0 20833a.com
+0.0.0.0 spot1919.com
+0.0.0.0 atm1919.com
+0.0.0.0 caipiao1919.com
+0.0.0.0 133420919.com	
+0.0.0.0 ylg9919.com	
+0.0.0.0 facebookplatform.es
+0.0.0.0 lv500.com
+0.0.0.0 32555g.cc
+0.0.0.0 90998a.com
+0.0.0.0 sxzjs919.com
+0.0.0.0 www357333a.com
+0.0.0.0 yy890919.com
+0.0.0.0 sev72.com
+0.0.0.0 tx0919.com
+0.0.0.0 13634028288.com
+0.0.0.0 445u.com
+0.0.0.0 yx1919.com
+0.0.0.0 63765.com
+0.0.0.0 899919.com
+0.0.0.0 920cq.com
+0.0.0.0 kiann.net
+0.0.0.0 390666.com
+0.0.0.0 am1919.com
+0.0.0.0 shangpk.com
+0.0.0.0 555bm.com
+0.0.0.0 sdssf.com
+0.0.0.0 tshyjck.com
+0.0.0.0 cai38.com
+0.0.0.0 msgin.vvv.facebook.com
+0.0.0.0 alt4.aspmx.l.google.com.mx
+0.0.0.0 mail.xn--ngkbet-dza8b8h.com
+0.0.0.0 mail.xmm919.com
+0.0.0.0 mail.xn--ngkbet-dza8b8h.net
+0.0.0.0 1960457117.msv1.invalid.ta.cn
+0.0.0.0 mail.xn--0tsz33a.com
+0.0.0.0 mail.b9901.com
+0.0.0.0 mail.yangsheng919.com
+0.0.0.0 mail.ssccsu.top
+0.0.0.0 lamlaiba.com
+0.0.0.0 mail.717919.com
+0.0.0.0 mail.todaynews911.com
+0.0.0.0 a.ns.facebook.com
+0.0.0.0 b.ns.facebook.com
+0.0.0.0 b.ns.igcdn.com
+0.0.0.0 a.ns.igcdn.com
+0.0.0.0 caiak998.com
+0.0.0.0 a.ns.musepixynet.com
+0.0.0.0 hu17744463775.com
+0.0.0.0 e.ns.musepixynet.com
+0.0.0.0 173vpn1.com
+0.0.0.0 0du198.com
+0.0.0.0 sscube1.com
+0.0.0.0 a.ns.hnblitzfeel.com
+0.0.0.0 3ddyu.com
+0.0.0.0 www-469.com
+0.0.0.0 eyje.net
+0.0.0.0 facebookgroups.com
+0.0.0.0 fbfansite.com
+0.0.0.0 19660919.com
+0.0.0.0 facebook.org.es
+0.0.0.0 thefacebook.hu
+0.0.0.0 facebook.hu
+0.0.0.0 facebook.com.sv
+0.0.0.0 68888sf.com
+0.0.0.0 41169444.com
+0.0.0.0 quanwai.net
+0.0.0.0 enjoymovie.org
+0.0.0.0 guardking.hk
+0.0.0.0 56698a.com
+0.0.0.0 qb3658.comc
+0.0.0.0 mail.activtrades.cn
+0.0.0.0 mail.gss116.com
+0.0.0.0 mail.441900.com
+0.0.0.0 manovarena.lt
+0.0.0.0 mail.xn--zts233a.com
+0.0.0.0 mail.proxysites.top
+0.0.0.0 mail.tailai919.com
+0.0.0.0 b.ns.hnblitzfeel.com
+0.0.0.0 b.ns.musepixynet.com
+0.0.0.0 bsj9919.com
+0.0.0.0 lh8000.com
+0.0.0.0 jb288.com
+0.0.0.0 www031900.com
+0.0.0.0 567567js.com
+0.0.0.0 6778a.com
+0.0.0.0 fyh1919.com
+0.0.0.0 837919.com
+0.0.0.0 jwzz1919.com
+0.0.0.0 730970.com
+0.0.0.0 9397722.com
+0.0.0.0 8702000.com
+0.0.0.0 403714.com
+0.0.0.0 wt919.com
+0.0.0.0 24shipin.com
+0.0.0.0 chenmaochun.com.cn
+0.0.0.0 bwin99444.com
+0.0.0.0 71580919.com
+0.0.0.0 bwghost.cn
+0.0.0.0 88993y.com
+0.0.0.0 cp49444.com
+0.0.0.0 3648979.com
+0.0.0.0 280909b.com
+0.0.0.0 cmw8800.com
+0.0.0.0 199888a.com
+0.0.0.0 lx168520.com
+0.0.0.0 a17388.bet
+0.0.0.0 arc919.com
+0.0.0.0 dianyou4066.com
+0.0.0.0 99988919.com
+0.0.0.0 05271900.com
+0.0.0.0 99004001.com
+0.0.0.0 bdhc919.com
+0.0.0.0 tyc333a.com
 0.0.0.0  0-edge-chat.facebook.com
 0.0.0.0  1-edge-chat.facebook.com
 0.0.0.0  2-edge-chat.facebook.com
@@ -313,17 +448,12 @@
 0.0.0.0  betanet-shv-04-prn2.facebook.com
 0.0.0.0  betanet-shv-09-frc1.facebook.com
 0.0.0.0  bg-bg.facebook.com
-0.0.0.0  bg-bg.facebook.com
 0.0.0.0  bidder-shv-05-frc3.facebook.com
 0.0.0.0  bidder-shv-10-frc1.facebook.com
 0.0.0.0  black.ish.instagram.com
 0.0.0.0  bn-in.facebook.com
-0.0.0.0  bn-in.facebook.com
-0.0.0.0  bs-ba.facebook.com
 0.0.0.0  bs-ba.facebook.com
 0.0.0.0  business.facebook.com
-0.0.0.0  business.facebook.com
-0.0.0.0  ca-es.facebook.com
 0.0.0.0  ca-es.facebook.com
 0.0.0.0  cdg2.fbcdn.net
 0.0.0.0  channel-proxy-shv-04-frc3.facebook.com
@@ -338,9 +468,7 @@
 0.0.0.0  ct-m-fbx.fbsbx.com
 0.0.0.0  d.vvv.facebook.com
 0.0.0.0  da-dk.facebook.com
-0.0.0.0  da-dk.facebook.com
 0.0.0.0  dev.vvv.facebook.com
-0.0.0.0  developers.facebook.com
 0.0.0.0  developers.facebook.com
 0.0.0.0  edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
 0.0.0.0  edge-atlas-proxyprotocol-shv-03-ash5.facebook.com
@@ -662,13 +790,8 @@
 0.0.0.0  edgeray-shv-01-syd1.facebook.com
 0.0.0.0  edgeray-shv-01-vie1.facebook.com
 0.0.0.0  el-gr.facebook.com
-0.0.0.0  el-gr.facebook.com
-0.0.0.0  error.facebook.com
 0.0.0.0  error.facebook.com
 0.0.0.0  es-es.facebook.com
-0.0.0.0  es-es.facebook.com
-0.0.0.0  es-la.facebook.com
-0.0.0.0  es-la.facebook.com
 0.0.0.0  es-la.facebook.com
 0.0.0.0  external-cdt1-1.xx.fbcdn.net
 0.0.0.0  external-frt3-2.xx.fbcdn.net
@@ -705,7 +828,6 @@
 0.0.0.0  f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 0.0.0.0  f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
 0.0.0.0  fa-ir.facebook.com
-0.0.0.0  fa-ir.facebook.com
 0.0.0.0  facebook-web-clients.appspot.com
 0.0.0.0  facebook.com
 0.0.0.0  fb.com
@@ -716,9 +838,7 @@
 0.0.0.0  fbcdn.net
 0.0.0.0  fbsbx.com
 0.0.0.0  fburl.com
-0.0.0.0  fburl.com
 0.0.0.0  fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
-0.0.0.0  fi-fi.facebook.com
 0.0.0.0  fi-fi.facebook.com
 0.0.0.0  fmel2-1.fbcdn.net
 0.0.0.0  fna-fbcdn-shv-01-fmaa1.fbcdn.net
@@ -727,23 +847,15 @@
 0.0.0.0  fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
 0.0.0.0  fna.fbcdn.net
 0.0.0.0  fr-ca.facebook.com
-0.0.0.0  fr-ca.facebook.com
-0.0.0.0  fr-fr.facebook.com
 0.0.0.0  fr-fr.facebook.com
 0.0.0.0  graph.facebook.com
-0.0.0.0  graph.facebook.com
-0.0.0.0  graph.facebook.com
-0.0.0.0  gu-in.facebook.com
 0.0.0.0  gu-in.facebook.com
 0.0.0.0  h-ct-m-fbx.fbsbx.com.online-metrix.net
 0.0.0.0  herningrideklub.netscontent-a-ams.xx.fbcdn.net
 0.0.0.0  hi-in.facebook.com
-0.0.0.0  hi-in.facebook.com
 0.0.0.0  hphotos-sea1.fbcdn.net
 0.0.0.0  hr-hr.facebook.com
-0.0.0.0  hr-hr.facebook.com
 0.0.0.0  i.instagram.com
-0.0.0.0  id-id.facebook.com
 0.0.0.0  id-id.facebook.com
 0.0.0.0  instagram-p15-shv-01-iad3.fbcdn.net
 0.0.0.0  instagram-p3--shv-01-sit4.fbcdn.net
@@ -950,8 +1062,6 @@
 0.0.0.0  login.facebook.com
 0.0.0.0  m.facebook.com
 0.0.0.0  m.me
-0.0.0.0  m.me
-0.0.0.0  messenger.com
 0.0.0.0  messenger.com
 0.0.0.0  mia1.fbcdn.net
 0.0.0.0  mqtt.c10r.facebook.com
@@ -985,10 +1095,7 @@
 0.0.0.0  origincache-xx-shv-09-prn2.fbcdn.net
 0.0.0.0  origincache-xx-shv-13-prn1.fbcdn.net
 0.0.0.0  our.intern.facebook.com
-0.0.0.0  our.intern.facebook.com
 0.0.0.0  pa-in.facebook.com
-0.0.0.0  pa-in.facebook.com
-0.0.0.0  phabricator.intern.facebook.com
 0.0.0.0  phabricator.intern.facebook.com
 0.0.0.0  photos-a-ord.xx.fbcdn.net
 0.0.0.0  photos-a.xx.fbcdn.net
@@ -1068,8 +1175,6 @@
 0.0.0.0  scontent-b-sjc.xx.fbcdn.net
 0.0.0.0  scontent-b-vie.xx.fbcdn.net
 0.0.0.0  scontent-b.xx.fbcdn.net
-0.0.0.0  scontent-bom1-1.xx.fbcdn.net
-0.0.0.0  scontent-bom1-1.xx.fbcdn.net
 0.0.0.0  scontent-bom1-1.xx.fbcdn.net
 0.0.0.0  scontent-cdg.xx.fbcdn.net
 0.0.0.0  scontent-cdg2-1.xx.fbcdn.net
@@ -1253,11 +1358,8 @@
 0.0.0.0  scontent.fybz2-2.fna.fbcdn.net
 0.0.0.0  scontent.fymy1-2.fna.fbcdn.net
 0.0.0.0  scontent.xx.fbcdn.net
-0.0.0.0  scontent.xx.fbcdn.net
-0.0.0.0  scontent.xx.fbcdn.net
 0.0.0.0  secure-media-snc1.fbcdn.net
 0.0.0.0  secure-media.fbcdn.net
-0.0.0.0  secure.facebook.com
 0.0.0.0  secure.facebook.com
 0.0.0.0  snaptu-d-shv-05-frc3.facebook.com
 0.0.0.0  snaptu-d-shv-10-frc1.facebook.com
@@ -1318,21 +1420,14 @@
 0.0.0.0  static.xx.fbcdn.net
 0.0.0.0  staticxx.facebook.com
 0.0.0.0  streaming-graph.facebook.com
-0.0.0.0  streaming-graph.facebook.com
 0.0.0.0  ta-in.facebook.com
-0.0.0.0  ta-in.facebook.com
-0.0.0.0  te-in.facebook.com
 0.0.0.0  te-in.facebook.com
 0.0.0.0  telegraph-ash.instagram.com
-0.0.0.0  th-th.facebook.com
 0.0.0.0  th-th.facebook.com
 0.0.0.0  thefacebook.com
 0.0.0.0  touch.facebook.com
 0.0.0.0  upload.facebook.com
-0.0.0.0  upload.facebook.com
 0.0.0.0  ur-pk.facebook.com
-0.0.0.0  ur-pk.facebook.com
-0.0.0.0  vi-vn.facebook.com
 0.0.0.0  vi-vn.facebook.com
 0.0.0.0  video-hkg3-1.xx.fbcdn.net
 0.0.0.0  video-iad3-1.xx.fbcdn.net
@@ -1564,4 +1659,3 @@
 0.0.0.0  z-p3-video.flpb1-1.fna.fbcdn.net
 0.0.0.0  z-p3-video.fpfb1-1.fna.fbcdn.net
 0.0.0.0  z-p3-video.fsea1-1.fna.fbcdn.net
-0.0.0.0  
