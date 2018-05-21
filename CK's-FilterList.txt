@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): C793BE996E4BCD29478B62CECACC9505DBFA099656A406917D72F9694A736B95
+! Checksum (SHA3-256): E204FE9CBEA994FAD68D7230892B0DDEC3BAE3DAF8F8E06F58F0A4553A69B6F4
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 5d
-! TimeUpdated: 2018-05-20	14:48:01+01:00
-! Version: 0.0.2.3
+! TimeUpdated: 2018-05-21	10:42:32+01:00
+! Version: 0.0.2.4
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -989,25 +989,18 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 !---------- Cookie Warnings ----------
 !
 ###amp-cookie-notice
-##.footerCookieNotice
-##.CookieBar
-##.CookieMessage
-/cookies-legal-
-/cookiewarning*.js
-/cookie-terms.
-/cookie.js$script
-/cookie_msg.js$script
-/cookie_notify/*
-/cookieser.js$script
-/cookiesWidget/widget.js$script
-/cookieMonster.min.js
-/CookieLaw$script
-/CookieAlert-latest.min.js
-/savecookie.js$script
 ###amp-user-notification
 ###amp-user-notification1
 ###amp-user-notification2
+###cookie-notification
+###cookies-politics
+###cookiesdirective
+###cookieswrapper
+###cookiewarn
+###nuggadDisclaimer
 ###tenantAcceptText
+##.CookieBar
+##.CookieMessage
 ##.cc-cookies
 ##.cookie-accept-overlay
 ##.cookie-alert
@@ -1017,12 +1010,9 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 ##.cookie-choice
 ##.cookie-consent-container
 ##.cookie-container
+##.cookie-info-layer
 ##.cookie-law
-###cookies-politics
-###cookiesdirective
 ##.cookie-message
-###cookieswrapper
-###cookiewarn
 ##.cookie-mobile-wrapper
 ##.cookie-nav
 ##.cookie-notice
@@ -1036,11 +1026,17 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 ##.cookieCon
 ##.cookieConsent
 ##.cookieConsent-popOut
+##.dr-cookie-info-box
+##.footerCookieNotice
 ##.gb-gnb__notice-bar
+##DIV[class*="pea_cook_wrapper"]
+##DIV[id="cookieprivacy"]
 ##adcookies
 ##app-cookie-consent
 ##app-cookie-warning
 ##b2c-cookies-notification
+/CookieAlert-latest.min.js
+/CookieLaw$script
 /CookiesDirective
 /agreeCookie.
 /ajax/libs/cookieconsent2/
@@ -1048,10 +1044,19 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 /cg_cookie.js
 /cookie-law-plugin_en.js
 /cookie-policy.js
+/cookie-terms.
+/cookie.js$script
 /cookie/cookie_msg.js
 /cookieAccept.js
+/cookieMonster.min.js
 /cookie_law/plugin.js
+/cookie_msg.js$script
+/cookie_notify/*
 /cookielaw.js
+/cookies-legal-
+/cookiesWidget/widget.js$script
+/cookieser.js$script
+/cookiewarning*.js
 /eucd/eucd.min.js
 /euopties.js
 /ext/zt_popupcookies/
@@ -1066,6 +1071,7 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 /media/plg_system_eprivacy
 /modules/mod_pescookies
 /public/scripts/cookie/popup.js
+/savecookie.js$script
 /webapps/bb-cookie-disclosure
 /wp-content/mu-plugins/cookie_notifier
 /wp-content/plugins/cookie-compliance
@@ -1596,6 +1602,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||settings-win.data.microsoft.com^
 ||iz682noju02ye5.com^
 ||0.start.bz^
 ||0.win-eto.com^
@@ -42447,6 +42454,8 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Facebook ----------
 !
+facebook.com##.ego_section
+www.facebook.com##div[data-xt]
 ##[title="Follow me on Facebook"]
 -ad.js$domain=~sh.st|~facebook.com
 /facebook-page-promoter-lightbox/*
@@ -42938,27 +42947,15 @@ youtube.com^*/log_interaction?
 !
 ! ---------- Yahoo ----------
 !
-yahoo.com###ColWrap:style(position: absolute !important; top: 100px !important;)
-yahoo.com###Companion-0-CanvasStickyShareButtons-Proxy
-yahoo.com###Navigation:style(position: relative !important; top: 0 !important; transition: none !important; transform: none !important; -webkit-transform: none !important;)
-yahoo.com###UH-0-Header:style(position: relative !important; top: 0 !important;)
-yahoo.com###UH-0-SportsUH-0-Header:style(position: absolute !important;)
-yahoo.com###UH-1-NavLite:style(position: relative !important; top: 0 !important;)
-yahoo.com###UH:style(position: relative !important; top: 0 !important;)
-yahoo.com###YDC-SecondaryNav:style(position: relative !important; top: 0 !important; transition: none !important; transform: none !important; -webkit-transform: none !important; box-shadow: none !important;)
-yahoo.com###YDC-UH-Stack:style(position: relative !important; top: 0 !important; box-shadow: none !important;)
-yahoo.com###atomic .Pos\(f\)\!:style(position: relative !important;)
-yahoo.com###atomic:style(position: relative !important; transition: none !important; transform: none !important;)
+mail.yahoo.com###theAd
 yahoo.com###community-bar
 yahoo.com###danafarberpromo
 yahoo.com###fantasyshoppromo
 yahoo.com###get-the-app
 yahoo.com###lb-share-btns
-yahoo.com###masterNav:style(position: relative !important; top: 0 !important; transition: none !important; transform: none !important; -webkit-transform: none !important;)
 yahoo.com###mediacontentfollowproperty_wrapper
 yahoo.com###mediacontentsharebuttons
 yahoo.com###mediasocialbuttonseasy
-yahoo.com###mega-uh-wrapper:style(position: relative !important; box-shadow: none !important; margin-bottom: 5px !important;)
 yahoo.com###mrt-node-Lead-2-AbPromo
 yahoo.com###mrt-node-UH-1-NavLite
 yahoo.com###so-share
@@ -42974,9 +42971,8 @@ yahoo.com##.H-fixed.Ad
 yahoo.com##.Mb-0.Zoom-1.header.js-applet.M-0:style(position: relative !important;)
 yahoo.com##.P-lg.No-bdr.Fz-sm.F-icon.F-shade3.small.yfa-rapid-module-medal-share-twitter.yfa-rapid-beacon.Bg-twitter.Btn
 yahoo.com##.T\(-20px\).End\(20px\).Pos\(a\)
-yahoo.com##.Trs\(subnavTransition\).T\(0\).UhHideSubnav_Mt\(-50px\):style(transition: none !important; margin-top: 0px !important;)
+yahoo.com##.Trs\(subnavTransition\).T\(0\).UhHideSubnav_Mt\(-50px\):style(transition: none !important; margin-top: 0px 
 yahoo.com##.W\(100\%\).T\(0\).Z\(10\).Pos\(f\).Header:style(position: absolute !important;)
-yahoo.com##.YDC-Header:style(position: absolute !important; top: 0 !important; transition: none !important; transform: none !important; -webkit-transform: none !important;)
 yahoo.com##.action-bar:style(position: relative !important; top: 0 !important;)
 yahoo.com##.canvas-community-bar
 yahoo.com##.canvass-fullscreen.smartphone.td-applet-canvass
@@ -43008,12 +43004,23 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ||www.flickr.com/beacon_client_api_timings.gne$xmlhttprequest,domain=www.flickr.com
 ||www.flickr.com/beacon_rb_jserror.gne$image,domain=www.flickr.com
 !
-! ---------- Microsoft Data Management Service ----------
-!
-||settings-win.data.microsoft.com^
-!
 ! ---------- Overlay + Ad Element Hiding ----------
 !
+###ad_global_below_navbar
+###banner_FloatLeft
+###banner-top
+##.ads_area_01
+##.ads_area_03
+##.ads_area_04
+##.jw-cue
+##.leftAdsBanner
+##.midroll-marker
+##.qc
+##.quangcao
+##[id^="balloonads"]
+##[id^="bn_bottom_fixed_"]
+###qcBallonright
+###banner_FloatRight
 #@#.pub_300x250
 #@#.pub_300x250m
 #@#.pub_728x90
@@ -43436,8 +43443,28 @@ yahoo.com##body:style(padding-top: 0px !important;)
 .net/ads/
 .net/atrk.
 /AdblockMessage.
+/adServe/*
+/karuselli/js/AgAdCarousel
+/mainokset.
+/mainokset/*
+/mainokset_
+/mainos.
+/mainos/*
+/mainos_
+/mainosbanneri.
+/mainosbanneri/*
+/mainosbanneri_
+/mainosbannerit.
+/mainosbannerit/*
+/mainosbannerit_
+/mainoskaruselli.
+/mainoskaruselli/*
+/mainoskaruselli_yli
+/pagestat?
+/cgi-sys/Count.cgi
 /Image/Ads/*
 /SiteAdvert/*
+/bannerCounter.php
 /Upload/Banner/*
 /Uploaded/Ads/*
 /ad-blocking-advisor/*
@@ -43560,8 +43587,8 @@ reddit.com##.recommended-link
 !
 ! ---------- Share Buttons ----------
 !
-###headermodule2
 ###SocialMediaIconsID
+###headermodule2
 ###social-apps
 ###social-bar
 ###social-bar-bottom
@@ -43748,17 +43775,17 @@ www.urbandictionary.com##.panel-margin.dfp-panel
 !
 ! ---------- URL shortener ----------
 !
-||go.budurl.co^$important
-||dr.tl/*^$important
-||bit.do/*^$important
-||taveo.net/*^$important
-||bit.ly/*^$important
-||cur.lv^$important
-||slsh.us^$important
 ||adf.ly^$important
-||shorte.st^$important
+||bit.do/*^$important
+||bit.ly/*^$important
 ||biturl.io^$important
+||cur.lv^$important
+||dr.tl/*^$important
+||go.budurl.co^$important
 ||hackforu.ms^$important
+||shorte.st^$important
+||slsh.us^$important
+||taveo.net/*^$important
 ||tldr.ly^$important
 !
 ! ---------- WebSocket ----------
@@ -43768,6 +43795,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 !
 ! ---------- Whitelisting rules ----------
 !
+@@||gatesnotes.com/TGN/js/*_s_code.js
 @@||readcomiconline.to/Content*.png
 @@-adverts.$script,domain=dailymail.co.uk
 @@.com/ad_img/$domain=twitter.com
