@@ -4,9 +4,9 @@
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
-! Expires: 5d
-! TimeUpdated: 2018-05-21	19:07:30+01:00
-! Version: 0.0.2.8
+! Expires: 3d
+! TimeUpdated: 2018-05-22	17:23:23+01:00
+! Version: 0.0.2.9
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -166,6 +166,10 @@
 !
 ! ---------- 3rd party ----------
 !
+?popup:msp_$popup,third-party
+/://(?:js|\d{6})\.[-.0-9a-z]+/t/\d{3}/\d{3}/a\d{7}\.js$/
+/:\/\/20\d\d\d\d\d\d\..*\.html/$third-party,subdocument
+/://[0-9a-z]{10,}\.com/\d{5,}(/|\.css)$/$third-party
 ||takshop91.biz^$third-party,popup
 ||terraclicks.com^$third-party,popup
 ||tgju.org^$third-party,popup
@@ -198,7 +202,6 @@
 ||sexy-ch.com^$third-party
 ||sorotore.com^$third-party
 ||zeppin.com^$third-party
-ericmathison.com##script:inject(abort-on-property-read.js, _paq)
 ||kfryur.club^$third-party
 ||okserial.club^$third-party
 ||adfill.me^$popup
@@ -847,8 +850,45 @@ outbrain$script
 9gag.com##.badge-toolbar-pre.fixed-wrap-post-bar
 9gag.com##.post-afterbar-a.in-post-bot.full-width
 !
+! ---------- AdGuard ----------
+!
+adguard.com###floatingNavigation
+adguard.com##.static.staticPageWidth.withSearch:style(position: relative !important; top: 0 !important;)
+!
+! ---------- Adobe ----------
+!
+adobe.com###header:style(position: absolute !important;)
+adobe.com###j-compact-header:style(position: relative !important; top: 0 !important;)
+adobe.com###j-header-wrap:style(position: relative !important; top: 0 !important;)
+adobe.com###title-bar:style(position: relative !important; top: 0 !important;)
+adobe.com##.footer-icons
+adobe.com##.nav-single
+adobe.com##.userguide-outer-nav-container:style(position: relative !important; top: 0 !important;)
+!
+! ---------- Allrecipes ----------
+!
+allrecipes.com###footer_top_button
+allrecipes.com###shareRecipe
+allrecipes.com##.ad-mag-homeBtm
+allrecipes.com##.ad-mag-homeBtm__footer
+allrecipes.com##.ad-mobile-only
+allrecipes.com##.ad-recipe-page-footer-container
+allrecipes.com##.ad-recipe-page-middle-container
+allrecipes.com##.ad-search-grid
+allrecipes.com##.advertisement
+allrecipes.com##.dropdown-heart > .save-on-click
+allrecipes.com##.lo-smu-container
+allrecipes.com##.loading-indicator--position
+allrecipes.com##.magazine-bar
+allrecipes.com##.offer-container
+allrecipes.com##.reserve-ad-space
+allrecipes.com##.review-ad-space
+!
 ! ---------- Amazon ----------
 !
+~amazon.co.jp###sidebar a[href*="amazon.co.jp"]
+~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de###left a[href*="amazon.co.jp"]
+~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de##.sidebar a[href*="amazon.co.jp"]
 ###freespace [href*="amazon.co.jp"]
 ###right a[href*="amazon.co.jp"]
 ###side a[href*="amazon.co.jp"]
@@ -900,9 +940,6 @@ m.media-amazon.com/images/*/AMSSponsoredSearch
 ssl-images-amazon.com/images/*/ClientSideMetricsAUIJavascript
 ||gtrk.s3.amazonaws.com^$important
 ||load.s3.amazonaws.com^$important
-~amazon.co.jp###sidebar a[href*="amazon.co.jp"]
-~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de###left a[href*="amazon.co.jp"]
-~amazon.co.jp,~amazon.com,~amazon.co.uk,~amazon.co.de##.sidebar a[href*="amazon.co.jp"]
 !
 !---------- Anandtech ----------
 !
@@ -952,6 +989,12 @@ androidrepublic.org##.is-sticky.uix_stickyBar.p-navSticky--primary.p-navSticky:s
 androidrepublic.org##.p-staffBar
 androidrepublic.org##.u-scrollButtons
 androidrepublic.org##.uix_headerContainer .p-navSticky.is-sticky > *:style(position: relative !important; top: 0 !important; box-shadow: none !important;)
+!
+!---------- Archive.org ----------
+!
+archive.org###wm-ipp > div:style(position: relative !important; top: 0 !important; padding-bottom: 10px !important;)
+archive.org##.iconochive-facebook
+archive.org##.iconochive-twitter
 !
 !---------- Bloomberg ----------
 !
@@ -1018,6 +1061,10 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 !
 ! ---------- Cookie Warnings ----------
 !
+##.ui-cookie
+###adviceCookies
+###Banner_cookie_1
+###CybotCookiebotDialog
 ###AdBlockerInfo
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
@@ -1057,6 +1104,9 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 ###alertCookies
 ###allow_cookies_container
 ###amp-cookie-notice
+###adv_network
+###adv_mobi_edition
+###adhesionUnit
 ###amp-user-notification
 ###amp-user-notification1
 ###amp-user-notification2
@@ -1460,6 +1510,7 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 ###wpca-bar
 ###ws-cookie-consent-msg
 ##.Banner_Top
+###BackToTop
 ##.COOKIECONSENT_BANDEAU
 ##.CookieBar
 ##.CookieDirectiveDisplay
@@ -46521,8 +46572,31 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ||medium.com/_/api/users/*/writing-velocity$xmlhttprequest
 ||medium.com/_/batch$xmlhttprequest
 !
-! ---------- Overlay + Ad Element Hiding ----------
+! ---------- Overlay + Element Hiding ----------
 !
+###Hero-0-FeatureBar-smartphone-Proxy
+###GoUpWrapper
+##.dartiframe
+##.gp
+##.gplusone
+##.gs-share-count-container
+##.gs-sharebar
+##.hamburger-nav__social-links
+##.gotop
+##.gotop-btn
+##.gototop
+jw.org##.legal-notices-client--notice
+ticketmaster.ca##.agree-terms
+ticketmaster.ca##.page__legal-link
+###TopShareMenu
+###WNStoryUtils
+###___plusone_0
+###___plusone_1
+###actionbar
+###addthis0
+###addthisSticky
+###addthis_widget
+ericmathison.com##script:inject(abort-on-property-read.js, _paq)
 ###AUI_A9AdsMiddleBoxTop
 ###Ad160x600_0_adchoice
 ###AdBlockDialog
@@ -47546,6 +47620,7 @@ reddit.com##.recommended-link
 !
 ! ---------- Share Buttons ----------
 !
+###smart-app-banner
 ###SocialMediaIconsID
 ###headermodule2
 ###social-apps
@@ -47966,13 +48041,4 @@ zippyshare.com##script:inject(abort-current-inline-script.js, String.fromCharCod
 !
 crackwatch.com##div[id^="\31"]
 crackwatch.com##div[style="margin-top: 35px; text-align: center;"]
-!##div[class*="ad_"]
-!##.dartiframe
-ticketmaster.ca##.agree-terms
-ticketmaster.ca##.page__legal-link
-jw.org##.legal-notices-client--notice
-/://[0-9a-z]{10,}\.com/\d{5,}(/|\.css)$/$third-party
-/://(?:js|\d{6})\.[-.0-9a-z]+/t/\d{3}/\d{3}/a\d{7}\.js$/
 !s0.2mdn.net/ads
-?popup:msp_$popup,third-party
-/:\/\/20\d\d\d\d\d\d\..*\.html/$third-party,subdocument
