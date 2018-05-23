@@ -1,0 +1,19 @@
+! Title: CHEF-KOCH's Eset Nod32 Filter List
+! Description: Blocks all Eset Nod 32 related connections.
+! Checksum (SHA3-256): 0E2640DCFBA615CBDDCC7D10ED0C1823C93C5D7BC5049E47B2305A6DE25F4D76
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 14d
+! TimeUpdated: 2018-05-23	19:47:48+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue ticket.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- Activation ----------
+!
+||register.eset.com^
+||h1-weblb01-v.eset.com^
+||h2-weblb01-v.eset.com^
+||h3-weblb01-v.eset.com^
