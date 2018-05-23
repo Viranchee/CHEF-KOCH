@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 13BEE5CE84AFB7E6F5798F494715CD25A4437BB21758FCC382C4D59BEA9C399B
+! Checksum (SHA3-256): 2E22A83A81D940DDAF9AF9E21C8E8216AFADDDFBC318FBFA29B51120CD5109FE
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-05-22	17:23:23+01:00
-! Version: 0.0.2.91
+! TimeUpdated: 2018-05-22	21:52:30+01:00
+! Version: 0.0.2.92
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -16,6 +16,9 @@
 !
 ! ---------- 1st party blocking rules ----------
 !
+cebit.de##.no-layout-background-image.midnight.layout.notification.o
+player.epidemicsound.com##.___Warnings__bar___ixRfs
+srf.ch##.personalizationMessageWrapper
 fr.romwe.com##div.banner-wrapper
 @@||gelbooru.com/script/miscJs.js?$script,first-party
 ||01net.com/telecharger/$document
@@ -1062,6 +1065,7 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 !
 ! ---------- Cookie Warnings ----------
 !
+###rtpgeralcookiecontent
 ##.ui-cookie
 ###adviceCookies
 ###Banner_cookie_1
@@ -46575,6 +46579,10 @@ yahoo.com##body:style(padding-top: 0px !important;)
 !
 ! ---------- Overlay + Element Hiding ----------
 !
+/toolbarxooit/?
+###js-gdpr-consent-banner
+##.goog-te-gadget.skiptranslate
+##.DLExtraInfo-wrap
 ###Hero-0-FeatureBar-smartphone-Proxy
 ###GoUpWrapper
 ##.dartiframe
