@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): DD1D06DE27C65D639AF62519ECBFF66CB76925D56CD5CCEA16732DFB6661C48F
+! Checksum (SHA3-256): 13BEE5CE84AFB7E6F5798F494715CD25A4437BB21758FCC382C4D59BEA9C399B
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
 ! TimeUpdated: 2018-05-22	17:23:23+01:00
-! Version: 0.0.2.9
+! Version: 0.0.2.91
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -16,6 +16,7 @@
 !
 ! ---------- 1st party blocking rules ----------
 !
+fr.romwe.com##div.banner-wrapper
 @@||gelbooru.com/script/miscJs.js?$script,first-party
 ||01net.com/telecharger/$document
 ||0mme.com^$script,domain=comicbook.com|popculture.com
@@ -47986,9 +47987,7 @@ wolframalpha.com###sponsor-ad
 !
 wordpress.com###bit
 wordpress.com###masthead:style(position: absolute !important;)
-wordpress.com###wpadminbar:style(position: absolute !important;)
 wordpress.com##.is-invisible.is-fixed.masterbar:style(position: absolute !important;)
-wordpress.org###wpadminbar:style(position: absolute !important;)
 !
 ! ---------- XDA ----------
 !
