@@ -1,11 +1,11 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 446F03A09FF4143C0779F28F2185561C7DAE41D2A93526B77F5E9E9914C029FE
+! Checksum (SHA3-256): DCA0B7774FDDAE4D653CAAFB4CAFED20FA685BA3122CAC07D183D2E216CC88E8
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-05-23	00:00:26+01:00
+! TimeUpdated: 2018-05-24	21:01:03+01:00
 ! Version: 0.0.2.93
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
@@ -1053,7 +1053,6 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 ||news.ycombinator.com/s.gif$image
 ||pastebin.com/i/t.gif$image
 ||pixel.buzzfeed.com$image
-||reddit.com/static/pixel.png$image
 ||s.imgur.com/images/tipsy.gif$image
 ||s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png?resize=1%2C1$image
 ||s1.huffpost.com/images/blank.gif$image
@@ -1101,6 +1100,9 @@ www.citytv.com##.pub_300x250
 !
 ! ---------- Cookie Warnings ----------
 !
+rtp.pt###rtpgeralcookiecontent
+##.gdpr-banner.is-compact.card
+##.notice--cookie.notice--primary.js-notice.notice
 ###rtpgeralcookiecontent
 ##.ui-cookie
 ###adviceCookies
@@ -2413,6 +2415,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||www-analytics.ripe.net^
 ||las4srv.com^
 ||104.197.199.227^
 ||104.198.198.188^
@@ -18084,8 +18087,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||engage.morespeck.com^
 ||engage2.advanstar.com^
 ||engagebdr.com^
-||engine.4chan-ads.org^
-||engine.a.redditmedia.com^
+||engine.4chan-ads.org^´
 ||engine.airtransat.co.uk^
 ||engine.ap.bittorrent.com^
 ||engine.aviasales.ru^
@@ -18286,7 +18288,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||events.olark.com^
 ||events.readrboard.com^
 ||events.realgravity.com^
-||events.redditmedia.com^
 ||events.tremorhub.com^
 ||events.walla.co.il^
 ||evergage.com^
@@ -24581,8 +24582,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||pixel.pcworld.com^
 ||pixel.prosieben.de^
 ||pixel.realtor.com^
-||pixel.reddit.com^
-||pixel.redditmedia.com^
 ||pixel.serviceleverage.com^
 ||pixel.sojern.com^
 ||pixel.solvemedia.com^
@@ -28350,7 +28349,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||tracker.pinnaclesports.com^
 ||tracker.plan2.net^
 ||tracker.realclearpolitics.com^
-||tracker.redditmedia.com^
 ||tracker.samplicio.us^
 ||tracker.scao.it^
 ||tracker.seoboost.net^
@@ -36232,7 +36230,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||e-traffix.de^
 ||e-viral.com^
 ||e-webtrack.net^
-||e.reddit.com^
 ||e0663490cca0296f7.com^
 ||e0a42e1a21669b.com^
 ||e0e0e4195bb7.racing^
@@ -46310,6 +46307,7 @@ mail.google.com##.nH.PS
 ||maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
 ||maps.googleapis.com/maps/api/js/StatsService.RecordStats
 ! -- YouTube --
+youtube.com##div#player-ads
 ##.video-ads
 ##.ytp-ad-progress-list
 @@||youtube.com/iframe_api$third-party
@@ -46695,6 +46693,10 @@ yahoo.com##body:style(padding-top: 0px !important;)
 !
 ! ---------- Overlay + Element Hiding + Ads ----------
 !
+##.make_money
+##.track_this_link.skyTeaser
+###wpllink
+###wpr
 /sticky_ad_footer.js
 /rdm-ad-
 /adchoices.
@@ -47728,8 +47730,13 @@ reddit.com##.recommended-link
 ||alb.reddit.com^
 ||d.reddit.com^
 ||e.reddit.com$xmlhttprequest
+||e.reddit.com^
 ||e.reddit.com^$important
+||engine.a.redditmedia.com^
 ||events.reddit.com^
+||events.redditmedia.com^
+||events.redditmedia.com^
+||pixel.redditmedia.com^
 ||reddit.com/*/log/*
 ||reddit.com/api/login.json
 ||reddit.com/api/register.json
@@ -47742,9 +47749,9 @@ reddit.com##.recommended-link
 ||reddit.com/timings
 ||reddit.com^$csp=script-src 'self' *.redditstatic.com 'unsafe-inline' 'unsafe-eval'
 ||redditmedia.com/gtm/$important
-||redditmedia.com/moat/*
 ||redditstatic.com/moat/$important
 ||redditstatic.com/recommended-link.*$important
+||tracker.redditmedia.com^
 !
 ! ---------- Share Buttons ----------
 !
