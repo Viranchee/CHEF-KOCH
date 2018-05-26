@@ -13,6 +13,8 @@
 !
 ! ---------- Google ----------
 !
+||adclick.g.doublecklick.net^
+||wb-in-f188.1e100.net^
 ||21150.com^
 ||3576.net^
 ||38389438.com^

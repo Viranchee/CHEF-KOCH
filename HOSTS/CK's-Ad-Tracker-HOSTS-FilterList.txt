@@ -13,6 +13,34 @@
 #
 # ---------- Ad & Tracker ----------
 #
+0.0.0.0  seiichiro0185.org
+0.0.0.0  www.seiichiro0185.org
+0.0.0.0  friendlyarm.com
+0.0.0.0  www.friendlyarm.com
+0.0.0.0  hh-btr.com
+0.0.0.0  tracking-opi.fonpit.de
+0.0.0.0  powerlinks.com
+0.0.0.0  adserver.powerlinks.com
+0.0.0.0  bueykqyv.com
+0.0.0.0  diadrvj.bueykqyv.com
+0.0.0.0  adclick.g.doublecklick.net
+0.0.0.0  wb-in-f188.1e100.net
+0.0.0.0  bof.nl
+0.0.0.0  stats.bof.nl
+0.0.0.0  fluffyfiles.co.uk
+0.0.0.0  piwik.fluffyfiles.co.uk
+0.0.0.0  www-analytics.ripe.net
+0.0.0.0  las4srv.com
+0.0.0.0  104.197.199.227
+0.0.0.0  104.198.198.188
+0.0.0.0  cookielaw.org
+0.0.0.0  cdn.cookielaw.org
+0.0.0.0  gabyuyxwcubwdp.com
+0.0.0.0  www.gabyuyxwcubwdp.com
+0.0.0.0  mpxxjdqpru.com
+0.0.0.0  www.mpxxjdqpru.com
+0.0.0.0  hotdogsandads.com
+0.0.0.0  www.hotdogsandads.com
 0.0.0.0  -rotation.de
 0.0.0.0  -traffic.com
 0.0.0.0  004b17a0c349157de.com

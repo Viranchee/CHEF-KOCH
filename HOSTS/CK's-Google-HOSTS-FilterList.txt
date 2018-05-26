@@ -14,6 +14,8 @@
 #
 # ---------- Google ----------
 #
+0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 wb-in-f188.1e100.net
 0.0.0.0 00e9e64bac486a04fa9636f7612b6db779f232eb77b294d1d3-apidata.googleusercontent.com
 0.0.0.0 00e9e64bac62ac0e0f79bebd1f20a06c2093344beff885112b-apidata.googleusercontent.com
 0.0.0.0 00e9e64bac8b95421d462db9cd87a85120eb48ced4ca75694a-apidata.googleusercontent.com

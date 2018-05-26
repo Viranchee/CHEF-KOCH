@@ -806,6 +806,7 @@ outbrain$script
 ||r1p.pw^$important
 ||restresser.com^$important
 ||rollbar.com^$third-party
+||wnp.com^$third-party
 ||sabavision.com^$third-party
 ||salemove.com^$third-party
 ||sanjagh.net^$third-party
@@ -1100,6 +1101,8 @@ www.citytv.com##.pub_300x250
 !
 ! ---------- Cookie Warnings ----------
 !
+###privacy-consent
+##.cookie-bar.cookie-gdpr
 ###AcceptCookie
 ###AcceptCookieContainer
 ###AcceptCookies
@@ -9367,6 +9370,12 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||seiichiro0185.org^
+||friendlyarm.com^
+||hh-btr.com^
+||tracking-opi.fonpit.de^
+||bueykqyv.com^
+||adclick.g.doublecklick.net^
 ||112.2o7.net^
 ||bof.nl^
 ||fluffyfiles.co.uk^
@@ -53961,6 +53970,7 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ##.AdblockMessage
 ##.AdblockMessage_msg
 ##.Ads
+###aemzdjzqcxpzrww
 ##.Adverts
 ##.Artikel_Ads_News
 ##.DLExtraInfo-wrap
@@ -54121,6 +54131,7 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ##.advert-top
 ##.advert-top-banner
 ##.advertembed
+##.jquery-script-ads
 ##.advertise
 ##.advertisement
 ##.adwidg
@@ -54838,6 +54849,7 @@ ticketmaster.ca##.page__legal-link
 ||ads5.
 ||d37gvrvc0wt4s1.cloudfront.net^
 ||service.giosg.com/api/*/public/track/
+||themidweeksun.co.bw/images/majoka01.gif
 !
 ! ---------- Palemoon ----------
 !
@@ -55113,6 +55125,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 !
 ! ---------- Whitelisting rules ----------
 !
+@@||my5.tv^$generichide
 @@||piwik.org^$first-party
 ||demo*.piwik.org/piwik.php$first-party,important
 @@||authedmine.com^$domain=dlik.win|ivpaste.com|mylink.li|cutsmile.com
@@ -55319,3 +55332,6 @@ crackwatch.com##div[id^="\31"]
 crackwatch.com##div[style="margin-top: 35px; text-align: center;"]
 !s0.2mdn.net/ads
 !$("h2:contains('PROMOTED STORIES')").parent().remove();
+##.modal-background
+##.modal-content
+##.box-content

@@ -13,6 +13,21 @@
 !
 ! ---------- Ad & Tracker ----------
 !
+||seiichiro0185.org^
+||friendlyarm.com^
+||hh-btr.com^
+||tracking-opi.fonpit.de^
+||powerlinks.com^
+||bueykqyv.com^
+||adclick.g.doublecklick.net^
+||wb-in-f188.1e100.net^
+||bof.nl^
+||fluffyfiles.co.uk^
+||www-analytics.ripe.net^
+||las4srv.com^
+||104.197.199.227^
+||104.198.198.188^
+||cookielaw.org^
 ||gabyuyxwcubwdp.com^
 ||mpxxjdqpru.com^
 ||hotdogsandads.com^
@@ -37596,7 +37611,6 @@
 ||s-assets.tp-cdn.com^
 ||s-cs.send.microad.jp^
 ||s-jsonp.moatads.com^
-||s.206ads.com^
 ||s.2app.lk^
 ||s.ad120m.com^
 ||s.ad121m.com^

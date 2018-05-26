@@ -13,6 +13,7 @@
 !
 ! ---------- Microsoft ----------
 !
+||demo.wd.microsoft.com^
 ||a-msedge.net^
 ||accessvb.com^
 ||adcentercommunity.com^

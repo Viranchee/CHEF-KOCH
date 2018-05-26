@@ -19,6 +19,7 @@ avanza.se#@#a[title="LeoVegas"]
 
 
 
+||public-api.wordpress.com^
 ||platform.twitter.com^
 ||api.twitch.tv^
 ||mail.protonmail.com^

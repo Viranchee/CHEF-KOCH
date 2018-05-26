@@ -32,7 +32,7 @@
 ||fonts.advance.net^$third-party
 ||fonts.bauernet.me^
 ||fonts.condenast.com^$script,third-party
-||fonts.googleapis.com/css?
+!||fonts.googleapis.com/css?
 ||fonts.gotraffic.net^$script
 ||fonts.gstatic.com^$third-party
 ||fonts.nymag.com^$script,third-party
