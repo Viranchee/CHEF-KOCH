@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): D686552E2BD0D29B48D98F5E8B6716A9DAA0F8C59714FECB06F019AEC07EC972
+! Checksum (SHA3-256): 493606DD3E161D896C0655869E36ADE6A0A3DB03102538B69ACE052ABC34065B
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-05-25	01:53:40+01:00
-! Version: 0.0.2.95
+! TimeUpdated: 2018-05-28	02:22:54+01:00
+! Version: 0.0.2.98
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -175,6 +175,18 @@ fr.romwe.com##div.banner-wrapper
 !
 ! ---------- 3rd party ----------
 !
+sponichi.co.jp##.toast-info
+orvosilexikon.hu##.region-bottom
+zeda.nl##.activebar-container
+||userdatatrust.com^$third-party
+||jimmychoo.com^*/first-time-visitor-
+||kayak.*/privacy/
+||consensu.org^$third-party
+||chaturbate.com^$popup,third-party
+||nlkdom.com^$popup
+.com/html5banner/$third-party
+.com/showbanner.php^$image,third-party
+||chaturbate.com/*&campaign=$subdocument,third-party
 ?popup:msp_$popup,third-party
 /://(?:js|\d{6})\.[-.0-9a-z]+/t/\d{3}/\d{3}/a\d{7}\.js$/
 /:\/\/20\d\d\d\d\d\d\..*\.html/$third-party,subdocument
@@ -1101,9 +1113,57 @@ www.citytv.com##.pub_300x250
 !
 ! ---------- Cookie Warnings ----------
 !
+losteria.de,metia.com#@#.cookieNotice
+##.sx-cookie-consent
+##.sncmp-app_gdpr
+##.notice--cookie
+##.m-notification-layer
+##.m-privacy-consent
+##.legal-acknowledgement:not(body):not(html)
+##.js-cookie-policy-banner
+##.j-cookieConsentPanel
+##.header-privacy-policy
+##.gfl-widget-gdpr-wrap
+##.gdpr-privacy-bar
+##.gdpr_banner
+##.gdpr_gdpr-composer-panel__toolbar
+##.gdprPopup
+##.gdpr-banner
+##.gdpr-consent
+##.gdpr-cookie-banner
+##.gdpr-cookie-wrapper
+##.gdpr-cookieNotice
+##.gdpr-cookies-hint
+##.gdpr-cookies-line
+##.gdpr-disclaimer
+##.gdpr-modal-dialog
+###consent_assist_container
+###cccenter-overlay-fixed
+###brCookieBanner
+###appx_cookie_banner_eu
+/policy_cookie.
+/gdpr-consent.
+/gdpr.js
+/gdpr.min.js
+/gdpr_footer.
+/gdpr_optout.
+##.appx-cookie-banner-eu
+##.appx-cookie-banner-us
+##.cccenter-show-banner
+##.banner--gdpr
+/EUcookie/*
+/cookie_policy/*
+##.ConsentCookie
+/avisopcgdpr.
+##.cookie-disclaimer:not(body)
+###sap-disclaimer
 ###privacy-consent
+###sitePrivacyModal
 ##.cookie-bar.cookie-gdpr
+###w-cookies-notice
+###udtCookiebox
 ###AcceptCookie
+###ws_cookie_privacy
 ###AcceptCookieContainer
 ###AcceptCookies
 ###AcceptCookiesBannerTemplate
@@ -2022,6 +2082,9 @@ www.citytv.com##.pub_300x250
 ###consent-bar
 ###consentBar
 ###consentCookieDiv
+###cookie-popup2
+###cookie-stick2
+###cookie-notification-content
 ###consent_banner
 ###consent_blackbar
 ###consentcookie
@@ -2949,8 +3012,24 @@ www.citytv.com##.pub_300x250
 ###cookie_hinweis
 ###cookie_holder
 ###cookie_info
+###cookiekezeles
+###cryout-cookies-notification
+###ct-ultimate-gdpr-cookie-popup
+###gdpr-banner
+###gdpr-box
+###gdpr-cookieNotice
+###gdpr-is-fun
+###gdpr-script
+###gdpr_banner
+###gdprc_bar
+###gdprCookieBanner
+###gdprNotice
+###gdprNotification
+###gdprpopup
+###mod-privacy-policy-banner
+###mod-privacy-policy-banner-1
+###moove_gdpr_cookie_info_bar
 ###cookie_info_area
-###cookie_info_bar
 ###cookie_info_box
 ###cookie_info_breve
 ###cookie_info_div
@@ -5524,7 +5603,7 @@ www.citytv.com##.pub_300x250
 ##.CookieDirectiveHeight
 ##.CookieDiv
 ##.CookieHint
-##.CookieInfo
+##.CookieInfo:not(html)
 ##.CookieInfoBar
 ##.CookieInfoPanel
 ##.CookieInformation
@@ -6180,8 +6259,8 @@ www.citytv.com##.pub_300x250
 ##.cookie-dialogue
 ##.cookie-directive
 ##.cookie-directive-alert
+##.cookie-policy-gdpr
 ##.cookie-directive-container
-##.cookie-disclaimer
 ##.cookie-disclaimer-banner
 ##.cookie-disclaimer-box
 ##.cookie-disclaimer-component
@@ -6796,8 +6875,10 @@ www.citytv.com##.pub_300x250
 ##.cookieheight
 ##.cookiehint
 ##.cookiehinweis
-##.cookieinfo:not(body)
+##.CookieInfoText
+##.cookiePolicyMessage
 ##.cookieinfobannerWrapper
+##.dataPrivacyOverlay
 ##.cookieinfoholder
 ##.cookieinformation
 ##.cookieinformationarea
@@ -8300,6 +8381,7 @@ www.citytv.com##.pub_300x250
 ##COOKIE-ALERT
 ##DIV[class*="pea_cook_wrapper"]
 ##DIV[id="cookieprivacy"]
+##div[id*="cookie_info_bar"]
 ##[aria-describedby="cookie-information"]
 ##[aria-describedby="dialog-eu-cookie-law"]
 ##[aria-labelledby="ui-dialog-title-cookiebox"]
@@ -8365,6 +8447,7 @@ www.citytv.com##.pub_300x250
 ##div[id="_iph_cp_popup"]
 ##div[id="cm:cookieWrapper"]
 ##div[id^="__ic-notice"]
+##div[id^="M"][id*="ScriptRootC"]
 ##div[id^="n-cookies"]
 ##div[js-cookies]
 ##div[style="min-width: 750px;"] > .gb_wb
@@ -8791,7 +8874,7 @@ www.citytv.com##.pub_300x250
 @@||inglenookproductions.com/css/website-disclaimer---cookies-policy.css
 @@||iplsc.com/*.cookiepolicy.$script
 @@||kalaydo.de^*/cookie-consent.jsc.js$domain=kalaydo.de
-@@||lightningmaps.org^*/cookieconsent.js
+@@||lightningmaps.org^*/cookieconsent.$script,stylesheet
 @@||pages03.net^*/iMAWebCookie.js$script,domain=paulstuart.com
 @@||romagnanoi.it/js/cookiecuttr/jquery.cookiecuttr.js
 @@||s-bol.com/nl/static/js/dev/widgets/cookie_notification-
@@ -9370,6 +9453,9 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||klcheck.com^
+||zmctrack.net^
+||sportslocalmedia.com^
 ||seiichiro0185.org^
 ||friendlyarm.com^
 ||hh-btr.com^
@@ -53001,6 +53087,7 @@ facebook.com##._5hn6:has(div a[role="button"][href^="/r.php?"])
 ||instagram.com/client_action
 ||instagram.com/client_error
 ||instagram.com/ajax/bz
+instagram.com##._he402
 facebookcorewwwi.onion###u_0_6c
 facebookcorewwwi.onion###u_0_6d
 facebookcorewwwi.onion###u_0_6e
@@ -53133,6 +53220,7 @@ github.com##.unsupported-browser
 !
 ! ---------- Google + Sub Services ----------
 !
+/(?=.+\/amp\/)www\.google\.[a-z]{2,3}(?:\.[a-z]{2})?\/amp\//$document
 google.*###sqh
 google.*###center_col > #\5f Emc
 google.*###center_col > #main > .dfrd > .mnr-c > .c._oc._zs
@@ -53583,6 +53671,7 @@ heise.de#@#.adbottom
 ##iframe[src^="https://s.yimg.jp/images/listing/tool/yads/yads-iframe.html"]
 ##iframe[src^="https://search2.nuriclick.co.kr/banner.php"]
 ##iframe[src^="https://syndication.exdynsrv.com/ads-iframe-display.php"]
+##iframe[src^="https://syndication.exosrv.com/ads-iframe-display.php"]
 ##iframe[src^="https://syndication.exoclick.com/ads-iframe-display.php"]
 ##iframe[src^="https://www.mxttrf.com/ads"]
 ##iframe[width="300"][height="250"]
@@ -53657,6 +53746,11 @@ yahoo.com##body:style(padding-top: 0px !important;)
 !
 ! ---------- Overlay + Element Hiding + Ads ----------
 !
+##.ad-728-top
+##.ad-300
+##.ad-728
+###responsive_ad
+###adhesion-ad
 ###AUI_A9AdsMiddleBoxTop
 ###Ad160x600_0_adchoice
 ###AdBlockDialog
@@ -54442,7 +54536,7 @@ yahoo.com##body:style(padding-top: 0px !important;)
 .net/ads/
 .net/atrk.
 .net/log.
-.net/record$xmlhttprequest
+/record_*.php?ref=$xmlhttprequest
 .net/werbung/
 .net/www/delivery/
 .net/z.gif?
@@ -54866,6 +54960,7 @@ pastebin.com###paypal-overlay
 !
 ! ---------- Reddit ----------
 !
+reddit.com##.infobar-toaster-container
 @@||redditmedia.com^$stylesheet,domain=www.reddit.com
 @@||redditstatic.com^$image,domain=www.reddit.com
 @@||redditstatic.com^$script,domain=www.reddit.com
@@ -55335,3 +55430,18 @@ crackwatch.com##div[style="margin-top: 35px; text-align: center;"]
 ##.modal-background
 ##.modal-content
 ##.box-content
+##.sticky.related-articles
+##.modal-close.modal-overlay
+###insider-popup
+##.tease-promo
+
+! Wordpress
+##.is-borderless.inline-help__button.button
+wordpress.com##.needs-offset.gridicons-help-outline.gridicon
+##.uapp-infobar.with-btn.with-icon.md-container-small.reddit-infobar
+! New Cookie banners -> GDPR
+##.bhLBPA.flash-message__MessageWrapper-iObFjJ
+
+! Login issue Facebook
+secure.showmax.com#@#.fbBtn
+secure.showmax.com#@#.socialBtns
