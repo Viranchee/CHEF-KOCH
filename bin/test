@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -e
+DIR="$(cd "$(dirname "$0")/.." && pwd)"
+
+echo "python bin/validate_checksum.py CK's-FilterList.txt"
+python "${DIR}/bin/validate_checksum.py" "${DIR}/CK's-FilterList.txt"
+
+echo "python bin/check_sorted.py CK's-FilterList.txt"
+python "${DIR}/bin/check_sorted.py" "${DIR}/CK's-FilterList.txt"
+
+echo "python bin/generate_rules.py CK's-FilterList.txt > /dev/null"
+python "${DIR}/bin/generate_rules.py" "${DIR}/CK's-FilterList.txt" > /dev/null

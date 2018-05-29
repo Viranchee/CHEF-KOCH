@@ -9274,6 +9274,8 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||EtnaMedia.net^
+||vioos.co^
 ||klcheck.com^
 ||zmctrack.net^
 ||sportslocalmedia.com^
