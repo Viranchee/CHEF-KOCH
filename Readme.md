@@ -1,4 +1,4 @@
-# CHEF-KOCH's Filter List
+# CHEF-KOCH's Filter List [![Build Status](https://travis-ci.org/CHEF-KOCH/CKs-FilterList.svg?branch=master)](https://travis-ci.org/CHEF-KOCH/CKs-FilterList)
 
 The project was created 2018 because I don't like the current known filters and I think there often outdated and _incomplete_ or inefficient, so I created my own list. My list is not restricted by any region. The overall goal is to block ads and reduce the traffic coming from the domains/websites you visit. The term 'ads' is not defined in this project because I also block cosmetically, banners and popup stuff which I think only causes useless traffic without any real-benefit.
 
