@@ -12,5 +12,6 @@ install:
 notifications:
     - false
 script:
-  - bash -c 'shellcheck bin/release bin/test'
-  - bin/test
+# https://github.com/koalaman/shellcheck
+ # - bash -c 'shellcheck bin/release bin/test'
+ # - bin/test

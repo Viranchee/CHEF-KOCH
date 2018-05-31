@@ -1154,6 +1154,7 @@ www.citytv.com##.ad_bigbox
 !
 !---------- Cloudfront (to be removed) ----------
 !
+||dpidudyah7i0b.cloudfront.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
 ||dk45agakx3yfl.cloudfront.net^
 ||dk7rftbivnkgr.cloudfront.net^
@@ -1561,7 +1562,7 @@ www.citytv.com##.ad_bigbox
 !
 ! ---------- Cookie Warnings ----------
 !
-losteria.de,metia.com#@#.cookieNotice
+##.bhLBPA.flash-message__MessageWrapper-iObFjJ
 ##.sx-cookie-consent
 ##.sncmp-app_gdpr
 ##.notice--cookie
@@ -7343,7 +7344,6 @@ losteria.de,metia.com#@#.cookieNotice
 ##.cookiemonster
 ##.cookienav
 ##.cookienote
-##.cookienotice
 ##.cookienotice-bar
 ##.cookienotice-container
 ##.cookienotification
@@ -9746,8 +9746,14 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||dreamsearch.or.kr/servlet/sadbn^
 ||dreamsearch.or.kr/servlet/shortCut^
 !
+! ---------- douploads.com ----------
+!
+##.downarea > center
+!
 ! ---------- Domains (Android, etc) ----------
 !
+||tm00.com^
+||webanalytics.tm00.com^
 ||EtnaMedia.net^
 ||vioos.co^
 ||klcheck.com^
@@ -55229,6 +55235,7 @@ crackwatch.com##div[style="margin-top: 35px; text-align: center;"]
 !s0.2mdn.net/ads
 !$("h2:contains('PROMOTED STORIES')").parent().remove();
 ##.modal-background
+##.is-active.modal
 ##.modal-content
 ##.box-content
 ##.sticky.related-articles
