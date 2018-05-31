@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): D16D117486D9E7A63606CFEB317984A7DDF194D363C5D774497D095691D07E78
+! Checksum (SHA3-256): D1CEF005A2868A795E0984B575416A32F6158CDA41BCFE8D364C2BAD45FF24FD
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-05-31	04:10:23+01:00
-! Version: 0.0.3.00
+! TimeUpdated: 2018-05-31	06:02:52+01:00
+! Version: 0.0.3.01
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -74,7 +74,7 @@ fr.romwe.com##div.banner-wrapper
 ||gzhls.at/b/ds_fb2.png$image
 ||gzhls.at/b/guterrat-2015-11.png$image
 ||gzhls.at/b/heise-coop.png$image
-||http://mms.bournemouthecho.co.uk^$script
+||mms.bournemouthecho.co.uk^$script
 ||image.macovi.de/templates/mindfactory/images/banner_artikel_zeugnis_50.jpg?ver=2$image
 ||images.druckerzubehoer.de/shop/images/system_images/nav_social-media.png$image
 ||imgur.com/b
@@ -124,9 +124,6 @@ fr.romwe.com##div.banner-wrapper
 ||rsload.net/images5/premssf.png$image
 ||rubiconproject.com^$script,important,domain=latimes.com
 ||rulu.co/cdn-cgi/apps/head/$script
-||s3-us-west-2.amazonaws.com/bww.mediagroup/veam-8-30-17-webinar-overlay-v2.2.png$image
-||s3.amazonaws.com/homad-global-configs.schneevonmorgen.com/hd-main.js$script,domain=autobild.de|chip.de|cinema.de|computerbild.de|cdnapi.kaltura.com|erdbeerlounge.de|focus.de|gamona.de|giga.de|spiegel.de|spieleaffe.de|spieletipps.de|sueddeutsche.de|t-online.de,redirect=hd-main.js
-||s3.amazonaws.com^$xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
 ||sandbox.katcr.co/static/uploads/340556.qsfd40frcilew28_n2houohdtxb.gif$image
 ||sascdn.com^$script,important,domain=autobild.de|metal-hammer.de|musikexpress.de|rollingstone.de
 ||scorecardresearch.com/beacon.js$script,important,domain=allmusic.com
@@ -149,20 +146,7 @@ fr.romwe.com##div.banner-wrapper
 ||www.buzzfeed.com/api/optimization$xmlhttprequest
 ||www.dsl-forum.de/images/1und1e.png$image
 ||www.fosshub.com/index/donateQ$subdocument
-||www.golem.de/1230/sp_2370-854695-i_rc.jpg$image
-||www.golem.de/7527/sp_2370-916020-i_rc.jpg$image
-||www.golem.de/8578/sp_2370-961617-i_rc.jpg$image
-||www.golem.de/_img/161031-sys11junior.jpg$image
-||www.golem.de/microsite/abo/minibanner_flat_620.html
-||www.golem.de/microsite/abo/minibanner_flat_620.shtml$subdocument
-||www.golem.de/microsite/abo/trial-social-s3.html
-||www.golem.de/microsite/abo/trial-social-s3.shtml$subdocument
-||www.golem.de/microsite/abo/trial-social-s7.html
-||www.golem.de/microsite/abo/trial-social-s7.shtml$subdocument
 ||www.kingbill.com/cms/upload/bilder/hilfe06.png$image
-||www.station-drivers.com/templates/allrounder-j1.6/images/footer.png$image
-||www.station-drivers.com/templates/allrounder-j1.6/images/h3-module.png$image
-||www.station-drivers.com/templates/allrounder-j1.6/images/modules/module-lt.png$image
 ||www.urbia.de/static/imgs/xhtml/banner/experten_banner_hebammen.jpg$image
 ||www.vb-audio.com/images/DonateEUR.gif$image
 ||www.vb-audio.com/images/DonateUSD.gif$image
@@ -174,6 +158,11 @@ fr.romwe.com##div.banner-wrapper
 !
 ! ---------- 3rd party ----------
 !
+||pqsfmcuzmoh.com^$third-party
+||irmfncjihlb.com^$third-party
+||pimmuter.com$popup
+||wnzzxwysay.com^$third-party
+||mvzfgknmmkjzx.com^$third-party
 sponichi.co.jp##.toast-info
 orvosilexikon.hu##.region-bottom
 zeda.nl##.activebar-container
@@ -917,6 +906,88 @@ allrecipes.com##.review-ad-space
 !
 ! ---------- Amazon ----------
 !
+||s3-us-west-2.amazonaws.com/bww.mediagroup/veam-8-30-17-webinar-overlay-v2.2.png$image
+||s3.amazonaws.com/homad-global-configs.schneevonmorgen.com/hd-main.js$script,domain=autobild.de|chip.de|cinema.de|computerbild.de|cdnapi.kaltura.com|erdbeerlounge.de|focus.de|gamona.de|giga.de|spiegel.de|spieleaffe.de|spieletipps.de|sueddeutsche.de|t-online.de,redirect=hd-main.js
+||s3.amazonaws.com^$xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
+||10bet.s3.amazonaws.com^
+||ad-amazing.com^
+||admarvel.s3.amazonaws.com^
+||ads_ad_center.s3.amazonaws.com^
+||adstracking.s3-website-us-west-1.amazonaws.com^
+||adstracking.s3-website-us-west-2.amazonaws.com^
+||adtago.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||advrts.s3.amazonaws.com^
+||adzerk.s3.amazonaws.com^
+||adzerk-www.s3.amazonaws.com^
+||airpushmarketing.s3.amazonaws.com^
+||alexa-sitestats.s3.amazonaws.com^
+||applab-sdk.amazon.com^
+||arabmistress.s3.amazonaws.com^
+||assets-hellobar-com.s3.amazonaws.com^
+||assoc-amazon.co.uk^
+||assoc-amazon.com^
+||biowebb-data.s3.amazonaws.com^
+||blamads-assets.s3.amazonaws.com^
+||bo-videos.s3.amazonaws.com^
+||bro1.s3.amazonaws.com^
+||campaign-tapad.s3.amazonaws.com^
+||cadreon.s3.amazonaws.com^
+||cd-ladsp-com.s3.amazonaws.com^
+||cdn.installationsafe.net.s3.amazonaws.com^
+||cdnpuaf.s3.amazonaws.com^
+||ce2-dev-trk.s3.amazonaws.com^
+||ce2-dev.s3.amazonaws.com^
+||chartaca.com.s3.amazonaws.com^
+||click.s3.amazonaws.com^
+||clutchmag.s3.amazonaws.com^
+||com.djinnworks.sdm.s3.amazonaws.com^
+||convertglobal.s3.amazonaws.com^
+||dban4-549565586.eu-west-1.elb.amazonaws.com^
+||demandmedia.s3.amazonaws.com^
+||deskwww.s3.amazonaws.com^
+||ec2-54-171-97-32.eu-west-1.compute.amazonaws.com^
+||ec2-54-225-149-4.compute-1.amazonaws.com^
+||ec2-54-235-183-132.compute-1.amazonaws.com^
+||ecommstats.s3.amazonaws.com^
+||entrecard.s3.amazonaws.com^
+||epowernetworktrackerimages.s3.amazonaws.com^
+||evs-hosted-14facd241e1c08.s3.amazonaws.com^
+||fls-eu.amazon.com^
+||fls-eu.amazon.de^
+||fls-fe.amazon.co.jp^
+||fls-na-amazon.com^
+||forumwarz.s3.amazonaws.com^
+||gateways.s3.amazonaws.com^
+||get-amazing-results.com^
+||getbarometer.s3.amazonaws.com^
+||getsidecar.s3.amazonaws.com^
+||gfaf-banners.s3.amazonaws.com^
+||hb-assets.s3.amazonaws.com^
+||homad-global-configs-eu-fra.schneevonmorgen.com.s3.amazonaws.com^
+||htmlads.s3.amazonaws.com^
+||html5adkit.plusmo.s3.amazonaws.com^
+||html5ads.s3.amazonaws.com^
+||iacpromotion.s3.amazonaws.com^
+||immassets.s3.amazonaws.com^
+||inneractive-assets.s3.amazonaws.com^
+||inpref.s3-external-3.amazonaws.com^
+||inpref.s3.amazonaws.com^
+||interactive-assets.s3.amazonaws.com^
+||kkastatic.s3.amazonaws.com^
+||kraken-measurements.s3.amazonaws.com^
+||livechat.s3.amazonaws.com^
+||livefyre-avatar.s3.amazonaws.com^
+||load.s3.amazonaws.com^
+||loved-by.s3.amazonaws.com^
+||rcm-de.amazon.de^
+||rcm-images.amazon.com^
+||rcm.amazon.com^
+||rich-agent.s3.amazonaws.com^
+||s3-tracking.synthasite.net.s3.amazonaws.com^
+||sana.newsinc.com.s3.amazonaws.com^
+||a6522.s3-website-us-east-1.amazonaws.com^
+!posthaven-assets.s3.amazonaws.com^
 ||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^
 ||cloudfront-labs.amazonaws.com^
 @@||amazon.*^*uedata$image
@@ -9661,6 +9732,20 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ##ins.daum_ddn_area
 ##ins[class*="ads"]
 !
+! ---------- dreamsearch.or.kr ----------
+!
+||dreamsearch.or.kr/ad/
+||dreamsearch.or.kr/adnet/
+||dreamsearch.or.kr/servlet/adBannerFloating^
+||dreamsearch.or.kr/servlet/adBanner^
+||dreamsearch.or.kr/servlet/adbnMobileBanner^
+||dreamsearch.or.kr/servlet/adbnMobileFloating^
+||dreamsearch.or.kr/servlet/adbn^
+||dreamsearch.or.kr/servlet/iadbn^
+||dreamsearch.or.kr/servlet/nateMobileServlet^
+||dreamsearch.or.kr/servlet/sadbn^
+||dreamsearch.or.kr/servlet/shortCut^
+!
 ! ---------- Domains (Android, etc) ----------
 !
 ||EtnaMedia.net^
@@ -15391,7 +15476,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||108.6.87.194.dynamic.dol.ru^
 ||109.6.87.194.dynamic.dol.ru^
 ||10bestsearch.com^
-||10bet.s3.amazonaws.com^
 ||11.6.87.194.dynamic.dol.ru^
 ||11.rtstats.com^
 ||110.6.87.194.dynamic.dol.ru^
@@ -16300,7 +16384,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||a5cee7.se^
 ||a6.msn-verif.com^
 ||a615.ac-images.myspacecdn.com^
-||a6522.s3-website-us-east-1.amazonaws.com^
 ||a69.g.akamai.net^
 ||a6ba.com^
 ||a6shd.realshieldlinked.com^
@@ -16480,7 +16563,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||ad-411.com^
 ||ad-agent.com^
 ||ad-alyzer.com^
-||ad-amazing.com^
 ||ad-annex.com^
 ||ad-balancer.at^
 ||ad-blaster.com^
@@ -17939,7 +18021,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||admarketplace.com^
 ||admarketplace.net^
 ||admarvel.com^
-||admarvel.s3.amazonaws.com^
 ||admaster.candela.com.au^
 ||admaster.com.cn^
 ||admaster.de^
@@ -18599,7 +18680,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||ads97.hpg.com.br^
 ||ads98.hpg.com.br^
 ||ads99.hpg.com.br^
-||ads_ad_center.s3.amazonaws.com^
 ||adsadult.com^
 ||adsadvertisement.org^
 ||adsafeprotected.com^
@@ -19094,7 +19174,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||adstil.indiatimes.com^
 ||adstoclick.com^
 ||adstrack.co^
-||adstracking.s3-website-us-west-1.amazonaws.com^
 ||adstream.cardboardfish.com^
 ||adstrx.com^
 ||adstudio.switchboard.com^
@@ -19135,7 +19214,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||adtag.msn.ca^
 ||adtag.sympatico.ca^
 ||adtagger.com^
-||adtago.s3.amazonaws.com^
 ||adtaily.com^
 ||adtaily.eu^
 ||adtarget.ro^
@@ -19592,7 +19670,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||advertzer.com^
 ||advglobet.com^
 ||advgoogle.com^
-||advice-ads.s3.amazonaws.com^
 ||advideo.uimserv.net^
 ||advidi.optimuum.com^
 ||advido.com^
@@ -19615,7 +19692,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||advombat.ru^
 ||advprotraffic.com^
 ||advrtice.com^
-||advrts.s3.amazonaws.com^
 ||advsecsmart.com^
 ||advserver.xyz^
 ||advspot.com^
@@ -19687,9 +19763,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||adyug.com^
 ||adz.mobi^
 ||adz.zwee.ly^
-||adzerk-www.s3.amazonaws.com^
 ||adzerk.net^
-||adzerk.s3.amazonaws.com^
 ||adzerver.com^
 ||adzhub.com^
 ||adzly.com^
@@ -20010,7 +20084,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||aimtoday.aol.com^
 ||airbrake.io^
 ||airpush.com^
-||airpushmarketing.s3.amazonaws.com^
 ||ais.abacast.com^
 ||aistat.net^
 ||aj.daniweb.com^
@@ -20053,7 +20126,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||alex.fileburst.com^
 ||alexa-gunther.us^
 ||alexa-harrod.us^
-||alexa-sitestats.s3.amazonaws.com^
 ||alexandra-bangs.us^
 ||alexandra-kraatz.us^
 ||alexandra-magruder.us^
@@ -20594,7 +20666,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||appfly.mobi^
 ||appia.com^
 ||appintop.com^
-||applab-sdk.amazon.com^
 ||applebarq.com^
 ||appledaily.apx.appier.net^
 ||appleitl.rewards-bonanza-2.com^
@@ -20652,7 +20723,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||aqueux.science^
 ||ar.hao123.com^
 ||arabadzhi.justclick.ru^
-||arabmistress.s3.amazonaws.com^
 ||araceli-crabtree.us^
 ||arachne.cz^
 ||arads.0fees.us^
@@ -20762,7 +20832,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||asset-0.tenderapp.com^
 ||asset-1.tenderapp.com^
 ||asset-2.tenderapp.com^
-||assets-hellobar-com.s3.amazonaws.com^
 ||assets-polarb-com.a.ssl.fastly.net^
 ||assets.adobedtm.com^
 ||assets.devx.com^
@@ -20775,8 +20844,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||assets.scan.me^
 ||assets1.exgfnetwork.com^
 ||assistonglobal.com^
-||assoc-amazon.co.uk^
-||assoc-amazon.com^
 ||associateprograms.com^
 ||associeta.com^
 ||associmage.match.com^
@@ -22020,7 +22087,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||bingocabin.com^
 ||bingstart.com^
 ||biopharmastore.com^
-||biowebb-data.s3.amazonaws.com^
 ||bist.ailsg.com^
 ||bit.do^
 ||bit.ehow.com^
@@ -22044,7 +22110,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||blacklightimages.com^
 ||blair-carder.us^
 ||blair-railey.us^
-||blamads-assets.s3.amazonaws.com^
 ||blamads.com^
 ||blanca-malmberg.us^
 ||blankrefer.com^
@@ -22119,7 +22184,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||bncrf.voluumtrk.com^
 ||bng3w.voluumtrk.com^
 ||bnr.sys.lv^
-||bo-videos.s3.amazonaws.com^
 ||boards2go.com^
 ||bob.crazyshit.com^
 ||bob01.bob.local.vmsn.de^
@@ -22252,7 +22316,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||brittney-larimer.us^
 ||brittny-hintze.us^
 ||brittny-vargas.us^
-||bro1.s3.amazonaws.com^
 ||broadjump.com^
 ||broadspring.com^
 ||broken-tv.com^
@@ -22537,7 +22600,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||cachetry.starware.com^
 ||cachewww.europacasino.com^
 ||cad.chosun.com^
-||cadreon.s3.amazonaws.com^
 ||cads.ch^
 ||cadvv.heraldm.com^
 ||cadvv.koreaherald.com^
@@ -22555,7 +22617,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||cameron.sexybabesx.com^
 ||camille-drennen.us^
 ||camille-gaytan.us^
-||campaign-tapad.s3.amazonaws.com^
 ||campaign.bharatmatrimony.com^
 ||campaignmonitor.com^
 ||campaigns.f2.com.au^
@@ -22685,7 +22746,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||ccstatic.highwebmedia.com^
 ||cct2.o2online.de^
 ||cd-ads.com^
-||cd-ladsp-com.s3.amazonaws.com^
 ||cdn-0.pics.dvdcdn.com^
 ||cdn-analytics.ladmedia.fr^
 ||cdn-businessweek.com^
@@ -22742,7 +22802,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||cdn.gigya.com^
 ||cdn.gms1.net^
 ||cdn.hiido.cn^
-||cdn.installationsafe.net.s3.amazonaws.com^
 ||cdn.interactivemedia.net^
 ||cdn.jdrinisocsachostdownload.com^
 ||cdn.jquerytools.org^
@@ -22868,7 +22927,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||cdneu.alcoholsoftcdn.com^
 ||cdneu.filefactscdn.com^
 ||cdnke.voluumtrk.com^
-||cdnpuaf.s3.amazonaws.com^
 ||cdnstats-a.akamaihd.net^
 ||cdntest.gand.de^
 ||cdnus.alcoholsoftcdn.com^
@@ -22878,8 +22936,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||cds2.freenet.de^
 ||cdtpiwik.us^
 ||cdu4.cduniverse.com^
-||ce2-dev-trk.s3.amazonaws.com^
-||ce2-dev.s3.amazonaws.com^
 ||ce5iz.voluumtrk.com^
 ||cebj8.voluumtrk.com^
 ||cecash.com^
@@ -22960,7 +23016,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||charlizetheron.sexybabesx.com^
 ||chart.advinion.com^
 ||chart.dk^
-||chartaca.com.s3.amazonaws.com^
 ||chartbeat.com^
 ||chartbeat.download.akamai.com^
 ||chartbeat.net^
@@ -23162,7 +23217,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||click.rateit.com^
 ||click.rontraffic.com^
 ||click.rssfwd.com^
-||click.s3.amazonaws.com^
 ||click.safe-sender.co.uk^
 ||click.scour.com^
 ||click.searchnation.net^
@@ -23424,7 +23478,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||cluster.fr.yieldbids.com^
 ||cluster.vilumirian.biz^
 ||clustrmaps.com^
-||clutchmag.s3.amazonaws.com^
 ||clz3.net^
 ||cm-cl35.fresheye.com^
 ||cm.ac3.msn.com^
@@ -23558,7 +23611,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||colline.science^
 ||colonize.com^
 ||colorfoto.digidip.net^
-||com.djinnworks.sdm.s3.amazonaws.com^
 ||com.econa.com^
 ||comagic.ru^
 ||comclick.com^
@@ -23687,7 +23739,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||conversion-tracker.com^
 ||conversion.buddymedia.com^
 ||conversionruler.com^
-||convertglobal.s3.amazonaws.com^
 ||convulse.com^
 ||cookex.amp.yahoo.com^
 ||cookie.disneylandparis.com^
@@ -24001,11 +24052,9 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||cpvlook.com^
 ||cpvtext.cpvfeed.com^
 ||cpx.acloudweb.com^
-||cpx.golem.de^
 ||cpxadroit.com^
 ||cpxcenter.com^
 ||cpxinteractive.com^
-||cpxl.golem.de^
 ||cqcounter.com^
 ||cqyoj.voluumtrk.com^
 ||cr.loszona.com^
@@ -24356,7 +24405,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||db03.ixn.local.vmsn.de^
 ||db04.ixn.local.vmsn.de^
 ||db6fz.voluumtrk.com^
-||dban4-549565586.eu-west-1.elb.amazonaws.com^
 ||dbase01.jag.vmsn.de^
 ||dbase03.jag.vmsn.de^
 ||dbbru.voluumtrk.com^
@@ -24489,7 +24537,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||delta244.rtb.appier.net^
 ||demandbase.com^
 ||demande.science^
-||demandmedia.s3.amazonaws.com^
 ||demandware.edgesuite.net^
 ||demetria-bunch.us^
 ||demetria-tickle.us^
@@ -24526,7 +24573,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||desiree-raskin.us^
 ||desiree-wold.us^
 ||desk.mspaceads.com^
-||deskwww.s3.amazonaws.com^
 ||destiny-lindenberg.us^
 ||detect.ergebnis-dienst.de^
 ||detectspywares.info^
@@ -24823,7 +24869,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||drcleaner.com^
 ||drd.hauchi.com.tw^
 ||dreamad.org^
-||dreamsearch.or.kr^
 ||dreamvip.com^
 ||drinkmy.com^
 ||drippler.helpshift.com^
@@ -24990,9 +25035,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||ec-ns.sascdn.com^
 ||ec.yimg.com^
 ||ec01c392919812c4f818-79afe539d963810002081e6e2a51e67e.ssl.cf2.rackcdn.com^
-||ec2-54-171-97-32.eu-west-1.compute.amazonaws.com^
-||ec2-54-225-149-4.compute-1.amazonaws.com^
-||ec2-54-235-183-132.compute-1.amazonaws.com^
 ||ecb.onejumpwebinc.netdna-cdn.com^
 ||ecdtrk.com^
 ||ece5stats1.theglobeandmail.com^
@@ -25007,7 +25049,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||eclkmpsa.com^
 ||eclkspbn.com^
 ||eclkspsa.com^
-||ecommstats.s3.amazonaws.com^
 ||econda.web.de^
 ||ecoupons.com^
 ||ecpm.com^
@@ -25166,7 +25207,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||entertaindesktop.com^
 ||entireadult.com^
 ||entk.net^
-||entrecard.s3.amazonaws.com^
 ||entrepreneur.com^
 ||entry-stats.huffpost.com^
 ||environment.searchwho.com^
@@ -25181,7 +25221,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||eplayer.clipsyndicate.com^
 ||epmads.com^
 ||epomads2.4shared.com^
-||epowernetworktrackerimages.s3.amazonaws.com^
 ||eprofile.uimserv.net^
 ||eps-analyzer.de^
 ||epxkb8zz4ssdv7b.global.ssl.fastly.net^
@@ -25343,7 +25382,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||evisit.exeter.ac.uk^
 ||evisitcs2.com^
 ||evklj.voluumtrk.com^
-||evs-hosted-14facd241e1c08.s3.amazonaws.com^
 ||evtsl.voluumtrk.com^
 ||ewebcounter.com^
 ||ewordofmouth.com^
@@ -25715,10 +25753,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||flom.net^
 ||floppybank.com^
 ||flowgo.com^
-||fls-eu.amazon.com^
-||fls-eu.amazon.de^
-||fls-fe.amazon.co.jp^
-||fls-na-amazon.com^
 ||flttracksecure.com^
 ||flu.secureintl.com^
 ||fluentmobile.com^
@@ -25763,7 +25797,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||forrestersurveys.com^
 ||forsale.dnparking.com^
 ||forum-fok.digidip.net^
-||forumwarz.s3.amazonaws.com^
 ||forvideo.at^
 ||forwardleo.justclick.ru^
 ||fotocommunity.digidip.net^
@@ -25981,7 +26014,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||gate.hockeyapp.net^
 ||gateway-banner.eravage.com^
 ||gateway.fortunelounge.com^
-||gateways.s3.amazonaws.com^
 ||gatewaytracker.com^
 ||gather.hankyung.com^
 ||gator.com^
@@ -26152,7 +26184,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||geraldine-arpin.us^
 ||german-linkindex.de^
 ||get-access.host.sk^
-||get-amazing-results.com^
 ||get-answers-fast.com^
 ||get-antispyware.5u.com^
 ||get-information.com^
@@ -26171,7 +26202,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||get1.0111design.info^
 ||get2buynow.com^
 ||getabadmate.com^
-||getbarometer.s3.amazonaws.com^
 ||getclicky.com^
 ||getdetails02.sim-technik.de^
 ||getdirect.ru^
@@ -26192,11 +26222,9 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||getrockerbox.com^
 ||gets.faz.net^
 ||getsatisfaction.com^
-||getsidecar.s3.amazonaws.com^
 ||getstatistics.se^
 ||getxpay.biz^
 ||geverons.justclick.ru^
-||gfaf-banners.s3.amazonaws.com^
 ||gfrsz.voluumtrk.com^
 ||gft2.de^
 ||gfx.infomine.com^
@@ -26518,7 +26546,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||hayley-mund.us^
 ||hayley-xiong.us^
 ||haz.moarclicks.com^
-||hb-assets.s3.amazonaws.com^
 ||hb.justclick.ru^
 ||hbb.concentra.be^
 ||hbho0.voluumtrk.com^
@@ -26718,7 +26745,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||hollie-ohagan.us^
 ||holly-mix.us^
 ||holly-whitlow.us^
-||homad-global-configs-eu-fra.schneevonmorgen.com.s3.amazonaws.com^
 ||homad-global-configs.schneevonmorgen.com^
 ||home-internet-cash.com^
 ||home-remodeling.com^
@@ -26828,9 +26854,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||html.knbc.com^
 ||html.nbc10.com^
 ||html.wnbc.com^
-||html5adkit.plusmo.s3.amazonaws.com^
 ||html5zombo.com^
-||htmlads.s3.amazonaws.com^
 ||htmlcounter.com^
 ||htmldialer.parisvoyeur.com^
 ||htmonster.com^
@@ -26933,7 +26957,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||i_sbitinbsjs_info.tlscdn.com^
 ||ia.iinfo.cz^
 ||ia1.sftcdn.net^
-||iacpromotion.s3.amazonaws.com^
 ||iad.anm.co.uk^
 ||iadc.qwapi.com^
 ||iadctest.qwapi.com^
@@ -27258,7 +27281,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||imimobile.com^
 ||imln5.voluumtrk.com^
 ||immanalytics.com^
-||immassets.s3.amazonaws.com^
 ||immediate.mob-alerts15.com^
 ||imonitor.dhgate.com^
 ||imonitor.nethost.cz^
@@ -27350,10 +27372,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||inndl.com^
 ||inner-active.com^
 ||inner-active.mobi^
-||inneractive-assets.s3.amazonaws.com^
 ||innocentflowers.com^
-||inpref.s3-external-3.amazonaws.com^
-||inpref.s3.amazonaws.com^
 ||inquiries.redhat.com^
 ||inquiry.shop.xerox.com^
 ||inringtone.com^
@@ -27407,7 +27426,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||intellinetz.com^
 ||intelliseek.com^
 ||intellitxt.com^
-||interactive-assets.s3.amazonaws.com^
 ||interactive.forthnet.gr^
 ||interclick.com^
 ||intergi.com^
@@ -28037,7 +28055,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||kjos.vo.llnwd.net^
 ||kjswp.voluumtrk.com^
 ||kka.agitos.de^
-||kkastatic.s3.amazonaws.com^
 ||kleiderkreisel.digidip.net^
 ||klick.retailerweb.net^
 ||klick4u.de^
@@ -28074,7 +28091,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||kpicentral.com^
 ||kqram.voluumtrk.com^
 ||kr-adimage.lycos.co.kr^
-||kraken-measurements.s3.amazonaws.com^
 ||kraken.giantrealm.com^
 ||krater.iprom.net^
 ||krissy-garret.us^
@@ -28501,11 +28517,9 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||liveadvert.com^
 ||livecamgirls.streamray.com^
 ||livecams.nl^
-||livechat.s3.amazonaws.com^
 ||livecounter.dk^
 ||livecursors.dev.cometsystems.com^
 ||livedelivery.com^
-||livefyre-avatar.s3.amazonaws.com^
 ||liveintent.com^
 ||liveinternet.ru^
 ||livejasmin.com^
@@ -28560,7 +28574,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||lnwns.voluumtrk.com^
 ||lnx.lu^
 ||lo2.me^
-||load.s3.amazonaws.com^
 ||loading1.widdit.com^
 ||loading321.com^
 ||loanlinks.com^
@@ -28705,7 +28718,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||louis-barclay.us^
 ||louise-poulsen.us^
 ||lovecam.com.br^
-||loved-by.s3.amazonaws.com^
 ||loxtk.com^
 ||lp.amateurcommunity.com^
 ||lp.babbel.com^
@@ -32350,9 +32362,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||rce.veeseo.com^
 ||rcgi.video.qq.com^
 ||rcldn.com^
-||rcm-de.amazon.de^
-||rcm-images.amazon.com^
-||rcm.amazon.com^
 ||rcp.c.appier.net^
 ||rcpmf.voluumtrk.com^
 ||rcsmetrics.it^
@@ -32662,7 +32671,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||rhvtt.voluumtrk.com^
 ||ribbon.india.com^
 ||ricardo-grier.us^
-||rich-agent.s3.amazonaws.com^
 ||richelle-crandell.us^
 ||richfind.com^
 ||richmails.com^
@@ -32899,7 +32907,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||s2d6.com^
 ||s2hd-plugincom-maynemyltf.netdna-ssl.com^
 ||s2wrw.voluumtrk.com^
-||s3-tracking.synthasite.net.s3.amazonaws.com^
 ||s3.images.proboards.com^
 ||s3.qckads.com^
 ||s3bvd.voluumtrk.com^
@@ -32961,7 +32968,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||samsclub.r.delivery.net^
 ||samtrack1.com^
 ||sana.newsinc.com^
-||sana.newsinc.com.s3.amazonaws.com^
 ||sandbox-elb.beintoo.com^
 ||sandra-tester.us^
 ||sandra.sexybabesx.com^
@@ -53037,8 +53043,24 @@ github.com##.unsupported-browser
 ||github.io^$third-party,websocket,domain=~github.com|~tumblr.com
 ||github.io^$third-party,xmlhttprequest,domain=~github.com|~tumblr.com
 !
+! ---------- Golem.de ----------
+!
+||cpx.golem.de^
+||cpxl.golem.de^
+||www.golem.de/1230/sp_2370-854695-i_rc.jpg$image
+||www.golem.de/7527/sp_2370-916020-i_rc.jpg$image
+||www.golem.de/8578/sp_2370-961617-i_rc.jpg$image
+||www.golem.de/_img/161031-sys11junior.jpg$image
+||www.golem.de/microsite/abo/minibanner_flat_620.html
+||www.golem.de/microsite/abo/minibanner_flat_620.shtml$subdocument
+||www.golem.de/microsite/abo/trial-social-s3.html
+||www.golem.de/microsite/abo/trial-social-s3.shtml$subdocument
+||www.golem.de/microsite/abo/trial-social-s7.html
+||www.golem.de/microsite/abo/trial-social-s7.shtml$subdocument
+!
 ! ---------- Google + Sub Services ----------
 !
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=skylinewebcams.com,important
 /(?=.+\/amp\/)www\.google\.[a-z]{2,3}(?:\.[a-z]{2})?\/amp\//$document
 google.*###sqh
 google.*###center_col > #\5f Emc
@@ -54762,7 +54784,7 @@ reddit.com##.recommended-link
 ||redditstatic.com/recommended-link.*$important
 ||tracker.redditmedia.com^
 !
-! ---------- Share Buttons ----------
+! ---------- Share Buttons (gets separated) ----------
 !
 ###smart-app-banner
 ###SocialMediaIconsID
@@ -54927,10 +54949,19 @@ reddit.com##.recommended-link
 ##KNO-SHARE-BUTTON
 ##[title="Follow me on LinkedIn"]
 ##div[class$="_social_icons_widget"]
-/follow-with-google-
-/share_buttons_
-/social-core-$image
-/socialcore-$image
+!
+! ---------- Station-Drivers.com----------
+!
+||www.station-drivers.com/templates/allrounder-j1.6/images/footer.png$image
+||www.station-drivers.com/templates/allrounder-j1.6/images/h3-module.png$image
+||www.station-drivers.com/templates/allrounder-j1.6/images/modules/module-lt.png$image
+!
+! ---------- The PirateBay ----------
+!
+thepiratebay.org##div#sky-banner
+thepiratebay.org##div#sky-center
+thepiratebay.org##div#sky-right
+thepiratebay.org##iframe[src^="//thepiratebay.org/static/ads/"]
 !
 ! ---------- Twitter ----------
 !
