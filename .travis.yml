@@ -9,9 +9,6 @@ install:
   - if [[ "$TRAVIS_PYTHON_VERSION" == '2.6' ]]; then
       pip install -r requirements26.txt;
     fi
-notifications:
-    - false
 script:
-# https://github.com/koalaman/shellcheck
- # - bash -c 'shellcheck bin/release bin/test'
- # - bin/test
+  - bash -c 'shellcheck bin/release bin/test'
+  - bin/test
