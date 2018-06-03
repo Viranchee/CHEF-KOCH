@@ -1,0 +1,26 @@
+! Title: CHEF-KOCH's Emoji Filter List
+! Description: Filters emotes. Can it filter text emotes ¯\_(ツ)_/¯ - nope.
+! Checksum (SHA3-256): 2986501B0C4EEEE4BF42768BED953D331E197BCDC836EE1A7F85F44275C48268
+! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
+! Expires: 14d
+! TimeUpdated: 2018-06-04	01:43:43+01:00
+! Version: 0.0.0.1
+! Please report any unblocked content or problems by email or via GitHub issue page.
+! Email: CHEF-KOCH@protonmail.com
+! Copyright (C) 2018 by CHEF-KOCH
+!
+! ---------- Emoji ----------
+!
+/emoji.$script,stylesheet
+/emojiFace.$script
+/emojiarea.$script
+/emojify.$script
+/emojione.$script,stylesheet
+/images/*emoji/*
+/lsxemojipicker.$script
+/wp-emoji$script,stylesheet
+/wp-embed.min.js
+/jquery.emojiarea.css.$script
+||twemoji.maxcdn.com^
