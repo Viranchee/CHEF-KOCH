@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): D1CEF005A2868A795E0984B575416A32F6158CDA41BCFE8D364C2BAD45FF24FD
+! Checksum (SHA3-256): B04EF3CBEF1A99DDE6C239F2BF5A12E05EF4D7856885FBBD157287CC31BC342C
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-05-31	06:02:52+01:00
-! Version: 0.0.3.01
+! TimeUpdated: 2018-06-03	19:029:13+01:00
+! Version: 0.0.3.02
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -16,6 +16,9 @@
 !
 ! ---------- 1st party blocking rules ----------
 !
+tvtropes.org##.social-foot
+tvtropes.org##.social-item
+leo.org##.app-footer-content
 yify-torrent.xyz,ytsyify.com##script:inject(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 indiatimes.com##style[type="text/css"] + div[class]
 /detectizr.$script,important
@@ -609,8 +612,6 @@ _728_90.
 /tizers3.
 /tizers_
 /tizshow.
-@@||cloudfront.net/assets/$script,third-party
-@@||cloudfront.net/gp/$script,third-party
 @@||s3.amazonaws.com^$xmlhttprequest,domain=travis-ci.org
 luxor.co.at##.info
 outbrain$script
@@ -1154,6 +1155,9 @@ www.citytv.com##.ad_bigbox
 !
 !---------- Cloudfront (to be removed) ----------
 !
+@@||cloudfront.net/assets/$script,third-party
+@@||cloudfront.net/gp/$script,third-party
+||d36mpcpuzc4ztk.cloudfront.net^
 ||dpidudyah7i0b.cloudfront.net^
 ||dk2mvwe4uw0z3.cloudfront.net^
 ||dk45agakx3yfl.cloudfront.net^
@@ -1562,6 +1566,17 @@ www.citytv.com##.ad_bigbox
 !
 ! ---------- Cookie Warnings ----------
 !
+/remote-gdpr.
+/sdk-gdpr.
+###cookieGdpr
+##.riquadroAvvisoPrivacy
+##.guj-cb
+##.gdpr-bar
+##.cookie--visible
+###cookies_popup_container
+###jsCookieConsent
+###fp-gdpr-bar
+##.puppet-cookie-banner
 ##.bhLBPA.flash-message__MessageWrapper-iObFjJ
 ##.sx-cookie-consent
 ##.sncmp-app_gdpr
@@ -9752,6 +9767,37 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||ram.amunx.de^
+||cm.adsafety.net^
+||tags.adsafety.net^
+||static-tagr.gd1.mookie1.com^
+||ams1-ib.adnxs.com^
+||exactag.com^
+||clgserv.pro^
+||medocow.com^
+||ylx-3.com^
+||adashx4ae.ut.taobao.com^
+||adobeconsumer.sc.omtrdc.net^
+||ads.penreader.com^
+||ads.samsungads.com^
+||adservice.google.it^
+||analytics.valuepotion.com^
+||antosmirnov.name^
+||api.appnimator.com^
+||api.appodeal.com^
+||api.pubnative.net^
+||api.w.inmobi.com^
+||apipool.zhugeio.com^
+||auth2.ff.avast.com^
+||c.adexchangemachine.com^
+||gogergyxl.com^
+||www.gogergyxl.com^
+||sudvzfgrmt.com^
+||www.sudvzfgrmt.com^
+||tuxdipdej.com^
+||www.tuxdipdej.com^
+||zevszinklxyf.com^
+||www.zevszinklxyf.com^
 ||tm00.com^
 ||webanalytics.tm00.com^
 ||EtnaMedia.net^
@@ -53066,6 +53112,170 @@ github.com##.unsupported-browser
 !
 ! ---------- Google + Sub Services ----------
 !
+###publicGoogleAd
+###photo_ad_google
+###p-googlead
+###p-googleadsense
+###p-googleadsense-portletlabel
+###google-ad
+###google-ad-art
+###google-ad-table-right
+###google-ad-tower
+###google-ads
+###google-ads-bottom
+###google-ads-bottom-container
+###google-ads-container
+###google-ads-container1
+###google-ads-header
+###google-ads-left-side
+###google-adsense
+###google-adsense-for-content
+###google-adsense-mpusize
+###google-adv-728x90
+###google-adwords
+###google-afc
+###google-post-ad
+###google-post-adbottom
+###google-top-ads
+###google336x280
+###google468x60
+###googleAd
+###googleAdArea
+###googleAdBottom
+###googleAdBox
+###googleAdMid
+###googleAdSenseAdRR
+###googleAdTop
+###googleAdView
+###googleAdYarrp
+###googleAd_words
+###googleAds
+###googleAdsFrame
+###googleAdsSml
+###googleAdsense
+###googleAdsenseAdverts
+###googleAdsenseBanner
+###googleAdsenseBannerBlog
+###googleAdwordsModule
+###googleAfcContainer
+###googleSearchAds
+###googleShoppingAdsRight
+###googleShoppingAdsTop
+###googleSubAds
+###googleTxtAD
+###google_ad
+###google_ad_468x60_contnr
+###google_ad_EIRU_newsblock
+###google_ad_below_stry
+###google_ad_container
+###google_ad_container_right_side_bar
+###google_ad_inline
+###google_ad_test
+###google_ad_top
+###google_ads
+###google_ads_1
+###google_ads_aCol
+###google_ads_box
+###google_ads_div_Blog_300
+###google_ads_div_Front-160x600
+###google_ads_div_Raw_Override
+###google_ads_div_Second_160
+###google_ads_div_header1
+###google_ads_div_header2
+###google_ads_div_video_wallpaper_ad_container
+###google_ads_frame
+###google_ads_frame1_anchor
+###google_ads_frame2_anchor
+###google_ads_frame3_anchor
+###google_ads_frame4_anchor
+###google_ads_frame5_anchor
+###google_ads_frame6_anchor
+###google_ads_frame_quad
+###google_ads_frame_vert
+###google_ads_test
+###google_ads_top
+###google_ads_wide
+###google_adsense
+###google_adsense_ad
+###google_adsense_home_468x60_1
+###google_textlinks
+###googlead
+###googlead-leaderboard
+###googlead-left
+###googlead-post-mpu
+###googlead-sidebar-middle
+###googlead-sidebar-top
+###googlead01
+###googlead1
+###googlead2
+###googlead_outside
+###googleadbig
+###googleadds
+###googleadleft
+###googleads
+###googleads1
+###googleads_h_injection
+###googleads_mpu_injection
+###googleadsense
+###googleadsense300x250
+###googleadsrc
+###googleadstop
+###googlebanner
+###googleblock300
+###googlesponsor
+###googletextads
+###GOOGLEADS_BOT
+###GOOGLEADS_CENTER
+###GOOGLE_ADS_13
+###GOOGLE_ADS_151
+###GOOGLE_ADS_16
+###GOOGLE_ADS_2
+###GOOGLE_ADS_49
+###GOOGLE_ADS_56
+###GOOGLE_ADS_94
+###GoogleADthree
+###GoogleAd
+###GoogleAd1
+###GoogleAd2
+###GoogleAd3
+###GoogleAdExploreMF
+###GoogleAdRight
+###GoogleAdTop
+###GoogleAds250X200
+###GoogleAdsPlaceHolder
+###GoogleAdsPresentationControl
+###GoogleAdsense
+###GoogleAdsenseMerlinWrapper
+###GoogleLeaderBoardAdUnit
+###GoogleLeaderBoardAdUnitSeperator
+###GoogleRelatedAds
+###GoogleSponsored
+###Google_Adsense_Main
+###LS-google-ad
+###TopGoogleCustomAd
+###ad-google-chrome-sidebar
+###ad-googleAdSense
+###adGoogleText
+###ad_google_content336
+###ad_googlebanner_160x600LH
+###ads-by-google
+###ads-google
+###adsGooglePos
+###adv-google
+###adv_google_300
+###adv_google_728
+###advertiseGoogle
+###advertismentgoogle
+###bannerGoogle
+###bottomGoogleAds
+###box-googleadsense-1
+###box-googleadsense-r
+###d4_ad_google02
+###block-google-ads
+###div_googlead
+###dnn_googleAdsense_a
+###footer-ad-google
+###footerGoogleAd
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=skylinewebcams.com,important
 /(?=.+\/amp\/)www\.google\.[a-z]{2,3}(?:\.[a-z]{2})?\/amp\//$document
 google.*###sqh
@@ -53472,6 +53682,15 @@ heise.de#@#.adbottom
 !
 ! ---------- Yahoo ----------
 !
+/yahoo-ad-
+/yahoo-ads/*
+/yahoo/ads.
+/yahoo_overture.
+/YahooAd_
+/yahooads.
+/yahooads/*
+/yahooadsapi.
+/yahooadsobject.
 mail.yahoo.com###theAd
 yahoo.com###community-bar
 yahoo.com###danafarberpromo
@@ -53536,15 +53755,23 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ||medium.com/_/api/users/*/writing-velocity$xmlhttprequest
 ||medium.com/_/batch$xmlhttprequest
 !
+! ---------- Overclock.net ----------
+!
+www.overclock.net##section:nth-of-type(2)
+!
 ! ---------- Overlay + Element Hiding + Ads ----------
 !
+##.theiaStickySidebar.sidebar
 ##.ins_rhscont300
 ##.adcont
+##.adCont
 ##.ad728_cont
 ###ad_300x250
 ##.ad-728-top
 ##.ad-300
 ##.ad-728
+##.ad-728_cont
+##.ins_rhscont300
 ###responsive_ad
 ###adhesion-ad
 ###AUI_A9AdsMiddleBoxTop
@@ -54284,6 +54511,27 @@ yahoo.com##body:style(padding-top: 0px !important;)
 -werb_hori.
 -werb_vert.
 -werbebanner.
+/ram/ads/*
+/randomad.
+/randomad120x600nsfw.
+/randomad160x600nsfw.
+/randomad2.
+/randomad300x250nsfw.
+/randomad728x90nsfw.
+/randomad_
+/randomads.
+/rawtubelivead.
+/rcolads1.
+/rcolads2.
+/rcom-ads-
+/rcom-ads.
+/realmedia/ads/*
+/realmedia_banner.
+/realmedia_banner_
+/realmedia_mjx.
+/realmedia_mjx_
+/reclama/*
+/reclame/*
 .1d/Ads/
 .adbutler-
 .adrotate.
@@ -54343,6 +54591,7 @@ yahoo.com##body:style(padding-top: 0px !important;)
 /1x1transparent.gif
 /?file=ads&
 /?metric=
+/affiliate/*$domain=ndtv.com
 /AdblockMessage.
 /AdvertisingModule.
 /Count.cgi?
@@ -55177,6 +55426,29 @@ wolframalpha.com###sponsor-ad
 !
 ! ---------- Wordpress ----------
 !
+/wp-bannerize-
+/wp-bannerize.
+/wp-bannerize/*
+/wp-content/ads/*
+/wp-content/mbp-banner/*
+/wp-content/plugins/amazon-product-in-a-post-plugin/*
+/wp-content/plugins/automatic-social-locker/*
+/wp-content/plugins/banner-manager/*
+/wp-content/plugins/bhcb/lock.js
+/wp-content/plugins/bookingcom-banner-creator/*
+/wp-content/plugins/bookingcom-text2links/*
+/wp-content/plugins/fasterim-optin/*
+/wp-content/plugins/m-wp-popup/*$~stylesheet
+/wp-content/plugins/platinumpopup/*
+/wp-content/plugins/useful-banner-manager/*
+/wp-content/plugins/wp-bannerize/*
+/wp-content/plugins/wp-super-popup-pro/*
+/wp-content/plugins/wp-super-popup/*$~stylesheet
+/wp-content/uploads/useful_banner_manager_banners/*
+/wp-popup-scheduler/*
+/wp-srv/ad/*
+/wp_ad_250_
+/wp_pro_ad_system/*
 wordpress.com###bit
 wordpress.com###masthead:style(position: absolute !important;)
 wordpress.com##.is-invisible.is-fixed.masterbar:style(position: absolute !important;)
@@ -55234,14 +55506,14 @@ crackwatch.com##div[id^="\31"]
 crackwatch.com##div[style="margin-top: 35px; text-align: center;"]
 !s0.2mdn.net/ads
 !$("h2:contains('PROMOTED STORIES')").parent().remove();
-##.modal-background
-##.is-active.modal
-##.modal-content
-##.box-content
-##.sticky.related-articles
-##.modal-close.modal-overlay
-###insider-popup
-##.tease-promo
+!##.modal-background
+!##.is-active.modal
+!##.modal-content
+!##.box-content
+!##.sticky.related-articles
+!##.modal-close.modal-overlay
+!###insider-popup
+!#.tease-promo
 
 ! Wordpress
 ##.is-borderless.inline-help__button.button
@@ -55253,3 +55525,6 @@ wordpress.com##.needs-offset.gridicons-help-outline.gridicon
 ! Login issue Facebook
 secure.showmax.com#@#.fbBtn
 secure.showmax.com#@#.socialBtns
+
+! Adblock detection
+@@||fztvseries.mobi^$generichide,app=chrome.exe|firefox.exe|vivaldi.exe
