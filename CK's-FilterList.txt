@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): B04EF3CBEF1A99DDE6C239F2BF5A12E05EF4D7856885FBBD157287CC31BC342C
+! Checksum (SHA3-256): 9A555C1E49E49782896187E507F82C49C16516DC644FF2797EBE19F653F9B67A
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-03	19:029:13+01:00
-! Version: 0.0.3.02
+! TimeUpdated: 2018-06-04	21:24:19+01:00
+! Version: 0.0.3.03
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -9768,6 +9768,8 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||wywy.com^
+||analyze.wywy.com^
 ||ram.amunx.de^
 ||cm.adsafety.net^
 ||tags.adsafety.net^

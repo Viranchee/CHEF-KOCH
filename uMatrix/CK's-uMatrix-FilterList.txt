@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's uMatrix Filter List
 ! Description: A comprehensive, all-in-one domain list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): A191B48979FC2E067FDB11ABD43BFDA063EB105EA4E850FB32835BDE38502820
+! Checksum (SHA3-256): 9F514784518E52D8C47231BA198440D791A9D981B35B665C3AE16AF8BFD345FB
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-23	18:16:59+01:00
-! Version: 0.0.0.7
+! TimeUpdated: 2018-06-04	21:22:19+01:00
+! Version: 0.0.0.8
 ! Please report any unblocked content or problems by email or via GitHub issue
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -29,6 +29,75 @@
 !
 ! ---------- uMatrix ----------
 !
+0.0.0.0   1kdailyprofit.biz
+0.0.0.0   1kdailyprofit.co
+0.0.0.0   abcd7777.com
+0.0.0.0   abcdnf.com
+0.0.0.0   ad2up.com
+0.0.0.0   adfuture.cn
+0.0.0.0   adsunflower.com
+0.0.0.0   advmob.cn 
+0.0.0.0   akamoihd.net
+0.0.0.0   andr-security.com
+0.0.0.0   apple-safari.info
+0.0.0.0   ashleyrnadison.com
+0.0.0.0   b3stm0b1l3.com
+0.0.0.0   biosagentplus.com
+0.0.0.0   com-internet.online
+0.0.0.0   cookiereports.com
+0.0.0.0   davesbestdeals.com
+0.0.0.0   donation-tools.org
+0.0.0.0   digitaloptout.com
+0.0.0.0   elbacom.com
+0.0.0.0   edatasales.com
+0.0.0.0   epicunitscan.info
+0.0.0.0   facebookprofileview.com
+0.0.0.0   ffdns.net
+0.0.0.0   gettop.info
+0.0.0.0   giftcards4fans.com 
+0.0.0.0   globaloffers.link
+0.0.0.0   googe.com
+0.0.0.0   googele.com
+0.0.0.0   gonirola.com
+0.0.0.0   gotoout.ml
+0.0.0.0   hoholikik.club
+0.0.0.0   intimglobus.ru
+0.0.0.0   ironbeast.io
+0.0.0.0   iubenda.com
+0.0.0.0   iphoneoptimizer.com
+0.0.0.0   jianbaimei.com.cname.yunjiasu-cdn.net
+0.0.0.0   jldnphwwu.bid
+0.0.0.0   jesus2020.com
+0.0.0.0   lhzbdvm.com
+0.0.0.0   m1ll1c4n0.com 
+0.0.0.0   madmimi.com
+0.0.0.0   minaraca.com
+0.0.0.0   myfood.ltd
+0.0.0.0   myxns.cn
+0.0.0.0   onlinesurveydaily.com
+0.0.0.0   oc.uk
+0.0.0.0   prugskh.com
+0.0.0.0   prugskh.net
+0.0.0.0   reimageplus.com
+0.0.0.0   reliablesurfingext.biz
+0.0.0.0   retreatoftheretreat.site
+0.0.0.0   safari-code.net
+0.0.0.0   searchnet.com
+0.0.0.0   searchtabnew.com
+0.0.0.0   simplebookmark.info
+0.0.0.0   site360.org.uk
+0.0.0.0   solvusoft.com
+0.0.0.0   surveyrouter.com
+0.0.0.0   servicekgbfit.us
+0.0.0.0   taosha.cc
+0.0.0.0   toogle.com
+0.0.0.0   trumpetedextremes.com
+0.0.0.0   wwu-natwiest.com #Typo
+0.0.0.0   wwwp.link
+0.0.0.0   xyz.com.br
+0.0.0.0   zief.pl
+0.0.0.0   znznznznzn.com
+0.0.0.0   zorwrite.com
 0.0.0.0   adashx4ae.ut.taobao.com
 0.0.0.0   adobeconsumer.sc.omtrdc.net
 0.0.0.0   ads.penreader.com

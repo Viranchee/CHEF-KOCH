@@ -13,6 +13,8 @@
 #
 # ---------- Ad & Tracker ----------
 #
+0.0.0.0  wywy.com
+0.0.0.0  analyze.wywy.com
 0.0.0.0  ram.amunx.de
 0.0.0.0  cm.adsafety.net
 0.0.0.0  tags.adsafety.net

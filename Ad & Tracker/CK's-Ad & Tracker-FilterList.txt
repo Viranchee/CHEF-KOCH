@@ -13,6 +13,8 @@
 !
 ! ---------- Ad & Tracker ----------
 !
+||wywy.com^
+||analyze.wywy.com^
 ||ram.amunx.de^
 ||cm.adsafety.net^
 ||tags.adsafety.net^
