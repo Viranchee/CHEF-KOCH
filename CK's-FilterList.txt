@@ -53764,6 +53764,10 @@ www.overclock.net##section:nth-of-type(2)
 !
 ! ---------- Overlay + Element Hiding + Ads ----------
 !
+##._3xSNkKTZcwaNfyU27Wwdzx
+##._1ouSF3xnwUjIOquxopuxSZ
+##div.uk-text-center.uk-margin-bottom.uk-width-1-1:nth-of-type(2)
+##.uk-grid > div.uk-text-center.uk-margin-bottom.uk-width-1-1:nth-of-type(1)
 ##.theiaStickySidebar.sidebar
 ##.ins_rhscont300
 ##.adcont

@@ -13,6 +13,8 @@
 !
 ! ---------- Ad & Tracker ----------
 !
+||12.pt^
+||🔗.12.pt^
 ||wywy.com^
 ||analyze.wywy.com^
 ||ram.amunx.de^
