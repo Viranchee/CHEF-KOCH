@@ -61,14 +61,14 @@
 ! ---------- Block all downloadable fonts ----------
 !
 ||$font
-!||fonts.googleapis.com/css?
-@@octicons-regular-webfont-*.woff$font,domain=fontello.com
-@@octicons-regular-webfont-*.woff$font,domain=github.com
-@@pictos-web.woff$font,domain=sourceforge.net
 !
 ! ---------- Whitelist ----------
 !
 @@||amazonaws.com^$font,domain=play.spotify.com
+!||fonts.googleapis.com/css?
+@@octicons-regular-webfont-*.woff$font,domain=fontello.com
+@@octicons-regular-webfont-*.woff$font,domain=github.com
+@@pictos-web.woff$font,domain=sourceforge.net
 !
 !
 ! ---------- Test ----------
