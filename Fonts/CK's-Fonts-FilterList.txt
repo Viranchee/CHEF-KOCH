@@ -1,18 +1,20 @@
 ! Title: CHEF-KOCH's Fonts Filter List
 ! Description: Block all external Fonts.
-! Checksum (SHA3-256): 6A247C6EE194ABEEBB5640610204485138DF1EECA4D01EAA045D9E0569D2ADF4
+! Checksum (SHA3-256): 192D85421A25D0677C264F6917DA293C6534402FC5339DB221383E6730ACE771
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-06-02	23:44:02+01:00
-! Version: 0.0.0.4
+! TimeUpdated: 2018-06-05	04:03:51+01:00
+! Version: 0.0.0.5
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
 ! OS level font blocking: 
 ! https://docs.microsoft.com/en-us/windows/security/threat-protection/block-untrusted-fonts-in-enterprise
 ! https://blogs.technet.microsoft.com/secguide/2017/06/15/dropping-the-untrusted-font-blocking-setting/
+! https://miranj.in/blog/2015/collateral-damage
+! https://news.ycombinator.com/item?id=10326450
 !
 ! ---------- Fonts ----------
 !
@@ -26,13 +28,13 @@
 ||edgewebfonts.adobe.com^$font,third-party
 ||fast.fonts.com^$third-party
 ||fast.fonts.net^$third-party
+||fonts.wennermedia.com^$third-party
 ||fastly.net^$font,third-party
 ||fontawesome.com^$third-party
 ||fontdeck.com^$third-party
 ||fonts.advance.net^$third-party
 ||fonts.bauernet.me^
 ||fonts.condenast.com^$script,third-party
-!||fonts.googleapis.com/css?
 ||fonts.gotraffic.net^$script
 ||fonts.gstatic.com^$third-party
 ||fonts.nymag.com^$script,third-party
@@ -55,6 +57,14 @@
 ||use.fonticons.com^$third-party
 ||webfonts.creativecloud.com^$third-party
 ||wp.com^*/fonts/$third-party
+!
+! ---------- Block all downloadable fonts ----------
+!
+||$font
+!||fonts.googleapis.com/css?
+@@octicons-regular-webfont-*.woff$font,domain=fontello.com
+@@octicons-regular-webfont-*.woff$font,domain=github.com
+@@pictos-web.woff$font,domain=sourceforge.net
 !
 ! ---------- Whitelist ----------
 !
