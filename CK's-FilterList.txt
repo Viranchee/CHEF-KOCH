@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 9A555C1E49E49782896187E507F82C49C16516DC644FF2797EBE19F653F9B67A
+! Checksum (SHA3-256): 8368D22215448091F9BA899F3A7825899BC07C319970B0815516CEF7F78EBFA9
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-04	21:24:19+01:00
-! Version: 0.0.3.03
+! TimeUpdated: 2018-06-08	00:52:57+01:00
+! Version: 0.0.3.04
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -55048,9 +55048,7 @@ reddit.com##.recommended-link
 !
 ! ---------- Station-Drivers.com----------
 !
-||www.station-drivers.com/templates/allrounder-j1.6/images/footer.png$image
-||www.station-drivers.com/templates/allrounder-j1.6/images/h3-module.png$image
-||www.station-drivers.com/templates/allrounder-j1.6/images/modules/module-lt.png$image
+###jsn-promo
 !
 ! ---------- The PirateBay ----------
 !
