@@ -33,6 +33,7 @@
 !
 ! ---------- Adobe ----------
 !
+||d35fgcharv2shj.cloudfront.net^
 ||adobe.com^
 ||fonts.adobe.com^
 ||get.adobe.com^
