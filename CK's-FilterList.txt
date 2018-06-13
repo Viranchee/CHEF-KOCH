@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 8368D22215448091F9BA899F3A7825899BC07C319970B0815516CEF7F78EBFA9
+! Checksum (SHA3-256): 62FFD77AA1ADE5C577E3FC15D47EE7B616CFE114F9E34D18EFAA56D596BED907
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-08	00:52:57+01:00
-! Version: 0.0.3.04
+! TimeUpdated: 2018-06-13	02:46:06+01:00
+! Version: 0.0.3.05
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -9769,6 +9769,8 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||gred.jp^
+||www3.gred.jp^
 ||2znp09oa.com^
 ||4jnzhl0d0.com^
 ||5mcwl.pw^
@@ -16082,7 +16084,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||2ksearch.com^
 ||2kygq.voluumtrk.com^
 ||2lafc.voluumtrk.com^
-||2mdn.net^
 ||2nd-thought.com^
 ||2pills.com^
 ||2qtn9.voluumtrk.com^
@@ -55250,14 +55251,7 @@ pastebin.com###paypal-overlay
 !
 ! ---------- PCGamer.com ----------
 !
-tyle="position: relative; box-sizing: border-box; height: auto; margin: 0px auto 20px; text-align: center; display: block; pointer-events: none; transform: none; width: 300px; background-color: rgb(237, 237, 237); padding-bottom: 10px;"]
-pcgamer.com##aside#sidebar>div[style="position: relative; box-sizing: border-box; height: auto; margin: 0px auto; text-align: center; display: block; pointer-events: none; transform: none; width: 300px; background-color: rgb(237, 237, 237); padding-bottom: 10px;"]
-pcgamer.com##body>div[style="position: relative; box-sizing: border-box; height: auto; margin: 20px auto; text-align: center; display: block; pointer-events: none; transform: none; width: 970px;"]
-pcgamer.com##div#article-body>div[style="position: relative; box-sizing: border-box; height: auto; margin: 0px auto 20px; text-align: center; display: block; pointer-events: none; transform: none; width: 300px; background-color: rgb(237, 237, 237); padding-bottom: 10px; clear: both;"]
-pcgamer.com##div#article-body>div[style="position: relative; box-sizing: border-box; height: auto; margin: 0px auto 20px; text-align: center; display: block; pointer-events: none; transform: none; width: 300px; background-color: rgb(237, 237, 237); padding-bottom: 10px;"]
-pcgamer.com##div.mainCarousel>div[style="position: relative; box-sizing: border-box; height: auto; margin: 0px auto 20px; text-align: center; display: block; pointer-events: none; transform: none; width: 300px; background-color: rgb(237, 237, 237); padding-bottom: 10px;"]
-pcgamer.com##section.content-wrapper>div[style="position: relative; box-sizing: border-box; height: auto; margin: 0px auto 20px; text-align: center; display: block; pointer-events: none; transform: none; width: 300px; background-color: rgb(237, 237, 237); padding-bottom: 10px; clear: both;"]
-pcgamer.com##section.listingResultsWrapper>div[style="position: relative; box-sizing: border-box; height: auto; margin: 10px auto 0px; text-align: center; display: block; pointer-events: none; transform: none; width: 300px; background-color: rgb(237, 237, 237); padding-bottom: 10px;"]
+pcgamer.com##div[style^="position: relative; box-sizing: border-box; height: auto; margin: "][style*=" text-align: center; display: block; pointer-events: none; transform: none; "]
 !
 ! ---------- Reddit ----------
 !

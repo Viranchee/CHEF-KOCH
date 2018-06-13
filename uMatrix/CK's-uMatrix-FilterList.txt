@@ -29,6 +29,7 @@
 !
 ! ---------- uMatrix ----------
 !
+0.0.0.0   advs.tatecheck.sytes.net
 0.0.0.0   1kdailyprofit.biz
 0.0.0.0   1kdailyprofit.co
 0.0.0.0   abcd7777.com

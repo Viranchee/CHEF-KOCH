@@ -13,6 +13,10 @@
 !
 ! ---------- Ad & Tracker ----------
 !
+||gred.jp^
+||www3.gred.jp^
+||bvnwnews.com^
+||www.bvnwnews.com^
 ||ls.srvcs.tumblr.com^
 ||deliver.oztam.com.au^
 ||collector.abc-host.net.au^
