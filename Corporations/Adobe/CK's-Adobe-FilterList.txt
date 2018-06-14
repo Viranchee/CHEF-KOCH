@@ -33,6 +33,8 @@
 !
 ! ---------- Adobe ----------
 !
+||macromedia.com^
+||fpdownload.macromedia.com^
 ||d35fgcharv2shj.cloudfront.net^
 ||adobe.com^
 ||fonts.adobe.com^

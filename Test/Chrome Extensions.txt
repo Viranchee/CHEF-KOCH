@@ -20,3 +20,8 @@ uBlock Adblocker Plus						-	pnhflmgomffaphmnbcogleagmloijbkd	- 	420k
 
 
 All apps are reported in order to improve the Chrome app + permission blacklist.
+
+
+Apps:
+
+* com.google.time.timer
