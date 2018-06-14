@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 62FFD77AA1ADE5C577E3FC15D47EE7B616CFE114F9E34D18EFAA56D596BED907
+! Checksum (SHA3-256): 6796F879FB55ABA7CC9D2D4627CF8B814D18FD8A319619A3373A7D37585F0405
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-13	02:46:06+01:00
-! Version: 0.0.3.05
+! TimeUpdated: 2018-06-15	01:07:00+01:00
+! Version: 0.0.3.06
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -254,12 +254,12 @@ zeda.nl##.activebar-container
 /check.php?user_id=$third-party
 /getThumbs?uid=$third-party
 /newcode/?kf=$third-party
-http://7ads.ru^$third-party
-http://or.ru^$third-party
-http://p-up.ru^$third-party
-http://red.by^$third-party
-http://w7.ru^$third-party
-http://wq3.ru^$third-party
+7ads.ru^$third-party
+or.ru^$third-party
+p-up.ru^$third-party
+red.by^$third-party
+w7.ru^$third-party
+wq3.ru^$third-party
 ||01n2e3pac2.com^$popup
 ||029qz3xam2qq.xyz^$popup
 ||0483bm4mlow8.xyz^$popup
@@ -1143,6 +1143,36 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 ||s1.huffpost.com/images/blank.gif$image
 ||stcounter.com
 ||visuals.guim.co.uk/thrashers/*/empty.gif$image
+!
+!---------- CDN ----------
+!
+/cdn-cgi/pe/bag2?*.google-analytics.com
+/cdn-cgi/pe/bag2?*bluekai.com
+/cdn-cgi/pe/bag2?*bounceexchange.com
+/cdn-cgi/pe/bag2?*cdn.onthe.io%2Fio.js
+/cdn-cgi/pe/bag2?*chartbeat.js
+/cdn-cgi/pe/bag2?*dnn506yrbagrg.cloudfront.net
+/cdn-cgi/pe/bag2?*geoiplookup
+/cdn-cgi/pe/bag2?*getblueshift.com
+/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js
+/cdn-cgi/pe/bag2?*histats.com
+/cdn-cgi/pe/bag2?*hs-analytics.net
+/cdn-cgi/pe/bag2?*log.outbrain.com
+/cdn-cgi/pe/bag2?*mc.yandex.ru
+/cdn-cgi/pe/bag2?*newrelic.com
+/cdn-cgi/pe/bag2?*nr-data.net
+/cdn-cgi/pe/bag2?*optimizely.com
+/cdn-cgi/pe/bag2?*piwik.js
+/cdn-cgi/pe/bag2?*quantserve.com
+/cdn-cgi/pe/bag2?*radarurl.com
+/cdn-cgi/pe/bag2?*scorecardresearch.com
+/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs
+/cdn-cgi/pe/bag2?*viglink.com
+/cdn-cgi/pe/bag2?*yieldbot.intent.js
+/img.php?id=*&page=
+://ivw.*/get?referrer=
+://top.*/count/cnt.php?
+://top.*/hit/
 !
 !---------- CityTV.com ----------
 !
@@ -16770,7 +16800,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||about-sexy.com^
 ||about.com^
 ||about.netster.com^
-||aboutads.info^
 ||aboutstat.com^
 ||aboutwebservices.com^
 ||aboutyouquestionsurvey.com^
@@ -23444,6 +23473,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||clck.yandex.kz^
 ||clck.yandex.ru^
 ||clck.yandex.ua^
+||clck.yandex.us^
 ||clckme.com^
 ||cld.edg.startappservice.com^
 ||clddt.com^
@@ -53998,6 +54028,11 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ||www.flickr.com/beacon_client_api_timings.gne$xmlhttprequest,domain=www.flickr.com
 ||www.flickr.com/beacon_rb_jserror.gne$image,domain=www.flickr.com
 !
+! ---------- Yandex ----------
+!
+/yandex-metrica-watch/*
+/yandex-metrika.js
+!
 ! ---------- Medium (Blog) ----------
 !
 ||*.com/_/batch$xmlhttprequest,first-party
@@ -54752,6 +54787,15 @@ www.overclock.net##section:nth-of-type(2)
 &aff_id=
 &view=ad&
 &werbemittel=
+&ctxId=*&pubId=*&clientDT=
+&ctxId=*&pubId=*&objId=
+&event=view&
+&http_referer=$script
+&pageReferrer=
+&ref=*&tag=
+&refer=http$script
+&refererPageDetail=
+&trackingserver=
 -1x1.gif?
 -468x60.
 -adsystem.
