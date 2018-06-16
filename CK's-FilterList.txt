@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 26DFFDEF9C11F4B0CCE7B45B15EF617425C86B756BB1B65C97DAD808E3E5BE0A
+! Checksum (SHA3-256): 7A6D6FFDAC1A1940EA2A9DBBB3F28A7F94765037B0762AF2DCA8F7D4EB2954D2
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-16	05:15:31+01:00
-! Version: 0.0.3.07
+! TimeUpdated: 2018-06-16	06:06:40+01:00
+! Version: 0.0.3.08
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -2072,8 +2072,11 @@ www.citytv.com##.ad_bigbox
 ###acknowledge_cookies
 ###acookie
 ###acookiesRoot
+###ad-rectangle1-outer
+###ad-skyscraper1-outer
 ###ad-popup1
 ###ad-fullbanner2
+###ad-fullbanner2-billboard-outer
 ###adc_aviso_cookies_bar_style
 ###adcookies
 ###addCookieBarInfo
@@ -9737,13 +9740,11 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ##DIV[id*="AdWrapper"]
 ##DIV[id*="FloatingBanner"]
 ##DIV[id^="div-gpt-ad"]
-##div[class*="-ad"]
 ##div[class*="Ad"]
 ##div[class*="DARTad"]
 ##div[class*="OUTBRAIN"]
 ##div[class*="_ad"]
 ##div[class*="_dart"]
-##div[class*="adS"]
 ##div[class*="adbox"]
 ##div[class*="adcontainer"]
 ##div[class*="adunit"]
@@ -41224,7 +41225,7 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||aws-ajax.com^
 ||awsatstb.com^
 ||awsmer.com^
-||awstaticdn.net^
+!||awstaticdn.net^
 ||awsurveys.com^
 ||awsync.yandex.ru^
 ||awvrvqxq.com^
@@ -53394,6 +53395,7 @@ github.com##.unsupported-browser
 !
 ! ---------- Google + Sub Services ----------
 !
+##.google-ad-wrapper-ui
 ###publicGoogleAd
 ###photo_ad_google
 ###p-googlead
@@ -53773,7 +53775,6 @@ heise.de#@#.adbottom
 ##iframe[src^="//adx-exchange.toast.com/a_request"]
 ##iframe[src^="//am15.net/ssp/banner"]
 ##iframe[src^="//ax-d.pixfuture.net/w/1.0/afr"]
-##iframe[src^="//d3u5zn5k9864p0.cloudfront.net/br"]
 ##iframe[src^="//disqusads.com/ads-iframe/prebid/"]
 ##iframe[src^="//mrelko.com/bnrs/"]
 ##iframe[src^="//onedrive.su/code/swf_banner.php"]
@@ -54886,6 +54887,7 @@ www.overclock.net##section:nth-of-type(2)
 .to/werbung/
 .vdna-*/analytics.
 .wwwpromoter.com/
+/ads.js?
 /1pix.gif?
 /1x1image.jpg?
 /1x1transparent.gif
@@ -55541,6 +55543,20 @@ megafon.ru#@#div[id^="AdFox_banner_"]
 new.gramota.ru#@##main-sec > .block-side:last-child
 news.naver.com#@#.sponsor
 photographyblog.com#@#DIV[id^="taboola-"]
+!
+! ---------- Wetter.com ----------
+!
+wetter.com##.anzeige
+wetter.com##.\[.rectangle-home.\]
+||wetter.com/cooperation/$~third-party
+@@||wetter.com/layout/1/woys/300_250/300_250_$image
+@@||daswetter.com/img/publicidad/300x600_newsletter_fw.png
+wetter.com##div[style="display: inherit !important;"]
+wetter.com##div[style="margin-top: 25px"] + span + div > img
+wetter.com##.rectangle-home img
+wetter.com##.desk-one-third a[id][href] > img[src]
+wetter.com##.media__body[style="position: relative;"] > a
+wetter.com##.middle > div[id][class]:first-child > a[href]:last-child > img[src]:first-child:last-child
 !
 ! ---------- Wolfram Alpa ----------
 !
