@@ -55337,7 +55337,7 @@ reddit.com##.recommended-link
 !
 ! ---------- Station-Drivers.com----------
 !
-###jsn-promo
+##.uk-row-first.uk-width-1-1 > .uk-panel-box.uk-panel
 !
 ! ---------- The PirateBay ----------
 !
