@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 7A6D6FFDAC1A1940EA2A9DBBB3F28A7F94765037B0762AF2DCA8F7D4EB2954D2
+! Checksum (SHA3-256): B9632668A9497D0D69B8459F7A2E985069C282F3E1A43B65599369CF6C1FD918
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-16	06:06:40+01:00
-! Version: 0.0.3.08
+! TimeUpdated: 2018-06-16	06:21:58+01:00
+! Version: 0.0.3.09
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -6243,6 +6243,7 @@ www.citytv.com##.ad_bigbox
 ##.accord_cookies
 ##.acepta_cookies
 ##.aceptar_cookies
+##.adCont
 ##.add_cookies
 ##.addcookielaw
 ##.adeo-cookie-disclaimer
@@ -54059,6 +54060,7 @@ www.overclock.net##section:nth-of-type(2)
 ##.ad728_cont
 ###ad_300x250
 ##.ad-728-top
+##.ad728_cont
 ##.ad-300
 ##.ad-728
 ##.ad-728_cont

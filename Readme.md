@@ -132,10 +132,10 @@ uMatrix | uMatrix / HOSTS based lists (domains only from CK's-FilterList) | [CHE
 
 ## Report issues, unblocked ads or trackers
 
-You can report issue [here](https://github.com/CHEF-KOCH/CKs-FilterList/issues)), keep in mind that this requires that you read the [contribution guidelines](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/CONTRIBUTING.md) first.  
+You can report issue [here](https://github.com/CHEF-KOCH/CKs-FilterList/issues), keep in mind that this requires that you read the [contribution guidelines](https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/CONTRIBUTING.md) first.  
 
 
-#### Like my list? 
+#### Like the list? 
 
 Star it on GitHub! :star: or consider making a [donation](https://github.com/CHEF-KOCH/Donations). :muscle:
 
