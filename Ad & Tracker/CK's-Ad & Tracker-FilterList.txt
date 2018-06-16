@@ -13,6 +13,8 @@
 !
 ! ---------- Ad & Tracker ----------
 !
+||71i.de^
+||cookieinfoscript.com^
 ||gred.jp^
 ||www3.gred.jp^
 ||bvnwnews.com^
