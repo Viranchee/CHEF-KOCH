@@ -7,24 +7,24 @@ about: Create a report to in order to improve the filter list and solve possible
 **Describe the site issue**
 A clear and concise description of what the problem is.
 
-### Test link:
+### Test link
 
 
-### Screenshot of the web page:
+### Screenshot of the web page (_optional_)
 
 
-### Screenshot of the developer console (if possible):
+### Screenshot of the developer console (**if possible**)
 
 
-### Reproduction steps:
+### Reproduction steps
 
 
-### Environment specifications:
+### Environment specifications
 
 - Filter list version:
-- Operating System and Version:
-- Browser and Version:
-- Adblocker and Version:
+- Operating system and version:
+- Browser and version:
+- Adblocker and version:
 
 
-### Add any other additional helpful information:
+### Add any other additional helpful information (_optional_)
