@@ -269,8 +269,6 @@ wq3.ru^$third-party
 ||46.17.40.55/pv/$third-party
 ||4kids.com.ua/img/advr/
 ||66.ru/show/$third-party
-||87.242.91.*/adfox/
-||87.242.91.*/prepareCode?
 ||active.interzet.ru/log.php?
 ||ad-words.ru/contextad/
 ||ad.doubleclick.*;sz=
@@ -9802,6 +9800,14 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||yqmjmbmxzfz.com^
+||www.yqmjmbmxzfz.com^
+||ikcwcxhgibmumf.com^
+||www.ikcwcxhgibmumf.com^
+||buymeacoffee.com^
+||www.buymeacoffee.com^
+||pureairhits.com^
+||www.pureairhits.com^
 ||cookieinfoscript.com^
 ||gred.jp^
 ||www3.gred.jp^
@@ -54043,6 +54049,10 @@ yahoo.com##body:style(padding-top: 0px !important;)
 ||medium.com/_/api/users/*/writing-velocity$xmlhttprequest
 ||medium.com/_/batch$xmlhttprequest
 !
+! ---------- Mixer.com ----------
+!
+mixer.com##.msa-reminder
+!
 ! ---------- Overclock.net ----------
 !
 www.overclock.net##section:nth-of-type(2)
@@ -55339,7 +55349,12 @@ reddit.com##.recommended-link
 !
 ! ---------- Station-Drivers.com----------
 !
-##.uk-row-first.uk-width-1-1 > .uk-panel-box.uk-panel
+www.speedrun.com##.curse-wide.curse-04.curse.centered.panel
+!
+! ---------- Station-Drivers.com----------
+!
+www.station-drivers.com##.uk-row-first.uk-width-1-1 > .uk-panel-box.uk-panel
+www.station-drivers.com##.uk-grid.tm-top-a > .uk-row-first.uk-width-1-1
 !
 ! ---------- The PirateBay ----------
 !

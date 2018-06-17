@@ -29,6 +29,10 @@
 !
 ! ---------- uMatrix ----------
 !
+0.0.0.0   yqmjmbmxzfz.com
+0.0.0.0   www.yqmjmbmxzfz.com
+0.0.0.0   ikcwcxhgibmumf.com
+0.0.0.0   www.ikcwcxhgibmumf.com
 0.0.0.0   advs.tatecheck.sytes.net
 0.0.0.0   1kdailyprofit.biz
 0.0.0.0   1kdailyprofit.co
