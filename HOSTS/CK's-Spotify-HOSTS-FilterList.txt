@@ -15,6 +15,11 @@
 #
 # ---------- Spotify ----------
 #
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 sto3.spotify.com
+0.0.0.0 prod.spotify.map.fastlylb.net
+0.0.0.0 heads-ec.spotify.com
+0.0.0.0 audio-ec.spotify.com
 0.0.0.0 a2-16-186-17.deploy.static.akamaitechnologies.com
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adeventtracker.spotify.com
