@@ -15,6 +15,11 @@
 !
 ! ---------- Spotify ----------
 !
+||spclient.wg.spotify.com^
+||sto3.spotify.com^
+!||prod.spotify.map.fastlylb.net^
+||heads-ec.spotify.com^
+||audio-ec.spotify.com^
 ||a2-16-186-17.deploy.static.akamaitechnologies.com^
 ||adclick.g.doublecklick.net^
 ||adeventtracker.spotify.com^
