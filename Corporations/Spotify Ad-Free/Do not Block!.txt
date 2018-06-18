@@ -8,6 +8,7 @@ Random
 0.0.0.0 fastly.net
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 t.scdn.co
+0.0.0.0 geo3.ggpht.com
 0.0.0.0 104.199.65.6:80 
 
 Spotify Update
@@ -19,6 +20,29 @@ Spotify Update
 0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 
-Player
+Player + API
 =============================================
+0.0.0.0 api.spotify.com
 0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 api-partner.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 open.spotify.com
+0.0.0.0 play.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+
+Images + Covers
+=============================================
+0.0.0.0 i.scdn.co
+0.0.0.0 o.scdn.co
+0.0.0.0 p.scdn.co
+0.0.0.0 t.scdn.co
+
+Audio Server 
+=============================================
+0.0.0.0 audio-fa.spotify.com
+0.0.0.0 cast.scdn.co
+0.0.0.0 gew-dealer.spotify.com
+0.0.0.0 gew-dealer-ssl.spotify.com
+0.0.0.0 labs.spotify.com
+0.0.0.0 seektables.scdn.co
