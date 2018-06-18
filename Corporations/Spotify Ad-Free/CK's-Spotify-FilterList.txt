@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Spotify Ad-Filter List
 ! Description: Blocks all annoying Spotify Ads.
-! Checksum (SHA 1): 80F27E0A551A04B26B5043E339EDCC0E64F7DEDF796687A00B80488EABFFD93C
+! Checksum (SHA 1): 2FD5747F637F80ED41F3A46E99C50F6E9F6A62892FF8E71840121484A8DA645D
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-06-18   10:01:09+01:00
-! Version: 0.0.0.3
+! TimeUpdated: 2018-06-18   19:07:59+01:00
+! Version: 0.0.0.4
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -16,6 +16,7 @@
 ! ---------- Spotify ----------
 !
 ! ---------- Audio + Video related ads ----------
+!
 ||00.audio-ak.cdn.spotify.com^
 ||01.audio-ak.cdn.spotify.com^
 ||02.audio-ak.cdn.spotify.com^
@@ -505,8 +506,9 @@
 ||weblb-wg.gslb.spotify.com^
 ||weblb-wg.dual-gslb.spotify.com^
 ||www.spotify-desktop.com^
-
+!
 ! ---------- Ad-network (geo-located) ----------
+!
 ||audio-akp-spotify-com.akamaized.net^
 ||a184-31-10-33.deploy.static.akamaitechnologies.com^
 ||a23-1-99-33.deploy.static.akamaitechnologies.com^
@@ -514,20 +516,24 @@
 ||eip-ntt.audio-ak.spotify.com.akahost.net^
 ||eip-onnet.audio-ak.spotify.com.akahost.net^
 ||eip-tata.audio-ak.spotify.com.akahost.net^
-
+!
 ! ---------- Block analytics/debugging ----------
+!
 ||cdn.ravenjs.com^
 ||links.iterable.com^
-
+!
 ! ---------- Block non-responding server ----------
+!
 ||gew1-accesspoint-b-wjjm.ap.spotify.com^
-
+!
 ! ---------- Block Google ads ----------
+!
 ||partnerad.l.doubleclick.net^
 ||pubads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
-
+!
 ! ---------- Ad-servers ----------
+!
 ||078d9f6a6dc1.cdn4.forter.com^
 ||a.adk2x.com^
 ||a1294.w20.akamai.net^
@@ -616,4 +622,22 @@
 !
 ! ---------- Spotify Homepage ----------
 ! 
-spotify.com/ads/
+||audio-fa.scdn.co/audio/$media,domain=open.spotify.com
+/mp3-ad/*$domain=open.spotify.com|play.spotify.com
+/mp3-ad/*
+spotify.com/ads/*
+google-analytics.com/*
+||ads.pubmatic.com^
+||gads.pubmatic.com^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||spclient.wg.spotify.com^
+||adeventtracker.spotify.com^
+/mp3-ad/*$domain=open.spotify.com
+@@||spclient.wg.spotify.com/connect-api/v2/from/*$xmlhttprequest,domain=open.spotify.com
+@@||spclient.wg.spotify.com/connect-api$xmlhttprequest,domain=open.spotify.com
+||heads4-ak.spotify.com.edgesuite.net^
+||heads3-ak.spotify.com.edgesuite.net^
+||heads2-ak.spotify.com.edgesuite.net^
+||heads1-ak.spotify.com.edgesuite.net^
+||gcdn.2mdn.net^

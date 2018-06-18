@@ -13,6 +13,8 @@
 !
 ! ---------- Ad & Tracker ----------
 !
+||stats.hamrick.com^
+||static.hamrick.com^
 ||yqmjmbmxzfz.com^
 ||www.yqmjmbmxzfz.com^
 ||ikcwcxhgibmumf.com^

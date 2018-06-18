@@ -16,6 +16,10 @@
 !
 ! ---------- 1st party blocking rules ----------
 !
+www.nsaneforums.com##.ipsBox.ipsWidget_horizontal.ipsWidget
+forum-en.msi.com###pm_popup
+www.techpowerup.com##figure.mnmuzjsddc:nth-of-type(1)
+www.techpowerup.com##.nkuztfvdswe
 tvtropes.org##.social-foot
 tvtropes.org##.social-item
 leo.org##.app-footer-content
@@ -55316,12 +55320,12 @@ pcgamer.com##div[style^="position: relative; box-sizing: border-box; height: aut
 !
 ! ---------- Reddit ----------
 !
+reddit.com##.recommended-link
 reddit.com##.infobar-toaster-container
 @@||redditmedia.com^$stylesheet,domain=www.reddit.com
 @@||redditstatic.com^$image,domain=www.reddit.com
 @@||redditstatic.com^$script,domain=www.reddit.com
 @@||redditstatic.com^$stylesheet,domain=www.reddit.com
-reddit.com##.recommended-link
 ||alb.reddit.com^
 ||d.reddit.com^
 ||e.reddit.com$xmlhttprequest
@@ -55350,14 +55354,19 @@ reddit.com##.recommended-link
 ! ---------- Station-Drivers.com----------
 !
 www.speedrun.com##.curse-wide.curse-04.curse.centered.panel
+www.station-drivers.com##.uk-hidden-small.uk-clearfix.tm-headerbar > .uk-container-center.uk-container > .uk-panel
+www.station-drivers.com###tm-top-a
+
 !
 ! ---------- Station-Drivers.com----------
 !
+www.station-drivers.com###tm-top-a
 www.station-drivers.com##.uk-row-first.uk-width-1-1 > .uk-panel-box.uk-panel
 www.station-drivers.com##.uk-grid.tm-top-a > .uk-row-first.uk-width-1-1
 !
 ! ---------- The PirateBay ----------
 !
+thepiratebay.org##h1
 thepiratebay.org##div#sky-banner
 thepiratebay.org##div#sky-center
 thepiratebay.org##div#sky-right

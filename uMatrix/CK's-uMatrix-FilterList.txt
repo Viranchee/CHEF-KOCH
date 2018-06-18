@@ -29,6 +29,8 @@
 !
 ! ---------- uMatrix ----------
 !
+0.0.0.0   stats.hamrick.com
+0.0.0.0   static.hamrick.com
 0.0.0.0   yqmjmbmxzfz.com
 0.0.0.0   www.yqmjmbmxzfz.com
 0.0.0.0   ikcwcxhgibmumf.com

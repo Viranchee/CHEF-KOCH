@@ -13,6 +13,8 @@
 #
 # ---------- Ad & Tracker ----------
 #
+0.0.0.0  stats.hamrick.com
+0.0.0.0  static.hamrick.com
 0.0.0.0  wywy.com
 0.0.0.0  analyze.wywy.com
 0.0.0.0  ram.amunx.de
