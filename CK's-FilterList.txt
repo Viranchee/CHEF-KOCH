@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): B9632668A9497D0D69B8459F7A2E985069C282F3E1A43B65599369CF6C1FD918
+! Checksum (SHA3-256): ED743FA371EA66ABE24808D77D6F7A7D99E528834C6AF5DFCB81AE237789D0F2
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-16	06:21:58+01:00
-! Version: 0.0.3.09
+! TimeUpdated: 2018-06-18	19:36:00+01:00
+! Version: 0.0.3.10
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -545,6 +545,44 @@ wq3.ru^$third-party
 ||svpressa.ru/ad/
 ||svpressa.ru/tmp/
 ||рф/banner/
+/catalyst.js
+/cllc.tracking.js
+/cm_controldata.
+/cmdatagutils.
+/cmdatatagutils.
+/cmdatatagutils_
+/cmEluminate.
+/cmtaggingservices.
+/ComScorePeopleCom.
+/cookie-id.js?
+/coremetrics-
+/coremetrics.
+/coremetrics/*
+/CoreMetricsSupportLib/*
+/CoreMetricsTracking.
+/customOmnitureData.js
+/dcs_head.js
+/dcs_tag1.js
+/dcs_tag2.js
+/dcs_tag_
+/dcstag_
+/ecomfw.min.js
+/elq_tracking-
+/elqCPers.
+/elqFCS.
+/eluminate.
+/eluminate_
+/figp.js
+/foresee-
+/foreseeforesee-
+/forsee-
+/foxomniture.swf
+/FoxOmnitureMonitor.
+/fp.min.jsp
+/fp2.js
+/gaManager.js
+/gamepageomniture.
+/gannettomniture.swf
 -300x250.$third-party
 /300x250-
 /300x250.
@@ -55320,6 +55358,8 @@ pcgamer.com##div[style^="position: relative; box-sizing: border-box; height: aut
 !
 ! ---------- Reddit ----------
 !
+reddit.com##div[id^="sidebar-btf-"]
+reddit.com##div[id^="sidebar-atf-"]
 reddit.com##.recommended-link
 reddit.com##.infobar-toaster-container
 @@||redditmedia.com^$stylesheet,domain=www.reddit.com

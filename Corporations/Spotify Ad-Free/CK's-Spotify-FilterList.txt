@@ -595,6 +595,9 @@
 ||people-pa.googleapis.com # You can remove this. Just privacy.^
 ||platform-lookaside.fbsbx.com # You can remove this. Just privacy.^
 ||r5---sn-5hnednlr.gvt1.com^
+||r6---sn-5hnednlr.gvt1.com^
+||r7---sn-5hnednlr.gvt1.com^
+||r8---sn-5hnednlr.gvt1.com^
 ||redirector.gvt1.com^
 ||rp-lb-766892831.us-east-1.elb.amazonaws.com^
 ||rts.mobula.sdk.duapps.com^
@@ -622,22 +625,23 @@
 !
 ! ---------- Spotify Homepage ----------
 ! 
-||audio-fa.scdn.co/audio/$media,domain=open.spotify.com
 /mp3-ad/*$domain=open.spotify.com|play.spotify.com
 /mp3-ad/*
+*cloudfront.net/mp3-ad/*
 spotify.com/ads/*
 google-analytics.com/*
+||audio-fa.scdn.co/audio/$media,domain=open.spotify.com
 ||ads.pubmatic.com^
 ||gads.pubmatic.com^
 ||pubads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
 ||spclient.wg.spotify.com^
-||adeventtracker.spotify.com^
-/mp3-ad/*$domain=open.spotify.com
-@@||spclient.wg.spotify.com/connect-api/v2/from/*$xmlhttprequest,domain=open.spotify.com
-@@||spclient.wg.spotify.com/connect-api$xmlhttprequest,domain=open.spotify.com
 ||heads4-ak.spotify.com.edgesuite.net^
 ||heads3-ak.spotify.com.edgesuite.net^
 ||heads2-ak.spotify.com.edgesuite.net^
 ||heads1-ak.spotify.com.edgesuite.net^
 ||gcdn.2mdn.net^
+||audio-fa.scdn.co/audio/*$media,redirect=noopmp3-0.1s,domain=open.spotify.com
+@@||spclient.wg.spotify.com/connect-api/v2/from/*$xmlhttprequest,domain=open.spotify.com
+@@||spclient.wg.spotify.com/connect-api$xmlhttprequest,domain=open.spotify.com
+!||gew-spclient.spotify.com^
