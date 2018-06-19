@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): ED743FA371EA66ABE24808D77D6F7A7D99E528834C6AF5DFCB81AE237789D0F2
+! Checksum (SHA3-256): 6160359B59C56DA2A106DC14853CC2EDB9EAF78D72E76DBB9EBE1354150A3DC7
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-18	19:36:00+01:00
-! Version: 0.0.3.10
+! TimeUpdated: 2018-06-19	08:06:10+01:00
+! Version: 0.0.3.11
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -16,6 +16,18 @@
 !
 ! ---------- 1st party blocking rules ----------
 !
+||shoplocal.com/*/scripts/tracking.js
+||slimg.com/js/AWD/Tracking.nano.js
+||spotify.com/xhr/json/log.php
+||thomasnet.com/javascript/dcs_
+||timeinc.net/shared/static/swf/ComScoreEWCom.swf
+||toptenreviews.com/scripts/omn_id.php
+||trademe.co.nz/Javascript/LoadAudienceSegs-bdl?
+||trademe.co.nz^*/LogJavaScriptError.ashx
+||travelpn.com/js/WRc6.js
+||treehousetv.com/Scripts/urloverride.js
+||tribdss.com/meter/
+||medium.com/*/impression$xmlhttprequest
 www.nsaneforums.com##.ipsBox.ipsWidget_horizontal.ipsWidget
 forum-en.msi.com###pm_popup
 www.techpowerup.com##figure.mnmuzjsddc:nth-of-type(1)
@@ -947,6 +959,7 @@ allrecipes.com##.review-ad-space
 !
 ! ---------- Amazon ----------
 !
+/\:\/\/s3\.amazonaws\.com\/.*[a-f0-9\/]{50,}/$script,xmlhttprequest,third-party,domain=~amazon.com
 ||s3-us-west-2.amazonaws.com/bww.mediagroup/veam-8-30-17-webinar-overlay-v2.2.png$image
 ||s3.amazonaws.com/homad-global-configs.schneevonmorgen.com/hd-main.js$script,domain=autobild.de|chip.de|cinema.de|computerbild.de|cdnapi.kaltura.com|erdbeerlounge.de|focus.de|gamona.de|giga.de|spiegel.de|spieleaffe.de|spieletipps.de|sueddeutsche.de|t-online.de,redirect=hd-main.js
 ||s3.amazonaws.com^$xmlhttprequest,domain=iwatchonline.cr|iwatchonline.eu
@@ -1186,6 +1199,8 @@ bloomberg.com##.video-player__container:style(position: static !important; trans
 !
 !---------- CDN ----------
 !
+/cdn-cgi/pe/bag2?*atrk.js
+/cdn-cgi/pe/bag2?*pagead2.googlesyndication.com
 /cdn-cgi/pe/bag2?*.google-analytics.com
 /cdn-cgi/pe/bag2?*bluekai.com
 /cdn-cgi/pe/bag2?*bounceexchange.com
@@ -1225,6 +1240,7 @@ www.citytv.com##.ad_bigbox
 !
 !---------- Cloudfront (to be removed) ----------
 !
+/\.cloudfront\.net/\?.*[a-zA-Z0-9]{5,16}/$subdocument,script,third-party,domain=~amazon.com|~lemediatv.fr
 @@||cloudfront.net/assets/$script,third-party
 @@||cloudfront.net/gp/$script,third-party
 ||d36mpcpuzc4ztk.cloudfront.net^
@@ -8446,6 +8462,7 @@ www.citytv.com##.ad_bigbox
 ##.oo-cookie-notice
 ##.optanon-alert-box-wrapper
 ##.optinCookie
+##.open.pushModal
 ##.ou-cookies-bar
 ##.outer-privacy-top-navigationBar
 ##.outerCookieBar
@@ -9336,6 +9353,12 @@ www.citytv.com##.ad_bigbox
 /ttgcookieconsent-
 /twitter_cookies.
 /type-cookies.
+/article-countdown-nag.js
+/check-ad-free/?
+/ep-paywall-portlet/*
+/paymeterconfig/*
+/paywall.min.js
+/tn-paywall/*
 /ubmcookieconsent-
 /usecookies.js
 /usocookies.
@@ -9512,6 +9535,7 @@ workforce.hu##.cookie
 !
 ! ---------- Coin Miner + Flash ----------
 !
+/([0-9]{1,3}\.){3}[0-9]{1,3}.\/proxy$/$script,websocket,third-party
 -coin-hive.js
 -crypto-miner/*
 -monero-miner-
@@ -54095,6 +54119,21 @@ yahoo.com##body:style(padding-top: 0px !important;)
 !
 mixer.com##.msa-reminder
 !
+! ---------- mobilism.org ----------
+!
+forum.mobilism.org###footerContent
+forum.mobilism.org##main > .side-segment > h3
+forum.mobilism.org##main > p
+forum.mobilism.org##div.row-fluid:nth-of-type(9)
+forum.mobilism.org##div.space10:nth-of-type(8)
+forum.mobilism.org##div.container:nth-of-type(4)
+forum.mobilism.org##body > .space10
+forum.mobilism.org##div.space10:nth-of-type(6)
+forum.mobilism.org##main > div.space10:nth-of-type(5)
+forum.mobilism.org##div.space10:nth-of-type(4)
+forum.mobilism.org##.icon-light.icon-twitter
+forum.mobilism.org##.twitter-color.icon-stack-base.icon-circle
+!
 ! ---------- Overclock.net ----------
 !
 www.overclock.net##section:nth-of-type(2)
@@ -55067,6 +55106,7 @@ www.overclock.net##section:nth-of-type(2)
 /eraffe_ad.
 /esel.js
 /fake-ad-
+/favicon.ico$image,third-party,domain=~reddit.com|~4chan.org|~twitter.com|~live.com|~espn.com
 /files/ads/*
 /files/adv/*
 /fileupload/werbung/*
