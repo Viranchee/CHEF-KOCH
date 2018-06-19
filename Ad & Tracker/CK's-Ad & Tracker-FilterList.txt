@@ -13,6 +13,8 @@
 !
 ! ---------- Ad & Tracker ----------
 !
+||counter-go.de^
+||www.counter-go.de^
 ||stats.hamrick.com^
 ||static.hamrick.com^
 ||yqmjmbmxzfz.com^

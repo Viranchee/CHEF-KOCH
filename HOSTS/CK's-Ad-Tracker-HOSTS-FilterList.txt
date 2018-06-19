@@ -13,6 +13,8 @@
 #
 # ---------- Ad & Tracker ----------
 #
+0.0.0.0  counter-go.de
+0.0.0.0  www.counter-go.de
 0.0.0.0  stats.hamrick.com
 0.0.0.0  static.hamrick.com
 0.0.0.0  wywy.com
