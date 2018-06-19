@@ -5,7 +5,7 @@
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-06-18   19:07:59+01:00
+! TimeUpdated: 2018-06-18	19:07:59+01:00
 ! Version: 0.0.0.4
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
@@ -481,13 +481,13 @@
 ||gew1.ap.spotify.com^
 ||heads-fa.spotify.com^
 ||heads-fab.spotify.com^
-||heads-fac.spotify.com ^
+||heads-fac.spotify.com^
 ||links.spotify.com^
 ||log.spotify.com^
 ||messenger-webview.scdn.co^
 ||oktascimserver.spotify.com^
 ||open.scdn.co^
-||pci.spotify.com # pay server^
+||pci.spotify.com^
 ||play.spotify.edgekey.net^
 ||prod.spotify.map.fastly.net^
 ||prod.spotify.map.fastlylb.net^
@@ -592,8 +592,8 @@
 ||pagead2.googlesyndication.com^
 ||pagead46.l.doubleclick.net^
 ||partner.googleadservices.com^
-||people-pa.googleapis.com # You can remove this. Just privacy.^
-||platform-lookaside.fbsbx.com # You can remove this. Just privacy.^
+||people-pa.googleapis.com
+||platform-lookaside.fbsbx.com^
 ||r5---sn-5hnednlr.gvt1.com^
 ||r6---sn-5hnednlr.gvt1.com^
 ||r7---sn-5hnednlr.gvt1.com^
@@ -611,12 +611,12 @@
 ||showads33000.pubmatic.com^
 ||skypicker-984.firebaseio.com^
 ||skypicker-api.infinario.com^
-||sla-intl.trustlook.com ^
+||sla-intl.trustlook.com^
 ||tpc.googlesyndication.com^
-||udm.scorecardresearch.com ^
+||udm.scorecardresearch.com^
 ||v.jwpcdn.com^
 ||video-ad-stats.googlesyndication.com^
-||wsback-get-config.presage.io ^
+||wsback-get-config.presage.io^
 ||www.googleadservices.com^
 ||www.googletagservices.com^
 ||www.interia.pl^

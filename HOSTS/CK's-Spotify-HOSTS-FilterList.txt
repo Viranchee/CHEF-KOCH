@@ -486,7 +486,7 @@
 0.0.0.0 messenger-webview.scdn.co
 0.0.0.0 oktascimserver.spotify.com
 0.0.0.0 open.scdn.co
-0.0.0.0 pci.spotify.com # pay server
+0.0.0.0 pci.spotify.com
 0.0.0.0 play.spotify.edgekey.net
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
@@ -586,8 +586,8 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
-0.0.0.0 people-pa.googleapis.com # You can remove this. Just privacy.
-0.0.0.0 platform-lookaside.fbsbx.com # You can remove this. Just privacy.
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 r5---sn-5hnednlr.gvt1.com
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 rp-lb-766892831.us-east-1.elb.amazonaws.com
@@ -613,3 +613,5 @@
 0.0.0.0 www.interia.pl
 0.0.0.0 www.omaze.com
 0.0.0.0 z.moatads.com
+0.0.0.0 static.2mdn.net
+0.0.0.0 crashlytics.spotify.com
