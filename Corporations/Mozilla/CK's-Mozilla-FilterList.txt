@@ -13,6 +13,8 @@
 !
 ! ---------- Mozilla ----------
 !
+||blocklists.settings.services.mozilla.com^
+||shavar.prod.mozaws.netshavar.services.mozilla.com^
 ||accounts.firefox.com^
 ||activations.cdn.mozilla.net^
 ||add.my.yahoo.com^

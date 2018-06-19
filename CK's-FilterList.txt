@@ -20822,7 +20822,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||analytics.traviangames.com^
 ||analytics.trutv.com^
 ||analytics.tube8.phncdn.com^
-||analytics.twitter.com^
 ||analytics.unister-gmbh.de^
 ||analytics.upworthy.com^
 ||analytics.us.archive.org^
@@ -40380,7 +40379,6 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||ads-link.net^
 ||ads-mall.com^
 ||ads-stats.com^
-||ads-twitter.com^
 ||ads1-adnow.com^
 ||ads2-adnow.com^
 ||ads3-adnow.com^
@@ -55541,16 +55539,16 @@ reddit.com##.infobar-toaster-container
 ||redditstatic.com/recommended-link.*$important
 ||tracker.redditmedia.com^
 !
-! ---------- Station-Drivers.com----------
+! ---------- Speedrun.com----------
 !
 www.speedrun.com##.curse-wide.curse-04.curse.centered.panel
-www.station-drivers.com##.uk-hidden-small.uk-clearfix.tm-headerbar > .uk-container-center.uk-container > .uk-panel
-www.station-drivers.com###tm-top-a
-
 !
 ! ---------- Station-Drivers.com----------
 !
+www.station-drivers.com##.uk-width-1-1 > .uk-panel-box.uk-panel
 www.station-drivers.com###tm-top-a
+www.station-drivers.com##center > form
+www.station-drivers.com##.uk-hidden-small.uk-clearfix.tm-headerbar > .uk-container-center.uk-container > .uk-panel
 www.station-drivers.com##.uk-row-first.uk-width-1-1 > .uk-panel-box.uk-panel
 www.station-drivers.com##.uk-grid.tm-top-a > .uk-row-first.uk-width-1-1
 !
@@ -55565,6 +55563,8 @@ thepiratebay.org##iframe[src^="//thepiratebay.org/static/ads/"]
 ! ---------- Twitter ----------
 !
 ads.twitter.com$important
+||analytics.twitter.com^
+||ads-twitter.com^
 ||twitter.com/i/cards/*?advertiser_name$important
 twitter.com##.js-signup-call-out
 twitter.com##.Footer-adsModule.flex-module
@@ -55576,6 +55576,8 @@ twitter.com##.promoted-tweet-heading
 twitter.com##.roaming-module.module.Footer > .flex-module
 twitter.com#@#div[class*="-ad"]
 twitter.com#@#div[class*="Ad"]
+@@.com/ad_img/$domain=twitter.com
+@@||analytics.twitter.com/user/
 !
 ! ---------- Urban Dictionary ----------
 !
@@ -55625,7 +55627,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ||demo*.piwik.org/piwik.php$first-party,important
 @@||authedmine.com^$domain=dlik.win|ivpaste.com|mylink.li|cutsmile.com
 @@-adverts.$script,domain=dailymail.co.uk
-@@.com/ad_img/$domain=twitter.com
 @@.com/ads/growth/aymt/multi_async_click/$domain=facebook.com
 @@.com/ads/growth/aymt/xout_survey/$domain=facebook.com
 @@.com/metrics/$script,domain=apple.com
@@ -55664,7 +55665,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 @@||analytics.$script,domain=everbuying.net|threenow.co.nz
 @@||analytics.$xmlhttprequest,domain=washingtonpost.com
 @@||analytics.snidigital.com^
-@@||analytics.twitter.com/user/
 @@||api-maps.yandex.ru^
 @@||arcot.com^$elemhide
 @@||bcbits.com/download/track/
