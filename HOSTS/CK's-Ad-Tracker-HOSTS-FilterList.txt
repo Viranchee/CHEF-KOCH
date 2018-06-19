@@ -13,6 +13,12 @@
 #
 # ---------- Ad & Tracker ----------
 #
+0.0.0.0  redshell.io api.redshell.io
+0.0.0.0  treasuredata.com api.treasuredata.com
+0.0.0.0  redshell.io
+0.0.0.0  api.redshell.io
+0.0.0.0  treasuredata.com
+0.0.0.0  in.treasuredata.com
 0.0.0.0  counter-go.de
 0.0.0.0  www.counter-go.de
 0.0.0.0  stats.hamrick.com

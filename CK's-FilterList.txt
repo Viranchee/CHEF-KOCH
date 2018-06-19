@@ -9867,6 +9867,12 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||redshell.io api.redshell.io^
+||treasuredata.com api.treasuredata.com^
+||redshell.io^
+||api.redshell.io^
+||treasuredata.com^
+||in.treasuredata.com^
 ||counter-go.de^
 ||www.counter-go.de^
 ||yqmjmbmxzfz.com^
