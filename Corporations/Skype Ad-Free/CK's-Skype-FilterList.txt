@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Skype Ad-Filter List
 ! Description: Blocks all annoying Skype Ads.
-! Checksum (SHA 1): AA11522C40DE6E2CBF84A4B69457FF8B722F99C0D32CFA28C0FCAA1225168070
+! Checksum (SHA 1): D1A41DE9CC43382BEEEFEE78EAF44F39F08D037A638BEB0740BFBD1686EC04C8
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-05-20	03:46:17+01:00
-! Version: 0.0.0.1
+! TimeUpdated: 2018-06-21	09:43:01+01:00
+! Version: 0.0.0.2
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -31,6 +31,7 @@
 ||65.55.108.23^
 ||a-0001.a-msedge.net^
 ||a.ads2.msads.net^
+||a.config.skype.com^
 ||ac3.msn.com^
 ||ad.doubleclick.net^
 ||adnexus.net^
@@ -45,15 +46,19 @@
 ||api.skype.com^
 ||apps.skype.com^
 ||b.ads2.msads.net^
+||b.config.skype.com^
 ||bs.serving-sys.com^
 ||c.atdmt.com^
+||c.config.skype.com^
 ||c.msn.com.nsatc.net^
 ||c.msn.com^
 ||cdn.atdmt.com^
 ||cds26.ams9.msecn.net^
+||channel.skype.com^
 ||choice.microsoft.com.nstac.net^
 ||choice.microsoft.com^
 ||compatexchange.cloudapp.net^
+||conn.skype.com^
 ||corp.sts.microsoft.com^
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||cs1.wpc.v0cdn.net^
@@ -62,6 +67,7 @@
 ||devapps.skype.net^
 ||diagnostics.support.microsoft.com^
 ||ec.atdmt.com^
+||extras.skype.com^
 ||fe2.update.microsoft.com.akadns.net^
 ||feedback.microsoft-hohm.com^
 ||feedback.search.microsoft.com^
@@ -70,6 +76,7 @@
 ||flex.msn.com^
 ||g.msn.com^
 ||global.msads.net^
+||googletb.skype.com^
 ||h1.msn.com^
 ||h2.msn.com^
 ||i1.services.social.microsoft.com.nsatc.net^
@@ -78,7 +85,10 @@
 ||m.hotmail.com^
 ||msftncsi.com^
 ||msntest.serving-sys.com^
+||my.email.skype.com^
 ||oca.telemetry.microsoft.com.nsatc.net^
+||offer5.skype.com^
+||offer6.skype.com^
 ||pipe.skype.com^
 ||pre.footprintpredict.com^
 ||preads.skypeassets.net^
@@ -96,7 +106,9 @@
 ||serving.plexop.net^
 ||settings-sandbox.data.microsoft.com^
 ||settings-win.data.microsoft.com^
+||skype.tt.omtrdc.net^
 ||sls.update.microsoft.com.akadns.net^
+||smetrics.skype.com^
 ||sqm.telemetry.microsoft.com.nsatc.net^
 ||ssw.live.com^
 ||static-asm.secure.skypeassets.com^
@@ -117,3 +129,4 @@
 ||watson.live.com^
 ||watson.microsoft.com^
 ||watson.telemetry.microsoft.com.nsatc.net^
+||welcome.skype.com^
