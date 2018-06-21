@@ -685,7 +685,7 @@
 ||analytics.spotify.com^
 ||audio-ak.spotify.com^
 ||audio-akp.spotify.com^
-||audio-akp.spotify.com^
+||audio-ak.spotify.com.edgesuite.net^
 ||audio-ec.spotify.com^
 ||audio-fa.scdn.co^
 ||audio-fab.spotify.com^
