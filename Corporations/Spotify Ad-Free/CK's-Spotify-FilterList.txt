@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Spotify Ad-Filter List
 ! Description: Blocks all annoying Spotify Ads.
-! Checksum (SHA 1): AAD568F557FDA735705BEEB8D9573BA58082B4F90BA0A8AD7E5BB4D963B20CBA
+! Checksum (SHA 1): D191500F0BD55F7D0513996272FBC1F43888C0349AB14EABF4E97753B451060E
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 14d
-! TimeUpdated: 2018-06-20	10:53:12+01:00
-! Version: 0.0.0.5
+! TimeUpdated: 2018-06-21	09:25:08+01:00
+! Version: 0.0.0.6
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -15,7 +15,220 @@
 !
 ! ---------- Spotify ----------
 !
-! ---------- Audio + Video related ads ----------
+! All related Spotify ads & connected services.
+!
+! ---------- Admob ----------
+!
+||a.admob.com^
+||ac1.vip.sc9.admob.com^
+||ac208.sc9.admob.com^
+||admob.biz^
+||admob.co.kr^
+||admob.co.nz^
+||admob.co.uk^
+||admob.com^
+||admob.de^
+||admob.dk^
+||admob.es^
+||admob.fi^
+||admob.fr^
+||admob.gr^
+||admob.it^
+||admob.jp^
+||admob.kr^
+||admob.mobi^
+||admob.no^
+||admob.pt^
+||admob.sg^
+||admob.tk^
+||admob.tw^
+||ads.admob.com^
+||analytics.admob.com^
+||api.admob.com^
+||api.admob.xiaomi.com^
+||b.admob.com^
+||broadcast.admob.com^
+||c.admob.com^
+||c1.vip.sc9.admob.com^
+||clk1.vip.sc9.admob.com^
+||clk2.vip.sc9.admob.com^
+||clk3.vip.sc9.admob.com^
+||cpm.admob.com^
+||cpm1.admob.com^
+||cpm1.vip.sc9.admob.com^
+||cpm2.admob.com^
+||cpm2.vip.sc9.admob.com^
+||cpm3.admob.com^
+||cpm3.vip.sc9.admob.com^
+||d.admob.com^
+||dep.admob.com^
+||dev1.vip.sc9.admob.com^
+||developer.admob.com^
+||e.admob.com^
+||eng.admob.com^
+||f.admob.com^
+||g.admob.com^
+||games.admob.com^
+||ge-0-0-1-edge1.sc9.admob.com^
+||ge-0-0-43-crs1.sc9.admob.com^
+||gw.admob.com^
+||h.admob.com^
+||i.admob.com^
+||j.admob.com^
+||jp.admob.com^
+||k.admob.com^
+||l.admob.com^
+||m.admob.com^
+||media.admob.com^
+||metrics.admob.com^
+||mm.admob.com^
+||mm1.vip.sc1.admob.com^
+||mm1.vip.sc9.admob.com^
+||mm104.sc9.admob.com^
+||mmv.admob.com^
+||n.admob.com^
+||network.admob.com^
+||o.admob.com^
+||p.admob.com^
+||p1.vip.sc9.admob.com^
+||paix1.sc1.admob.com^
+||pixel.admobclick.com^
+||pt.admob.com^
+||q.admob.com^
+||r.admob.com^
+||r2.vip.sc9.admob.com^
+||rmd.admob.com^
+||s.admob.com^
+||sc1.admob.com^
+||sc9.admob.com^
+||smtp.admob.com^
+||smtp2.admob.com^
+||t.admob.com^
+||tap1.vip.sc9.admob.com^
+||tic1.vip.sc9.admob.com^
+||tracking.admobsphere.com^
+||tx102.sc9.admob.com^
+||tx103.sc9.admob.com^
+||u.admob.com^
+||ukr.admob.com^
+||v.admob.com^
+||vip.sc9.admob.com^
+||w.admob.com^
+||wap.admob.com^
+||waps.admob.com^
+||wendy.admob.com^
+||www.admob.com^
+||www.admob.com.akadns.net^
+||www1.vip.sc9.admob.com^
+||x.admob.com^
+||y.admob.com^
+||z.admob.com^
+||zhcn.admob.com^
+!
+! ---------- Akamai----------
+!
+||a1294.w20.akamai.net^
+||a1843.g.akamai.net^
+||a50.g2.akamai.net^
+||bsams.eyeblaster.akadns.net^
+||e7876.dscg.akamaiedge.net^
+||e8218.dscb1.akamaiedge.net^
+!
+! ---------- Adjust Ads ----------
+!
+||adjust.com^
+||app.adjust.com^
+||atom.adjust.com^
+||events.adjust.com^
+||ulink.adjust.com^
+||view.adjust.com^
+!
+! ---------- AOL ----------
+!
+||adserver.adtechus.com^
+!
+! ---------- Amazon Ads ----------
+!
+||na.gmtdmp.com^
+||d2gi7ultltnc2u.cloudfront.net^
+||lb1-217593028.us-east-1.elb.amazonaws.com^
+||rp-lb-766892831.us-east-1.elb.amazonaws.com^
+||server-54-230-216-203.mrs50.r.cloudfront.net^
+!
+! ---------- Appnexus Ads ----------
+!
+||a.adk2x.com^
+||adnxs.com^
+||adnxs.comadplexmedia.adk2x.com^
+||ams1-ib.adnxs.com^
+||ib.adnxs.com^
+!
+! ---------- Ayden payments Ads ----------
+!
+||live.adyen.com^
+!
+! ---------- Bounce exchange ----------
+!
+||bounceexchange.com^
+!
+! ---------- comscore analytics ----------
+!
+||admetrix.comscore.com^
+||api.comscore.com^
+||aser.comscore.com^
+||cdr.comscore.com^
+||cer.comscore.com^
+||comscore.net^
+||comscore.org^
+||comscoredatagems.com^
+||comscoredatamine.com^
+||comscoredirect.net^
+||comscorenetworks.net^
+||ia1.comscore.com^
+||ia2.comscore.com^
+||iad.comscore.com^
+||im.comscore.com^
+||images.comscore.com^
+||labs.comscore.com^
+||mail2.comscore.com^
+||marketer.comscore.com^
+||mx0.comscore.com^
+||mx1.comscore.com^
+||mx2.comscore.com^
+||my.comscore.com^
+||mycomscore.com^
+||mymetrix.comscore.com^
+||myresearch.comscore.com^
+||ord.comscore.com^
+||postbuy.comscore.com^
+||proclarity.comscore.com^
+||qat.comscore.com^
+||siterecruit.comscore.com^
+||svn.comscore.com^
+||www.comscore.com^
+||www.mycomscore.net^
+!
+! ---------- Crashlytics ----------
+!
+||crashlytics.163.com^
+||crashlytics.com^
+||crashlytics.twimg.com^
+||e.crashlytics.com^
+||reports.crashlytics.com^
+||settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com^
+||settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com^
+||settings.crashlytics.com^
+||combine.urbanairship.com^
+!
+! ---------- Drawbridge Ads ----------
+!
+||ads-west-colo.adsymptotic.com^
+!
+! ---------- Geotrust ----------
+!
+!||gtssl2-ocsp.geotrust.com^
+!
+! ---------- Audio || Video related ads ----------
 !
 ||audio-cf.spotify.com^
 ||heads-cf.spotify.com^
@@ -525,20 +738,41 @@
 ||eip-onnet.audio-ak.spotify.com.akahost.net^
 ||eip-tata.audio-ak.spotify.com.akahost.net^
 !
-! ---------- Block analytics/debugging ----------
+! ---------- Block analytics & debugging ----------
 !
 ||cdn.ravenjs.com^
 ||links.iterable.com^
 !
-! ---------- Block non-responding server ----------
+! ---------- Non-responding server ----------
 !
 ||gew1-accesspoint-b-wjjm.ap.spotify.com^
 !
-! ---------- Block Google ads ----------
+! ---------- Google ads ----------
 !
+||ad.doubleclick.net^
+||adclick.g.doublecklick.net^
+||ade.googlesyndication.com^
+||doubleclick.net^
+||ee-in-f95.1.e100.net^
+||gcdn.2mdn.net^
+||googleads.g.doubleclick.net^
+||googleads4.g.doubleclick.net^
+||googleadservices.com^
+||s0.2mdn.net^
+||pagead.l.doubleclick.net^
+||pagead-googlehosted.l.google.com^
+||pagead2.googlesyndication.com^
+||pagead46.l.doubleclick.net^
+||partner.googleadservices.com^
 ||partnerad.l.doubleclick.net^
 ||pubads.g.doubleclick.net^
+||s0-2mdn-net.l.google.com^
+||s0.2mdn.net^
 ||securepubads.g.doubleclick.net^
+||tpc.googlesyndication.com^
+||video-ad-stats.googlesyndication.com^
+||www.googleadservices.com^
+||www.googletagservices.com^
 !
 ! ---------- Ad-servers ----------
 !
@@ -653,3 +887,7 @@ google-analytics.com/*
 @@||spclient.wg.spotify.com/connect-api/v2/from/*$xmlhttprequest,domain=open.spotify.com
 @@||spclient.wg.spotify.com/connect-api$xmlhttprequest,domain=open.spotify.com
 !||gew-spclient.spotify.com^
+!
+! ---------- Zwizz army knife ----------
+! 
+||api.zwizzarmyknife.com^
