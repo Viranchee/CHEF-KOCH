@@ -15,7 +15,15 @@
 #
 # ---------- Spotify ----------
 #
-# Audio % Video related Ads
+# Audio & Video related Ads
+0.0.0.0 audio-cf.spotify.com
+0.0.0.0 heads-cf.spotify.com
+0.0.0.0 ads-akp.spotify.com
+0.0.0.0 heads-fa.scdn.co
+0.0.0.0 mp3ad.scdn.co
+0.0.0.0 prod.spotify-heads.map.fastlylb.net
+0.0.0.0 www.spotx.tv
+0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 00.audio-ak.cdn.spotify.com
 0.0.0.0 01.audio-ak.cdn.spotify.com
 0.0.0.0 02.audio-ak.cdn.spotify.com
@@ -486,7 +494,7 @@
 0.0.0.0 messenger-webview.scdn.co
 0.0.0.0 oktascimserver.spotify.com
 0.0.0.0 open.scdn.co
-0.0.0.0 pci.spotify.com # pay server
+0.0.0.0 pci.spotify.com
 0.0.0.0 play.spotify.edgekey.net
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 prod.spotify.map.fastlylb.net
@@ -586,8 +594,8 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
-0.0.0.0 people-pa.googleapis.com # You can remove this. Just privacy.
-0.0.0.0 platform-lookaside.fbsbx.com # You can remove this. Just privacy.
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 r5---sn-5hnednlr.gvt1.com
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 rp-lb-766892831.us-east-1.elb.amazonaws.com
