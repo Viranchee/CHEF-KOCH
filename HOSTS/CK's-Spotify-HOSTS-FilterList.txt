@@ -536,6 +536,7 @@
 0.0.0.0 securepubads.g.doubleclick.net
 
 # Other Ads-servers
+0.0.0.0 a2-16-186-73.deploy.static.akamaitechnologies.com
 0.0.0.0 078d9f6a6dc1.cdn4.forter.com
 0.0.0.0 a.adk2x.com
 0.0.0.0 a1294.w20.akamai.net
