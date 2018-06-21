@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): 7B5D39D03DB3423780F8E1CC6B2EB445939F9AAA745AB6BAFD4EEE09A30A9BD9
+! Checksum (SHA3-256): DE25A89EA76C2A5A30E5ED5A5380664BD16D3945B9A006E1F649BFEA22F7DD49
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-21	11:55:01+01:00
-! Version: 0.0.3.14
+! TimeUpdated: 2018-06-21	12:01:33+01:00
+! Version: 0.0.3.15
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -1710,6 +1710,7 @@ www.citytv.com##.ad_bigbox
 ###AcceptCookiesBannerTemplate
 ###AcceptPrivacyDisclaimBoxWrap
 ###AdBlockerInfo
+###adblock-notice
 ###AlertCookies
 ###AlertDialogConatiner
 ###AlertaCookies
@@ -55132,6 +55133,19 @@ www.overclock.net##section:nth-of-type(2)
 /ad-audit.
 /ad-banner-
 /ad-blocking-advisor/*
+/ad-blocking-detector/*
+/adb_detector.
+/adblock-blocker/*
+/adblock_detector.
+/adblock_detection/*
+/antipubblicita.js
+/noadblock.jpg
+/adblock/adblockpopup.js$script
+/adblockbait.js$script
+/adblockchecker.js$script
+/adblockdetect.
+/adblockdetection.
+/anti_ab.
 /ad-rahmen-
 /ad.html?
 /ad.php?
@@ -55184,6 +55198,7 @@ www.overclock.net##section:nth-of-type(2)
 /analysis-logger/*
 /analyticReporting.
 /antiadblockmsg.
+/antiadblock.
 /api/ads/*
 /apnnz/tserver/*=PREROLL
 /banner125werbung.
@@ -55799,6 +55814,7 @@ wolframalpha.com###sponsor-ad
 !
 ! ---------- Wordpress ----------
 !
+/wp-content/plugins/anti_ad_blocker/*
 /wp-bannerize-
 /wp-bannerize.
 /wp-bannerize/*
