@@ -153,6 +153,7 @@ Star it on GitHub! :star: or consider making a [donation](https://github.com/CHE
 
 :construction: The following people contributed to CK's Filter List in order to improve the project. :construction:
 * The-Commissioner
+* @AddaxSoft
 
 
 ## License
