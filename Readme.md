@@ -20,6 +20,14 @@ The overall project goal is to block ads and reduce the traffic coming from the 
 
 [I do not recommend using any filter lists](https://github.com/CHEF-KOCH/CKs-FilterList/wiki/Information-about-filter-usage), instead I highly recommend to work with whitelist only which are based on your own needs. However, a filter lists can help to reduce a possible attack surface based on the daily browsing habits.
 
+
+
+# Integration into other filter lists
+
+It's cool that some people add my lists into _their own projects_ and I in general allow it but it's not cool that several people now make money via donations with my and other peoples lists. **I DO NOT ALLOW** any commercial usage and everyone which doesn't respect this will get a DMCA takedown request and a paper from my lawyer.
+
+
+
 ## Project Structure
 
 * `/CK's-Android-FilterList.txt` the main filter lists for your Ad-Blocker. The filter gets updated at least every 3 days.
@@ -45,6 +53,7 @@ Make sure you have an ad-blocker installed in your desktop or mobile browsers th
 * ![AdGuard Browser Extension](https://i.imgur.com/zmMHq2j.png) [AdGuard](https://adguard.com/en/adguard-browser-extension/overview.html) - for **All Platforms** 
 * ![pfSense](https://i.imgur.com/ElyO5Ie.png) [pfSense](https://www.pfsense.org/) with [pfBlockerNG](https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/)
 * ![Pi-hole](https://i.imgur.com/0mgKKma.png) [Pi-hole](https://pi-hole.net) - for **PI devices** 
+
 
 
 ## Partial supported 
