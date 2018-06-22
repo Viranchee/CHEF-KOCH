@@ -9997,6 +9997,10 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- Domains (Android, etc) ----------
 !
+||
+||bootstrap.upsight-api.com^
+||device-api.urbanairship.com^
+||ping.ublock.org^
 ||virus-removal-allert-help-line-1-844-305-7633.technician.ga^
 ||rand.com.ru^
 ||whathyx.com^
@@ -34840,6 +34844,10 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 ||stats.surf-town.net^
 ||stats.surfaid.ihost.com^
 ||stats.svpply.com^
+||onesignal.com^
+||b.scorecardresearch.com^
+||init.startappexchange.com^
+||www.startappexchange.com^
 ||stats.technopia.it^
 ||stats.teledyski.info^
 ||stats.thoughtcatalog.com^
@@ -53461,6 +53469,7 @@ facebook.com#?#div[data-testid="fbfeed_story"]:-abp-has(a[href*="[is_sponsored]"
 !
 ! ---------- Fake News ----------
 !
+||newsnow.co.za^
 ||www.kmspico.info^
 ||100percentfedup.com^
 ||enduringvision.com^
@@ -54281,11 +54290,11 @@ leo.org##.app-footer-content
 player.epidemicsound.com##.___Warnings__bar___ixRfs
 tvtropes.org##.social-foot
 tvtropes.org##.social-item
-www.nsaneforums.com##.ipsBox.ipsWidget_horizontal.ipsWidget
 www.techpowerup.com##.nkuztfvdswe
 www.techpowerup.com##figure.mnmuzjsddc:nth-of-type(1)
 yify-torrent.xyz,ytsyify.com##script:inject(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 zagranie.com#@#.share-container
+||dmxleo.dailymotion.com/cdn/manifest/video/$script,domain=dailymotion.com,important
 !
 ! ---------- Mixer.com ----------
 !
@@ -54350,6 +54359,17 @@ forum.mobilism.org##.twitter-color.icon-stack-base.icon-circle
 @@||pga.com^$generichide
 @@||plantaobrasil.net^$generichide
 @@||rockfile.eu^$generichide
+!
+! ---------- nsaneforums.com ----------
+!
+www.nsaneforums.com###elFooterSocialLinks
+www.nsaneforums.com###extrafooter
+www.nsaneforums.com##p:nth-of-type(4)
+www.nsaneforums.com##p:nth-of-type(3)
+www.nsaneforums.com###jc_footer
+www.nsaneforums.com##.ipsMessage_info.ipsMessage
+www.nsaneforums.com###ipsLayout_mainArea > .ipsClearfix.ipsList_noSpacing.ipsList_inline
+
 !
 ! ---------- Overclock.net ----------
 !
