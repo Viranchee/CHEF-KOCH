@@ -1,12 +1,12 @@
 ! Title: CHEF-KOCH's Filter List
 ! Description: A comprehensive, all-in-one ad-block list for thorough blocking of trackers, pop-up ads, ads, unwanted cookies, fake news, cookie warning messages, unwanted comment sections, crypto-coin mining, YouTube clutter and social network hassles.
-! Checksum (SHA3-256): DE25A89EA76C2A5A30E5ED5A5380664BD16D3945B9A006E1F649BFEA22F7DD49
+! Checksum (SHA3-256): F50799BC99FB508D46026227B219A608D5362F7A71FC96AD9C0D75AB10114AB7
 ! License: https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/LICENSE
 ! By downloading or viewing, or using this list, you are accepting these terms and the license.
 ! Homepage: https://github.com/CHEF-KOCH/CKs-FilterList
 ! Expires: 3d
-! TimeUpdated: 2018-06-21	12:01:33+01:00
-! Version: 0.0.3.15
+! TimeUpdated: 2018-06-22	19:49:04+01:00
+! Version: 0.0.3.16
 ! Please report any unblocked content or problems by email or via GitHub issue ticket.
 ! Email: CHEF-KOCH@protonmail.com
 ! Copyright (C) 2018 by CHEF-KOCH
@@ -312,6 +312,24 @@ sponichi.co.jp##.toast-info
 w7.ru^$third-party
 wq3.ru^$third-party
 zeda.nl##.activebar-container
+||live800.com^$third-party
+||meiqia.com^$third-party
+||knet.cn^$third-party
+||pop800.com^$third-party
+||5251.net^$third-party
+||53kf.com^$third-party
+||54kefu.net^$third-party
+||5etv.com^$third-party
+||wpa.b.qq.com/cgi/wpa.php?
+||2005net.net^$third-party
+||zoosnet.net^$third-party
+||kuaishang.cn^$third-party
+||looyu.com^$third-party
+||tui.cnzz.net^$third-party
+||lxbjs.baidu.com^$third-party
+||soperson.com^$third-party
+||bobo.com^$third-party
+||3jia5.com^$third-party
 ||cryptaloot.pro^$third-party
 ||1beb2a44.space^$third-party
 ||300ca0d0.space^$third-party
@@ -9993,11 +10011,13 @@ discord.me##.master > .container > .row:nth-of-type(1) > .col-sm-12
 !
 ! ---------- douploads.com ----------
 !
-##.downarea > center
+douploads.com##.downarea > center
 !
 ! ---------- Domains (Android, etc) ----------
 !
-||
+||crs.baidu.com^
+||goutong.baidu.com^
+||cir-smart.baidu.com^
 ||bootstrap.upsight-api.com^
 ||device-api.urbanairship.com^
 ||ping.ublock.org^

@@ -13,6 +13,9 @@
 !
 ! ---------- Ad & Tracker ----------
 !
+||crs.baidu.com^
+||goutong.baidu.com^
+||cir-smart.baidu.com^
 ||verify-this-block-list-is-included.com^
 ||sdk.adincube.com^
 ||app.adjust.com^
